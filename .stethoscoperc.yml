@@ -1,9 +1,7 @@
 integrations:
   rescuetime:
     frequency: "daily"
-    overview: true
-    top-categories: true
-    top-activities: true
+    all: true
   spotify:
     frequency: "daily"
     all: true
