@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "Fri Nov 27 17:12:05 +0000 2020",
+    "id": 1332371631570788400,
+    "id_str": "1332371631570788352",
+    "text": "Most people think:\n\nRevenue - Expenses = Profit\n\nInstead, think:\n\nRevenue - Profit = Expenses\n\nMuch easier to achieve your goals.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3302,
+      "id_str": "3302",
+      "name": "Andrew Wilkinson",
+      "screen_name": "awilkinson",
+      "location": "Victoria, Canada",
+      "description": "Co-founder of Tiny w/ @_Sparling_. We own @Dribbble, @MetaLab, and 30+ companies. Buying, starting, and investing in wonderful internet businesses since 2007.",
+      "url": "https://t.co/dV5Pq6Wbet",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/dV5Pq6Wbet",
+              "expanded_url": "http://www.tinycapital.com",
+              "display_url": "tinycapital.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 118323,
+      "friends_count": 3103,
+      "listed_count": 2526,
+      "created_at": "Fri Jul 28 02:16:08 +0000 2006",
+      "favourites_count": 26420,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 16587,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1311779549693317121/0GpBW9T-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1311779549693317121/0GpBW9T-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3302/1590611045",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 113,
+    "favorite_count": 1437,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

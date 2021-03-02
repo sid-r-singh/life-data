@@ -1,0 +1,183 @@
+[
+  {
+    "categories": [
+      {
+        "digital": "1:52:07",
+        "hours": 1,
+        "minutes": 52,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 7,
+        "text": "1 hr 52 mins",
+        "total_seconds": 6727.432772
+      }
+    ],
+    "dependencies": [],
+    "editors": [
+      {
+        "digital": "1:52:07",
+        "hours": 1,
+        "minutes": 52,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 7,
+        "text": "1 hr 52 mins",
+        "total_seconds": 6727.432772
+      }
+    ],
+    "grand_total": {
+      "digital": "1:52",
+      "hours": 1,
+      "minutes": 52,
+      "text": "1 hr 52 mins",
+      "total_seconds": 6727.432772
+    },
+    "languages": [
+      {
+        "digital": "1:22:53",
+        "hours": 1,
+        "minutes": 22,
+        "name": "Svelte",
+        "percent": 73.92,
+        "seconds": 53,
+        "text": "1 hr 22 mins",
+        "total_seconds": 4973.087753
+      },
+      {
+        "digital": "0:26:40",
+        "hours": 0,
+        "minutes": 26,
+        "name": "TypeScript",
+        "percent": 23.8,
+        "seconds": 40,
+        "text": "26 mins",
+        "total_seconds": 1600.84752
+      },
+      {
+        "digital": "0:01:58",
+        "hours": 0,
+        "minutes": 1,
+        "name": "YAML",
+        "percent": 1.76,
+        "seconds": 58,
+        "text": "1 min",
+        "total_seconds": 118.522634
+      },
+      {
+        "digital": "0:00:34",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.52,
+        "seconds": 34,
+        "text": "34 secs",
+        "total_seconds": 34.974865
+      }
+    ],
+    "machines": [
+      {
+        "digital": "1:01:58",
+        "hours": 1,
+        "machine_name_id": "1b26e0af-521a-42bf-87f3-03cc4824e751",
+        "minutes": 1,
+        "name": "Anands-MacBook-Pro.local",
+        "percent": 55.27,
+        "seconds": 58,
+        "text": "1 hr 1 min",
+        "total_seconds": 3718.036109
+      },
+      {
+        "digital": "0:50:09",
+        "hours": 0,
+        "machine_name_id": "2d60ba2c-9b57-4c5e-922b-66eda96c2da4",
+        "minutes": 50,
+        "name": "Anands-MBP.Dlink",
+        "percent": 44.73,
+        "seconds": 9,
+        "text": "50 mins",
+        "total_seconds": 3009.396663
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "1:52:07",
+        "hours": 1,
+        "minutes": 52,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 7,
+        "text": "1 hr 52 mins",
+        "total_seconds": 6727.432772
+      }
+    ],
+    "projects": [
+      {
+        "digital": "1:22:53",
+        "hours": 1,
+        "minutes": 22,
+        "name": "koj",
+        "percent": 73.92,
+        "seconds": 53,
+        "text": "1 hr 22 mins",
+        "total_seconds": 4973.087753
+      },
+      {
+        "digital": "0:17:27",
+        "hours": 0,
+        "minutes": 17,
+        "name": "api",
+        "percent": 15.58,
+        "seconds": 27,
+        "text": "17 mins",
+        "total_seconds": 1047.86495
+      },
+      {
+        "digital": "0:08:05",
+        "hours": 0,
+        "minutes": 8,
+        "name": "rescuetime-slack",
+        "percent": 7.21,
+        "seconds": 5,
+        "text": "8 mins",
+        "total_seconds": 485.019407
+      },
+      {
+        "digital": "0:01:37",
+        "hours": 0,
+        "minutes": 1,
+        "name": "status.kojdev.com",
+        "percent": 1.45,
+        "seconds": 37,
+        "text": "1 min",
+        "total_seconds": 97.582394
+      },
+      {
+        "digital": "0:01:28",
+        "hours": 0,
+        "minutes": 1,
+        "name": "uptime-monitor",
+        "percent": 1.32,
+        "seconds": 28,
+        "text": "1 min",
+        "total_seconds": 88.903403
+      },
+      {
+        "digital": "0:00:34",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Unknown Project",
+        "percent": 0.52,
+        "seconds": 34,
+        "text": "34 secs",
+        "total_seconds": 34.974865
+      }
+    ],
+    "range": {
+      "date": "2021-02-02",
+      "end": "2021-02-02T18:29:59Z",
+      "start": "2021-02-01T18:30:00Z",
+      "text": "Tue Feb 2nd 2021",
+      "timezone": "Asia/Kolkata"
+    }
+  }
+]

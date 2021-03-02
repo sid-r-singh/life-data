@@ -1,0 +1,614 @@
+[
+  {
+    "created_at": "Fri Jan 15 19:43:40 +0000 2021",
+    "id": 1350166783580319700,
+    "id_str": "1350166783580319746",
+    "text": "@DanStepanov @ASpittel @patagucci_girl Actually this is the code: https://t.co/RtzE3bjvJi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DanStepanov",
+          "name": "childish danbino",
+          "id": 92617791,
+          "id_str": "92617791",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "ASpittel",
+          "name": "Ali Spittel 🐞",
+          "id": 3092104835,
+          "id_str": "3092104835",
+          "indices": [
+            13,
+            22
+          ]
+        },
+        {
+          "screen_name": "patagucci_girl",
+          "name": "tina 🌸",
+          "id": 3310412263,
+          "id_str": "3310412263",
+          "indices": [
+            23,
+            38
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1350166735958253600,
+          "id_str": "1350166735958253568",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErzBfixXIAAhNkw.png",
+          "media_url_https": "https://pbs.twimg.com/media/ErzBfixXIAAhNkw.png",
+          "url": "https://t.co/RtzE3bjvJi",
+          "display_url": "pic.twitter.com/RtzE3bjvJi",
+          "expanded_url": "https://twitter.com/AlexSvanArt/status/1350166783580319746/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 828,
+              "h": 542,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 445,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 828,
+              "h": 542,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1350166735958253600,
+          "id_str": "1350166735958253568",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErzBfixXIAAhNkw.png",
+          "media_url_https": "https://pbs.twimg.com/media/ErzBfixXIAAhNkw.png",
+          "url": "https://t.co/RtzE3bjvJi",
+          "display_url": "pic.twitter.com/RtzE3bjvJi",
+          "expanded_url": "https://twitter.com/AlexSvanArt/status/1350166783580319746/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 828,
+              "h": 542,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 445,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 828,
+              "h": 542,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1350140737023709200,
+    "in_reply_to_status_id_str": "1350140737023709184",
+    "in_reply_to_user_id": 92617791,
+    "in_reply_to_user_id_str": "92617791",
+    "in_reply_to_screen_name": "DanStepanov",
+    "user": {
+      "id": 1226654752655728600,
+      "id_str": "1226654752655728642",
+      "name": "Alexander Svan",
+      "screen_name": "AlexSvanArt",
+      "location": "",
+      "description": "CGI Artist, game developer and a pilot. \nAll about 3D, Space, Flying, Diving and GameDev.\nhttps://t.co/MzdfDJBfLs \nhttps://t.co/Z0Ygff4u5U",
+      "url": "https://t.co/DE3mlS4kQ9",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/DE3mlS4kQ9",
+              "expanded_url": "https://www.youtube.com/channel/UCFtAc_KRuj4mrr0bVMZMn2w",
+              "display_url": "youtube.com/channel/UCFtAc…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/MzdfDJBfLs",
+              "expanded_url": "http://artstation.com/lagas",
+              "display_url": "artstation.com/lagas",
+              "indices": [
+                90,
+                113
+              ]
+            },
+            {
+              "url": "https://t.co/Z0Ygff4u5U",
+              "expanded_url": "http://linkedin.com/in/alexandersv/",
+              "display_url": "linkedin.com/in/alexandersv/",
+              "indices": [
+                115,
+                138
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2665,
+      "friends_count": 847,
+      "listed_count": 34,
+      "created_at": "Sun Feb 09 23:51:07 +0000 2020",
+      "favourites_count": 4431,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4303,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1298842158888345602/s3g00GwD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1298842158888345602/s3g00GwD_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226654752655728642/1614597934",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 51,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 15 19:14:28 +0000 2021",
+    "id": 1350159432282357800,
+    "id_str": "1350159432282357760",
+    "text": "The guy on the left still works at GitHub. The guy on the right was fired :/ https://t.co/daF591s7Z7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1350159428712972300,
+          "id_str": "1350159428712972288",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ery62NKUwAAGKB3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ery62NKUwAAGKB3.jpg",
+          "url": "https://t.co/daF591s7Z7",
+          "display_url": "pic.twitter.com/daF591s7Z7",
+          "expanded_url": "https://twitter.com/ZoeSchiffer/status/1350159432282357760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 932,
+              "h": 1733,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 366,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 645,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1350159428712972300,
+          "id_str": "1350159428712972288",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ery62NKUwAAGKB3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ery62NKUwAAGKB3.jpg",
+          "url": "https://t.co/daF591s7Z7",
+          "display_url": "pic.twitter.com/daF591s7Z7",
+          "expanded_url": "https://twitter.com/ZoeSchiffer/status/1350159432282357760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 932,
+              "h": 1733,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 366,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 645,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1350159428712951800,
+          "id_str": "1350159428712951814",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ery62NKUcAY6DlR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ery62NKUcAY6DlR.jpg",
+          "url": "https://t.co/daF591s7Z7",
+          "display_url": "pic.twitter.com/daF591s7Z7",
+          "expanded_url": "https://twitter.com/ZoeSchiffer/status/1350159432282357760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 379,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 669,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 923,
+              "h": 1655,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 808464904575299600,
+      "id_str": "808464904575299584",
+      "name": "Zoë Schiffer",
+      "screen_name": "ZoeSchiffer",
+      "location": "Oakland, CA",
+      "description": "senior reporter @verge | labor & workplace organizing | zoe@theverge.com | zoeschiffer@protonmail.com | dm for signal / pgp",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 8179,
+      "friends_count": 967,
+      "listed_count": 160,
+      "created_at": "Tue Dec 13 00:13:48 +0000 2016",
+      "favourites_count": 397,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 244,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1339414834350182401/Cbwg03OA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1339414834350182401/Cbwg03OA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/808464904575299584/1608176696",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2370,
+    "favorite_count": 9257,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 15 18:00:10 +0000 2021",
+    "id": 1350140737023709200,
+    "id_str": "1350140737023709184",
+    "text": "@ASpittel To anyone interested in how self-driving cars work, the above image is also relevant. @patagucci_girl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ASpittel",
+          "name": "Ali Spittel 🐞",
+          "id": 3092104835,
+          "id_str": "3092104835",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "screen_name": "patagucci_girl",
+          "name": "tina 🌸",
+          "id": 3310412263,
+          "id_str": "3310412263",
+          "indices": [
+            96,
+            111
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1350129432812372000,
+    "in_reply_to_status_id_str": "1350129432812371968",
+    "in_reply_to_user_id": 92617791,
+    "in_reply_to_user_id_str": "92617791",
+    "in_reply_to_screen_name": "DanStepanov",
+    "user": {
+      "id": 92617791,
+      "id_str": "92617791",
+      "name": "childish danbino",
+      "screen_name": "DanStepanov",
+      "location": "Santa Monica, LA",
+      "description": "My crime is curiosity. Founding Engineer at Marble (YC S19), ODF6 @beondeck, Previously @SliceCapital (acquired) @MakeSchool (YC W12), ChE @Penn_State & @Penn.",
+      "url": "https://t.co/COSl9N8rT4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/COSl9N8rT4",
+              "expanded_url": "https://danstepanov.com",
+              "display_url": "danstepanov.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 414,
+      "friends_count": 214,
+      "listed_count": 17,
+      "created_at": "Wed Nov 25 21:39:55 +0000 2009",
+      "favourites_count": 2608,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2192,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1334263482531815425/qm8seIq3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334263482531815425/qm8seIq3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/92617791/1497940440",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 30,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 15 16:11:34 +0000 2021",
+    "id": 1350113403831021600,
+    "id_str": "1350113403831021570",
+    "text": "\"have you tried clearing the cache and hard refreshing the page\"",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1350112756675059700,
+    "in_reply_to_status_id_str": "1350112756675059713",
+    "in_reply_to_user_id": 3092104835,
+    "in_reply_to_user_id_str": "3092104835",
+    "in_reply_to_screen_name": "ASpittel",
+    "user": {
+      "id": 3092104835,
+      "id_str": "3092104835",
+      "name": "Ali Spittel 🐞",
+      "screen_name": "ASpittel",
+      "location": "Chicago, IL",
+      "description": "Senior Developer Advocate @awsamplify // co-host @ladybugpodcast // blogger @welearncode // Python + JavaScript engineer && teacher // tweets my own",
+      "url": "https://t.co/eWX9E00G0m",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/eWX9E00G0m",
+              "expanded_url": "https://alispit.tel",
+              "display_url": "alispit.tel",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 94479,
+      "friends_count": 1464,
+      "listed_count": 1183,
+      "created_at": "Sun Mar 15 16:51:40 +0000 2015",
+      "favourites_count": 64733,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 21890,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1355765547913392129/lyMq-2mY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1355765547913392129/lyMq-2mY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3092104835/1532804390",
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 874,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

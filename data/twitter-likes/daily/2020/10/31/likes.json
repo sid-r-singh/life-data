@@ -1,0 +1,207 @@
+[
+  {
+    "created_at": "Sat Oct 31 20:27:13 +0000 2020",
+    "id": 1322636263413829600,
+    "id_str": "1322636263413829632",
+    "text": "What, like it's hard? 🤨 https://t.co/sqe6NdnPLp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1322636255264350200,
+          "id_str": "1322636255264350209",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/ElryqqIVoAEfjbU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ElryqqIVoAEfjbU.jpg",
+          "url": "https://t.co/sqe6NdnPLp",
+          "display_url": "pic.twitter.com/sqe6NdnPLp",
+          "expanded_url": "https://twitter.com/ChloeCondon/status/1322636263413829632/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 460,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1386,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 812,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1322636255264350200,
+          "id_str": "1322636255264350209",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/ElryqqIVoAEfjbU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ElryqqIVoAEfjbU.jpg",
+          "url": "https://t.co/sqe6NdnPLp",
+          "display_url": "pic.twitter.com/sqe6NdnPLp",
+          "expanded_url": "https://twitter.com/ChloeCondon/status/1322636263413829632/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 460,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1386,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 812,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1322636261530632200,
+          "id_str": "1322636261530632192",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/ElryrBeVgAAG31I.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ElryrBeVgAAG31I.jpg",
+          "url": "https://t.co/sqe6NdnPLp",
+          "display_url": "pic.twitter.com/sqe6NdnPLp",
+          "expanded_url": "https://twitter.com/ChloeCondon/status/1322636263413829632/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 51529520,
+      "id_str": "51529520",
+      "name": "Chloe Condon 🎀",
+      "screen_name": "ChloeCondon",
+      "location": "*~The Interweb~*",
+      "description": "Dev Advocate @Microsoft 👩🏼‍💻☁️ Manic Pixie Meme Queen 👑💅 Crafting & Coding on the interweb 🎨💾 Real Life Muppet/Part Time Emoji 😳",
+      "url": "https://t.co/ZpcGYrKmcF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ZpcGYrKmcF",
+              "expanded_url": "http://www.youtube.com/c/ChloeCondonVideos",
+              "display_url": "youtube.com/c/ChloeCondonV…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 43323,
+      "friends_count": 9407,
+      "listed_count": 586,
+      "created_at": "Sat Jun 27 19:22:37 +0000 2009",
+      "favourites_count": 96979,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 44390,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1275623059664199680/YEZDVgqW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275623059664199680/YEZDVgqW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/51529520/1606947423",
+      "profile_link_color": "7FDBB6",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 111,
+    "favorite_count": 1934,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

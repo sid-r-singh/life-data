@@ -1,0 +1,122 @@
+[
+  {
+    "categories": [
+      {
+        "digital": "7:45:15",
+        "hours": 7,
+        "minutes": 45,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 15,
+        "text": "7 hrs 45 mins",
+        "total_seconds": 27915.64149
+      }
+    ],
+    "dependencies": [],
+    "editors": [
+      {
+        "digital": "7:45:15",
+        "hours": 7,
+        "minutes": 45,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 15,
+        "text": "7 hrs 45 mins",
+        "total_seconds": 27915.64149
+      }
+    ],
+    "grand_total": {
+      "digital": "7:45",
+      "hours": 7,
+      "minutes": 45,
+      "text": "7 hrs 45 mins",
+      "total_seconds": 27915.64149
+    },
+    "languages": [
+      {
+        "digital": "7:24:13",
+        "hours": 7,
+        "minutes": 24,
+        "name": "Svelte",
+        "percent": 95.48,
+        "seconds": 13,
+        "text": "7 hrs 24 mins",
+        "total_seconds": 26653.143868
+      },
+      {
+        "digital": "0:12:24",
+        "hours": 0,
+        "minutes": 12,
+        "name": "JSON",
+        "percent": 2.67,
+        "seconds": 24,
+        "text": "12 mins",
+        "total_seconds": 744.964465
+      },
+      {
+        "digital": "0:08:37",
+        "hours": 0,
+        "minutes": 8,
+        "name": "TypeScript",
+        "percent": 1.85,
+        "seconds": 37,
+        "text": "8 mins",
+        "total_seconds": 517.533157
+      }
+    ],
+    "machines": [
+      {
+        "digital": "7:45:15",
+        "hours": 7,
+        "machine_name_id": "1b26e0af-521a-42bf-87f3-03cc4824e751",
+        "minutes": 45,
+        "name": "Anands-MacBook-Pro.local",
+        "percent": 100,
+        "seconds": 15,
+        "text": "7 hrs 45 mins",
+        "total_seconds": 27915.64149
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "7:45:15",
+        "hours": 7,
+        "minutes": 45,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 15,
+        "text": "7 hrs 45 mins",
+        "total_seconds": 27915.64149
+      }
+    ],
+    "projects": [
+      {
+        "digital": "7:29:14",
+        "hours": 7,
+        "minutes": 29,
+        "name": "koj",
+        "percent": 96.56,
+        "seconds": 14,
+        "text": "7 hrs 29 mins",
+        "total_seconds": 26954.364085
+      },
+      {
+        "digital": "0:16:01",
+        "hours": 0,
+        "minutes": 16,
+        "name": "api",
+        "percent": 3.44,
+        "seconds": 1,
+        "text": "16 mins",
+        "total_seconds": 961.277405
+      }
+    ],
+    "range": {
+      "date": "2021-02-05",
+      "end": "2021-02-05T18:29:59Z",
+      "start": "2021-02-04T18:30:00Z",
+      "text": "Fri Feb 5th 2021",
+      "timezone": "Asia/Kolkata"
+    }
+  }
+]
