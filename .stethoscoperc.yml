@@ -3,5 +3,5 @@ integrations:
     frequency: "daily"
     overview: true
     top-categories: true
-    top-activities: false
+    top-activities: true
   
