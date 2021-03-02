@@ -4,4 +4,6 @@ integrations:
     overview: true
     top-categories: true
     top-activities: true
-  
+  spotify:
+  frequency: "daily"
+  all: true
