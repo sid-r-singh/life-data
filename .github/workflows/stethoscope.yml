@@ -2,9 +2,9 @@ name: Stethoscope CI
 on:
   schedule:
     - cron: "0 0 * * *"
-  repository_dispatch:
-    types: [stethoscope]
-  workflow_dispatch:
+  # repository_dispatch:
+   # types: [stethoscope]
+ # workflow_dispatch:
 jobs:
   release:
     name: Daily
