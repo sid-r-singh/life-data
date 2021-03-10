@@ -107,17 +107,17 @@
     "Rank": 14,
     "Time Spent (seconds)": 326,
     "Number of People": 1,
-    "Activity": "stackoverflow.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 0
   },
   {
     "Rank": 15,
     "Time Spent (seconds)": 326,
     "Number of People": 1,
-    "Activity": "Gmail",
-    "Category": "Email",
-    "Productivity": 0
+    "Activity": "stackoverflow.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 16,
@@ -395,7 +395,7 @@
     "Rank": 50,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Activity": "riptutorial.com",
+    "Activity": "flask.sid9.repl.co",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -403,33 +403,33 @@
     "Rank": 51,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Activity": "flask.sid9.repl.co",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 52,
-    "Time Spent (seconds)": 29,
-    "Number of People": 1,
     "Activity": "sites.engineering.ucsb.edu",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 53,
-    "Time Spent (seconds)": 27,
+    "Rank": 52,
+    "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Activity": "pypi.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "riptutorial.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
-    "Rank": 54,
+    "Rank": 53,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
     "Activity": "hayvalley.io",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 54,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "pypi.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 55,
