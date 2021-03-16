@@ -507,17 +507,17 @@
     "Rank": 64,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
-    "Activity": "console-table.netlify.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "apisix.apache.org",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 65,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
-    "Activity": "apisix.apache.org",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "console-table.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 66,
@@ -715,12 +715,20 @@
     "Rank": 90,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 91,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
     "Activity": "camo.githubusercontent.com",
     "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
-    "Rank": 91,
+    "Rank": 92,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "pages.github.com",
@@ -728,23 +736,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 92,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
-  },
-  {
     "Rank": 93,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Activity": "thumbs.dreamstime.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 94,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "android",
@@ -752,7 +744,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 95,
+    "Rank": 94,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "webjeda.com",
@@ -760,7 +752,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 96,
+    "Rank": 95,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "downloads",
@@ -768,31 +760,15 @@
     "Productivity": 1
   },
   {
+    "Rank": 96,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "thumbs.dreamstime.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
     "Rank": 97,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "bing.com",
-    "Category": "Search",
-    "Productivity": 0
-  },
-  {
-    "Rank": 98,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "mobile - com.sec.android.app.clockpackage",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 99,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "history",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 100,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "plusserver.com",
@@ -800,7 +776,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 101,
+    "Rank": 98,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "mybinder.org",
@@ -808,7 +784,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 102,
+    "Rank": 99,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "bep.is",
@@ -816,11 +792,35 @@
     "Productivity": 0
   },
   {
-    "Rank": 103,
+    "Rank": 100,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "commons.wikimedia.org",
     "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 101,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "bing.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 102,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 103,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "history",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
