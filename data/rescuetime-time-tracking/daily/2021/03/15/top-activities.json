@@ -1,6 +1,14 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 11030,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 6815,
     "Number of People": 1,
     "Activity": "github.com",
@@ -8,7 +16,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 2,
+    "Rank": 3,
+    "Time Spent (seconds)": 6017,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 3058,
     "Number of People": 1,
     "Activity": "convertjson.com",
@@ -16,7 +32,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 3,
+    "Rank": 5,
+    "Time Spent (seconds)": 1867,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 6,
     "Time Spent (seconds)": 1633,
     "Number of People": 1,
     "Activity": "youtube.com",
@@ -24,7 +48,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 4,
+    "Rank": 7,
     "Time Spent (seconds)": 1385,
     "Number of People": 1,
     "Activity": "dashboard.heroku.com",
@@ -32,7 +56,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 5,
+    "Rank": 8,
     "Time Spent (seconds)": 544,
     "Number of People": 1,
     "Activity": "sidrana.dev",
@@ -40,7 +64,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 9,
     "Time Spent (seconds)": 507,
     "Number of People": 1,
     "Activity": "python-telegram-bot.readthedocs.io",
@@ -48,7 +72,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
+    "Rank": 10,
     "Time Spent (seconds)": 351,
     "Number of People": 1,
     "Activity": "v2.docusaurus.io",
@@ -56,7 +80,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 11,
+    "Time Spent (seconds)": 300,
+    "Number of People": 1,
+    "Activity": "Camera - Samsung Android Phone",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 212,
     "Number of People": 1,
     "Activity": "ilovepdf.com",
@@ -64,7 +96,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
+    "Rank": 13,
     "Time Spent (seconds)": 205,
     "Number of People": 1,
     "Activity": "gist.github.com",
@@ -72,7 +104,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 10,
+    "Rank": 14,
     "Time Spent (seconds)": 159,
     "Number of People": 1,
     "Activity": "chatbotslife.com",
@@ -80,7 +112,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 15,
+    "Time Spent (seconds)": 158,
+    "Number of People": 1,
+    "Activity": "mobile - com.brave.browser",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
     "Time Spent (seconds)": 151,
     "Number of People": 1,
     "Activity": "d:",
@@ -88,7 +128,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 12,
+    "Rank": 17,
     "Time Spent (seconds)": 145,
     "Number of People": 1,
     "Activity": "docs.github.com",
@@ -96,7 +136,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 13,
+    "Rank": 18,
     "Time Spent (seconds)": 143,
     "Number of People": 1,
     "Activity": "betterprogramming.pub",
@@ -104,7 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 14,
+    "Rank": 19,
     "Time Spent (seconds)": 126,
     "Number of People": 1,
     "Activity": "chatbotsmagazine.com",
@@ -112,7 +152,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 15,
+    "Rank": 20,
     "Time Spent (seconds)": 119,
     "Number of People": 1,
     "Activity": "towardsdatascience.com",
@@ -120,7 +160,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 16,
+    "Rank": 21,
     "Time Spent (seconds)": 115,
     "Number of People": 1,
     "Activity": "tempmail.plus",
@@ -128,7 +168,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 17,
+    "Rank": 22,
     "Time Spent (seconds)": 113,
     "Number of People": 1,
     "Activity": "justpaste.it",
@@ -136,7 +176,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 18,
+    "Rank": 23,
     "Time Spent (seconds)": 104,
     "Number of People": 1,
     "Activity": "c:",
@@ -144,15 +184,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 19,
-    "Time Spent (seconds)": 94,
+    "Rank": 24,
+    "Time Spent (seconds)": 102,
     "Number of People": 1,
-    "Activity": "web.whatsapp.com",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "Google Chrome for Android",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
-    "Rank": 20,
+    "Rank": 25,
     "Time Spent (seconds)": 94,
     "Number of People": 1,
     "Activity": "deploy-preview-879--hoppscotch.netlify.app",
@@ -160,7 +200,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 21,
+    "Rank": 26,
+    "Time Spent (seconds)": 94,
+    "Number of People": 1,
+    "Activity": "web.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 27,
     "Time Spent (seconds)": 91,
     "Number of People": 1,
     "Activity": "hoppscotch.io",
@@ -168,7 +216,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 22,
+    "Rank": 28,
     "Time Spent (seconds)": 82,
     "Number of People": 1,
     "Activity": "google.com",
@@ -176,7 +224,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 23,
+    "Rank": 29,
     "Time Spent (seconds)": 81,
     "Number of People": 1,
     "Activity": "buka.site",
@@ -184,7 +232,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 24,
+    "Rank": 30,
     "Time Spent (seconds)": 79,
     "Number of People": 1,
     "Activity": "docs.microsoft.com",
@@ -192,7 +240,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 25,
+    "Rank": 31,
     "Time Spent (seconds)": 63,
     "Number of People": 1,
     "Activity": "developers.diem.com",
@@ -200,7 +248,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 26,
+    "Rank": 32,
     "Time Spent (seconds)": 60,
     "Number of People": 1,
     "Activity": "stethoscope.js.org",
@@ -208,7 +256,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 27,
+    "Rank": 33,
     "Time Spent (seconds)": 53,
     "Number of People": 1,
     "Activity": "about:privatebrowsing",
@@ -216,7 +264,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 28,
+    "Rank": 34,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
     "Activity": "newtab",
@@ -224,7 +272,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 29,
+    "Rank": 35,
     "Time Spent (seconds)": 44,
     "Number of People": 1,
     "Activity": "create-react-app.dev",
@@ -232,7 +280,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 30,
+    "Rank": 36,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
     "Activity": "friendsquiz.site",
@@ -240,7 +288,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 31,
+    "Rank": 37,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
     "Activity": "w3schools.com",
@@ -248,7 +296,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 32,
+    "Rank": 38,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.pdfviewer",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 39,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
     "Activity": "draftjs.org",
@@ -256,7 +312,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 33,
+    "Rank": 40,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "travis-ci.com",
@@ -264,7 +320,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 34,
+    "Rank": 41,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -272,15 +328,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 35,
-    "Time Spent (seconds)": 24,
+    "Rank": 42,
+    "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "weblab.ai",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
   },
   {
-    "Rank": 36,
+    "Rank": 43,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "nikon.com",
@@ -288,7 +344,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 37,
+    "Rank": 44,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "weblab.ai",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 45,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "stackoverflow.com",
@@ -296,7 +360,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 38,
+    "Rank": 46,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 47,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "python-telegram-bot.org",
@@ -304,7 +376,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 39,
+    "Rank": 48,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "pypi.org",
@@ -312,15 +384,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 40,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "Blank Web Browser",
-    "Category": "Internet Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 41,
+    "Rank": 49,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "id.heroku.com",
@@ -328,15 +392,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 42,
-    "Time Spent (seconds)": 6,
+    "Rank": 50,
+    "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "vercel.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "Blank Web Browser",
+    "Category": "Internet Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 43,
+    "Rank": 51,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "hoppscotch-git-feat-teams.hoppscotch.vercel.app",
@@ -344,7 +408,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 44,
+    "Rank": 52,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "raw.githubusercontent.com",
@@ -352,7 +416,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 45,
+    "Rank": 53,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "vercel.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 54,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "docusaurus.io",
@@ -360,11 +432,19 @@
     "Productivity": 0
   },
   {
-    "Rank": 46,
+    "Rank": 55,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 56,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
   }
 ]
