@@ -235,17 +235,17 @@
     "Rank": 30,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.video",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "pypi.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 31,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "pypi.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "mobile - com.samsung.android.video",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 32,
@@ -283,17 +283,17 @@
     "Rank": 36,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "Android Gallery",
-    "Category": "Photos",
-    "Productivity": -2
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 38,
@@ -323,32 +323,32 @@
     "Rank": 41,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "S Finder",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 42,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
     "Activity": "raw.githubusercontent.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 43,
-    "Time Spent (seconds)": 3,
+    "Rank": 42,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "Google Chrome for Android",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "S Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 44,
+    "Rank": 43,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "tutorialspoint.com",
     "Category": "General Reference & Learning",
     "Productivity": 1
+  },
+  {
+    "Rank": 44,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "Google Chrome for Android",
+    "Category": "Browsers",
+    "Productivity": 0
   }
 ]
