@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 381,
+    "Time Spent (seconds)": 3354,
     "Number of People": 1,
     "Activity": "web.whatsapp.com",
     "Category": "Instant Message",
@@ -9,26 +9,282 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 73,
+    "Time Spent (seconds)": 1630,
+    "Number of People": 1,
+    "Activity": "sciencedirect.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 648,
+    "Number of People": 1,
+    "Activity": "engineuring.wordpress.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 513,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 382,
+    "Number of People": 1,
+    "Activity": "iaeng.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 378,
+    "Number of People": 1,
+    "Activity": "sci-hub.st",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 319,
     "Number of People": 1,
     "Activity": "lms.sssihl.edu.in",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 7,
+    "Rank": 8,
+    "Time Spent (seconds)": 295,
+    "Number of People": 1,
+    "Activity": "stackoverflow.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 239,
+    "Number of People": 1,
+    "Activity": "amitshah.co.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 147,
+    "Number of People": 1,
+    "Activity": "home.unicode.org",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 118,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 98,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 4,
+    "Rank": 13,
+    "Time Spent (seconds)": 74,
+    "Number of People": 1,
+    "Activity": "requests-oauthlib.readthedocs.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 59,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 54,
+    "Number of People": 1,
+    "Activity": "geeksforgeeks.org",
+    "Category": "Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "ars.els-cdn.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "eng.libretexts.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "cldr.unicode.org",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "c:",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Activity": "onlinelibrary.wiley.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "journals.jps.jp",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "ui.adsabs.harvard.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "unicode.org",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "realpython.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "ipnpr.jpl.nasa.gov",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "scihub.se",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "iopscience.iop.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "vias.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "site.icu-project.org",
+    "Category": "Customer Relations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "myscope.training",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "ijs.scbaghdad.edu.iq",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 34,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "accounts.google.com",
     "Category": "General Communication & Scheduling",
     "Productivity": 0
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "about:privatebrowsing",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 36,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "Blank Web Browser",
+    "Category": "Internet Utilities",
+    "Productivity": 1
   }
 ]
