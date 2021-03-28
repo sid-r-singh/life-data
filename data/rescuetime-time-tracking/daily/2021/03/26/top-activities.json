@@ -1,23 +1,23 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3532,
-    "Number of People": 1,
-    "Activity": "meet.google.com",
-    "Category": "Meetings",
-    "Productivity": 1
-  },
-  {
-    "Rank": 2,
-    "Time Spent (seconds)": 2882,
+    "Time Spent (seconds)": 4587,
     "Number of People": 1,
     "Activity": "drive.google.com",
     "Category": "General Business",
     "Productivity": 2
   },
   {
+    "Rank": 2,
+    "Time Spent (seconds)": 3535,
+    "Number of People": 1,
+    "Activity": "meet.google.com",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
     "Rank": 3,
-    "Time Spent (seconds)": 2560,
+    "Time Spent (seconds)": 3024,
     "Number of People": 1,
     "Activity": "web.whatsapp.com",
     "Category": "Instant Message",
@@ -25,23 +25,23 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 142,
-    "Number of People": 1,
-    "Activity": "Gmail",
-    "Category": "Email",
-    "Productivity": 0
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 119,
+    "Time Spent (seconds)": 303,
     "Number of People": 1,
     "Activity": "lms.sssihl.edu.in",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
+    "Rank": 5,
+    "Time Spent (seconds)": 235,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
     "Rank": 6,
-    "Time Spent (seconds)": 67,
+    "Time Spent (seconds)": 77,
     "Number of People": 1,
     "Activity": "about:privatebrowsing",
     "Category": "General Reference & Learning",
@@ -49,6 +49,14 @@
   },
   {
     "Rank": 7,
+    "Time Spent (seconds)": 66,
+    "Number of People": 1,
+    "Activity": "ocw.mit.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
     "Activity": "Google Documents",
@@ -56,7 +64,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 8,
+    "Rank": 9,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "google.com",
@@ -64,7 +72,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -72,16 +80,8 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 17,
-    "Number of People": 1,
-    "Activity": "ocw.mit.edu",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
     "Rank": 11,
-    "Time Spent (seconds)": 12,
+    "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "Blank Web Browser",
     "Category": "Internet Utilities",
