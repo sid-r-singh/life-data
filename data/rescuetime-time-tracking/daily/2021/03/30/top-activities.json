@@ -33,7 +33,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 424,
+    "Time Spent (seconds)": 456,
     "Number of People": 1,
     "Activity": "google.com",
     "Category": "Search",
@@ -81,6 +81,22 @@
   },
   {
     "Rank": 11,
+    "Time Spent (seconds)": 223,
+    "Number of People": 1,
+    "Activity": "github.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 195,
+    "Number of People": 1,
+    "Activity": "lms.sssihl.edu.in",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 175,
     "Number of People": 1,
     "Activity": "askphysics.com",
@@ -88,15 +104,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 156,
+    "Rank": 14,
+    "Time Spent (seconds)": 162,
     "Number of People": 1,
-    "Activity": "github.com",
+    "Activity": "forums.ni.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 13,
+    "Rank": 15,
+    "Time Spent (seconds)": 120,
+    "Number of People": 1,
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 16,
     "Time Spent (seconds)": 104,
     "Number of People": 1,
     "Activity": "theappliancesreviews.com",
@@ -104,15 +128,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 14,
-    "Time Spent (seconds)": 95,
-    "Number of People": 1,
-    "Activity": "lms.sssihl.edu.in",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 15,
+    "Rank": 17,
     "Time Spent (seconds)": 90,
     "Number of People": 1,
     "Activity": "parameter.io",
@@ -120,7 +136,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 16,
+    "Rank": 18,
     "Time Spent (seconds)": 81,
     "Number of People": 1,
     "Activity": "media.radiosai.org",
@@ -128,7 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 17,
+    "Rank": 19,
     "Time Spent (seconds)": 69,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -136,7 +152,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 18,
+    "Rank": 20,
     "Time Spent (seconds)": 65,
     "Number of People": 1,
     "Activity": "cnet.com",
@@ -144,7 +160,7 @@
     "Productivity": -1
   },
   {
-    "Rank": 19,
+    "Rank": 21,
     "Time Spent (seconds)": 58,
     "Number of People": 1,
     "Activity": "cyberphysics.co.uk",
@@ -152,7 +168,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 20,
+    "Rank": 22,
     "Time Spent (seconds)": 52,
     "Number of People": 1,
     "Activity": "hyperphysics.phy-astr.gsu.edu",
@@ -160,7 +176,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 21,
+    "Rank": 23,
     "Time Spent (seconds)": 51,
     "Number of People": 1,
     "Activity": "itechiteasy.com",
@@ -168,7 +184,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 22,
+    "Rank": 24,
+    "Time Spent (seconds)": 47,
+    "Number of People": 1,
+    "Activity": "iopscience.iop.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 25,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
     "Activity": "vinita.co.jp",
@@ -176,15 +200,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 23,
-    "Time Spent (seconds)": 41,
-    "Number of People": 1,
-    "Activity": "interestingengineering.com",
-    "Category": "Science & Technology",
-    "Productivity": -1
-  },
-  {
-    "Rank": 24,
+    "Rank": 26,
     "Time Spent (seconds)": 41,
     "Number of People": 1,
     "Activity": "cosmosmagazine.com",
@@ -192,7 +208,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 25,
+    "Rank": 27,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Activity": "interestingengineering.com",
+    "Category": "Science & Technology",
+    "Productivity": -1
+  },
+  {
+    "Rank": 28,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
     "Activity": "legacy.voiland.wsu.edu",
@@ -200,15 +224,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 26,
-    "Time Spent (seconds)": 33,
+    "Rank": 29,
+    "Time Spent (seconds)": 37,
     "Number of People": 1,
     "Activity": "about:privatebrowsing",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 27,
+    "Rank": 30,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Activity": "assignments.google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 31,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "ffden-2.phys.uaf.edu",
@@ -216,7 +248,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 28,
+    "Rank": 32,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
     "Activity": "sciencedirect.com",
@@ -224,7 +256,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 29,
+    "Rank": 33,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -232,15 +264,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 30,
-    "Time Spent (seconds)": 18,
+    "Rank": 34,
+    "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "drive.google.com",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 0
   },
   {
-    "Rank": 31,
+    "Rank": 35,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "semanticscholar.org",
@@ -248,7 +280,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 32,
+    "Rank": 36,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "van.physics.illinois.edu",
@@ -256,7 +288,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 33,
+    "Rank": 37,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
+  },
+  {
+    "Rank": 38,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "comsol.co.in",
@@ -264,15 +304,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 34,
-    "Time Spent (seconds)": 11,
-    "Number of People": 1,
-    "Activity": "coursera.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 35,
+    "Rank": 39,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "timesofindia.indiatimes.com",
@@ -280,7 +312,31 @@
     "Productivity": -2
   },
   {
-    "Rank": 36,
+    "Rank": 40,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "coursera.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "Blank Web Browser",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "wiki.videolan.org",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 43,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "wumbo.net",
@@ -288,7 +344,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 37,
+    "Rank": 44,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 45,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "phet.colorado.edu",
@@ -296,15 +360,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 38,
-    "Time Spent (seconds)": 2,
+    "Rank": 46,
+    "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "Blank Web Browser",
-    "Category": "Internet Utilities",
-    "Productivity": 1
+    "Activity": "videolan.org",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
-    "Rank": 39,
+    "Rank": 47,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "in.linkedin.com",
