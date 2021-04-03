@@ -69,18 +69,18 @@
     "Email": 180,
     "General Social Networking": 115,
     "General Communication & Scheduling": 26,
-    "General Reference & Learning": 14,
     "Search": 14,
+    "General Reference & Learning": 14,
     "Internet Utilities": 7,
     "General Shopping": 6
   },
   "2021-04-1": {
     "Instant Message": 17783,
-    "Browsers": 14507,
+    "Browsers": 14510,
     "Uncategorized": 4293,
     "General Utilities": 3412,
     "Meetings": 1270,
-    "General Software Development": 712,
+    "General Software Development": 784,
     "Email": 680,
     "Photos": 552,
     "General Business": 539,
@@ -93,6 +93,14 @@
     "Internet Utilities": 12,
     "Video": 7
   },
-  "2021-04-2": {},
+  "2021-04-2": {
+    "Uncategorized": 1890,
+    "General Software Development": 402,
+    "General Reference & Learning": 248,
+    "Search": 67,
+    "General News & Opinion": 26,
+    "Quality Assurance": 8,
+    "Browsers": 6
+  },
   "2021-04-3": {}
 }
