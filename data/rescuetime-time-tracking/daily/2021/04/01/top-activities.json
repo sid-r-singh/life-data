@@ -33,7 +33,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 1947,
+    "Time Spent (seconds)": 2230,
     "Number of People": 1,
     "Activity": "web.whatsapp.com",
     "Category": "Instant Message",
@@ -41,7 +41,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 1270,
+    "Time Spent (seconds)": 1561,
     "Number of People": 1,
     "Activity": "meet.google.com",
     "Category": "Meetings",
@@ -57,7 +57,7 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 680,
+    "Time Spent (seconds)": 703,
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
@@ -131,17 +131,17 @@
     "Rank": 17,
     "Time Spent (seconds)": 134,
     "Number of People": 1,
-    "Activity": "Android Settings",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "Google Now",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
     "Rank": 18,
     "Time Spent (seconds)": 134,
     "Number of People": 1,
-    "Activity": "Google Now",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 19,
@@ -225,18 +225,18 @@
   },
   {
     "Rank": 29,
-    "Time Spent (seconds)": 26,
+    "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "lastpass.com",
-    "Category": "General Utilities",
+    "Activity": "about:privatebrowsing",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 30,
-    "Time Spent (seconds)": 25,
+    "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "about:privatebrowsing",
-    "Category": "General Reference & Learning",
+    "Activity": "lastpass.com",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
@@ -257,6 +257,14 @@
   },
   {
     "Rank": 33,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
+  },
+  {
+    "Rank": 34,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "flowchart.js.org",
@@ -264,7 +272,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 34,
+    "Rank": 35,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
     "Activity": "bitbucket.org",
@@ -272,7 +280,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 35,
+    "Rank": 36,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.app.contacts",
@@ -280,7 +288,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 36,
+    "Rank": 37,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "Google Play Services",
@@ -288,16 +296,8 @@
     "Productivity": -2
   },
   {
-    "Rank": 37,
-    "Time Spent (seconds)": 12,
-    "Number of People": 1,
-    "Activity": "nownownow.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
     "Rank": 38,
-    "Time Spent (seconds)": 12,
+    "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "Blank Web Browser",
     "Category": "Internet Utilities",
@@ -305,6 +305,14 @@
   },
   {
     "Rank": 39,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "nownownow.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 40,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.accessibility",
@@ -312,7 +320,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 40,
+    "Rank": 41,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "newtab",
@@ -320,7 +328,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 41,
+    "Rank": 42,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "app.netlify.com",
@@ -328,23 +336,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 42,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "bramp.github.io",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
     "Rank": 43,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "android",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 44,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.video",
@@ -352,7 +344,23 @@
     "Productivity": -2
   },
   {
+    "Rank": 44,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
     "Rank": 45,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "bramp.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 46,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -360,7 +368,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 46,
+    "Rank": 47,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.dialer",
@@ -368,7 +376,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 47,
+    "Rank": 48,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -376,7 +384,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 48,
+    "Rank": 49,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "mobile - com.android.settings.intelligence",
@@ -384,7 +392,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 49,
+    "Rank": 50,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "about:downloads",
