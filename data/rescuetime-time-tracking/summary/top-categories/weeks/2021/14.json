@@ -94,9 +94,10 @@
     "Video": 7
   },
   "2021-04-2": {
-    "Instant Message": 2253,
+    "Instant Message": 4060,
     "Meetings": 2248,
     "Uncategorized": 1907,
+    "Browsers": 1723,
     "General Business": 596,
     "General Software Development": 492,
     "General Reference & Learning": 422,
@@ -104,31 +105,33 @@
     "Search": 67,
     "General News & Opinion": 26,
     "General Communication & Scheduling": 25,
+    "General Utilities": 22,
     "Quality Assurance": 8,
-    "Internet Utilities": 7,
-    "Browsers": 6
+    "Internet Utilities": 7
   },
   "2021-04-3": {
-    "Uncategorized": 6671,
-    "Search": 3642,
+    "Uncategorized": 14843,
+    "Instant Message": 10193,
+    "General Utilities": 4305,
+    "Search": 3966,
+    "Browsers": 3495,
     "General Business": 1580,
-    "Instant Message": 1489,
+    "General Reference & Learning": 1233,
     "Legal & Gov't": 860,
     "General Software Development": 797,
     "Meetings": 633,
     "Engineering & Technology": 546,
     "General News & Opinion": 463,
-    "General Reference & Learning": 418,
-    "General Utilities": 327,
     "Email": 291,
     "Science & Technology": 187,
     "Video": 172,
-    "Browsers": 67,
+    "Photos": 147,
     "Data Modeling & Analysis": 59,
     "Systems Operations": 26,
     "Quality Assurance": 24,
     "General Communication & Scheduling": 19,
     "Internet Utilities": 17,
+    "General Entertainment": 9,
     "Writing": 2
   }
 }

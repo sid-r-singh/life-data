@@ -17,6 +17,22 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 1807,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1717,
+    "Number of People": 1,
+    "Activity": "mobile - com.brave.browser",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 777,
     "Number of People": 1,
     "Activity": "markdown.site",
@@ -24,7 +40,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 4,
+    "Rank": 6,
     "Time Spent (seconds)": 596,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -32,7 +48,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 5,
+    "Rank": 7,
     "Time Spent (seconds)": 364,
     "Number of People": 1,
     "Activity": "Gmail",
@@ -40,7 +56,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 8,
     "Time Spent (seconds)": 360,
     "Number of People": 1,
     "Activity": "matthewhoelter.com",
@@ -48,7 +64,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
+    "Rank": 9,
     "Time Spent (seconds)": 301,
     "Number of People": 1,
     "Activity": "carbon.now.sh",
@@ -56,7 +72,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 10,
     "Time Spent (seconds)": 283,
     "Number of People": 1,
     "Activity": "github.com",
@@ -64,15 +80,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 248,
-    "Number of People": 1,
-    "Activity": "blog.bramp.net",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 10,
+    "Rank": 11,
     "Time Spent (seconds)": 248,
     "Number of People": 1,
     "Activity": "dev.to",
@@ -80,7 +88,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 11,
+    "Rank": 12,
+    "Time Spent (seconds)": 248,
+    "Number of People": 1,
+    "Activity": "blog.bramp.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 180,
     "Number of People": 1,
     "Activity": "freecodecamp.org",
@@ -88,7 +104,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
+    "Rank": 14,
     "Time Spent (seconds)": 159,
     "Number of People": 1,
     "Activity": "lms.sssihl.edu.in",
@@ -96,7 +112,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 13,
+    "Rank": 15,
     "Time Spent (seconds)": 101,
     "Number of People": 1,
     "Activity": "gulpjs.com",
@@ -104,7 +120,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 14,
+    "Rank": 16,
     "Time Spent (seconds)": 71,
     "Number of People": 1,
     "Activity": "bramp.github.io",
@@ -112,7 +128,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 15,
+    "Rank": 17,
     "Time Spent (seconds)": 67,
     "Number of People": 1,
     "Activity": "google.com",
@@ -120,7 +136,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 16,
+    "Rank": 18,
     "Time Spent (seconds)": 41,
     "Number of People": 1,
     "Activity": "improvtonight.app",
@@ -128,7 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 17,
+    "Rank": 19,
     "Time Spent (seconds)": 37,
     "Number of People": 1,
     "Activity": "pandao.github.io",
@@ -136,7 +152,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 18,
+    "Rank": 20,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "medium.com",
@@ -144,7 +160,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 19,
+    "Rank": 21,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
     "Activity": "groups.google.com",
@@ -152,7 +168,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 20,
+    "Rank": 22,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 23,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "about:privatebrowsing",
@@ -160,7 +184,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 21,
+    "Rank": 24,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "travis-ci.org",
@@ -168,7 +192,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 22,
+    "Rank": 25,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "Blank Web Browser",
@@ -176,7 +200,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 23,
+    "Rank": 26,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "newtab",
@@ -184,7 +208,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 24,
+    "Rank": 27,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 28,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "Google Chrome",
