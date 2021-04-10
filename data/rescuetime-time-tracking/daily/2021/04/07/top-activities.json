@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 220,
+    "Time Spent (seconds)": 314,
     "Number of People": 1,
     "Activity": "documentcloud.adobe.com",
     "Category": "General Software Development",
@@ -25,6 +25,14 @@
   },
   {
     "Rank": 4,
+    "Time Spent (seconds)": 109,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 53,
     "Number of People": 1,
     "Activity": "lms.sssihl.edu.in",
@@ -32,15 +40,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 51,
+    "Rank": 6,
+    "Time Spent (seconds)": 53,
     "Number of People": 1,
-    "Activity": "Gmail",
-    "Category": "Email",
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 45,
     "Number of People": 1,
     "Activity": "meet.google.com",
@@ -48,7 +56,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 7,
+    "Rank": 8,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
     "Activity": "assignments.google.com",
@@ -56,24 +64,16 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 25,
+    "Rank": 9,
+    "Time Spent (seconds)": 30,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
+    "Activity": "auth.services.adobe.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 20,
-    "Number of People": 1,
-    "Activity": "c:",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
     "Rank": 10,
-    "Time Spent (seconds)": 16,
+    "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "about:privatebrowsing",
     "Category": "General Reference & Learning",
@@ -81,10 +81,34 @@
   },
   {
     "Rank": 11,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Activity": "c:",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "Blank Web Browser",
     "Category": "Internet Utilities",
     "Productivity": 1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "ims-na1.adobelogin.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "adobeid-na1.services.adobe.com",
+    "Category": "General Design & Composition",
+    "Productivity": 2
   }
 ]

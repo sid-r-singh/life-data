@@ -33,14 +33,27 @@
     "Business": 48
   },
   "2021-04-7": {
-    "Uncategorized": 1210,
+    "Uncategorized": 1241,
     "Business": 365,
-    "Software Development": 220,
-    "Communication & Scheduling": 121,
-    "Reference & Learning": 108,
-    "Utilities": 24
+    "Software Development": 314,
+    "Communication & Scheduling": 207,
+    "Reference & Learning": 118,
+    "Utilities": 24,
+    "Design & Composition": 1
   },
-  "2021-04-8": {},
-  "2021-04-9": {},
+  "2021-04-8": {
+    "Communication & Scheduling": 2116,
+    "Software Development": 1445,
+    "Reference & Learning": 936,
+    "Uncategorized": 431,
+    "Business": 245,
+    "Utilities": 72
+  },
+  "2021-04-9": {
+    "Software Development": 380,
+    "Reference & Learning": 248,
+    "Communication & Scheduling": 119,
+    "Business": 5
+  },
   "2021-04-10": {}
 }
