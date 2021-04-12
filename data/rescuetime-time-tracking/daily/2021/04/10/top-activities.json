@@ -1,6 +1,62 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 9856,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 8199,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.meetings",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 8124,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 7368,
+    "Number of People": 1,
+    "Activity": "mobile - com.spotify.lite",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 3117,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 2899,
+    "Number of People": 1,
+    "Activity": "mobile - com.brave.browser",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 2119,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 1231,
     "Number of People": 1,
     "Activity": "docs.github.com",
@@ -8,15 +64,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 1045,
+    "Rank": 9,
+    "Time Spent (seconds)": 1094,
     "Number of People": 1,
     "Activity": "github.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 3,
+    "Rank": 10,
+    "Time Spent (seconds)": 936,
+    "Number of People": 1,
+    "Activity": "chart-studio.plotly.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 857,
     "Number of People": 1,
     "Activity": "physics.nist.gov",
@@ -24,15 +88,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 710,
-    "Number of People": 1,
-    "Activity": "chart-studio.plotly.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 5,
+    "Rank": 12,
     "Time Spent (seconds)": 622,
     "Number of People": 1,
     "Activity": "google.com",
@@ -40,7 +96,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 13,
+    "Time Spent (seconds)": 604,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.app.contacts",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 602,
     "Number of People": 1,
     "Activity": "plotly.com",
@@ -48,7 +112,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
+    "Rank": 15,
     "Time Spent (seconds)": 533,
     "Number of People": 1,
     "Activity": "pepy.tech",
@@ -56,7 +120,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 16,
     "Time Spent (seconds)": 247,
     "Number of People": 1,
     "Activity": "codepen.io",
@@ -64,7 +128,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 9,
+    "Rank": 17,
+    "Time Spent (seconds)": 139,
+    "Number of People": 1,
+    "Activity": "Camera - Samsung Android Phone",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 134,
     "Number of People": 1,
     "Activity": "Gmail",
@@ -72,7 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 19,
     "Time Spent (seconds)": 132,
     "Number of People": 1,
     "Activity": "dash.plotly.com",
@@ -80,7 +152,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 20,
     "Time Spent (seconds)": 101,
     "Number of People": 1,
     "Activity": "pypi.org",
@@ -88,7 +160,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 12,
+    "Rank": 21,
     "Time Spent (seconds)": 98,
     "Number of People": 1,
     "Activity": "covid19india.org",
@@ -96,7 +168,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 22,
     "Time Spent (seconds)": 90,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -104,7 +176,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 14,
+    "Rank": 23,
     "Time Spent (seconds)": 76,
     "Number of People": 1,
     "Activity": "programiz.com",
@@ -112,7 +184,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 15,
+    "Rank": 24,
     "Time Spent (seconds)": 65,
     "Number of People": 1,
     "Activity": "stackoverflow.com",
@@ -120,7 +192,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 16,
+    "Rank": 25,
     "Time Spent (seconds)": 61,
     "Number of People": 1,
     "Activity": "indiacovid-19.in",
@@ -128,7 +200,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 17,
+    "Rank": 26,
     "Time Spent (seconds)": 58,
     "Number of People": 1,
     "Activity": "online-python.com",
@@ -136,7 +208,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 18,
+    "Rank": 27,
     "Time Spent (seconds)": 55,
     "Number of People": 1,
     "Activity": "raw.githubusercontent.com",
@@ -144,7 +216,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 19,
+    "Rank": 28,
     "Time Spent (seconds)": 51,
     "Number of People": 1,
     "Activity": "tutorialspoint.com",
@@ -152,7 +224,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 20,
+    "Rank": 29,
+    "Time Spent (seconds)": 47,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.video",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 30,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
     "Activity": "treyhunner.com",
@@ -160,7 +240,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 21,
+    "Rank": 31,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
     "Activity": "plotly.github.io",
@@ -168,7 +248,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 22,
+    "Rank": 32,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Activity": "about:privatebrowsing",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 33,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "newtab",
@@ -176,23 +264,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 23,
-    "Time Spent (seconds)": 28,
-    "Number of People": 1,
-    "Activity": "about:privatebrowsing",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 24,
-    "Time Spent (seconds)": 26,
-    "Number of People": 1,
-    "Activity": "rdrr.io",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 25,
+    "Rank": 34,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -200,7 +272,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 26,
+    "Rank": 35,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "rdrr.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 36,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "mit.edu",
@@ -208,7 +288,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 27,
+    "Rank": 37,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "pythononlines.com",
@@ -216,7 +296,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 28,
+    "Rank": 38,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -224,7 +304,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 29,
+    "Rank": 39,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "remotematch.app",
@@ -232,15 +312,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 30,
-    "Time Spent (seconds)": 10,
-    "Number of People": 1,
-    "Activity": "randomwordgenerator.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 31,
+    "Rank": 40,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "developer.wordnik.com",
@@ -248,7 +320,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 32,
+    "Rank": 41,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "randomwordgenerator.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 42,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "sphinx-gallery.github.io",
@@ -256,7 +336,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 33,
+    "Rank": 43,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "Google Play Services",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 44,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "blog.covid19india.org",
@@ -264,7 +352,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 34,
+    "Rank": 45,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "possessedcrackinghart.com",
@@ -272,7 +360,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 35,
+    "Rank": 46,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "crate.io",
@@ -280,19 +368,43 @@
     "Productivity": 0
   },
   {
-    "Rank": 36,
-    "Time Spent (seconds)": 2,
+    "Rank": 47,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "google.com/calendar",
-    "Category": "Calendars",
+    "Activity": "mobile - com.samsung.android.dialer",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 37,
+    "Rank": 48,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "plotly-rangeslider.enursingcourses.com",
     "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 49,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "Google Now",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 50,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "Blank Web Browser",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 51,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "google.com/calendar",
+    "Category": "Calendars",
     "Productivity": 0
   }
 ]

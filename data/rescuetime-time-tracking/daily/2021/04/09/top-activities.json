@@ -1,6 +1,86 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 16700,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 12339,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 10048,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.meetings",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 4089,
+    "Number of People": 1,
+    "Activity": "mobile - com.brave.browser",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 2258,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 2116,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 847,
+    "Number of People": 1,
+    "Activity": "mobile - com.spotify.lite",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 541,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 531,
+    "Number of People": 1,
+    "Activity": "mobile - com.jio.join",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 467,
+    "Number of People": 1,
+    "Activity": "Google Keep",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 414,
     "Number of People": 1,
     "Activity": "lms.sssihl.edu.in",
@@ -8,7 +88,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 2,
+    "Rank": 12,
+    "Time Spent (seconds)": 398,
+    "Number of People": 1,
+    "Activity": "mobile - com.adobe.scan.android",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 395,
     "Number of People": 1,
     "Activity": "documentcloud.adobe.com",
@@ -16,7 +104,39 @@
     "Productivity": 2
   },
   {
-    "Rank": 3,
+    "Rank": 14,
+    "Time Spent (seconds)": 315,
+    "Number of People": 1,
+    "Activity": "YouTube for Android",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 236,
+    "Number of People": 1,
+    "Activity": "Camera - Samsung Android Phone",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 167,
+    "Number of People": 1,
+    "Activity": "Google Now",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 130,
+    "Number of People": 1,
+    "Activity": "Flipkart",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 119,
     "Number of People": 1,
     "Activity": "meet.google.com",
@@ -24,7 +144,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 4,
+    "Rank": 19,
     "Time Spent (seconds)": 66,
     "Number of People": 1,
     "Activity": "c:",
@@ -32,7 +152,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 5,
+    "Rank": 20,
+    "Time Spent (seconds)": 38,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 21,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
     "Activity": "assignments.google.com",
@@ -40,7 +168,39 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 22,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Activity": "mobile - us.zoom.videomeetings",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "Device Manager - Tmobile",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.pdfviewer",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 26,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "about:privatebrowsing",
@@ -48,7 +208,23 @@
     "Productivity": 1
   },
   {
-    "Rank": 7,
+    "Rank": 27,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "Google Chrome for Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "MyFiles - Samsung Android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 29,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -56,7 +232,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 8,
+    "Rank": 30,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.video",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.messaging",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 32,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "google.com",
@@ -64,7 +256,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
+    "Rank": 33,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "Blank Web Browser",
