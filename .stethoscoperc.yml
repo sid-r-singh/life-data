@@ -2,4 +2,6 @@ integrations:
   rescuetime:
     frequency: "daily"
     all: true
-
+  spotify:
+    frequency: "daily"
+    all: true
