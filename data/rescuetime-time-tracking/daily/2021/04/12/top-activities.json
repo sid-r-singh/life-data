@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3240,
+    "Time Spent (seconds)": 3900,
     "Number of People": 1,
     "Activity": "github.com",
     "Category": "General Software Development",
@@ -9,23 +9,23 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1015,
-    "Number of People": 1,
-    "Activity": "meet.google.com",
-    "Category": "Meetings",
-    "Productivity": 1
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 625,
+    "Time Spent (seconds)": 1129,
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
     "Productivity": 0
   },
   {
+    "Rank": 3,
+    "Time Spent (seconds)": 1060,
+    "Number of People": 1,
+    "Activity": "meet.google.com",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
     "Rank": 4,
-    "Time Spent (seconds)": 521,
+    "Time Spent (seconds)": 824,
     "Number of People": 1,
     "Activity": "drive.google.com",
     "Category": "General Business",
@@ -33,7 +33,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 506,
+    "Time Spent (seconds)": 594,
     "Number of People": 1,
     "Activity": "sidrana.dev",
     "Category": "Uncategorized",
@@ -57,6 +57,14 @@
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 197,
+    "Number of People": 1,
+    "Activity": "dashboard.heroku.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 187,
     "Number of People": 1,
     "Activity": "tianqi.name",
@@ -64,7 +72,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 183,
     "Number of People": 1,
     "Activity": "css-tricks.com",
@@ -72,7 +80,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 10,
+    "Rank": 11,
     "Time Spent (seconds)": 161,
     "Number of People": 1,
     "Activity": "starchart.cc",
@@ -80,7 +88,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 12,
     "Time Spent (seconds)": 140,
     "Number of People": 1,
     "Activity": "adityatelange.github.io",
@@ -88,7 +96,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 12,
+    "Rank": 13,
     "Time Spent (seconds)": 105,
     "Number of People": 1,
     "Activity": "jamstackthemes.dev",
@@ -96,7 +104,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 14,
+    "Time Spent (seconds)": 102,
+    "Number of People": 1,
+    "Activity": "fontsquirrel.com",
+    "Category": "Graphic Design",
+    "Productivity": 2
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 83,
     "Number of People": 1,
     "Activity": "lms.sssihl.edu.in",
@@ -104,7 +120,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 14,
+    "Rank": 16,
+    "Time Spent (seconds)": 80,
+    "Number of People": 1,
+    "Activity": "about:privatebrowsing",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 17,
     "Time Spent (seconds)": 59,
     "Number of People": 1,
     "Activity": "allcontributors.org",
@@ -112,7 +136,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 15,
+    "Rank": 18,
     "Time Spent (seconds)": 59,
     "Number of People": 1,
     "Activity": "victorvoid.me",
@@ -120,7 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 16,
+    "Rank": 19,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
     "Activity": "web.whatsapp.com",
@@ -128,15 +152,7 @@
     "Productivity": -1
   },
   {
-    "Rank": 17,
-    "Time Spent (seconds)": 51,
-    "Number of People": 1,
-    "Activity": "about:privatebrowsing",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 18,
+    "Rank": 20,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
     "Activity": "prismaticbytes.com",
@@ -144,7 +160,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 19,
+    "Rank": 21,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
     "Activity": "workspaceupdates.googleblog.com",
@@ -152,7 +168,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 20,
+    "Rank": 22,
+    "Time Spent (seconds)": 44,
+    "Number of People": 1,
+    "Activity": "fontfabric.com",
+    "Category": "Graphic Design",
+    "Productivity": 2
+  },
+  {
+    "Rank": 23,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
     "Activity": "sheetstojson.com",
@@ -160,7 +184,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 21,
+    "Rank": 24,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "c:",
@@ -168,7 +192,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 22,
+    "Rank": 25,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "dafont.com",
+    "Category": "Presentation",
+    "Productivity": 2
+  },
+  {
+    "Rank": 26,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
     "Activity": "newtab",
@@ -176,7 +208,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 23,
+    "Rank": 27,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "fonts.google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 28,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -184,7 +224,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 24,
+    "Rank": 29,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -192,7 +232,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 25,
+    "Rank": 30,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "Blank Web Browser",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 31,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "taikkyithar.github.io",
@@ -200,7 +248,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 26,
+    "Rank": 32,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "pnpm.io",
@@ -208,15 +256,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 27,
-    "Time Spent (seconds)": 18,
-    "Number of People": 1,
-    "Activity": "Blank Web Browser",
-    "Category": "Internet Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 28,
+    "Rank": 33,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "11tygooglesheet.netlify.app",
@@ -224,7 +264,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 29,
+    "Rank": 34,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "raw.githubusercontent.com",
@@ -232,7 +272,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 30,
+    "Rank": 35,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "docs.github.com",
@@ -240,7 +280,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 31,
+    "Rank": 36,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "support.google.com",
@@ -248,7 +288,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 32,
+    "Rank": 37,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "id.heroku.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 38,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "ww1.pleaseeditme.software",
@@ -256,15 +304,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 33,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "hoppscotch.io",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 34,
+    "Rank": 39,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "mademistakes.com",
@@ -272,7 +312,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 35,
+    "Rank": 40,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "hoppscotch.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "tempmail.plus",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 42,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "Google Chrome",
