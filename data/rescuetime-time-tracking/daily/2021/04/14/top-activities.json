@@ -1,6 +1,14 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 3649,
+    "Number of People": 1,
+    "Activity": "github.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 2768,
     "Number of People": 1,
     "Activity": "mobile - com.google.android.apps.meetings",
@@ -8,20 +16,12 @@
     "Productivity": 0
   },
   {
-    "Rank": 2,
+    "Rank": 3,
     "Time Spent (seconds)": 2677,
     "Number of People": 1,
     "Activity": "glitch.com",
     "Category": "General Entertainment",
     "Productivity": -2
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 2344,
-    "Number of People": 1,
-    "Activity": "github.com",
-    "Category": "General Software Development",
-    "Productivity": 2
   },
   {
     "Rank": 4,
@@ -89,6 +89,14 @@
   },
   {
     "Rank": 12,
+    "Time Spent (seconds)": 881,
+    "Number of People": 1,
+    "Activity": "dash.cloudflare.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 813,
     "Number of People": 1,
     "Activity": "stethoscope.js.org",
@@ -96,7 +104,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 14,
     "Time Spent (seconds)": 530,
     "Number of People": 1,
     "Activity": "Android Gallery",
@@ -104,7 +112,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 508,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
@@ -112,7 +120,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 15,
+    "Rank": 16,
+    "Time Spent (seconds)": 507,
+    "Number of People": 1,
+    "Activity": "web.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 17,
     "Time Spent (seconds)": 387,
     "Number of People": 1,
     "Activity": "makeratplay.github.io",
@@ -120,7 +136,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 16,
+    "Rank": 18,
     "Time Spent (seconds)": 376,
     "Number of People": 1,
     "Activity": "anandchowdhary.com",
@@ -128,7 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 17,
+    "Rank": 19,
     "Time Spent (seconds)": 369,
     "Number of People": 1,
     "Activity": "open.spotify.com",
@@ -136,7 +152,31 @@
     "Productivity": -2
   },
   {
-    "Rank": 18,
+    "Rank": 20,
+    "Time Spent (seconds)": 339,
+    "Number of People": 1,
+    "Activity": "developers.cloudflare.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 293,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 287,
+    "Number of People": 1,
+    "Activity": "pages.cloudflare.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 23,
     "Time Spent (seconds)": 272,
     "Number of People": 1,
     "Activity": "twitch.tv",
@@ -144,31 +184,23 @@
     "Productivity": -2
   },
   {
-    "Rank": 19,
-    "Time Spent (seconds)": 214,
+    "Rank": 24,
+    "Time Spent (seconds)": 260,
+    "Number of People": 1,
+    "Activity": "blog.cloudflare.com",
+    "Category": "Science & Technology",
+    "Productivity": -1
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 233,
     "Number of People": 1,
     "Activity": "accounts.google.com",
     "Category": "General Communication & Scheduling",
     "Productivity": 0
   },
   {
-    "Rank": 20,
-    "Time Spent (seconds)": 178,
-    "Number of People": 1,
-    "Activity": "web.whatsapp.com",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 21,
-    "Time Spent (seconds)": 146,
-    "Number of People": 1,
-    "Activity": "developers.cloudflare.com",
-    "Category": "Systems Operations",
-    "Productivity": 2
-  },
-  {
-    "Rank": 22,
+    "Rank": 26,
     "Time Spent (seconds)": 144,
     "Number of People": 1,
     "Activity": "spotify.com",
@@ -176,7 +208,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 23,
+    "Rank": 27,
     "Time Spent (seconds)": 137,
     "Number of People": 1,
     "Activity": "Google Keep",
@@ -184,15 +216,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 24,
-    "Time Spent (seconds)": 130,
-    "Number of People": 1,
-    "Activity": "Gmail",
-    "Category": "Email",
-    "Productivity": 0
-  },
-  {
-    "Rank": 25,
+    "Rank": 28,
     "Time Spent (seconds)": 130,
     "Number of People": 1,
     "Activity": "accounts.spotify.com",
@@ -200,7 +224,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 26,
+    "Rank": 29,
+    "Time Spent (seconds)": 121,
+    "Number of People": 1,
+    "Activity": "cloudflare.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 30,
     "Time Spent (seconds)": 119,
     "Number of People": 1,
     "Activity": "unexpected-lying-pamphlet.glitch.me",
@@ -208,7 +240,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 27,
+    "Rank": 31,
     "Time Spent (seconds)": 115,
     "Number of People": 1,
     "Activity": "google.com",
@@ -216,7 +248,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 28,
+    "Rank": 32,
     "Time Spent (seconds)": 88,
     "Number of People": 1,
     "Activity": "mobile - com.spotify.lite",
@@ -224,7 +256,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 29,
+    "Rank": 33,
+    "Time Spent (seconds)": 74,
+    "Number of People": 1,
+    "Activity": "about:privatebrowsing",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 34,
     "Time Spent (seconds)": 67,
     "Number of People": 1,
     "Activity": "npmjs.com",
@@ -232,7 +272,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 30,
+    "Rank": 35,
+    "Time Spent (seconds)": 64,
+    "Number of People": 1,
+    "Activity": "ado.xyz",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 36,
     "Time Spent (seconds)": 59,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.app.contacts",
@@ -240,7 +288,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 31,
+    "Rank": 37,
     "Time Spent (seconds)": 58,
     "Number of People": 1,
     "Activity": "makeratplay.com",
@@ -248,7 +296,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 32,
+    "Rank": 38,
     "Time Spent (seconds)": 51,
     "Number of People": 1,
     "Activity": "hackaday.com",
@@ -256,7 +304,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 33,
+    "Rank": 39,
     "Time Spent (seconds)": 50,
     "Number of People": 1,
     "Activity": "tools.ietf.org",
@@ -264,7 +312,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 34,
+    "Rank": 40,
+    "Time Spent (seconds)": 48,
+    "Number of People": 1,
+    "Activity": "Blank Web Browser",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 41,
     "Time Spent (seconds)": 46,
     "Number of People": 1,
     "Activity": "sidrana.dev",
@@ -272,7 +328,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 35,
+    "Rank": 42,
     "Time Spent (seconds)": 44,
     "Number of People": 1,
     "Activity": "spotify-implicit-grant.glitch.me",
@@ -280,7 +336,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 36,
+    "Rank": 43,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
     "Activity": "lms.sssihl.edu.in",
@@ -288,15 +344,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 37,
-    "Time Spent (seconds)": 37,
-    "Number of People": 1,
-    "Activity": "about:privatebrowsing",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 38,
+    "Rank": 44,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Activity": "newtab",
@@ -304,7 +352,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 39,
+    "Rank": 45,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 46,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Activity": "meyerweb.com",
@@ -312,7 +368,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 40,
+    "Rank": 47,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Activity": "docs.readme.com",
@@ -320,7 +376,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 41,
+    "Rank": 48,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "hackaday.io",
@@ -328,31 +384,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 42,
-    "Time Spent (seconds)": 27,
-    "Number of People": 1,
-    "Activity": "Blank Web Browser",
-    "Category": "Internet Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 43,
-    "Time Spent (seconds)": 22,
-    "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 44,
-    "Time Spent (seconds)": 20,
-    "Number of People": 1,
-    "Activity": "medium.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 45,
+    "Rank": 49,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "Google Spreadsheets",
@@ -360,7 +392,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 46,
+    "Rank": 50,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Activity": "medium.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 51,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "p.scdn.co",
@@ -368,7 +408,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 47,
+    "Rank": 52,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "spotify.design",
@@ -376,7 +416,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 48,
+    "Rank": 53,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "docs.datadoghq.com",
@@ -384,7 +424,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 49,
+    "Rank": 54,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "0a4ad6f5-5992-4d71-81d8-a2e0eaf77e64",
@@ -392,15 +432,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 50,
-    "Time Spent (seconds)": 14,
-    "Number of People": 1,
-    "Activity": "about:logins",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 51,
+    "Rank": 55,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "api.spotify.com",
@@ -408,7 +440,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 52,
+    "Rank": 56,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "about:logins",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 57,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "stethoscope-js.github.io",
@@ -416,7 +456,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 53,
+    "Rank": 58,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "guides.github.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 59,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.video",
@@ -424,7 +472,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 54,
+    "Rank": 60,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "lab.possan.se",
@@ -432,7 +480,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 55,
+    "Rank": 61,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "android",
@@ -440,7 +488,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 56,
+    "Rank": 62,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "physics.nist.gov",
@@ -448,7 +496,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 57,
+    "Rank": 63,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -456,7 +504,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 58,
+    "Rank": 64,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "RescueTime for Android",
@@ -464,7 +512,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 59,
+    "Rank": 65,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "i.scdn.co",
@@ -472,7 +520,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 60,
+    "Rank": 66,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "eventbrite.com",
@@ -480,7 +528,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 61,
+    "Rank": 67,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "Google Now",
@@ -488,7 +536,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 62,
+    "Rank": 68,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "admitted-star-berry.glitch.me",
