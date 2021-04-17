@@ -1,26 +1,38 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1000,
+    "Time Spent (seconds)": 4545,
+    "Number of People": 1,
+    "Category": "Software Development"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 4332,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 159,
+    "Rank": 3,
+    "Time Spent (seconds)": 1750,
+    "Number of People": 1,
+    "Category": "Communication & Scheduling"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1601,
     "Number of People": 1,
     "Category": "Reference & Learning"
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 28,
+    "Rank": 5,
+    "Time Spent (seconds)": 1287,
     "Number of People": 1,
-    "Category": "Utilities"
+    "Category": "Business"
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 11,
+    "Rank": 6,
+    "Time Spent (seconds)": 369,
     "Number of People": 1,
-    "Category": "Software Development"
+    "Category": "Utilities"
   }
 ]
