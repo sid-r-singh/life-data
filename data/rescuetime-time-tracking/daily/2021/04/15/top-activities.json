@@ -235,17 +235,17 @@
     "Rank": 30,
     "Time Spent (seconds)": 114,
     "Number of People": 1,
-    "Activity": "notion.so",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "developers.google.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 31,
     "Time Spent (seconds)": 114,
     "Number of People": 1,
-    "Activity": "developers.google.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "notion.so",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 32,
@@ -355,24 +355,24 @@
     "Rank": 45,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "whatsmydns.net",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 46,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "checknameservers.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "whatsmydns.net",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 47,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
+    "Activity": "checknameservers.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
@@ -411,20 +411,12 @@
     "Rank": 52,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "res.cloudinary.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 53,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
     "Activity": "about:preferences#privacy",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 54,
+    "Rank": 53,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "api.cloudflare.com",
@@ -432,10 +424,18 @@
     "Productivity": 2
   },
   {
-    "Rank": 55,
+    "Rank": 54,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "dnschecker.org",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 55,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "res.cloudinary.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
