@@ -33,18 +33,18 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 679,
+    "Time Spent (seconds)": 756,
     "Number of People": 1,
-    "Activity": "stackrole.com",
-    "Category": "Uncategorized",
+    "Activity": "google.com",
+    "Category": "Search",
     "Productivity": 0
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 621,
+    "Time Spent (seconds)": 679,
     "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
+    "Activity": "stackrole.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
@@ -251,17 +251,17 @@
     "Rank": 32,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "raw.githubusercontent.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 33,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "raw.githubusercontent.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 34,
@@ -315,20 +315,12 @@
     "Rank": 40,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "jjvision.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 41,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
     "Activity": "about:home",
     "Category": "Search",
     "Productivity": 0
   },
   {
-    "Rank": 42,
+    "Rank": 41,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "cloudflare.com",
@@ -336,10 +328,18 @@
     "Productivity": 2
   },
   {
-    "Rank": 43,
+    "Rank": 42,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "mbrn-redesign.pages.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 43,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "jjvision.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },

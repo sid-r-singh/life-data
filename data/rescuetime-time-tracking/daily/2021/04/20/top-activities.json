@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 2101,
+    "Time Spent (seconds)": 2279,
     "Number of People": 1,
     "Activity": "github.com",
     "Category": "General Software Development",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 278,
+    "Time Spent (seconds)": 290,
     "Number of People": 1,
     "Activity": "dash.cloudflare.com",
     "Category": "Systems Operations",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 136,
+    "Time Spent (seconds)": 223,
     "Number of People": 1,
     "Activity": "sid-portfolio.pages.dev",
     "Category": "Uncategorized",
@@ -25,19 +25,19 @@
   },
   {
     "Rank": 4,
+    "Time Spent (seconds)": 138,
+    "Number of People": 1,
+    "Activity": "web.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 116,
     "Number of People": 1,
     "Activity": "developers.cloudflare.com",
     "Category": "Systems Operations",
     "Productivity": 2
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 113,
-    "Number of People": 1,
-    "Activity": "web.whatsapp.com",
-    "Category": "Instant Message",
-    "Productivity": -1
   },
   {
     "Rank": 6,
@@ -73,7 +73,7 @@
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 23,
+    "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "about:privatebrowsing",
     "Category": "General Reference & Learning",
@@ -89,6 +89,14 @@
   },
   {
     "Rank": 12,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "gridsome.org",
@@ -96,7 +104,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 14,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 16,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "raw.githubusercontent.com",
@@ -104,7 +128,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 14,
+    "Rank": 17,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "Blank Web Browser",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "sidrana.dev",
@@ -112,15 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 15,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Activity": "Blank Web Browser",
-    "Category": "Internet Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 16,
+    "Rank": 19,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -128,7 +152,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 17,
+    "Rank": 20,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "ascg.msm.cam.ac.uk",
