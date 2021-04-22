@@ -10,8 +10,8 @@
     "Health & Medicine": 673,
     "Meetings": 460,
     "Presentation": 242,
-    "Browsers": 197,
     "Engineering & Technology": 197,
+    "Browsers": 197,
     "Design & Planning": 161,
     "General Business": 115,
     "General Utilities": 88,
@@ -39,7 +39,9 @@
     "General Software Development": 2287,
     "Systems Operations": 460,
     "Uncategorized": 418,
+    "Graphic Design": 313,
     "Instant Message": 138,
+    "Browsers": 45,
     "General Reference & Learning": 31,
     "General Communication & Scheduling": 22,
     "Email": 16,
@@ -47,8 +49,31 @@
     "Internet Utilities": 8,
     "General Utilities": 5
   },
-  "2021-04-21": {},
-  "2021-04-22": {},
+  "2021-04-21": {
+    "General Reference & Learning": 1681,
+    "Uncategorized": 1138,
+    "General Business": 1133,
+    "General Software Development": 989,
+    "Email": 738,
+    "General Design & Composition": 283,
+    "General Utilities": 253,
+    "Instant Message": 191,
+    "Photos": 133,
+    "Intelligence": 71,
+    "Internet Utilities": 67,
+    "General Communication & Scheduling": 51,
+    "Search": 46,
+    "General News & Opinion": 28,
+    "Browsers": 11,
+    "Engineering & Technology": 10
+  },
+  "2021-04-22": {
+    "General Software Development": 225,
+    "Uncategorized": 37,
+    "General Utilities": 6,
+    "General Reference & Learning": 5,
+    "Internet Utilities": 1
+  },
   "2021-04-23": {},
   "2021-04-24": {}
 }
