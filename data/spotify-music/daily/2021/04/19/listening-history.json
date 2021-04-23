@@ -4,6 +4,93 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/7HCqGPJcQTyGJ2yqntbuyr",
+          "id": "7HCqGPJcQTyGJ2yqntbuyr",
+          "name": "Amit Trivedi",
+          "type": "artist",
+          "uri": "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7bJe5O77rwuYETK4zEp9Vu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273689f566242484e89e9cad22a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02689f566242484e89e9cad22a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851689f566242484e89e9cad22a",
+          "width": 64
+        }
+      ],
+      "name": "Ishaqzaade",
+      "release_date": "2012-04-12",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:7bJe5O77rwuYETK4zEp9Vu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HCqGPJcQTyGJ2yqntbuyr",
+        "id": "7HCqGPJcQTyGJ2yqntbuyr",
+        "name": "Amit Trivedi",
+        "type": "artist",
+        "uri": "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        "href": "https://api.spotify.com/v1/artists/4W91bbPB2CTSsHwt7eqNl7",
+        "id": "4W91bbPB2CTSsHwt7eqNl7",
+        "name": "Javed Ali",
+        "type": "artist",
+        "uri": "spotify:artist:4W91bbPB2CTSsHwt7eqNl7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+        "id": "0oOet2f43PA68X5RxKobEy",
+        "name": "Shreya Ghoshal",
+        "type": "artist",
+        "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        },
+        "href": "https://api.spotify.com/v1/artists/3GBSge8pq7mpezUQl0GAOA",
+        "id": "3GBSge8pq7mpezUQl0GAOA",
+        "name": "Kausar Munir",
+        "type": "artist",
+        "uri": "spotify:artist:3GBSge8pq7mpezUQl0GAOA"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/74dP5hqakjK6WAs05TqOwb",
+    "is_local": false,
+    "name": "Ishaqzaade",
+    "preview_url": "https://p.scdn.co/mp3-preview/05ceb3042d538417df7feaec7a1dcc693bfe22c5?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
           },
           "href": "https://api.spotify.com/v1/artists/2oSONSC9zQ4UonDKnLqksx",
