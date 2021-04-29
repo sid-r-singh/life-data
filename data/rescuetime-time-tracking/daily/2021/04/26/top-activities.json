@@ -267,20 +267,28 @@
     "Rank": 34,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "about:newtab",
-    "Category": "Browsers",
+    "Activity": "auth.checklyhq.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
     "Rank": 35,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "auth.checklyhq.com",
-    "Category": "Uncategorized",
+    "Activity": "about:newtab",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
     "Rank": 36,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 37,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "about:privatebrowsing",
@@ -288,20 +296,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 37,
+    "Rank": 38,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "Android Gallery",
     "Category": "Photos",
     "Productivity": -2
-  },
-  {
-    "Rank": 38,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
-    "Activity": "android",
-    "Category": "General Utilities",
-    "Productivity": 1
   },
   {
     "Rank": 39,
@@ -315,16 +315,16 @@
     "Rank": 40,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "Google Analytics",
-    "Category": "General Software Development",
+    "Activity": "oauth.rebrandly.com",
+    "Category": "General Business",
     "Productivity": 2
   },
   {
     "Rank": 41,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "oauth.rebrandly.com",
-    "Category": "General Business",
+    "Activity": "Google Analytics",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {

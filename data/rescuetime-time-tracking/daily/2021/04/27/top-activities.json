@@ -33,7 +33,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 293,
+    "Time Spent (seconds)": 436,
     "Number of People": 1,
     "Activity": "app.short.io",
     "Category": "Uncategorized",
@@ -81,6 +81,14 @@
   },
   {
     "Rank": 11,
+    "Time Spent (seconds)": 123,
+    "Number of People": 1,
+    "Activity": "vantajs.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 96,
     "Number of People": 1,
     "Activity": "google.com/calendar",
@@ -88,7 +96,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
+    "Rank": 13,
     "Time Spent (seconds)": 95,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -96,7 +104,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 13,
+    "Rank": 14,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -104,7 +112,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
     "Activity": "lavkumarv.github.io",
@@ -112,7 +120,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 15,
+    "Rank": 16,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
     "Activity": "amazon.in",
@@ -120,7 +128,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 16,
+    "Rank": 17,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -128,7 +136,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 17,
+    "Rank": 18,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "stethoscope.js.org",
@@ -136,19 +144,27 @@
     "Productivity": 0
   },
   {
-    "Rank": 18,
+    "Rank": 19,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "about:privatebrowsing",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "sidrana.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 21,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
-  },
-  {
-    "Rank": 19,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "about:privatebrowsing",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
   }
 ]

@@ -36,9 +36,9 @@
     "Meetings": 4320,
     "Email": 2372,
     "General Business": 1191,
+    "Uncategorized": 746,
     "Instant Message": 702,
-    "Uncategorized": 463,
-    "General Reference & Learning": 270,
+    "General Reference & Learning": 281,
     "Browsers": 249,
     "General Software Development": 241,
     "Internet Utilities": 238,
@@ -48,7 +48,29 @@
     "General Utilities": 28
   },
   "2021-04-28": {
-    "General Business": 403
+    "Uncategorized": 3174,
+    "General Business": 2705,
+    "General Software Development": 1898,
+    "Instant Message": 1751,
+    "Meetings": 1113,
+    "General Reference & Learning": 693,
+    "Intelligence": 371,
+    "General Utilities": 310,
+    "General News & Opinion": 238,
+    "Email": 202,
+    "Engineering & Technology": 121,
+    "Search": 108,
+    "Video": 74,
+    "Systems Operations": 48,
+    "Browsers": 36,
+    "Internet Utilities": 28,
+    "General Communication & Scheduling": 3
   },
-  "2021-04-29": {}
+  "2021-04-29": {
+    "General Business": 794,
+    "General Reference & Learning": 396,
+    "Email": 62,
+    "Instant Message": 17,
+    "Browsers": 9
+  }
 }
