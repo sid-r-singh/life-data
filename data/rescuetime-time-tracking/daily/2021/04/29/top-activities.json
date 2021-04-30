@@ -1,58 +1,250 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 794,
+    "Time Spent (seconds)": 3920,
     "Number of People": 1,
-    "Activity": "drive.google.com",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "app.slack.com",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 352,
-    "Number of People": 1,
-    "Activity": "gradadmissions.engineering.cmu.edu",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 62,
-    "Number of People": 1,
-    "Activity": "Gmail",
-    "Category": "Email",
-    "Productivity": 0
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 44,
-    "Number of People": 1,
-    "Activity": "cmu.edu",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 17,
+    "Time Spent (seconds)": 2425,
     "Number of People": 1,
     "Activity": "web.whatsapp.com",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
+    "Rank": 3,
+    "Time Spent (seconds)": 2255,
+    "Number of People": 1,
+    "Activity": "meet.google.com",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 2167,
+    "Number of People": 1,
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 1321,
+    "Number of People": 1,
+    "Activity": "cmu.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
     "Rank": 6,
-    "Time Spent (seconds)": 5,
+    "Time Spent (seconds)": 436,
+    "Number of People": 1,
+    "Activity": "gradadmissions.engineering.cmu.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 389,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 277,
+    "Number of People": 1,
+    "Activity": "linkedin.com",
+    "Category": "Professional Networking",
+    "Productivity": 1
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 263,
+    "Number of People": 1,
+    "Activity": "c:",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 211,
+    "Number of People": 1,
+    "Activity": "iniadmissions.slack.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 178,
+    "Number of People": 1,
+    "Activity": "slack.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 161,
+    "Number of People": 1,
+    "Activity": "lms.sssihl.edu.in",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 96,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 4,
+    "Rank": 14,
+    "Time Spent (seconds)": 84,
+    "Number of People": 1,
+    "Activity": "google.com/calendar",
+    "Category": "Calendars",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 71,
+    "Number of People": 1,
+    "Activity": "settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 68,
+    "Number of People": 1,
+    "Activity": "chrome-extension",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 52,
+    "Number of People": 1,
+    "Activity": "microsoftedge.microsoft.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 50,
+    "Number of People": 1,
+    "Activity": "personal-mza6694.slack.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 39,
+    "Number of People": 1,
+    "Activity": "twitch.tv",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 37,
+    "Number of People": 1,
+    "Activity": "support.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 33,
+    "Number of People": 1,
+    "Activity": "extensions",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Activity": "assignments.google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Activity": "icann.org",
+    "Category": "Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "youfiles.herokuapp.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "researchgate.net",
+    "Category": "Professional Networking",
+    "Productivity": 1
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "about:privatebrowsing",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "code.visualstudio.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   }
 ]
