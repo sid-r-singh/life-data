@@ -41,6 +41,14 @@
   },
   {
     "Rank": 6,
+    "Time Spent (seconds)": 560,
+    "Number of People": 1,
+    "Activity": "linkedin.com",
+    "Category": "Professional Networking",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 436,
     "Number of People": 1,
     "Activity": "gradadmissions.engineering.cmu.edu",
@@ -48,20 +56,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 7,
+    "Rank": 8,
     "Time Spent (seconds)": 389,
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
     "Productivity": 0
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 277,
-    "Number of People": 1,
-    "Activity": "linkedin.com",
-    "Category": "Professional Networking",
-    "Productivity": 1
   },
   {
     "Rank": 9,
@@ -185,6 +185,14 @@
   },
   {
     "Rank": 24,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 25,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "assignments.google.com",
@@ -192,7 +200,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 25,
+    "Rank": 26,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "icann.org",
@@ -200,20 +208,12 @@
     "Productivity": 2
   },
   {
-    "Rank": 26,
+    "Rank": 27,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
     "Category": "General Utilities",
     "Productivity": 1
-  },
-  {
-    "Rank": 27,
-    "Time Spent (seconds)": 20,
-    "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
-    "Productivity": 0
   },
   {
     "Rank": 28,
@@ -227,16 +227,16 @@
     "Rank": 29,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "researchgate.net",
-    "Category": "Professional Networking",
+    "Activity": "about:privatebrowsing",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 30,
-    "Time Spent (seconds)": 6,
+    "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "about:privatebrowsing",
-    "Category": "General Reference & Learning",
+    "Activity": "researchgate.net",
+    "Category": "Professional Networking",
     "Productivity": 1
   },
   {
