@@ -101,7 +101,7 @@
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
-    "Productivity": 0
+    "Productivity": 1
   },
   {
     "Rank": 14,
@@ -275,17 +275,17 @@
     "Rank": 35,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "wistia.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
   },
   {
     "Rank": 36,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
-    "Activity": "wistia.com",
-    "Category": "Systems Operations",
-    "Productivity": 2
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 37,
@@ -387,17 +387,17 @@
     "Rank": 49,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "scotch-io.github.io",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "jekyll-bootstrap-starter.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 50,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "jekyll-bootstrap-starter.netlify.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "scotch-io.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 51,
@@ -435,7 +435,7 @@
     "Rank": 55,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "stethoscope.js.org",
+    "Activity": "jekyll-serif.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -443,7 +443,7 @@
     "Rank": 56,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "jekyll-serif.netlify.app",
+    "Activity": "cowin.gov.in",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -451,7 +451,7 @@
     "Rank": 57,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "cowin.gov.in",
+    "Activity": "stethoscope.js.org",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -467,25 +467,25 @@
     "Rank": 59,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "jekyllthemes.org",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 60,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "themes.jekyllbootstrap.com",
-    "Category": "Uncategorized",
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
     "Rank": 61,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "jekyllthemes.org",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "themes.jekyllbootstrap.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 62,

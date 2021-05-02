@@ -1,42 +1,266 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 10,
+    "Time Spent (seconds)": 7303,
     "Number of People": 1,
-    "Activity": "newtab",
+    "Activity": "web.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 4289,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 4059,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 4039,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 3213,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 2428,
+    "Number of People": 1,
+    "Activity": "mobile - com.brave.browser",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 4,
+    "Rank": 7,
+    "Time Spent (seconds)": 1686,
+    "Number of People": 1,
+    "Activity": "meet.google.com",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 1426,
     "Number of People": 1,
     "Activity": "myscope.training",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 3,
+    "Rank": 9,
+    "Time Spent (seconds)": 892,
     "Number of People": 1,
-    "Activity": "Gmail",
-    "Category": "Email",
+    "Activity": "Google Forms",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 862,
+    "Number of People": 1,
+    "Activity": "Google Keep",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 739,
+    "Number of People": 1,
+    "Activity": "c:",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 599,
+    "Number of People": 1,
+    "Activity": "Calculator",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 490,
+    "Number of People": 1,
+    "Activity": "Google Now",
+    "Category": "Search",
     "Productivity": 0
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 2,
+    "Rank": 14,
+    "Time Spent (seconds)": 404,
     "Number of People": 1,
     "Activity": "drive.google.com",
     "Category": "General Business",
     "Productivity": 2
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 1,
+    "Rank": 15,
+    "Time Spent (seconds)": 344,
+    "Number of People": 1,
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 248,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 238,
+    "Number of People": 1,
+    "Activity": "Slack for Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 221,
+    "Number of People": 1,
+    "Activity": "test.gclocked.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 183,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 169,
+    "Number of People": 1,
+    "Activity": "lms.sssihl.edu.in",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 144,
+    "Number of People": 1,
+    "Activity": "radiopaedia.org",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 86,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 82,
+    "Number of People": 1,
+    "Activity": "assignments.google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Activity": "documentcloud.adobe.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 23,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.video",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "jpk.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "S Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "code.visualstudio.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "form-timer-275307.firebaseapp.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "gclocked.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   }
 ]
