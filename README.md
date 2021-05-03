@@ -49,7 +49,7 @@ A [`.stethoscoperc.yml`](./.stethoscoperc.yml) file is used for configuration. F
 
 This is a real-time screenshot of [Anand Chowdhary](https://anandchowdhary.com)'s RescueTime weekly overview URL, fetched from [AnandChowdhary/life](https://github.com/AnandChowdhary/life):
 
-[![Screenshot of visualization](https://api.microlink.io/?url=https%3A%2F%2Fstethoscope.js.org%2Fembed%2F%3Frepo%3DAnandChowdhary%252Flife%26api%3Drescuetime-time-tracking%26latest%3Dtop-overview.weeks&waitFor=5000&waitUntil=networkidle2&screenshot=true&meta=false&embed=screenshot.url&device=ipadlandscape)](https://stethoscope.js.org/embed/?repo=sid-r-singh%2Flife&api=rescuetime-time-tracking&latest=top-overview.weeks)
+[![Screenshot of visualization](https://api.microlink.io/?url=https%3A%2F%2Fstethoscope.js.org%2Fembed%2F%3Frepo%3Dsid-r-singh%252Flife-data%26api%3Drescuetime-time-tracking%26latest%3Dtop-overview.weeks&waitFor=5000&waitUntil=networkidle2&screenshot=true&meta=false&embed=screenshot.url&device=ipadlandscape)](https://stethoscope.js.org/embed/?repo=sid-r-singh%2Flife-data&api=rescuetime-time-tracking&path=summary%2Ftop-overview%2Fweeks%2F2021%2F19.json&color=%2304AAF5&chart=bar)
 
 Learn how to make your own embeds on https://stethoscope.js.org/docs/embed.
 
