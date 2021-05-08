@@ -38,16 +38,29 @@
     "Entertainment": 5
   },
   "2021-05-6": {
-    "Communication & Scheduling": 8459,
-    "Software Development": 4859,
-    "Utilities": 3272,
-    "Uncategorized": 1643,
-    "Reference & Learning": 1279,
+    "Communication & Scheduling": 8472,
+    "Software Development": 5041,
+    "Utilities": 3274,
+    "Uncategorized": 1729,
+    "Reference & Learning": 1291,
     "Business": 1061,
     "Entertainment": 590,
     "Design & Composition": 46,
     "News & Opinion": 44
   },
-  "2021-05-7": {},
-  "2021-05-8": {}
+  "2021-05-7": {
+    "Communication & Scheduling": 6648,
+    "Software Development": 2851,
+    "Business": 2264,
+    "Uncategorized": 526,
+    "Reference & Learning": 258,
+    "Utilities": 102
+  },
+  "2021-05-8": {
+    "Uncategorized": 656,
+    "Business": 307,
+    "Utilities": 137,
+    "Communication & Scheduling": 50,
+    "News & Opinion": 9
+  }
 }
