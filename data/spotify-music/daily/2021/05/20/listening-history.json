@@ -1,0 +1,146 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jLb0BITddsw4KK3EcNyyn",
+          "id": "2jLb0BITddsw4KK3EcNyyn",
+          "name": "Tuva Meyer",
+          "type": "artist",
+          "uri": "spotify:artist:2jLb0BITddsw4KK3EcNyyn"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1Ees8Jr5nG2uQyYhL2GAgk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27390805379d7c54e1d3232063c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0290805379d7c54e1d3232063c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485190805379d7c54e1d3232063c",
+          "width": 64
+        }
+      ],
+      "name": "No Matter What",
+      "release_date": "2020-08-28",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1Ees8Jr5nG2uQyYhL2GAgk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn"
+        },
+        "href": "https://api.spotify.com/v1/artists/2jLb0BITddsw4KK3EcNyyn",
+        "id": "2jLb0BITddsw4KK3EcNyyn",
+        "name": "Tuva Meyer",
+        "type": "artist",
+        "uri": "spotify:artist:2jLb0BITddsw4KK3EcNyyn"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6nKvfKAVpGlyzXcKcVXwk3",
+    "is_local": false,
+    "name": "No Matter What",
+    "preview_url": "https://p.scdn.co/mp3-preview/e330e3d6359c8ec57b88d6fc2ece72f0a3100eaf?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          },
+          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "type": "artist",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+          },
+          "href": "https://api.spotify.com/v1/artists/5sSzCxHtgL82pYDvx2QyEU",
+          "id": "5sSzCxHtgL82pYDvx2QyEU",
+          "name": "Devi Sri Prasad",
+          "type": "artist",
+          "uri": "spotify:artist:5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3fRvoWSlsK90ii0PVRvw4P",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739f769025df6975a318f2b74a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029f769025df6975a318f2b74a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519f769025df6975a318f2b74a",
+          "width": 64
+        }
+      ],
+      "name": "Ready",
+      "release_date": "2011-04-25",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:3fRvoWSlsK90ii0PVRvw4P"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+        "id": "1wRPtKGflJrBx9BmLsSwlU",
+        "name": "Pritam",
+        "type": "artist",
+        "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        "href": "https://api.spotify.com/v1/artists/0T1CMVkqffHlqEk4BcAph1",
+        "id": "0T1CMVkqffHlqEk4BcAph1",
+        "name": "Tulsi Kumar",
+        "type": "artist",
+        "uri": "spotify:artist:0T1CMVkqffHlqEk4BcAph1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        "href": "https://api.spotify.com/v1/artists/4fEkbug6kZzzJ8eYX6Kbbp",
+        "id": "4fEkbug6kZzzJ8eYX6Kbbp",
+        "name": "KK",
+        "type": "artist",
+        "uri": "spotify:artist:4fEkbug6kZzzJ8eYX6Kbbp"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4cltuh2RNH0LyZY9I8Vi08",
+    "is_local": false,
+    "name": "Humko Pyar Hua",
+    "preview_url": "https://p.scdn.co/mp3-preview/e3d39053f5e924b1e8907d7bfac5cba42e6fd3c2?cid=811598a754134358878b30bc9c28decd"
+  }
+]

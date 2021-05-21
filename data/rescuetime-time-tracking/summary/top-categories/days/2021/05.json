@@ -330,8 +330,8 @@
     "Calendars": 81,
     "General News & Opinion": 54,
     "Internet Utilities": 4,
-    "Search": 1,
-    "Engineering & Technology": 1
+    "Engineering & Technology": 1,
+    "Search": 1
   },
   "19": {
     "Photos": 10917,
@@ -348,11 +348,19 @@
     "Search": 62
   },
   "20": {
-    "General Business": 1065,
-    "General Reference & Learning": 90,
-    "Browsers": 4
+    "General Business": 2097,
+    "General Reference & Learning": 991,
+    "Email": 816,
+    "Instant Message": 265,
+    "General Utilities": 132,
+    "Browsers": 47,
+    "General Communication & Scheduling": 31,
+    "Calendars": 21,
+    "Search": 11
   },
-  "21": {},
+  "21": {
+    "General Reference & Learning": 262
+  },
   "22": {},
   "23": {},
   "24": {},
