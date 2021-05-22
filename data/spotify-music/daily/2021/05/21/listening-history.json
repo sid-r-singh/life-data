@@ -1,0 +1,166 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ohaQzKaXrobAL8paLSaxq",
+          "id": "6ohaQzKaXrobAL8paLSaxq",
+          "name": "Salim–Sulaiman",
+          "type": "artist",
+          "uri": "spotify:artist:6ohaQzKaXrobAL8paLSaxq"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7gJUjDpRvBRY5oCh4pC9d5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d976f08a9feba38efcafb5ff",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d976f08a9feba38efcafb5ff",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d976f08a9feba38efcafb5ff",
+          "width": 64
+        }
+      ],
+      "name": "Kurbaan (Original Motion Picture Soundtrack)",
+      "release_date": "2009-10-15",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:7gJUjDpRvBRY5oCh4pC9d5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        "href": "https://api.spotify.com/v1/artists/6ohaQzKaXrobAL8paLSaxq",
+        "id": "6ohaQzKaXrobAL8paLSaxq",
+        "name": "Salim–Sulaiman",
+        "type": "artist",
+        "uri": "spotify:artist:6ohaQzKaXrobAL8paLSaxq"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        "href": "https://api.spotify.com/v1/artists/1dVygo6tRFXC8CSWURQJq2",
+        "id": "1dVygo6tRFXC8CSWURQJq2",
+        "name": "Sonu Nigam",
+        "type": "artist",
+        "uri": "spotify:artist:1dVygo6tRFXC8CSWURQJq2"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+        "id": "0oOet2f43PA68X5RxKobEy",
+        "name": "Shreya Ghoshal",
+        "type": "artist",
+        "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        },
+        "href": "https://api.spotify.com/v1/artists/1TbRSunWGZ46mqnapcWxrm",
+        "id": "1TbRSunWGZ46mqnapcWxrm",
+        "name": "Salim Merchant",
+        "type": "artist",
+        "uri": "spotify:artist:1TbRSunWGZ46mqnapcWxrm"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3nKEiJUeaWn8q2O9I1xwlB",
+    "is_local": false,
+    "name": "Shukran Allah",
+    "preview_url": "https://p.scdn.co/mp3-preview/f644c634dad93d1d2ddeb8321d6fe45915800a56?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+          },
+          "href": "https://api.spotify.com/v1/artists/0T1CMVkqffHlqEk4BcAph1",
+          "id": "0T1CMVkqffHlqEk4BcAph1",
+          "name": "Tulsi Kumar",
+          "type": "artist",
+          "uri": "spotify:artist:0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
+          "id": "2GoeZ0qOTt6kjsWW4eA6LS",
+          "name": "Darshan Raval",
+          "type": "artist",
+          "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/28NpsSwjrzxoA4Tr7rH1aT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738cff70163a8192d29b8a4f16",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028cff70163a8192d29b8a4f16",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518cff70163a8192d29b8a4f16",
+          "width": 64
+        }
+      ],
+      "name": "Tere Naal",
+      "release_date": "2020-05-18",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:28NpsSwjrzxoA4Tr7rH1aT"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        "href": "https://api.spotify.com/v1/artists/0T1CMVkqffHlqEk4BcAph1",
+        "id": "0T1CMVkqffHlqEk4BcAph1",
+        "name": "Tulsi Kumar",
+        "type": "artist",
+        "uri": "spotify:artist:0T1CMVkqffHlqEk4BcAph1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
+        "id": "2GoeZ0qOTt6kjsWW4eA6LS",
+        "name": "Darshan Raval",
+        "type": "artist",
+        "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2Vw94w6FxCyaYwyCivi9Py",
+    "is_local": false,
+    "name": "Tere Naal",
+    "preview_url": "https://p.scdn.co/mp3-preview/dcb7410127350f053c74061642b6dd482bae1087?cid=811598a754134358878b30bc9c28decd"
+  }
+]
