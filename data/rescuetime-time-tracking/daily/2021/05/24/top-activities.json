@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 807,
+    "Time Spent (seconds)": 987,
     "Number of People": 1,
     "Activity": "dash.cloudflare.com",
     "Category": "Systems Operations",
@@ -233,6 +233,14 @@
   },
   {
     "Rank": 30,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "about:privatebrowsing",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 31,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "gohugo.io",
@@ -240,20 +248,12 @@
     "Productivity": 2
   },
   {
-    "Rank": 31,
+    "Rank": 32,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "api.daily.dev",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 32,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Activity": "smashingmagazine.com",
-    "Category": "Graphic Design",
-    "Productivity": 2
   },
   {
     "Rank": 33,
@@ -262,5 +262,13 @@
     "Activity": "favicon.io",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "smashingmagazine.com",
+    "Category": "Graphic Design",
+    "Productivity": 2
   }
 ]
