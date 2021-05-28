@@ -1,0 +1,122 @@
+[
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "indian instrumental",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+    "id": "1wRPtKGflJrBx9BmLsSwlU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/9b9643ab7444d6184d1b33e534cacc15c1e44186",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/977a863f05e131f5445171f192a16e1da081bef3",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/c2a6fd4516953f7107a300da645dc148378127e1",
+        "width": 160
+      }
+    ],
+    "name": "Pritam",
+    "type": "artist",
+    "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+    "id": "4YRxDV8wJFPHPTeXepOstw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/2ef89fc8ae47fcfd1c4efbdb4135ad6ba9b93fb1",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/eb81a98108c42b4332944336a9acc017d8d89dca",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/aaf5e02bc54b29d3643be598ff9cd405ef4ca363",
+        "width": 160
+      }
+    ],
+    "name": "Arijit Singh",
+    "type": "artist",
+    "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+  },
+  {
+    "genres": [
+      "classic pakistani pop",
+      "desi pop",
+      "filmi",
+      "modern bollywood",
+      "sufi"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2oSONSC9zQ4UonDKnLqksx",
+    "id": "2oSONSC9zQ4UonDKnLqksx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/a58b91c0bedfd3c73cd34766895254467b49d398",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/a773733cbab89713080b9efba9c9d065e298a54c",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/54fd9deb73182862534d1b348f6b17b312518a61",
+        "width": 160
+      }
+    ],
+    "name": "Atif Aslam",
+    "type": "artist",
+    "uri": "spotify:artist:2oSONSC9zQ4UonDKnLqksx"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "modern bollywood",
+      "sufi"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+    "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/e55a072cf7c343dde8ac85111f2c1dc780ec2046",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/491ead55768f2446279e51aeae9d878e567c7833",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/45a0f11a8bbdd10fb0326ea45119f60cf8e35b1c",
+        "width": 160
+      }
+    ],
+    "name": "Vishal-Shekhar",
+    "type": "artist",
+    "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+  }
+]
