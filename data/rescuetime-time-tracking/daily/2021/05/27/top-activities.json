@@ -65,7 +65,7 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 567,
+    "Time Spent (seconds)": 590,
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
@@ -291,7 +291,7 @@
     "Rank": 37,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "adobe.com",
+    "Activity": "firebase.google.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -299,7 +299,7 @@
     "Rank": 38,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "firebase.google.com",
+    "Activity": "adobe.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -331,15 +331,15 @@
     "Rank": 42,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "signalnerve.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "zetcode.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 43,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "zetcode.com",
+    "Activity": "stackabuse.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -347,8 +347,8 @@
     "Rank": 44,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "stackabuse.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "signalnerve.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]

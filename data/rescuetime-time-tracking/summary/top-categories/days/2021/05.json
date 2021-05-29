@@ -475,7 +475,7 @@
     "Instant Message": 1870,
     "General Social Networking": 727,
     "General Design & Composition": 591,
-    "Email": 567,
+    "Email": 590,
     "Engineering & Technology": 379,
     "Video": 292,
     "Search": 109,
@@ -484,7 +484,18 @@
     "General Business": 27,
     "General Utilities": 12
   },
-  "28": {},
-  "29": {},
+  "28": {
+    "Meetings": 1207,
+    "Email": 56,
+    "General Communication & Scheduling": 43,
+    "Browsers": 20,
+    "General Utilities": 2
+  },
+  "29": {
+    "General Business": 433,
+    "General Communication & Scheduling": 48,
+    "Browsers": 9,
+    "Email": 8
+  },
   "30": {}
 }
