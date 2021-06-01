@@ -4,6 +4,103 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0G39cGLn32c0JPYRVtkDxz"
+          },
+          "href": "https://api.spotify.com/v1/artists/0G39cGLn32c0JPYRVtkDxz",
+          "id": "0G39cGLn32c0JPYRVtkDxz",
+          "name": "Aashish Rego",
+          "type": "artist",
+          "uri": "spotify:artist:0G39cGLn32c0JPYRVtkDxz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4lb4zfaC7w8vbQTJxR8ePK"
+          },
+          "href": "https://api.spotify.com/v1/artists/4lb4zfaC7w8vbQTJxR8ePK",
+          "id": "4lb4zfaC7w8vbQTJxR8ePK",
+          "name": "Shree D",
+          "type": "artist",
+          "uri": "spotify:artist:4lb4zfaC7w8vbQTJxR8ePK"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          },
+          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "type": "artist",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1No3mZGQxQBiUULJ4W2AZN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27302f267a714bb0a2260e8d60d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0202f267a714bb0a2260e8d60d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485102f267a714bb0a2260e8d60d",
+          "width": 64
+        }
+      ],
+      "name": "Always Kabhi Kabhi",
+      "release_date": "2011-05-18",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1No3mZGQxQBiUULJ4W2AZN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+        "id": "1wRPtKGflJrBx9BmLsSwlU",
+        "name": "Pritam",
+        "type": "artist",
+        "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/42jgHGbOryNOmlSgJPGljN"
+        },
+        "href": "https://api.spotify.com/v1/artists/42jgHGbOryNOmlSgJPGljN",
+        "id": "42jgHGbOryNOmlSgJPGljN",
+        "name": "Suhail Kaul",
+        "type": "artist",
+        "uri": "spotify:artist:42jgHGbOryNOmlSgJPGljN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5xsanGAiHVj83CD8AQelUM"
+        },
+        "href": "https://api.spotify.com/v1/artists/5xsanGAiHVj83CD8AQelUM",
+        "id": "5xsanGAiHVj83CD8AQelUM",
+        "name": "Ishq Bector",
+        "type": "artist",
+        "uri": "spotify:artist:5xsanGAiHVj83CD8AQelUM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6F9aMeUkv2ESGv56I3gXg7",
+    "is_local": false,
+    "name": "School Ke Din",
+    "preview_url": "https://p.scdn.co/mp3-preview/0916c9b5bac0c353367d4643b81eb5ce4d6c8e6a?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
           },
           "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
