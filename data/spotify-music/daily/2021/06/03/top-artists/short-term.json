@@ -1,0 +1,32 @@
+[
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "indian instrumental",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+    "id": "1wRPtKGflJrBx9BmLsSwlU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/9b9643ab7444d6184d1b33e534cacc15c1e44186",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/977a863f05e131f5445171f192a16e1da081bef3",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/c2a6fd4516953f7107a300da645dc148378127e1",
+        "width": 160
+      }
+    ],
+    "name": "Pritam",
+    "type": "artist",
+    "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+  }
+]
