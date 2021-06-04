@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1935,
+    "Time Spent (seconds)": 2219,
     "Number of People": 1,
     "Activity": "cloudinary.com",
     "Category": "General Software Development",
@@ -9,6 +9,30 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 1645,
+    "Number of People": 1,
+    "Activity": "canva.com",
+    "Category": "General Design & Composition",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1253,
+    "Number of People": 1,
+    "Activity": "coolors.co",
+    "Category": "Graphic Design",
+    "Productivity": 2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1092,
+    "Number of People": 1,
+    "Activity": "open.spotify.com",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 387,
     "Number of People": 1,
     "Activity": "faststone.org",
@@ -16,7 +40,23 @@
     "Productivity": -2
   },
   {
-    "Rank": 3,
+    "Rank": 6,
+    "Time Spent (seconds)": 300,
+    "Number of People": 1,
+    "Activity": "sflc.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 266,
+    "Number of People": 1,
+    "Activity": "icons8.com",
+    "Category": "Graphic Design",
+    "Productivity": 2
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 101,
     "Number of People": 1,
     "Activity": "youtube.com",
@@ -24,35 +64,147 @@
     "Productivity": -2
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 73,
+    "Rank": 9,
+    "Time Spent (seconds)": 97,
     "Number of People": 1,
-    "Activity": "res.cloudinary.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "c:",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 24,
+    "Rank": 10,
+    "Time Spent (seconds)": 96,
     "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
+    "Activity": "colors.muz.li",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 13,
+    "Rank": 11,
+    "Time Spent (seconds)": 87,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 6,
+    "Rank": 12,
+    "Time Spent (seconds)": 76,
+    "Number of People": 1,
+    "Activity": "res.cloudinary.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 55,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
     "Category": "General Utilities",
     "Productivity": 1
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Activity": "convertio.co",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Activity": "tempmail.plus",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "photoshop.adobe.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "svgtopng.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Activity": "simpleicons.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "iconscout.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "adobe.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "accounts.spotify.com",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "simpleicons.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "cloudconvert.com",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "simpleicon.com",
+    "Category": "General Design & Composition",
+    "Productivity": 2
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   }
 ]
