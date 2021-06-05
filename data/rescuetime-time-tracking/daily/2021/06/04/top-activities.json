@@ -1,82 +1,386 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 471,
+    "Time Spent (seconds)": 6187,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 3719,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1186,
+    "Number of People": 1,
+    "Activity": "joshwcomeau.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 942,
     "Number of People": 1,
     "Activity": "serverfault.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 247,
+    "Rank": 5,
+    "Time Spent (seconds)": 545,
     "Number of People": 1,
-    "Activity": "bluehost.com",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "gatsby-theme-carbon.vercel.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 182,
+    "Rank": 6,
+    "Time Spent (seconds)": 517,
     "Number of People": 1,
     "Activity": "google.com",
     "Category": "Search",
     "Productivity": 0
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 170,
+    "Rank": 7,
+    "Time Spent (seconds)": 494,
+    "Number of People": 1,
+    "Activity": "bluehost.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 356,
+    "Number of People": 1,
+    "Activity": "makaroni4.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 340,
     "Number of People": 1,
     "Activity": "httpd.apache.org",
     "Category": "Systems Operations",
     "Productivity": 2
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 107,
+    "Rank": 10,
+    "Time Spent (seconds)": 308,
+    "Number of People": 1,
+    "Activity": "dev.to",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 218,
+    "Number of People": 1,
+    "Activity": "ibm.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 214,
     "Number of People": 1,
     "Activity": "forum.modrewrite.com",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 85,
+    "Rank": 13,
+    "Time Spent (seconds)": 170,
     "Number of People": 1,
     "Activity": "hostgator.com",
     "Category": "Presentation",
     "Productivity": 2
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 43,
+    "Rank": 14,
+    "Time Spent (seconds)": 164,
+    "Number of People": 1,
+    "Activity": "jsoning.js.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 149,
+    "Number of People": 1,
+    "Activity": "markme.glitch.me",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 140,
+    "Number of People": 1,
+    "Activity": "firebase.google.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 134,
+    "Number of People": 1,
+    "Activity": "liyasthomas.web.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 128,
+    "Number of People": 1,
+    "Activity": "tonyxu.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 124,
+    "Number of People": 1,
+    "Activity": "carbondesignsystem.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 124,
+    "Number of People": 1,
+    "Activity": "overreacted.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 121,
+    "Number of People": 1,
+    "Activity": "fauna.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 107,
+    "Number of People": 1,
+    "Activity": "spectrum.chat",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 89,
+    "Number of People": 1,
+    "Activity": "liyasthomas.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 86,
     "Number of People": 1,
     "Activity": "secure.hostmetro.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 18,
+    "Rank": 25,
+    "Time Spent (seconds)": 80,
+    "Number of People": 1,
+    "Activity": "cloud.google.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 64,
+    "Number of People": 1,
+    "Activity": "yourfreebies.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 61,
+    "Number of People": 1,
+    "Activity": "fastly.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 53,
+    "Number of People": 1,
+    "Activity": "gist.github.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 52,
+    "Number of People": 1,
+    "Activity": "w3collective.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 51,
+    "Number of People": 1,
+    "Activity": "icesofty.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 50,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 47,
+    "Number of People": 1,
+    "Activity": "makaroni4.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 43,
+    "Number of People": 1,
+    "Activity": "angry-bohr-9e84bc.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Activity": "jsfiddle.net",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Activity": "siteground.com",
     "Category": "Internet Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 8,
+    "Rank": 36,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "codepen.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 37,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Activity": "gc.sidh.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 38,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 39,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 40,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Activity": "alansimpson.thinkific.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "khaleelgibran.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "independence.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 43,
+    "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "modrewrite.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 3,
+    "Rank": 44,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "css-tricks.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "services.google.com",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 46,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "wordpress.org",
     "Category": "General Software Development",
     "Productivity": 2
+  },
+  {
+    "Rank": 47,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "stackedit.io",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 48,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "avatars.githubusercontent.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]

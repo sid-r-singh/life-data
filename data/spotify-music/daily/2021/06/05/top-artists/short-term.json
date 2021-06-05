@@ -1,0 +1,91 @@
+[
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "indian instrumental",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+    "id": "1wRPtKGflJrBx9BmLsSwlU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/9b9643ab7444d6184d1b33e534cacc15c1e44186",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/977a863f05e131f5445171f192a16e1da081bef3",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/c2a6fd4516953f7107a300da645dc148378127e1",
+        "width": 160
+      }
+    ],
+    "name": "Pritam",
+    "type": "artist",
+    "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+    "id": "4YRxDV8wJFPHPTeXepOstw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/2ef89fc8ae47fcfd1c4efbdb4135ad6ba9b93fb1",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/eb81a98108c42b4332944336a9acc017d8d89dca",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/aaf5e02bc54b29d3643be598ff9cd405ef4ca363",
+        "width": 160
+      }
+    ],
+    "name": "Arijit Singh",
+    "type": "artist",
+    "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "modern bollywood",
+      "sufi"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0T1CMVkqffHlqEk4BcAph1",
+    "id": "0T1CMVkqffHlqEk4BcAph1",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/c6c1bd7a4526e6891d7ee05ec82b75d7f981be5b",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/c9a9c21e86a60965947d954e5f280a7448a365ac",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/e0be6c7ee65cadec8e95f70d6be2d4bfda9d39c1",
+        "width": 160
+      }
+    ],
+    "name": "Tulsi Kumar",
+    "type": "artist",
+    "uri": "spotify:artist:0T1CMVkqffHlqEk4BcAph1"
+  }
+]
