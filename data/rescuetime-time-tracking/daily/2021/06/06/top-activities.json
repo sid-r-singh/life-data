@@ -57,19 +57,19 @@
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 703,
+    "Number of People": 1,
+    "Activity": "canva.com",
+    "Category": "General Design & Composition",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 654,
     "Number of People": 1,
     "Activity": "f5.com",
     "Category": "General News & Opinion",
     "Productivity": -2
-  },
-  {
-    "Rank": 9,
-    "Time Spent (seconds)": 609,
-    "Number of People": 1,
-    "Activity": "canva.com",
-    "Category": "General Design & Composition",
-    "Productivity": 2
   },
   {
     "Rank": 10,
@@ -97,10 +97,10 @@
   },
   {
     "Rank": 13,
-    "Time Spent (seconds)": 511,
+    "Time Spent (seconds)": 515,
     "Number of People": 1,
-    "Activity": "ubuntupit.com",
-    "Category": "Uncategorized",
+    "Activity": "google.com",
+    "Category": "Search",
     "Productivity": 0
   },
   {
@@ -113,6 +113,14 @@
   },
   {
     "Rank": 15,
+    "Time Spent (seconds)": 511,
+    "Number of People": 1,
+    "Activity": "ubuntupit.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
     "Time Spent (seconds)": 507,
     "Number of People": 1,
     "Activity": "linode.com",
@@ -120,20 +128,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 16,
+    "Rank": 17,
     "Time Spent (seconds)": 476,
     "Number of People": 1,
     "Activity": "cloudinary.com",
     "Category": "General Software Development",
     "Productivity": 2
-  },
-  {
-    "Rank": 17,
-    "Time Spent (seconds)": 455,
-    "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
-    "Productivity": 0
   },
   {
     "Rank": 18,
@@ -209,6 +209,14 @@
   },
   {
     "Rank": 27,
+    "Time Spent (seconds)": 207,
+    "Number of People": 1,
+    "Activity": "apache.org",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 28,
     "Time Spent (seconds)": 193,
     "Number of People": 1,
     "Activity": "hbayraktar.medium.com",
@@ -216,7 +224,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 28,
+    "Rank": 29,
     "Time Spent (seconds)": 186,
     "Number of People": 1,
     "Activity": "laurieontech.com",
@@ -224,20 +232,12 @@
     "Productivity": 0
   },
   {
-    "Rank": 29,
+    "Rank": 30,
     "Time Spent (seconds)": 170,
     "Number of People": 1,
     "Activity": "gc.sidh.dev",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 30,
-    "Time Spent (seconds)": 169,
-    "Number of People": 1,
-    "Activity": "apache.org",
-    "Category": "General Software Development",
-    "Productivity": 2
   },
   {
     "Rank": 31,
@@ -369,6 +369,14 @@
   },
   {
     "Rank": 47,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Activity": "grayscale.imageonline.co",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 48,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -376,7 +384,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 48,
+    "Rank": 49,
+    "Time Spent (seconds)": 40,
+    "Number of People": 1,
+    "Activity": "onlineimagetools.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 50,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
     "Activity": "linuxconfig.org",
@@ -384,7 +400,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 49,
+    "Rank": 51,
     "Time Spent (seconds)": 37,
     "Number of People": 1,
     "Activity": "humblycode.com",
@@ -392,7 +408,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 50,
+    "Rank": 52,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
     "Activity": "phoenixnap.com",
@@ -400,7 +416,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 51,
+    "Rank": 53,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Activity": "blog.desdelinux.net",
@@ -408,7 +424,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 52,
+    "Rank": 54,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "206.189.84.119",
@@ -416,7 +432,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 53,
+    "Rank": 55,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
     "Activity": "maxogden.com",
@@ -424,7 +440,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 54,
+    "Rank": 56,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
     "Activity": "docs.plesk.com",
@@ -432,7 +448,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 55,
+    "Rank": 57,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "seeklogo.com",
@@ -440,7 +456,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 56,
+    "Rank": 58,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
     "Activity": "nestacms.com",
@@ -448,7 +464,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 57,
+    "Rank": 59,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "monovm.com",
@@ -456,7 +472,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 58,
+    "Rank": 60,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "cleanpng.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 61,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "rdtk.net",
@@ -464,7 +488,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 59,
+    "Rank": 62,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "bitly.com",
@@ -472,7 +496,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 60,
+    "Rank": 63,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "computernetworkingnotes.com",
@@ -480,7 +504,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 61,
+    "Rank": 64,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "brandslogos.com",
@@ -488,7 +512,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 62,
+    "Rank": 65,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "upload.wikimedia.org",
@@ -496,7 +520,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 63,
+    "Rank": 66,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "tecmint.com",
@@ -504,7 +528,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 64,
+    "Rank": 67,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "riptutorial.com",
@@ -512,7 +536,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 65,
+    "Rank": 68,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "wistia.com",
@@ -520,23 +544,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 66,
-    "Time Spent (seconds)": 11,
-    "Number of People": 1,
-    "Activity": "res.cloudinary.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 67,
-    "Time Spent (seconds)": 11,
-    "Number of People": 1,
-    "Activity": "ssl.wiki",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 68,
+    "Rank": 69,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "docs.nginx.com",
@@ -544,7 +552,31 @@
     "Productivity": 2
   },
   {
-    "Rank": 69,
+    "Rank": 70,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "res.cloudinary.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 71,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "ssl.wiki",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 72,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 73,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "cwiki.apache.org",
@@ -552,7 +584,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 70,
+    "Rank": 74,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "icons8.com",
@@ -560,7 +592,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 71,
+    "Rank": 75,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "pngwing.com",
@@ -568,7 +600,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 72,
+    "Rank": 76,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "app.netlify.com",
@@ -576,7 +608,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 73,
+    "Rank": 77,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "accounts.spotify.com",
@@ -584,15 +616,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 74,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "devtest1.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 75,
+    "Rank": 78,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "medium.com",
@@ -600,7 +624,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 76,
+    "Rank": 79,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "johno.com",
@@ -608,23 +632,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 77,
-    "Time Spent (seconds)": 4,
+    "Rank": 80,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "cleanpng.com",
+    "Activity": "devtest1.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 78,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "cloudfare-hugo-zzo.pages.dev",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 79,
+    "Rank": 81,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "twitter.com",
@@ -632,7 +648,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 80,
+    "Rank": 82,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "cloudfare-hugo-zzo.pages.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 83,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "ownyourbits.com",
@@ -640,7 +664,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 81,
+    "Rank": 84,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "dl.eff.org",
