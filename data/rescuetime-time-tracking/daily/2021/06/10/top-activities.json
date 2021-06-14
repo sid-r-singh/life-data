@@ -427,7 +427,7 @@
     "Rank": 54,
     "Time Spent (seconds)": 117,
     "Number of People": 1,
-    "Activity": "spacebook.app",
+    "Activity": "indieweb.org",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -435,7 +435,7 @@
     "Rank": 55,
     "Time Spent (seconds)": 117,
     "Number of People": 1,
-    "Activity": "indieweb.org",
+    "Activity": "spacebook.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -483,16 +483,16 @@
     "Rank": 61,
     "Time Spent (seconds)": 105,
     "Number of People": 1,
-    "Activity": "jekyllrb.com",
-    "Category": "Engineering & Technology",
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 62,
     "Time Spent (seconds)": 105,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
+    "Activity": "jekyllrb.com",
+    "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
@@ -515,7 +515,7 @@
     "Rank": 65,
     "Time Spent (seconds)": 98,
     "Number of People": 1,
-    "Activity": "jace-ty.netlify.app",
+    "Activity": "kevee.net",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -523,7 +523,7 @@
     "Rank": 66,
     "Time Spent (seconds)": 98,
     "Number of People": 1,
-    "Activity": "techtalk.zachleat.dev",
+    "Activity": "jace-ty.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -531,7 +531,7 @@
     "Rank": 67,
     "Time Spent (seconds)": 98,
     "Number of People": 1,
-    "Activity": "kevee.net",
+    "Activity": "techtalk.zachleat.dev",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -659,17 +659,17 @@
     "Rank": 83,
     "Time Spent (seconds)": 66,
     "Number of People": 1,
-    "Activity": "karaschechtman.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "forge.laravel.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 84,
     "Time Spent (seconds)": 66,
     "Number of People": 1,
-    "Activity": "forge.laravel.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "karaschechtman.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 85,
@@ -795,28 +795,20 @@
     "Rank": 100,
     "Time Spent (seconds)": 44,
     "Number of People": 1,
-    "Activity": "npmjs.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 101,
-    "Time Spent (seconds)": 44,
-    "Number of People": 1,
     "Activity": "tyle.io",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 102,
-    "Time Spent (seconds)": 43,
+    "Rank": 101,
+    "Time Spent (seconds)": 44,
     "Number of People": 1,
-    "Activity": "11ty-feedback.netlify.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "npmjs.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
-    "Rank": 103,
+    "Rank": 102,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
     "Activity": "indestructibletype.com",
@@ -824,12 +816,20 @@
     "Productivity": 0
   },
   {
-    "Rank": 104,
+    "Rank": 103,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
     "Activity": "raw.githubusercontent.com",
     "Category": "General Software Development",
     "Productivity": 2
+  },
+  {
+    "Rank": 104,
+    "Time Spent (seconds)": 43,
+    "Number of People": 1,
+    "Activity": "11ty-feedback.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 105,
@@ -875,7 +875,7 @@
     "Rank": 110,
     "Time Spent (seconds)": 37,
     "Number of People": 1,
-    "Activity": "prahadusevni.cz",
+    "Activity": "storydoc.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -883,7 +883,7 @@
     "Rank": 111,
     "Time Spent (seconds)": 37,
     "Number of People": 1,
-    "Activity": "storydoc.com",
+    "Activity": "prahadusevni.cz",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -947,7 +947,7 @@
     "Rank": 119,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "phgnovinky.cz",
+    "Activity": "thanks.trnck.dev",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -955,7 +955,7 @@
     "Rank": 120,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "thanks.trnck.dev",
+    "Activity": "credly.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -963,7 +963,7 @@
     "Rank": 121,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "credly.com",
+    "Activity": "phgnovinky.cz",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -1003,7 +1003,7 @@
     "Rank": 126,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "folkartschool.vesterheim.org",
+    "Activity": "ogwurujohnson.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -1011,17 +1011,17 @@
     "Rank": 127,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "11ty.github.io",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "folkartschool.vesterheim.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 128,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "ogwurujohnson.netlify.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "11ty.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 129,
@@ -1043,28 +1043,12 @@
     "Rank": 131,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "themes.gohugo.io",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 132,
-    "Time Spent (seconds)": 16,
-    "Number of People": 1,
-    "Activity": "quantumwarp.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 133,
-    "Time Spent (seconds)": 16,
-    "Number of People": 1,
     "Activity": "kodiakhq.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 134,
+    "Rank": 132,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "htmlhead.dev",
@@ -1072,7 +1056,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 135,
+    "Rank": 133,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "sap-commerce-workplace-tool.netlify.app",
@@ -1080,7 +1064,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 136,
+    "Rank": 134,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "stackoverflow.com",
@@ -1088,10 +1072,26 @@
     "Productivity": 2
   },
   {
+    "Rank": 135,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "themes.gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 136,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "quantumwarp.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 137,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "joytours.cz",
+    "Activity": "status.trnck.dev",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -1099,7 +1099,7 @@
     "Rank": 138,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "status.trnck.dev",
+    "Activity": "joytours.cz",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -1115,7 +1115,7 @@
     "Rank": 140,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "firebase-corgi-photos.netlify.app",
+    "Activity": "rocket11ty.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -1123,52 +1123,28 @@
     "Rank": 141,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "apps.apple.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
-  },
-  {
-    "Rank": 142,
-    "Time Spent (seconds)": 12,
-    "Number of People": 1,
-    "Activity": "rocket11ty.netlify.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 143,
-    "Time Spent (seconds)": 12,
-    "Number of People": 1,
     "Activity": "moment.github.io",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
+    "Rank": 142,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "apps.apple.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 143,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "firebase-corgi-photos.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 144,
-    "Time Spent (seconds)": 11,
-    "Number of People": 1,
-    "Activity": "javl.github.io",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 145,
-    "Time Spent (seconds)": 11,
-    "Number of People": 1,
-    "Activity": "eleventy-classic-blog-starter.vercel.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 146,
-    "Time Spent (seconds)": 11,
-    "Number of People": 1,
-    "Activity": "store.vesterheim.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 147,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "coderwall.com",
@@ -1176,12 +1152,36 @@
     "Productivity": 1
   },
   {
+    "Rank": 145,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "store.vesterheim.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 146,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "javl.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 147,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "eleventy-classic-blog-starter.vercel.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 148,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "v2.isomer.gov.sg",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "cnpmjs.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 149,
@@ -1195,15 +1195,15 @@
     "Rank": 150,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "cnpmjs.org",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "eleventywebstarter.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 151,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "eleventywebstarter.netlify.app",
+    "Activity": "v2.isomer.gov.sg",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -1227,28 +1227,12 @@
     "Rank": 154,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "csumb.edu",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 155,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
-    "Activity": "open.spotify.com",
-    "Category": "Music",
-    "Productivity": -2
-  },
-  {
-    "Rank": 156,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
     "Activity": "pugsum.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 157,
+    "Rank": 155,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "andrasko.cz",
@@ -1256,15 +1240,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 158,
-    "Time Spent (seconds)": 8,
+    "Rank": 156,
+    "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "rachelglickhouse.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "csumb.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
-    "Rank": 159,
+    "Rank": 157,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "open.spotify.com",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 158,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "books.trey.cc",
@@ -1272,7 +1264,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 160,
+    "Rank": 159,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "seancdavis.com",
@@ -1280,7 +1272,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 161,
+    "Rank": 160,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "eleventastic-kontent.netlify.app",
@@ -1288,7 +1280,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 162,
+    "Rank": 161,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "eleventy.rongying.co",
@@ -1296,10 +1288,18 @@
     "Productivity": 0
   },
   {
+    "Rank": 162,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "rachelglickhouse.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 163,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "eleventy-blog-mnml.netlify.app",
+    "Activity": "app.kodiakhq.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -1315,7 +1315,7 @@
     "Rank": 165,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "app.kodiakhq.com",
+    "Activity": "eleventy-blog-mnml.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -1323,36 +1323,12 @@
     "Rank": 166,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "eleventastic.netlify.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "paypal.com",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
     "Rank": 167,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Activity": "sails.ent.sirsi.net",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 168,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Activity": "blog.npmjs.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 169,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Activity": "filtercoffee.netlify.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 170,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "revolution.software.club",
@@ -1360,18 +1336,42 @@
     "Productivity": 0
   },
   {
+    "Rank": 168,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 169,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "eleventastic.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 170,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "sails.ent.sirsi.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 171,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "paypal.com",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "blog.npmjs.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 172,
-    "Time Spent (seconds)": 5,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "mpmjs.org",
+    "Activity": "filtercoffee.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -1379,12 +1379,20 @@
     "Rank": 173,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.video",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 174,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
     "Activity": "supabase.io",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 174,
+    "Rank": 175,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "devices.netflix.com",
@@ -1392,15 +1400,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 175,
-    "Time Spent (seconds)": 4,
+    "Rank": 176,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "vercel.com",
+    "Activity": "mpmjs.org",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 176,
+    "Rank": 177,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "c:",
@@ -1408,7 +1416,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 177,
+    "Rank": 178,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "wi-freecom.it",
@@ -1416,18 +1424,10 @@
     "Productivity": 0
   },
   {
-    "Rank": 178,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Activity": "usbb.org.uk",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
     "Rank": 179,
-    "Time Spent (seconds)": 3,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "bit.dev",
+    "Activity": "vercel.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -1435,7 +1435,7 @@
     "Rank": 180,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "codingschools.club",
+    "Activity": "usbb.org.uk",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -1443,23 +1443,23 @@
     "Rank": 181,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "competent-murdock-3b6689.netlify.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "weblog.rubyonrails.org",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 182,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "api.whatsapp.com",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "codingschools.club",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 183,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "gitpod.io",
+    "Activity": "competent-murdock-3b6689.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -1467,28 +1467,36 @@
     "Rank": 184,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "weblog.rubyonrails.org",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 185,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "codepen.io",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 186,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "amazon.com",
-    "Category": "General Shopping",
+    "Activity": "Android Gallery",
+    "Category": "Photos",
     "Productivity": -2
   },
   {
+    "Rank": 185,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "gitpod.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 186,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "bit.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 187,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "api.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 188,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "docs.miayam.io",
@@ -1496,18 +1504,10 @@
     "Productivity": 0
   },
   {
-    "Rank": 188,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "johnsonogwuru.dev",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
     "Rank": 189,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "cernsummerwebfest.github.com",
+    "Activity": "codepen.io",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -1515,12 +1515,36 @@
     "Rank": 190,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "t.co",
-    "Category": "General Social Networking",
-    "Productivity": -2
+    "Activity": "johnsonogwuru.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 191,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "Camera - Samsung Android Phone",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 192,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "cernsummerwebfest.github.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 193,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "amazon.com",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 194,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "klipped.in",
@@ -1528,7 +1552,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 192,
+    "Rank": 195,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "eleventy-base-blog.netlify.app",
@@ -1536,7 +1560,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 193,
+    "Rank": 196,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "t.co",
+    "Category": "General Social Networking",
+    "Productivity": -2
+  },
+  {
+    "Rank": 197,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "davidluo.com",
