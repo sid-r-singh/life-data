@@ -19,16 +19,16 @@
     "Rank": 3,
     "Time Spent (seconds)": 485,
     "Number of People": 1,
-    "Activity": "travis-ci.org",
-    "Category": "Quality Assurance",
+    "Activity": "caddyserver.com",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
     "Rank": 4,
     "Time Spent (seconds)": 485,
     "Number of People": 1,
-    "Activity": "caddyserver.com",
-    "Category": "General Software Development",
+    "Activity": "travis-ci.org",
+    "Category": "Quality Assurance",
     "Productivity": 2
   },
   {
@@ -163,16 +163,16 @@
     "Rank": 21,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "buymeacoffee.com",
-    "Category": "Uncategorized",
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
     "Rank": 22,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
+    "Activity": "buymeacoffee.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
@@ -203,7 +203,7 @@
     "Rank": 26,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "caddy.community",
+    "Activity": "blog.jovian.ai",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -211,7 +211,7 @@
     "Rank": 27,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "blog.jovian.ai",
+    "Activity": "caddy.community",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -219,28 +219,20 @@
     "Rank": 28,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 29,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
     "Activity": "joy.recurse.com",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 30,
-    "Time Spent (seconds)": 7,
+    "Rank": 29,
+    "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "curl.se",
-    "Category": "Uncategorized",
+    "Activity": "newtab",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 31,
+    "Rank": 30,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "simonwillison.net",
@@ -248,10 +240,18 @@
     "Productivity": -2
   },
   {
-    "Rank": 32,
+    "Rank": 31,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "curlbuilder.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "curl.se",
     "Category": "Uncategorized",
     "Productivity": 0
   },
