@@ -523,20 +523,28 @@
     "Rank": 66,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "login.apnic.net",
-    "Category": "Intelligence",
-    "Productivity": 2
-  },
-  {
-    "Rank": 67,
-    "Time Spent (seconds)": 13,
-    "Number of People": 1,
     "Activity": "feedly.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
+    "Rank": 67,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "login.apnic.net",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
     "Rank": 68,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "api.twitter.com",
+    "Category": "General Social Networking",
+    "Productivity": -2
+  },
+  {
+    "Rank": 69,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "iconfinder.com",
@@ -544,20 +552,12 @@
     "Productivity": 2
   },
   {
-    "Rank": 69,
+    "Rank": 70,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "git-scm.com",
     "Category": "General Software Development",
     "Productivity": 2
-  },
-  {
-    "Rank": 70,
-    "Time Spent (seconds)": 12,
-    "Number of People": 1,
-    "Activity": "api.twitter.com",
-    "Category": "General Social Networking",
-    "Productivity": -2
   },
   {
     "Rank": 71,
@@ -619,17 +619,17 @@
     "Rank": 78,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "namecheap.com",
-    "Category": "Internet Utilities",
-    "Productivity": 1
+    "Activity": "app.netlify.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 79,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "app.netlify.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "namecheap.com",
+    "Category": "Internet Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 80,
