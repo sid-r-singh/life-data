@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 2424,
+    "Time Spent (seconds)": 2488,
     "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1063,
+    "Time Spent (seconds)": 1227,
     "Number of People": 1,
     "Activity": "linkedin.com",
     "Category": "Professional Networking",
@@ -33,6 +33,14 @@
   },
   {
     "Rank": 5,
+    "Time Spent (seconds)": 1104,
+    "Number of People": 1,
+    "Activity": "sathyasai.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
     "Time Spent (seconds)": 1029,
     "Number of People": 1,
     "Activity": "zzo-docs.vercel.app",
@@ -40,20 +48,12 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 920,
     "Number of People": 1,
     "Activity": "disqus.com",
     "Category": "General Social Networking",
     "Productivity": -2
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 775,
-    "Number of People": 1,
-    "Activity": "sathyasai.netlify.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
   },
   {
     "Rank": 8,
@@ -121,19 +121,19 @@
   },
   {
     "Rank": 16,
-    "Time Spent (seconds)": 284,
-    "Number of People": 1,
-    "Activity": "metatags.io",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 17,
-    "Time Spent (seconds)": 254,
+    "Time Spent (seconds)": 285,
     "Number of People": 1,
     "Activity": "developer.twitter.com",
     "Category": "General Software Development",
     "Productivity": 2
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 285,
+    "Number of People": 1,
+    "Activity": "metatags.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 18,
@@ -185,7 +185,7 @@
   },
   {
     "Rank": 24,
-    "Time Spent (seconds)": 151,
+    "Time Spent (seconds)": 153,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
@@ -371,17 +371,17 @@
     "Rank": 47,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "stackoverflow.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "pnghia.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 48,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "pnghia.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "stackoverflow.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 49,
