@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5119,
+    "Time Spent (seconds)": 5391,
     "Number of People": 1,
     "Activity": "192.168.29.42:1313",
     "Category": "Uncategorized",
@@ -299,25 +299,25 @@
     "Rank": 38,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Activity": "alistapart.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 39,
-    "Time Spent (seconds)": 29,
-    "Number of People": 1,
     "Activity": "blog.jeremylikness.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 40,
+    "Rank": 39,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "gist.github.com",
     "Category": "General Software Development",
     "Productivity": 2
+  },
+  {
+    "Rank": 40,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Activity": "alistapart.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 41,
@@ -339,7 +339,7 @@
     "Rank": 43,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
-    "Activity": "gethugothemes.com",
+    "Activity": "courses.thecssworkshop.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -347,7 +347,7 @@
     "Rank": 44,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
-    "Activity": "courses.thecssworkshop.com",
+    "Activity": "gethugothemes.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -443,15 +443,15 @@
     "Rank": 56,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "netlify.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "Blank Web Browser",
+    "Category": "Internet Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 57,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "bks.dilemaswashed.site",
+    "Activity": "0.express-news.me",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -459,15 +459,15 @@
     "Rank": 58,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "Blank Web Browser",
-    "Category": "Internet Utilities",
-    "Productivity": 1
+    "Activity": "netlify.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 59,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "0.express-news.me",
+    "Activity": "bks.dilemaswashed.site",
     "Category": "Uncategorized",
     "Productivity": 0
   }
