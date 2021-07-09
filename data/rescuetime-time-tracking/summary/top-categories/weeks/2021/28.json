@@ -53,8 +53,8 @@
   "2021-07-6": {
     "Meetings": 6061,
     "Browsers": 5425,
-    "Uncategorized": 4612,
     "General Software Development": 4612,
+    "Uncategorized": 4612,
     "Photos": 4395,
     "Editing & IDEs": 4223,
     "General Utilities": 2477,
@@ -75,10 +75,10 @@
   },
   "2021-07-7": {
     "Video": 5258,
-    "General Software Development": 3503,
+    "General Software Development": 3528,
     "Engineering & Technology": 3499,
+    "Professional Networking": 2759,
     "Uncategorized": 2363,
-    "Professional Networking": 2237,
     "General Business": 1477,
     "Systems Operations": 1426,
     "General Social Networking": 1172,
@@ -94,9 +94,31 @@
     "Writing": 28,
     "Business": 21,
     "Internet Utilities": 9,
-    "General Shopping": 7
+    "General Shopping": 7,
+    "General Communication & Scheduling": 1
   },
-  "2021-07-8": {},
+  "2021-07-8": {
+    "General Software Development": 7415,
+    "Uncategorized": 7330,
+    "General Reference & Learning": 3304,
+    "Graphic Design": 1409,
+    "Professional Networking": 691,
+    "Editing & IDEs": 640,
+    "General News & Opinion": 442,
+    "Design & Planning": 353,
+    "Search": 309,
+    "General Social Networking": 291,
+    "General Shopping": 275,
+    "Video": 175,
+    "General Business": 158,
+    "Presentation": 155,
+    "Browsers": 144,
+    "Writing": 134,
+    "Engineering & Technology": 62,
+    "Calendars": 56,
+    "General Utilities": 21,
+    "Science & Technology": 3
+  },
   "2021-07-9": {},
   "2021-07-10": {}
 }
