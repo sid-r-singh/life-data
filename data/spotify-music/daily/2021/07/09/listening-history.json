@@ -1,0 +1,156 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+          },
+          "href": "https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6",
+          "id": "09UmIX92EUH9hAK4bxvHx6",
+          "name": "Mithoon",
+          "type": "artist",
+          "uri": "spotify:artist:09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0E02VcvA5p1ndkLdqWD5JB",
+          "id": "0E02VcvA5p1ndkLdqWD5JB",
+          "name": "Ankit Tiwari",
+          "type": "artist",
+          "uri": "spotify:artist:0E02VcvA5p1ndkLdqWD5JB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl"
+          },
+          "href": "https://api.spotify.com/v1/artists/2kkQthS9OLpK4UqNWYqoVl",
+          "id": "2kkQthS9OLpK4UqNWYqoVl",
+          "name": "Jeet Gannguli",
+          "type": "artist",
+          "uri": "spotify:artist:2kkQthS9OLpK4UqNWYqoVl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0Rkv5iqjF2uenfL0OVB8hg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273348468c203278d510f0cbc5a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02348468c203278d510f0cbc5a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851348468c203278d510f0cbc5a",
+          "width": 64
+        }
+      ],
+      "name": "Aashiqui 2",
+      "release_date": "2013-04-06",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0Rkv5iqjF2uenfL0OVB8hg"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "type": "artist",
+        "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/56zZ48jdyY2oDXHVnwg5Di",
+    "is_local": false,
+    "name": "Tum Hi Ho",
+    "preview_url": "https://p.scdn.co/mp3-preview/845a94d166a85030d657cb05465525c545ad2d46?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6FtZhorjCMfkaVJ7kKdmq7",
+          "id": "6FtZhorjCMfkaVJ7kKdmq7",
+          "name": "Payal Dev",
+          "type": "artist",
+          "uri": "spotify:artist:6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
+          "id": "1tqysapcCh1lWEAc9dIFpa",
+          "name": "Jubin Nautiyal",
+          "type": "artist",
+          "uri": "spotify:artist:1tqysapcCh1lWEAc9dIFpa"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4T4pSf21EvGk9vFqMomFUs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736539071e0f1833190a491d4d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026539071e0f1833190a491d4d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516539071e0f1833190a491d4d",
+          "width": 64
+        }
+      ],
+      "name": "Tum Hi Aana (From \"Marjaavaan\")",
+      "release_date": "2019-10-03",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4T4pSf21EvGk9vFqMomFUs"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        "href": "https://api.spotify.com/v1/artists/6FtZhorjCMfkaVJ7kKdmq7",
+        "id": "6FtZhorjCMfkaVJ7kKdmq7",
+        "name": "Payal Dev",
+        "type": "artist",
+        "uri": "spotify:artist:6FtZhorjCMfkaVJ7kKdmq7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
+        "id": "1tqysapcCh1lWEAc9dIFpa",
+        "name": "Jubin Nautiyal",
+        "type": "artist",
+        "uri": "spotify:artist:1tqysapcCh1lWEAc9dIFpa"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6E9UwSfT80age2xknoMS7Y",
+    "is_local": false,
+    "name": "Tum Hi Aana (From \"Marjaavaan\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/9a2cb03a571d183a409af0f0bd573934556af000?cid=811598a754134358878b30bc9c28decd"
+  }
+]
