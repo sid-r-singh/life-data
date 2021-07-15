@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/7HCqGPJcQTyGJ2yqntbuyr",
+          "id": "7HCqGPJcQTyGJ2yqntbuyr",
+          "name": "Amit Trivedi",
+          "type": "artist",
+          "uri": "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7lF34sP6HtRAL7VEMvYHff",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738c72151621d5c60ed768d010",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028c72151621d5c60ed768d010",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518c72151621d5c60ed768d010",
+          "width": 64
+        }
+      ],
+      "name": "Kedarnath",
+      "release_date": "2018-11-27",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:7lF34sP6HtRAL7VEMvYHff"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "type": "artist",
+        "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6pzlnyHTVYi5FOmrgOmC95",
+    "is_local": false,
+    "name": "Jaan 'Nisaar (Arijit)",
+    "preview_url": "https://p.scdn.co/mp3-preview/8c67718c7c3a8507f915e8abeffc9b9a02f76a76?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+          },
+          "href": "https://api.spotify.com/v1/artists/7HCqGPJcQTyGJ2yqntbuyr",
+          "id": "7HCqGPJcQTyGJ2yqntbuyr",
+          "name": "Amit Trivedi",
+          "type": "artist",
+          "uri": "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7lF34sP6HtRAL7VEMvYHff",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738c72151621d5c60ed768d010",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028c72151621d5c60ed768d010",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518c72151621d5c60ed768d010",
+          "width": 64
+        }
+      ],
+      "name": "Kedarnath",
+      "release_date": "2018-11-27",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:7lF34sP6HtRAL7VEMvYHff"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "type": "artist",
+        "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6pzlnyHTVYi5FOmrgOmC95",
+    "is_local": false,
+    "name": "Jaan 'Nisaar (Arijit)",
+    "preview_url": "https://p.scdn.co/mp3-preview/8c67718c7c3a8507f915e8abeffc9b9a02f76a76?cid=811598a754134358878b30bc9c28decd"
+  }
+]
