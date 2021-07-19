@@ -547,7 +547,7 @@
     "Rank": 69,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "gawel.me",
+    "Activity": "app.umami.is",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -555,23 +555,23 @@
     "Rank": 70,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "css-tricks.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "gawel.me",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 71,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "app.piratepx.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "css-tricks.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 72,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "app.umami.is",
+    "Activity": "app.piratepx.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -619,7 +619,7 @@
     "Rank": 78,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "d33wubrfki0l68.cloudfront.net",
+    "Activity": "jamstackaustin.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -627,7 +627,7 @@
     "Rank": 79,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "jamstackaustin.com",
+    "Activity": "d33wubrfki0l68.cloudfront.net",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -635,36 +635,20 @@
     "Rank": 80,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "newsletter.tecmint.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
-  },
-  {
-    "Rank": 81,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
     "Activity": "techmint.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 82,
-    "Time Spent (seconds)": 8,
+    "Rank": 81,
+    "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "mobile - com.sec.android.app.clockpackage",
-    "Category": "General Utilities",
+    "Activity": "newsletter.tecmint.com",
+    "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
-    "Rank": 83,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
-    "Activity": "res.cloudinary.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 84,
+    "Rank": 82,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "tjk.me",
@@ -672,12 +656,28 @@
     "Productivity": 0
   },
   {
-    "Rank": 85,
+    "Rank": 83,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "danishsiddiqui.net",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 84,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 85,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "res.cloudinary.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 86,
@@ -771,17 +771,17 @@
     "Rank": 97,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "t.co",
-    "Category": "General Social Networking",
-    "Productivity": -2
+    "Activity": "Blank Web Browser",
+    "Category": "Internet Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 98,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "Blank Web Browser",
-    "Category": "Internet Utilities",
-    "Productivity": 1
+    "Activity": "t.co",
+    "Category": "General Social Networking",
+    "Productivity": -2
   },
   {
     "Rank": 99,
