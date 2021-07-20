@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 2489,
+    "Time Spent (seconds)": 2580,
     "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
@@ -419,28 +419,20 @@
     "Rank": 53,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "drive.google.com",
-    "Category": "General Business",
-    "Productivity": 2
-  },
-  {
-    "Rank": 54,
-    "Time Spent (seconds)": 16,
-    "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 55,
-    "Time Spent (seconds)": 15,
+    "Rank": 54,
+    "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
-    "Rank": 56,
+    "Rank": 55,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "google.co.in",
@@ -448,12 +440,20 @@
     "Productivity": 0
   },
   {
-    "Rank": 57,
+    "Rank": 56,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "weeklydeals.dev",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 57,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 58,
@@ -491,33 +491,33 @@
     "Rank": 62,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "t.co",
-    "Category": "General Social Networking",
-    "Productivity": -2
-  },
-  {
-    "Rank": 63,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
     "Activity": "ismiletechnologies.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 64,
-    "Time Spent (seconds)": 5,
+    "Rank": 63,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "sid-r-singh.netlify.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "t.co",
+    "Category": "General Social Networking",
+    "Productivity": -2
   },
   {
-    "Rank": 65,
+    "Rank": 64,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "codepen.io",
     "Category": "General Software Development",
     "Productivity": 2
+  },
+  {
+    "Rank": 65,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "sid-r-singh.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 66,
