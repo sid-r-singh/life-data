@@ -1,0 +1,136 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1TK8mLZQbWPe4sRmkcWrIu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c202064e0775440dacef8802",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c202064e0775440dacef8802",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c202064e0775440dacef8802",
+          "width": 64
+        }
+      ],
+      "name": "Rustom",
+      "release_date": "2016-07-15",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:1TK8mLZQbWPe4sRmkcWrIu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oSONSC9zQ4UonDKnLqksx",
+        "id": "2oSONSC9zQ4UonDKnLqksx",
+        "name": "Atif Aslam",
+        "type": "artist",
+        "uri": "spotify:artist:2oSONSC9zQ4UonDKnLqksx"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4BOYIpYF7zTYtAkpjoD687",
+    "is_local": false,
+    "name": "Tere Sang Yaara",
+    "preview_url": "https://p.scdn.co/mp3-preview/2908c712f97d10453cf1b5287f23af3d1616f457?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6up782ZLUr6QHdMhYjEjG6"
+          },
+          "href": "https://api.spotify.com/v1/artists/6up782ZLUr6QHdMhYjEjG6",
+          "id": "6up782ZLUr6QHdMhYjEjG6",
+          "name": "Vipin Mishra",
+          "type": "artist",
+          "uri": "spotify:artist:6up782ZLUr6QHdMhYjEjG6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qeeIqRH61PXYhNmaprCvg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2qeeIqRH61PXYhNmaprCvg",
+          "id": "2qeeIqRH61PXYhNmaprCvg",
+          "name": "Ashutosh Pathak-Dhruv Ghanekar",
+          "type": "artist",
+          "uri": "spotify:artist:2qeeIqRH61PXYhNmaprCvg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2AeeTI2nCzHW0h4jb0PCzG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734176ceceaf43dba8a41176a2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024176ceceaf43dba8a41176a2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514176ceceaf43dba8a41176a2",
+          "width": 64
+        }
+      ],
+      "name": "Mp3: Mera Pehla Pehla Pyar",
+      "release_date": "2007-05-12",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2AeeTI2nCzHW0h4jb0PCzG"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3tael5UEPkCNTVii9RLFJf"
+        },
+        "href": "https://api.spotify.com/v1/artists/3tael5UEPkCNTVii9RLFJf",
+        "id": "3tael5UEPkCNTVii9RLFJf",
+        "name": "Tara Baswani",
+        "type": "artist",
+        "uri": "spotify:artist:3tael5UEPkCNTVii9RLFJf"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/42jgHGbOryNOmlSgJPGljN"
+        },
+        "href": "https://api.spotify.com/v1/artists/42jgHGbOryNOmlSgJPGljN",
+        "id": "42jgHGbOryNOmlSgJPGljN",
+        "name": "Suhail Kaul",
+        "type": "artist",
+        "uri": "spotify:artist:42jgHGbOryNOmlSgJPGljN"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6S6YwCwDlvyiAmxcpg5x99",
+    "is_local": false,
+    "name": "Kaun Hoon Main (2)",
+    "preview_url": "https://p.scdn.co/mp3-preview/86dff445e45720b8f83b0c8be06196239e5dc1a4?cid=811598a754134358878b30bc9c28decd"
+  }
+]

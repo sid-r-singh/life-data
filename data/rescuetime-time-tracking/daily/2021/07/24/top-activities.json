@@ -1,6 +1,22 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 9236,
+    "Number of People": 1,
+    "Activity": "YouTube for Android",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 7637,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 1873,
     "Number of People": 1,
     "Activity": "c:",
@@ -8,7 +24,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 2,
+    "Rank": 4,
     "Time Spent (seconds)": 1497,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -16,7 +32,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 3,
+    "Rank": 5,
+    "Time Spent (seconds)": 930,
+    "Number of People": 1,
+    "Activity": "mobile - com.spotify.lite",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 6,
     "Time Spent (seconds)": 723,
     "Number of People": 1,
     "Activity": "plausible.io",
@@ -24,7 +48,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 4,
+    "Rank": 7,
     "Time Spent (seconds)": 713,
     "Number of People": 1,
     "Activity": "themes.getbootstrap.com",
@@ -32,7 +56,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 5,
+    "Rank": 8,
     "Time Spent (seconds)": 585,
     "Number of People": 1,
     "Activity": "rusingh.com",
@@ -40,15 +64,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 519,
+    "Rank": 9,
+    "Time Spent (seconds)": 523,
     "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 7,
+    "Rank": 10,
+    "Time Spent (seconds)": 521,
+    "Number of People": 1,
+    "Activity": "Google Chrome for Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 394,
     "Number of People": 1,
     "Activity": "tailwinduikit.com",
@@ -56,7 +88,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 12,
     "Time Spent (seconds)": 331,
     "Number of People": 1,
     "Activity": "tailwindawesome.com",
@@ -64,7 +96,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
+    "Rank": 13,
+    "Time Spent (seconds)": 266,
+    "Number of People": 1,
+    "Activity": "Camera - Samsung Android Phone",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 232,
     "Number of People": 1,
     "Activity": "youtube.com",
@@ -72,7 +112,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 10,
+    "Rank": 15,
     "Time Spent (seconds)": 220,
     "Number of People": 1,
     "Activity": "tailwindtoolbox.github.io",
@@ -80,7 +120,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 11,
+    "Rank": 16,
+    "Time Spent (seconds)": 190,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 17,
     "Time Spent (seconds)": 164,
     "Number of People": 1,
     "Activity": "ackee-railway-deploy-production.up.railway.app",
@@ -88,7 +136,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
+    "Rank": 18,
     "Time Spent (seconds)": 159,
     "Number of People": 1,
     "Activity": "fosstodon.org",
@@ -96,7 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 19,
     "Time Spent (seconds)": 157,
     "Number of People": 1,
     "Activity": "tailwind-awesome.github.io",
@@ -104,7 +152,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 14,
+    "Rank": 20,
     "Time Spent (seconds)": 145,
     "Number of People": 1,
     "Activity": "gomakethings.com",
@@ -112,7 +160,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 15,
+    "Rank": 21,
     "Time Spent (seconds)": 132,
     "Number of People": 1,
     "Activity": "app.usefathom.com",
@@ -120,7 +168,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 16,
+    "Rank": 22,
     "Time Spent (seconds)": 118,
     "Number of People": 1,
     "Activity": "usefathom.com",
@@ -128,7 +176,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 17,
+    "Rank": 23,
+    "Time Spent (seconds)": 111,
+    "Number of People": 1,
+    "Activity": "Google Keep",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 24,
     "Time Spent (seconds)": 101,
     "Number of People": 1,
     "Activity": "cloudamo.com",
@@ -136,7 +192,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 18,
+    "Rank": 25,
     "Time Spent (seconds)": 92,
     "Number of People": 1,
     "Activity": "getbootstrap.com",
@@ -144,7 +200,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 19,
+    "Rank": 26,
+    "Time Spent (seconds)": 86,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.video",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 27,
     "Time Spent (seconds)": 83,
     "Number of People": 1,
     "Activity": "themeforest.net",
@@ -152,7 +216,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 20,
+    "Rank": 28,
+    "Time Spent (seconds)": 68,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 29,
     "Time Spent (seconds)": 59,
     "Number of People": 1,
     "Activity": "newtab",
@@ -160,7 +232,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 21,
+    "Rank": 30,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -168,7 +240,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 22,
+    "Rank": 31,
     "Time Spent (seconds)": 53,
     "Number of People": 1,
     "Activity": "vanillajsguides.com",
@@ -176,7 +248,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 23,
+    "Rank": 32,
     "Time Spent (seconds)": 44,
     "Number of People": 1,
     "Activity": "Gmail",
@@ -184,7 +256,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 24,
+    "Rank": 33,
     "Time Spent (seconds)": 41,
     "Number of People": 1,
     "Activity": "privacyfocusedanalytics.info",
@@ -192,7 +264,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 25,
+    "Rank": 34,
     "Time Spent (seconds)": 38,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -200,7 +272,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 26,
+    "Rank": 35,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Activity": "joelchrono12.ml",
@@ -208,7 +280,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 27,
+    "Rank": 36,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Activity": "indieweb.org",
@@ -216,7 +288,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 28,
+    "Rank": 37,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
     "Activity": "reditory.gbjsolution.com",
@@ -224,7 +296,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 29,
+    "Rank": 38,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -232,7 +304,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 30,
+    "Rank": 39,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
     "Activity": "laurakalbag.com",
@@ -240,7 +312,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 31,
+    "Rank": 40,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Activity": "Google Play Services",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 41,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "bloom.sh",
@@ -248,7 +328,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 32,
+    "Rank": 42,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "w3schools.com",
@@ -256,7 +336,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 33,
+    "Rank": 43,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "forms.bloo.io",
@@ -264,7 +344,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 34,
+    "Rank": 44,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "tailwindtoolbox.com",
@@ -272,23 +352,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 35,
-    "Time Spent (seconds)": 16,
-    "Number of People": 1,
-    "Activity": "gbjsolution.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 36,
-    "Time Spent (seconds)": 16,
-    "Number of People": 1,
-    "Activity": "courses.gomakethings.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
-  },
-  {
-    "Rank": 37,
+    "Rank": 45,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "write.as",
@@ -296,7 +360,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 38,
+    "Rank": 46,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "gbjsolution.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 47,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "courses.gomakethings.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 48,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "nextcloud.com",
@@ -304,7 +384,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 39,
+    "Rank": 49,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "code.visualstudio.com",
@@ -312,7 +392,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 40,
+    "Rank": 50,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "generatepress.com",
@@ -320,7 +400,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 41,
+    "Rank": 51,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "marketplace.visualstudio.com",
@@ -328,7 +408,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 42,
+    "Rank": 52,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "arpit.tk",
@@ -336,7 +416,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 43,
+    "Rank": 53,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "preview.themeforest.net",
@@ -344,7 +424,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 44,
+    "Rank": 54,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 55,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "fosstodon.b-cdn.net",
