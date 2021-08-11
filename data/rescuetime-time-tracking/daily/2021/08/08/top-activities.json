@@ -139,17 +139,17 @@
     "Rank": 18,
     "Time Spent (seconds)": 239,
     "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "freecodecamp.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 19,
     "Time Spent (seconds)": 239,
     "Number of People": 1,
-    "Activity": "freecodecamp.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
     "Rank": 20,
@@ -251,25 +251,25 @@
     "Rank": 32,
     "Time Spent (seconds)": 55,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 33,
-    "Time Spent (seconds)": 55,
-    "Number of People": 1,
     "Activity": "cyberciti.biz",
     "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
-    "Rank": 34,
+    "Rank": 33,
     "Time Spent (seconds)": 55,
     "Number of People": 1,
     "Activity": "stackoverflow.com",
     "Category": "General Software Development",
     "Productivity": 2
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 55,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 35,
@@ -387,7 +387,7 @@
     "Rank": 49,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "bitdegree.org",
+    "Activity": "careerkarma.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -395,7 +395,7 @@
     "Rank": 50,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "careerkarma.com",
+    "Activity": "bitdegree.org",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -411,20 +411,12 @@
     "Rank": 52,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "Telegram Messenger",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 53,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
     "Activity": "flaviocopes.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 54,
+    "Rank": 53,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "he-s3.s3.ap-southeast-1.amazonaws.com",
@@ -432,12 +424,20 @@
     "Productivity": 0
   },
   {
-    "Rank": 55,
+    "Rank": 54,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "Google Play Services",
     "Category": "General Shopping",
     "Productivity": -2
+  },
+  {
+    "Rank": 55,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
     "Rank": 56,
@@ -459,17 +459,17 @@
     "Rank": 58,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "learningaboutelectronics.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "pythonprogramming.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 59,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "pythonprogramming.in",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "learningaboutelectronics.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 60,
