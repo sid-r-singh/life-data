@@ -1,6 +1,14 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 5486,
+    "Number of People": 1,
+    "Activity": "YouTube for Android",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 1328,
     "Number of People": 1,
     "Activity": "my-courses.net",
@@ -8,15 +16,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 1074,
+    "Rank": 3,
+    "Time Spent (seconds)": 1217,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1079,
     "Number of People": 1,
     "Activity": "jobs.cisco.com",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 3,
+    "Rank": 5,
+    "Time Spent (seconds)": 499,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 6,
     "Time Spent (seconds)": 468,
     "Number of People": 1,
     "Activity": "c:",
@@ -24,7 +48,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 4,
+    "Rank": 7,
+    "Time Spent (seconds)": 451,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 420,
     "Number of People": 1,
     "Activity": "youtube.com",
@@ -32,7 +64,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 5,
+    "Rank": 9,
     "Time Spent (seconds)": 335,
     "Number of People": 1,
     "Activity": "tonyteaches.tech",
@@ -40,7 +72,39 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 10,
+    "Time Spent (seconds)": 278,
+    "Number of People": 1,
+    "Activity": "Google Chrome for Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 180,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 54,
+    "Number of People": 1,
+    "Activity": "MX Video Player",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Activity": "amazon.com",
@@ -48,7 +112,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 7,
+    "Rank": 15,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "newtab",
@@ -56,15 +120,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 15,
+    "Rank": 16,
+    "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "cisco.com",
-    "Category": "Systems Operations",
-    "Productivity": 2
+    "Activity": "Google Play Services",
+    "Category": "General Shopping",
+    "Productivity": -2
   },
   {
-    "Rank": 9,
+    "Rank": 17,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "pandoc.org",
@@ -72,7 +136,39 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 18,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "cisco.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "programmingoneonone.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.app.smartcapture",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "S Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "fueler.io",
@@ -80,7 +176,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 23,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 24,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "blog.joylabs.com",
@@ -88,27 +192,27 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
+    "Rank": 25,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "programmingoneonone.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "blog.kritikapattalam.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 14,
+    "Rank": 26,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "blog.kritikapattalam.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   }
 ]
