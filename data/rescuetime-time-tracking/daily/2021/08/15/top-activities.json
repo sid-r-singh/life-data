@@ -25,6 +25,14 @@
   },
   {
     "Rank": 4,
+    "Time Spent (seconds)": 418,
+    "Number of People": 1,
+    "Activity": "twitch.tv",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 308,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
@@ -32,7 +40,7 @@
     "Productivity": -1
   },
   {
-    "Rank": 5,
+    "Rank": 6,
     "Time Spent (seconds)": 306,
     "Number of People": 1,
     "Activity": "techinasia.com",
@@ -40,20 +48,12 @@
     "Productivity": -1
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 277,
     "Number of People": 1,
     "Activity": "healthline.com",
     "Category": "Presentation",
     "Productivity": 2
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 263,
-    "Number of People": 1,
-    "Activity": "twitch.tv",
-    "Category": "Video",
-    "Productivity": -2
   },
   {
     "Rank": 8,
@@ -187,17 +187,17 @@
     "Rank": 24,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "rhiot.github.io",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 25,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "rhiot.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 26,
