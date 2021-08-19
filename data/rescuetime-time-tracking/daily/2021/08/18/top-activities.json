@@ -1,26 +1,570 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 469,
+    "Time Spent (seconds)": 2292,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 2279,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1981,
+    "Number of People": 1,
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1203,
     "Number of People": 1,
     "Activity": "portal.netdevgroup.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 15,
+    "Rank": 5,
+    "Time Spent (seconds)": 797,
+    "Number of People": 1,
+    "Activity": "homemade-circuits.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 712,
+    "Number of People": 1,
+    "Activity": "convert.impopen.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 469,
+    "Number of People": 1,
+    "Activity": "medium.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 440,
+    "Number of People": 1,
+    "Activity": "unitsconverters.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 423,
+    "Number of People": 1,
+    "Activity": "courses.lumenlearning.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 418,
+    "Number of People": 1,
+    "Activity": "reddit.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 357,
+    "Number of People": 1,
+    "Activity": "wolframalpha.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 333,
+    "Number of People": 1,
+    "Activity": "newlightphotonics.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 278,
+    "Number of People": 1,
+    "Activity": "msp360.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 277,
+    "Number of People": 1,
+    "Activity": "circuitdigest.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 267,
+    "Number of People": 1,
+    "Activity": "astronomy.swin.edu.au",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 235,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 217,
+    "Number of People": 1,
+    "Activity": "electronicproducts.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 196,
+    "Number of People": 1,
+    "Activity": "redditsave.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 185,
+    "Number of People": 1,
+    "Activity": "calculator.aws",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 172,
+    "Number of People": 1,
+    "Activity": "rapidtables.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 168,
+    "Number of People": 1,
+    "Activity": "imagine.gsfc.nasa.gov",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 167,
+    "Number of People": 1,
+    "Activity": "www2.chemistry.msu.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 160,
+    "Number of People": 1,
+    "Activity": "img.mix.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 158,
+    "Number of People": 1,
+    "Activity": "aws.amazon.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 137,
     "Number of People": 1,
     "Activity": "netdevgroup.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 2,
+    "Rank": 26,
+    "Time Spent (seconds)": 132,
+    "Number of People": 1,
+    "Activity": "byjus.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 127,
+    "Number of People": 1,
+    "Activity": "circleci.com",
+    "Category": "Quality Assurance",
+    "Productivity": 2
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 122,
+    "Number of People": 1,
+    "Activity": "credencys.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 113,
+    "Number of People": 1,
+    "Activity": "xalitech.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 111,
+    "Number of People": 1,
+    "Activity": "mix.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 109,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 103,
+    "Number of People": 1,
+    "Activity": "ncbi.nlm.nih.gov",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 100,
+    "Number of People": 1,
+    "Activity": "endmemo.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 99,
+    "Number of People": 1,
+    "Activity": "help.msp360.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 89,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 36,
+    "Time Spent (seconds)": 88,
+    "Number of People": 1,
+    "Activity": "timesofindia.indiatimes.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 37,
+    "Time Spent (seconds)": 78,
+    "Number of People": 1,
+    "Activity": "sciencing.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 38,
+    "Time Spent (seconds)": 76,
+    "Number of People": 1,
+    "Activity": "technavic.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 39,
+    "Time Spent (seconds)": 75,
+    "Number of People": 1,
+    "Activity": "sid.one",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 40,
+    "Time Spent (seconds)": 56,
+    "Number of People": 1,
+    "Activity": "physics.nist.gov",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 55,
+    "Number of People": 1,
+    "Activity": "physics.wm.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Activity": "techaheadcorp.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 43,
+    "Time Spent (seconds)": 38,
+    "Number of People": 1,
+    "Activity": "ubeac.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 44,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "colby.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Activity": "web.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 46,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Activity": "quora.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 47,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Activity": "calculator.s3.amazonaws.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 48,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "ko-fi.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 49,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "labman.phys.utk.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 50,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "entorb.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 51,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "omega.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 52,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "reference.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 53,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "saioneerscorner.files.wordpress.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 54,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "actualtechmedia.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 55,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "sciencedirect.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 56,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "thingsboard.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 57,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "tqb.li2.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 58,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "docs.microsoft.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 59,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "app.ubeac.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 60,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "convertunits.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 61,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "stumbleupon.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 62,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "depts.washington.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 63,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 64,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "powerstream.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 65,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "nrcan.gc.ca",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 66,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "dev.to",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 67,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "sidrana.dev.ipaddress.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 68,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "halas.rice.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 69,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "nist.gov",
+    "Category": "Legal & Gov't",
+    "Productivity": 1
+  },
+  {
+    "Rank": 70,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "sso.msp360.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 71,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "ibm.com",
+    "Category": "General Business",
+    "Productivity": 2
   }
 ]
