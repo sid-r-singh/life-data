@@ -1,0 +1,203 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "type": "artist",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5zrZPXoYsu772sB3CwVuxr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3582107f127c2765fafb431",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3582107f127c2765fafb431",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f3582107f127c2765fafb431",
+          "width": 64
+        }
+      ],
+      "name": "Dil Bechara (Original Motion Picture Soundtrack)",
+      "release_date": "2020-07-10",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:5zrZPXoYsu772sB3CwVuxr"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+        "id": "1mYsTxnqsietFxj1OgoGbG",
+        "name": "A.R. Rahman",
+        "type": "artist",
+        "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        "href": "https://api.spotify.com/v1/artists/5GnnSrwNCGyfAU4zuIytiS",
+        "id": "5GnnSrwNCGyfAU4zuIytiS",
+        "name": "Mohit Chauhan",
+        "type": "artist",
+        "uri": "spotify:artist:5GnnSrwNCGyfAU4zuIytiS"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+        "id": "0oOet2f43PA68X5RxKobEy",
+        "name": "Shreya Ghoshal",
+        "type": "artist",
+        "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1wbxjQnN7MTk8MKt3SumyY",
+    "is_local": false,
+    "name": "Taare Ginn",
+    "preview_url": "https://p.scdn.co/mp3-preview/65f335dc63a0cf2d4e140bacf1e9ba63e5ab3d46?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6up782ZLUr6QHdMhYjEjG6"
+          },
+          "href": "https://api.spotify.com/v1/artists/6up782ZLUr6QHdMhYjEjG6",
+          "id": "6up782ZLUr6QHdMhYjEjG6",
+          "name": "Vipin Mishra",
+          "type": "artist",
+          "uri": "spotify:artist:6up782ZLUr6QHdMhYjEjG6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2qeeIqRH61PXYhNmaprCvg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2qeeIqRH61PXYhNmaprCvg",
+          "id": "2qeeIqRH61PXYhNmaprCvg",
+          "name": "Ashutosh Pathak-Dhruv Ghanekar",
+          "type": "artist",
+          "uri": "spotify:artist:2qeeIqRH61PXYhNmaprCvg"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2AeeTI2nCzHW0h4jb0PCzG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734176ceceaf43dba8a41176a2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024176ceceaf43dba8a41176a2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514176ceceaf43dba8a41176a2",
+          "width": 64
+        }
+      ],
+      "name": "Mp3: Mera Pehla Pehla Pyar",
+      "release_date": "2007-05-12",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2AeeTI2nCzHW0h4jb0PCzG"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2qeeIqRH61PXYhNmaprCvg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2qeeIqRH61PXYhNmaprCvg",
+        "id": "2qeeIqRH61PXYhNmaprCvg",
+        "name": "Ashutosh Pathak-Dhruv Ghanekar",
+        "type": "artist",
+        "uri": "spotify:artist:2qeeIqRH61PXYhNmaprCvg"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6DyEoOVK9ICutyXnA7iTTb",
+    "is_local": false,
+    "name": "Love Theme",
+    "preview_url": "https://p.scdn.co/mp3-preview/c4fcf47b0dfa6d6f879c7c0b812cd38073b91f25?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+          "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+          "name": "Vishal-Shekhar",
+          "type": "artist",
+          "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5x2eTJrbEvmOTEcWWWubLy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27344aa56e23e3a89802e6c6347",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0244aa56e23e3a89802e6c6347",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485144aa56e23e3a89802e6c6347",
+          "width": 64
+        }
+      ],
+      "name": "Ra-One",
+      "release_date": "2011-09-16",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:5x2eTJrbEvmOTEcWWWubLy"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3oinJWo0iD7MVnojA8R8WP"
+        },
+        "href": "https://api.spotify.com/v1/artists/3oinJWo0iD7MVnojA8R8WP",
+        "id": "3oinJWo0iD7MVnojA8R8WP",
+        "name": "Nandini Srikar",
+        "type": "artist",
+        "uri": "spotify:artist:3oinJWo0iD7MVnojA8R8WP"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2UsYQNgpG5tjcDoq8Yg0Nl",
+    "is_local": false,
+    "name": "Bhare Naina",
+    "preview_url": "https://p.scdn.co/mp3-preview/f44e480d1714b8d9aaefcf4f820fe6544a371e48?cid=811598a754134358878b30bc9c28decd"
+  }
+]
