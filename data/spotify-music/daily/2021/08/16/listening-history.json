@@ -1,0 +1,79 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1tU9CEhSLo7ZSCtyLiXVfV"
+          },
+          "href": "https://api.spotify.com/v1/artists/1tU9CEhSLo7ZSCtyLiXVfV",
+          "id": "1tU9CEhSLo7ZSCtyLiXVfV",
+          "name": "Altaaf Sayyed",
+          "type": "artist",
+          "uri": "spotify:artist:1tU9CEhSLo7ZSCtyLiXVfV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2rLOa8UaNNhIQnCnOKcCpp"
+          },
+          "href": "https://api.spotify.com/v1/artists/2rLOa8UaNNhIQnCnOKcCpp",
+          "id": "2rLOa8UaNNhIQnCnOKcCpp",
+          "name": "Chandra-Surya",
+          "type": "artist",
+          "uri": "spotify:artist:2rLOa8UaNNhIQnCnOKcCpp"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2e2MXzwoAHaiUcFx42R9Xp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27344eedb704881680e14ea864f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0244eedb704881680e14ea864f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485144eedb704881680e14ea864f",
+          "width": 64
+        }
+      ],
+      "name": "Mera Sanam",
+      "release_date": "2018-02-24",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:2e2MXzwoAHaiUcFx42R9Xp"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1tU9CEhSLo7ZSCtyLiXVfV"
+        },
+        "href": "https://api.spotify.com/v1/artists/1tU9CEhSLo7ZSCtyLiXVfV",
+        "id": "1tU9CEhSLo7ZSCtyLiXVfV",
+        "name": "Altaaf Sayyed",
+        "type": "artist",
+        "uri": "spotify:artist:1tU9CEhSLo7ZSCtyLiXVfV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2rLOa8UaNNhIQnCnOKcCpp"
+        },
+        "href": "https://api.spotify.com/v1/artists/2rLOa8UaNNhIQnCnOKcCpp",
+        "id": "2rLOa8UaNNhIQnCnOKcCpp",
+        "name": "Chandra-Surya",
+        "type": "artist",
+        "uri": "spotify:artist:2rLOa8UaNNhIQnCnOKcCpp"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4kvFuANPdXabWFPZiWrdjG",
+    "is_local": false,
+    "name": "Naino Ki Jo Baat",
+    "preview_url": "https://p.scdn.co/mp3-preview/7a6bd099d0d0731fc4529368c66a952ef2146245?cid=811598a754134358878b30bc9c28decd"
+  }
+]
