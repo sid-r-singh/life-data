@@ -235,8 +235,8 @@
   "8": {
     "Video": 94951,
     "Browsers": 24636,
-    "Uncategorized": 78817,
-    "Search": 11474,
+    "Uncategorized": 79052,
+    "Search": 11508,
     "Instant Message": 17144,
     "General Utilities": 21313,
     "General Software Development": 41344,
@@ -250,7 +250,7 @@
     "General Communication & Scheduling": 279,
     "Writing": 192,
     "Marketing": 1,
-    "General Reference & Learning": 34560,
+    "General Reference & Learning": 34589,
     "Employment": 3104,
     "Engineering & Technology": 9428,
     "Quality Assurance": 426,
@@ -283,7 +283,22 @@
     "Administration": 36,
     "Voice Chat": 8
   },
-  "9": {},
+  "9": {
+    "Meetings": 3910,
+    "General Reference & Learning": 1640,
+    "Video": 1557,
+    "General Software Development": 1542,
+    "Email": 1558,
+    "Uncategorized": 1168,
+    "General Utilities": 938,
+    "Instant Message": 720,
+    "Browsers": 193,
+    "Engineering & Technology": 155,
+    "Search": 101,
+    "General News & Opinion": 47,
+    "General Communication & Scheduling": 46,
+    "General Design & Composition": 895
+  },
   "10": {},
   "11": {},
   "12": {}

@@ -77,8 +77,8 @@
   "8": {
     "Entertainment": 99200,
     "Utilities": 46468,
-    "Uncategorized": 78817,
-    "Reference & Learning": 58777,
+    "Uncategorized": 79052,
+    "Reference & Learning": 58840,
     "Communication & Scheduling": 43010,
     "Software Development": 45114,
     "Design & Composition": 8377,
@@ -87,7 +87,16 @@
     "Business": 24710,
     "Shopping": 3295
   },
-  "9": {},
+  "9": {
+    "Communication & Scheduling": 6234,
+    "Reference & Learning": 1896,
+    "Entertainment": 1557,
+    "Software Development": 1542,
+    "Uncategorized": 1168,
+    "Utilities": 1131,
+    "News & Opinion": 47,
+    "Design & Composition": 895
+  },
   "10": {},
   "11": {},
   "12": {}
