@@ -1,6 +1,22 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 1763,
+    "Number of People": 1,
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 1283,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 853,
     "Number of People": 1,
     "Activity": "youtube.com",
@@ -8,43 +24,107 @@
     "Productivity": -2
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 311,
+    "Rank": 4,
+    "Time Spent (seconds)": 588,
+    "Number of People": 1,
+    "Activity": "linkedin.com",
+    "Category": "Professional Networking",
+    "Productivity": 1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 322,
     "Number of People": 1,
     "Activity": "d:",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 255,
-    "Number of People": 1,
-    "Activity": "Gmail",
-    "Category": "Email",
-    "Productivity": 1
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 181,
+    "Rank": 6,
+    "Time Spent (seconds)": 186,
     "Number of People": 1,
     "Activity": "lms.sssihl.edu.in",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 10,
+    "Rank": 7,
+    "Time Spent (seconds)": 56,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 40,
+    "Number of People": 1,
+    "Activity": "sssihl.edu.in",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Activity": "valoremreply.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "getnotion.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 1,
+    "Rank": 13,
+    "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "notion.so",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "reply.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "exam.sssihl.edu.in",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   }
 ]
