@@ -1,26 +1,162 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 243,
+    "Time Spent (seconds)": 2290,
+    "Number of People": 1,
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 1819,
+    "Number of People": 1,
+    "Activity": "meet.google.com",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1629,
     "Number of People": 1,
     "Activity": "coursera.org",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 5,
+    "Rank": 4,
+    "Time Spent (seconds)": 992,
+    "Number of People": 1,
+    "Activity": "linkedin.com",
+    "Category": "Professional Networking",
+    "Productivity": 1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 828,
+    "Number of People": 1,
+    "Activity": "sathyasaischoolsodisha.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 627,
+    "Number of People": 1,
+    "Activity": "netdevgroup.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 313,
+    "Number of People": 1,
+    "Activity": "portal.netdevgroup.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 263,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 251,
+    "Number of People": 1,
+    "Activity": "umso.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 189,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 74,
+    "Number of People": 1,
+    "Activity": "examples.umso.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "d3c33hcgiwev3.cloudfront.net",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Activity": "help.umso.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "conventionalcommits.org",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 3,
+    "Rank": 15,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "stahyasaischoolsodisha.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "stahyasaischools.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "gitkraken.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   }
 ]
