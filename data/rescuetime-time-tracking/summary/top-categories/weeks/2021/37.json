@@ -45,15 +45,18 @@
     "Meetings": 11
   },
   "2021-09-8": {
+    "Meetings": 6728,
+    "Video": 4934,
+    "Uncategorized": 2536,
     "General Business": 2290,
-    "Uncategorized": 2180,
-    "Meetings": 1819,
     "General Reference & Learning": 1664,
     "Professional Networking": 992,
+    "Instant Message": 987,
+    "General Utilities": 656,
     "Email": 263,
-    "General Software Development": 190,
-    "Browsers": 23,
-    "General Utilities": 16
+    "Browsers": 223,
+    "Photos": 199,
+    "General Software Development": 190
   },
   "2021-09-9": {
     "Professional Networking": 5868,
@@ -69,23 +72,47 @@
   },
   "2021-09-10": {
     "Professional Networking": 11980,
+    "Video": 4975,
     "Uncategorized": 3197,
-    "General Reference & Learning": 1498,
+    "General Reference & Learning": 1582,
     "Employment": 1229,
+    "General Utilities": 622,
     "Engineering & Technology": 487,
-    "General Utilities": 368,
     "General Software Development": 355,
     "Search": 339,
     "Email": 276,
+    "Instant Message": 258,
     "Sales": 217,
-    "Browsers": 187,
+    "Browsers": 188,
     "Systems Operations": 155,
     "General Business": 139,
     "General News & Opinion": 116,
     "General Social Networking": 80,
     "Operations": 66,
     "General Communication & Scheduling": 39,
-    "Administration": 25
+    "Administration": 25,
+    "General Shopping": 13
   },
-  "2021-09-11": {}
+  "2021-09-11": {
+    "Video": 9493,
+    "Browsers": 6310,
+    "Professional Networking": 5606,
+    "General Reference & Learning": 4965,
+    "Uncategorized": 4122,
+    "Meetings": 3841,
+    "General Utilities": 1048,
+    "Sales": 832,
+    "Search": 682,
+    "Presentation": 463,
+    "Instant Message": 423,
+    "General Business": 254,
+    "Travel & Outdoors": 212,
+    "Administration": 153,
+    "General News & Opinion": 44,
+    "General Software Development": 37,
+    "Voice Chat": 29,
+    "General Social Networking": 17,
+    "Intelligence": 7,
+    "General Communication & Scheduling": 3
+  }
 }

@@ -1,6 +1,22 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 4934,
+    "Number of People": 1,
+    "Activity": "YouTube for Android",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 4909,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.meetings",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 2290,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -8,7 +24,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 2,
+    "Rank": 4,
     "Time Spent (seconds)": 1819,
     "Number of People": 1,
     "Activity": "meet.google.com",
@@ -16,7 +32,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 3,
+    "Rank": 5,
     "Time Spent (seconds)": 1629,
     "Number of People": 1,
     "Activity": "coursera.org",
@@ -24,7 +40,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 4,
+    "Rank": 6,
     "Time Spent (seconds)": 992,
     "Number of People": 1,
     "Activity": "linkedin.com",
@@ -32,7 +48,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 5,
+    "Rank": 7,
+    "Time Spent (seconds)": 862,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 828,
     "Number of People": 1,
     "Activity": "sathyasaischoolsodisha.org",
@@ -40,7 +64,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 9,
     "Time Spent (seconds)": 627,
     "Number of People": 1,
     "Activity": "netdevgroup.com",
@@ -48,7 +72,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
+    "Rank": 10,
+    "Time Spent (seconds)": 356,
+    "Number of People": 1,
+    "Activity": "mobile - in.gov.uidai.maadhaarplus",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 313,
     "Number of People": 1,
     "Activity": "portal.netdevgroup.com",
@@ -56,7 +88,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 12,
+    "Time Spent (seconds)": 305,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 291,
+    "Number of People": 1,
+    "Activity": "mobile - com.myairtelapp",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 263,
     "Number of People": 1,
     "Activity": "Gmail",
@@ -64,7 +112,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 9,
+    "Rank": 15,
     "Time Spent (seconds)": 251,
     "Number of People": 1,
     "Activity": "umso.com",
@@ -72,7 +120,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 16,
+    "Time Spent (seconds)": 200,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 199,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 189,
     "Number of People": 1,
     "Activity": "Github",
@@ -80,7 +144,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 11,
+    "Rank": 19,
+    "Time Spent (seconds)": 116,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.messaging",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 20,
     "Time Spent (seconds)": 74,
     "Number of People": 1,
     "Activity": "examples.umso.com",
@@ -88,7 +160,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
+    "Rank": 21,
+    "Time Spent (seconds)": 40,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Activity": "d3c33hcgiwev3.cloudfront.net",
@@ -96,7 +176,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 13,
+    "Rank": 23,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
     "Activity": "help.umso.com",
@@ -104,7 +184,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 14,
+    "Rank": 24,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "conventionalcommits.org",
@@ -112,7 +192,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 15,
+    "Rank": 25,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "stahyasaischoolsodisha.org",
@@ -120,7 +200,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 16,
+    "Rank": 26,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -128,7 +208,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 17,
+    "Rank": 27,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -136,7 +216,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 18,
+    "Rank": 28,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "newtab",
@@ -144,7 +224,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 19,
+    "Rank": 29,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 30,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "stahyasaischools.org",
@@ -152,11 +240,27 @@
     "Productivity": 0
   },
   {
-    "Rank": 20,
+    "Rank": 31,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "Google Authenticator",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 32,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "gitkraken.com",
     "Category": "General Software Development",
     "Productivity": 2
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.permissioncontroller",
+    "Category": "General Utilities",
+    "Productivity": 1
   }
 ]
