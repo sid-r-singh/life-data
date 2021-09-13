@@ -1,22 +1,38 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 8728,
+    "Time Spent (seconds)": 11949,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.meetings",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 10991,
     "Number of People": 1,
     "Activity": "YouTube for Android",
     "Category": "Video",
     "Productivity": -2
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 5973,
+    "Rank": 3,
+    "Time Spent (seconds)": 7549,
     "Number of People": 1,
     "Activity": "Firefox Android",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 3,
+    "Rank": 4,
+    "Time Spent (seconds)": 5730,
+    "Number of People": 1,
+    "Activity": "Duolingo: Learn Languages Free",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 5597,
     "Number of People": 1,
     "Activity": "linkedin.com",
@@ -24,15 +40,23 @@
     "Productivity": 1
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 3841,
+    "Rank": 6,
+    "Time Spent (seconds)": 4405,
     "Number of People": 1,
-    "Activity": "mobile - com.google.android.apps.meetings",
-    "Category": "Meetings",
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 2205,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 5,
+    "Rank": 8,
     "Time Spent (seconds)": 1697,
     "Number of People": 1,
     "Activity": "mobile - com.google.android.apps.pdfviewer",
@@ -40,7 +64,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 6,
+    "Rank": 9,
     "Time Spent (seconds)": 1499,
     "Number of People": 1,
     "Activity": "cutshort.io",
@@ -48,7 +72,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
+    "Rank": 10,
     "Time Spent (seconds)": 1391,
     "Number of People": 1,
     "Activity": "airbnb.co.in",
@@ -56,7 +80,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 11,
     "Time Spent (seconds)": 1322,
     "Number of People": 1,
     "Activity": "rp-photonics.com",
@@ -64,7 +88,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 9,
+    "Rank": 12,
     "Time Spent (seconds)": 832,
     "Number of People": 1,
     "Activity": "careers.viasat.com",
@@ -72,7 +96,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 10,
+    "Rank": 13,
     "Time Spent (seconds)": 785,
     "Number of People": 1,
     "Activity": "programmes.polytechnique.edu",
@@ -80,7 +104,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 11,
+    "Rank": 14,
     "Time Spent (seconds)": 765,
     "Number of People": 1,
     "Activity": "youtube.com",
@@ -88,7 +112,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 12,
+    "Rank": 15,
     "Time Spent (seconds)": 599,
     "Number of People": 1,
     "Activity": "google.co.in",
@@ -96,7 +120,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 16,
     "Time Spent (seconds)": 463,
     "Number of People": 1,
     "Activity": "slideshare.net",
@@ -104,7 +128,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 14,
+    "Rank": 17,
+    "Time Spent (seconds)": 407,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 405,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -112,15 +144,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 15,
-    "Time Spent (seconds)": 394,
+    "Rank": 19,
+    "Time Spent (seconds)": 403,
     "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
-    "Rank": 16,
+    "Rank": 20,
     "Time Spent (seconds)": 382,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -128,7 +160,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 17,
+    "Rank": 21,
     "Time Spent (seconds)": 364,
     "Number of People": 1,
     "Activity": "polytechnique.edu",
@@ -136,7 +168,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 18,
+    "Rank": 22,
     "Time Spent (seconds)": 318,
     "Number of People": 1,
     "Activity": "blog.akshaysaini.in",
@@ -144,7 +176,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 19,
+    "Rank": 23,
     "Time Spent (seconds)": 274,
     "Number of People": 1,
     "Activity": "onlineocr.net",
@@ -152,7 +184,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 20,
+    "Rank": 24,
     "Time Spent (seconds)": 212,
     "Number of People": 1,
     "Activity": "goibibo.com",
@@ -160,7 +192,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 21,
+    "Rank": 25,
     "Time Spent (seconds)": 203,
     "Number of People": 1,
     "Activity": "Google Chrome for Android",
@@ -168,7 +200,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 22,
+    "Rank": 26,
     "Time Spent (seconds)": 190,
     "Number of People": 1,
     "Activity": "newport.com",
@@ -176,7 +208,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 23,
+    "Rank": 27,
     "Time Spent (seconds)": 183,
     "Number of People": 1,
     "Activity": "web.whatsapp.com",
@@ -184,7 +216,7 @@
     "Productivity": -1
   },
   {
-    "Rank": 24,
+    "Rank": 28,
     "Time Spent (seconds)": 169,
     "Number of People": 1,
     "Activity": "akshaysaini.in",
@@ -192,7 +224,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 25,
+    "Rank": 29,
     "Time Spent (seconds)": 157,
     "Number of People": 1,
     "Activity": "mobile - com.sec.android.app.clockpackage",
@@ -200,7 +232,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 26,
+    "Rank": 30,
     "Time Spent (seconds)": 153,
     "Number of People": 1,
     "Activity": "synapses.polytechnique.fr",
@@ -208,7 +240,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 27,
+    "Rank": 31,
     "Time Spent (seconds)": 139,
     "Number of People": 1,
     "Activity": "jobs.smartrecruiters.com",
@@ -216,15 +248,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 28,
-    "Time Spent (seconds)": 131,
-    "Number of People": 1,
-    "Activity": "Telegram Messenger",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 29,
+    "Rank": 32,
     "Time Spent (seconds)": 111,
     "Number of People": 1,
     "Activity": "goindigo.in",
@@ -232,15 +256,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 30,
-    "Time Spent (seconds)": 105,
+    "Rank": 33,
+    "Time Spent (seconds)": 110,
     "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 31,
+    "Rank": 34,
     "Time Spent (seconds)": 98,
     "Number of People": 1,
     "Activity": "newtab",
@@ -248,15 +272,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 32,
-    "Time Spent (seconds)": 90,
-    "Number of People": 1,
-    "Activity": "android",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 33,
+    "Rank": 35,
     "Time Spent (seconds)": 83,
     "Number of People": 1,
     "Activity": "kmlabs.com",
@@ -264,7 +280,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 34,
+    "Rank": 36,
     "Time Spent (seconds)": 81,
     "Number of People": 1,
     "Activity": "airindia.in",
@@ -272,7 +288,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 35,
+    "Rank": 37,
     "Time Spent (seconds)": 64,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -280,7 +296,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 36,
+    "Rank": 38,
     "Time Spent (seconds)": 59,
     "Number of People": 1,
     "Activity": "careers.cern",
@@ -288,7 +304,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 37,
+    "Rank": 39,
     "Time Spent (seconds)": 58,
     "Number of People": 1,
     "Activity": "sid.one",
@@ -296,7 +312,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 38,
+    "Rank": 40,
     "Time Spent (seconds)": 51,
     "Number of People": 1,
     "Activity": "afindianapolis.org",
@@ -304,7 +320,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 39,
+    "Rank": 41,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
     "Activity": "scribd.com",
@@ -312,7 +328,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 40,
+    "Rank": 42,
     "Time Spent (seconds)": 45,
     "Number of People": 1,
     "Activity": "home.cern",
@@ -320,7 +336,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 41,
+    "Rank": 43,
+    "Time Spent (seconds)": 45,
+    "Number of People": 1,
+    "Activity": "Google Authenticator",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 44,
     "Time Spent (seconds)": 44,
     "Number of People": 1,
     "Activity": "carnivalofmelancholy.wordpress.com",
@@ -328,7 +352,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 42,
+    "Rank": 45,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
     "Activity": "duolingo.com",
@@ -336,7 +360,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 43,
+    "Rank": 46,
     "Time Spent (seconds)": 37,
     "Number of People": 1,
     "Activity": "stackoverflow.com",
@@ -344,7 +368,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 44,
+    "Rank": 47,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -352,7 +376,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 45,
+    "Rank": 48,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Activity": "upload.wikimedia.org",
@@ -360,7 +384,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 46,
+    "Rank": 49,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
     "Activity": "bookme.airindia.in",
@@ -368,15 +392,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 47,
-    "Time Spent (seconds)": 29,
-    "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.incallui",
-    "Category": "Voice Chat",
-    "Productivity": 1
-  },
-  {
-    "Rank": 48,
+    "Rank": 50,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "photonicstechnologies.com",
@@ -384,7 +400,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 49,
+    "Rank": 51,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 52,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "tempmail.plus",
@@ -392,7 +416,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 50,
+    "Rank": 53,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.messaging",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 54,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "formulaires.polytechnique.fr",
@@ -400,7 +432,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 51,
+    "Rank": 55,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "twitter.com",
@@ -408,7 +440,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 52,
+    "Rank": 56,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "Google Play Services",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 57,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.app.contacts",
@@ -416,7 +456,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 53,
+    "Rank": 58,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "careers.smartrecruiters.com",
@@ -424,23 +464,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 54,
-    "Time Spent (seconds)": 12,
-    "Number of People": 1,
-    "Activity": "scholar.google.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 55,
-    "Time Spent (seconds)": 12,
-    "Number of People": 1,
-    "Activity": "sersc.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 56,
+    "Rank": 59,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "pocketbook4you.com",
@@ -448,7 +472,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 57,
+    "Rank": 60,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "scholar.google.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 61,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "sersc.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 62,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "semanticscholar.org",
@@ -456,23 +496,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 58,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
-    "Activity": "philosophiatopics.files.wordpress.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 59,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
-    "Activity": "researchgate.net",
-    "Category": "Professional Networking",
-    "Productivity": 1
-  },
-  {
-    "Rank": 60,
+    "Rank": 63,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "coursera.org",
@@ -480,7 +504,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 61,
+    "Rank": 64,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "researchgate.net",
+    "Category": "Professional Networking",
+    "Productivity": 1
+  },
+  {
+    "Rank": 65,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "alison.com",
@@ -488,7 +520,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 62,
+    "Rank": 66,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "philosophiatopics.files.wordpress.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 67,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "community.workday.com",
@@ -496,7 +536,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 63,
+    "Rank": 68,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "t.me",
@@ -504,15 +544,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 64,
-    "Time Spent (seconds)": 4,
+    "Rank": 69,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.messaging",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 65,
+    "Rank": 70,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -520,11 +560,11 @@
     "Productivity": 0
   },
   {
-    "Rank": 66,
-    "Time Spent (seconds)": 2,
+    "Rank": 71,
+    "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "Android Settings",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "mobile - com.samsung.android.app.smartcapture",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]
