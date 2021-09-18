@@ -1,0 +1,32 @@
+[
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "modern bollywood",
+      "sufi"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6jf2eKjiPT6P18RbOSLzf0",
+    "id": "6jf2eKjiPT6P18RbOSLzf0",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb737b464824eb5353f1edc8eb",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174737b464824eb5353f1edc8eb",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178737b464824eb5353f1edc8eb",
+        "width": 160
+      }
+    ],
+    "name": "Arko",
+    "type": "artist",
+    "uri": "spotify:artist:6jf2eKjiPT6P18RbOSLzf0"
+  }
+]
