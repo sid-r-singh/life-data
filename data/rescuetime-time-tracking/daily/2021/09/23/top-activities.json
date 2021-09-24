@@ -1,25 +1,593 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 214,
+    "Time Spent (seconds)": 9622,
+    "Number of People": 1,
+    "Activity": "192.168.29.192:1313",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 4402,
     "Number of People": 1,
     "Activity": "discourse.gohugo.io",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 12,
+    "Rank": 3,
+    "Time Spent (seconds)": 3585,
+    "Number of People": 1,
+    "Activity": "fontawesome.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1813,
+    "Number of People": 1,
+    "Activity": "hansomang.ca",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 892,
     "Number of People": 1,
     "Activity": "google.co.in",
     "Category": "Search",
     "Productivity": 0
   },
   {
-    "Rank": 3,
+    "Rank": 6,
+    "Time Spent (seconds)": 662,
+    "Number of People": 1,
+    "Activity": "gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 547,
+    "Number of People": 1,
+    "Activity": "symamobile.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 529,
+    "Number of People": 1,
+    "Activity": "meet.google.com",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 513,
+    "Number of People": 1,
+    "Activity": "null.tainguyenwordpress.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 296,
+    "Number of People": 1,
+    "Activity": "ssl.wiki",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 279,
+    "Number of People": 1,
+    "Activity": "wordpress.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 278,
+    "Number of People": 1,
+    "Activity": "developer.mozilla.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 275,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 264,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 256,
+    "Number of People": 1,
+    "Activity": "svgviewer.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 244,
+    "Number of People": 1,
+    "Activity": "rakeshjain-devops.medium.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 236,
+    "Number of People": 1,
+    "Activity": "gitlab.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 233,
+    "Number of People": 1,
+    "Activity": "simpleicons.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 224,
+    "Number of People": 1,
+    "Activity": "online.seas.upenn.edu",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 204,
+    "Number of People": 1,
+    "Activity": "stackoverflow.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 199,
+    "Number of People": 1,
+    "Activity": "esolia.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 195,
+    "Number of People": 1,
+    "Activity": "coursera.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 165,
+    "Number of People": 1,
+    "Activity": "css-tricks.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 146,
+    "Number of People": 1,
+    "Activity": "malwarebytes.com",
+    "Category": "Anti-Virus & Spyware",
+    "Productivity": -1
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 143,
+    "Number of People": 1,
+    "Activity": "rick.cogley.info",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 126,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 111,
+    "Number of People": 1,
+    "Activity": "pngtosvg.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 107,
+    "Number of People": 1,
+    "Activity": "blog.fontawesome.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 92,
+    "Number of People": 1,
+    "Activity": "cleancss.com",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 92,
+    "Number of People": 1,
+    "Activity": "fontawesomecheatsheet.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 81,
+    "Number of People": 1,
+    "Activity": "codepen.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 80,
+    "Number of People": 1,
+    "Activity": "scripter.co",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 76,
+    "Number of People": 1,
+    "Activity": "learn.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 71,
+    "Number of People": 1,
+    "Activity": "lms.sssihl.edu.in",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 69,
+    "Number of People": 1,
+    "Activity": "c:",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 36,
+    "Time Spent (seconds)": 67,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 37,
+    "Time Spent (seconds)": 66,
+    "Number of People": 1,
+    "Activity": "onlineconvertfree.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 38,
+    "Time Spent (seconds)": 61,
+    "Number of People": 1,
+    "Activity": "git.earthdata.nasa.gov",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 39,
+    "Time Spent (seconds)": 57,
+    "Number of People": 1,
+    "Activity": "estore.malwarebytes.com",
+    "Category": "Anti-Virus & Spyware",
+    "Productivity": -1
+  },
+  {
+    "Rank": 40,
+    "Time Spent (seconds)": 55,
+    "Number of People": 1,
+    "Activity": "convertio.co",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 54,
+    "Number of People": 1,
+    "Activity": "products.aspose.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 51,
+    "Number of People": 1,
+    "Activity": "onlinepngtools.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 43,
+    "Time Spent (seconds)": 50,
+    "Number of People": 1,
+    "Activity": "joshtronic.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 44,
+    "Time Spent (seconds)": 49,
+    "Number of People": 1,
+    "Activity": "jamstack.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 44,
+    "Number of People": 1,
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
+  },
+  {
+    "Rank": 46,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Activity": "sid.one",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 47,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Activity": "cdn.la.utexas.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 48,
+    "Time Spent (seconds)": 40,
+    "Number of People": 1,
+    "Activity": "beautifier.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 49,
+    "Time Spent (seconds)": 36,
+    "Number of People": 1,
+    "Activity": "tecmint.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 50,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 51,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Activity": "kit-uploads.fontawesome.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 52,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "raw.githubusercontent.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 53,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Activity": "hub.docker.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 54,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Activity": "onlinewebfonts.com",
+    "Category": "General Design & Composition",
+    "Productivity": 2
+  },
+  {
+    "Rank": 55,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "i2.wp.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 56,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "kit.fontawesome.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 57,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "developer.team",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 58,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "e:",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 59,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "ogp.me",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 60,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "ruthannereid.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 61,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "twitter.com",
+    "Category": "General Social Networking",
+    "Productivity": -2
+  },
+  {
+    "Rank": 62,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "kaydee.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 63,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "tempmail.plus",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 64,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "docs.wpbeaverbuilder.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 65,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "commons.wikimedia.org",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 66,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "news.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 67,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "seeklogo.com",
+    "Category": "General Design & Composition",
+    "Productivity": 2
+  },
+  {
+    "Rank": 68,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "192.168.29.192:1313",
+    "Activity": "i.imgur.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 69,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "themes.gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 70,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "freebiesupply.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 71,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 72,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "inthenurera.ga",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 73,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "d:",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 74,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "logosvg.com",
     "Category": "Uncategorized",
     "Productivity": 0
   }
