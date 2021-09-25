@@ -515,20 +515,12 @@
     "Rank": 65,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "commons.wikimedia.org",
-    "Category": "Search",
-    "Productivity": 0
-  },
-  {
-    "Rank": 66,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
     "Activity": "news.google.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 67,
+    "Rank": 66,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "seeklogo.com",
@@ -536,23 +528,15 @@
     "Productivity": 2
   },
   {
+    "Rank": 67,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "commons.wikimedia.org",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
     "Rank": 68,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "i.imgur.com",
-    "Category": "General Entertainment",
-    "Productivity": -2
-  },
-  {
-    "Rank": 69,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "themes.gohugo.io",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 70,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "freebiesupply.com",
@@ -560,7 +544,31 @@
     "Productivity": 0
   },
   {
+    "Rank": 69,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "i.imgur.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 70,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "themes.gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
     "Rank": 71,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "logosvg.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 72,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "youtube.com",
@@ -568,7 +576,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 72,
+    "Rank": 73,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "inthenurera.ga",
@@ -576,19 +584,11 @@
     "Productivity": 0
   },
   {
-    "Rank": 73,
+    "Rank": 74,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "d:",
     "Category": "General Utilities",
     "Productivity": 1
-  },
-  {
-    "Rank": 74,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "logosvg.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
   }
 ]

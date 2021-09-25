@@ -343,8 +343,8 @@
     "Engineering & Technology": 91,
     "General Business": 76,
     "Instant Message": 58,
-    "General News & Opinion": 20,
     "Presentation": 20,
+    "General News & Opinion": 20,
     "General Social Networking": 5
   },
   "22": {
@@ -385,15 +385,33 @@
     "Video": 2
   },
   "24": {
-    "Uncategorized": 2844,
-    "Engineering & Technology": 860,
-    "General Software Development": 89,
-    "Browsers": 37,
-    "General Utilities": 26,
-    "Search": 19,
-    "Internet Utilities": 1
+    "Uncategorized": 14968,
+    "Engineering & Technology": 4816,
+    "General Software Development": 3711,
+    "General Reference & Learning": 732,
+    "File Sharing": 711,
+    "Search": 628,
+    "Intelligence": 550,
+    "General Utilities": 491,
+    "Browsers": 357,
+    "General News & Opinion": 256,
+    "Video": 242,
+    "Internet Utilities": 238,
+    "Professional Networking": 232,
+    "Marketing": 197,
+    "Email": 93,
+    "Editing & IDEs": 53,
+    "General Communication & Scheduling": 28,
+    "Calendars": 17,
+    "Systems Operations": 1
   },
-  "25": {},
+  "25": {
+    "Uncategorized": 701,
+    "Engineering & Technology": 680,
+    "General Software Development": 427,
+    "Search": 35,
+    "Browsers": 1
+  },
   "26": {},
   "27": {},
   "28": {},
