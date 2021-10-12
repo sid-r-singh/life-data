@@ -1,6 +1,30 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 24045,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 15651,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.meetings",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 4472,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 2700,
     "Number of People": 1,
     "Activity": "lms.sssihl.edu.in",
@@ -8,7 +32,47 @@
     "Productivity": 1
   },
   {
-    "Rank": 2,
+    "Rank": 5,
+    "Time Spent (seconds)": 2065,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1613,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.video",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 1007,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 992,
+    "Number of People": 1,
+    "Activity": "YouTube for Android",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 677,
+    "Number of People": 1,
+    "Activity": "Camera - Samsung Android Phone",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 589,
     "Number of People": 1,
     "Activity": "linuxbabe.com",
@@ -16,7 +80,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 3,
+    "Rank": 11,
     "Time Spent (seconds)": 584,
     "Number of People": 1,
     "Activity": "youtube.com",
@@ -24,7 +88,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 4,
+    "Rank": 12,
     "Time Spent (seconds)": 443,
     "Number of People": 1,
     "Activity": "newtab",
@@ -32,7 +96,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 13,
     "Time Spent (seconds)": 435,
     "Number of People": 1,
     "Activity": "linuxmint.com",
@@ -40,7 +104,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 6,
+    "Rank": 14,
     "Time Spent (seconds)": 362,
     "Number of People": 1,
     "Activity": "mega.nz",
@@ -48,7 +112,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 7,
+    "Rank": 15,
     "Time Spent (seconds)": 337,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -56,7 +120,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 8,
+    "Rank": 16,
     "Time Spent (seconds)": 305,
     "Number of People": 1,
     "Activity": "meet.google.com",
@@ -64,7 +128,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 9,
+    "Rank": 17,
+    "Time Spent (seconds)": 293,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 238,
     "Number of People": 1,
     "Activity": "mooregoodideas.com",
@@ -72,7 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 19,
     "Time Spent (seconds)": 150,
     "Number of People": 1,
     "Activity": "mega.io",
@@ -80,7 +152,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 20,
+    "Time Spent (seconds)": 145,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 140,
+    "Number of People": 1,
+    "Activity": "Flipkart",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 108,
     "Number of People": 1,
     "Activity": "Gmail",
@@ -88,7 +176,23 @@
     "Productivity": 1
   },
   {
-    "Rank": 12,
+    "Rank": 23,
+    "Time Spent (seconds)": 80,
+    "Number of People": 1,
+    "Activity": "Calculator",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 66,
+    "Number of People": 1,
+    "Activity": "Google Authenticator",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 25,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
     "Activity": "google.co.in",
@@ -96,7 +200,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 26,
     "Time Spent (seconds)": 60,
     "Number of People": 1,
     "Activity": "Github",
@@ -104,7 +208,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 14,
+    "Rank": 27,
+    "Time Spent (seconds)": 54,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.pdfviewer",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 28,
     "Time Spent (seconds)": 53,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -112,7 +224,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 15,
+    "Rank": 29,
     "Time Spent (seconds)": 47,
     "Number of People": 1,
     "Activity": "linuxmint-installation-guide.readthedocs.io",
@@ -120,7 +232,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 16,
+    "Rank": 30,
     "Time Spent (seconds)": 46,
     "Number of People": 1,
     "Activity": "learnxrf.com",
@@ -128,7 +240,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 17,
+    "Rank": 31,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
     "Activity": "gitlab.com",
@@ -136,7 +248,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 18,
+    "Rank": 32,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Activity": "forums.linuxmint.com",
@@ -144,7 +256,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 19,
+    "Rank": 33,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "techwalla.com",
@@ -152,7 +264,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 20,
+    "Rank": 34,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -160,7 +272,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 21,
+    "Rank": 35,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 36,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -168,11 +288,27 @@
     "Productivity": 0
   },
   {
-    "Rank": 22,
+    "Rank": 37,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "Google Play Services",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 38,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "assignments.google.com",
     "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 39,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.app.contacts",
+    "Category": "Uncategorized",
     "Productivity": 0
   }
 ]
