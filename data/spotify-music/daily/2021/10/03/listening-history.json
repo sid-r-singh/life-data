@@ -755,5 +755,82 @@
     "is_local": false,
     "name": "Baatein Ye Kabhi Na - Female",
     "preview_url": "https://p.scdn.co/mp3-preview/e652699c3c5181bc9a425065782099e2ccf5e198?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          },
+          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "type": "artist",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/13t8iDyl1vkhPcO3Zl29a9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f77a84e6e8fe67deecc242dd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f77a84e6e8fe67deecc242dd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f77a84e6e8fe67deecc242dd",
+          "width": 64
+        }
+      ],
+      "name": "Ajab Prem Ki Ghazab Kahani (Original Motion Picture Soundtrack)",
+      "release_date": "2009-11-06",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:13t8iDyl1vkhPcO3Zl29a9"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oSONSC9zQ4UonDKnLqksx",
+        "id": "2oSONSC9zQ4UonDKnLqksx",
+        "name": "Atif Aslam",
+        "type": "artist",
+        "uri": "spotify:artist:2oSONSC9zQ4UonDKnLqksx"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
+        },
+        "href": "https://api.spotify.com/v1/artists/4mBxoO0pAcMbAwuTcrcLMc",
+        "id": "4mBxoO0pAcMbAwuTcrcLMc",
+        "name": "Alisha Chinai",
+        "type": "artist",
+        "uri": "spotify:artist:4mBxoO0pAcMbAwuTcrcLMc"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+        "id": "1wRPtKGflJrBx9BmLsSwlU",
+        "name": "Pritam",
+        "type": "artist",
+        "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0dLbrlAVPPjpPqnYfmJsWk",
+    "is_local": false,
+    "name": "Tera Hone Laga Hoon",
+    "preview_url": "https://p.scdn.co/mp3-preview/804b595e51af19527e87a950eccbead4dff33012?cid=811598a754134358878b30bc9c28decd"
   }
 ]

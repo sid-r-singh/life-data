@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 2383,
+    "Time Spent (seconds)": 2472,
     "Number of People": 1,
     "Activity": "c:",
     "Category": "General Utilities",
@@ -33,6 +33,14 @@
   },
   {
     "Rank": 5,
+    "Time Spent (seconds)": 206,
+    "Number of People": 1,
+    "Activity": "noticebard.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
     "Time Spent (seconds)": 184,
     "Number of People": 1,
     "Activity": "meet.google.com",
@@ -40,7 +48,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 6,
+    "Rank": 7,
+    "Time Spent (seconds)": 139,
+    "Number of People": 1,
+    "Activity": "iitkgp.ac.in",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 134,
     "Number of People": 1,
     "Activity": "swapoff.org",
@@ -48,7 +64,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
+    "Rank": 9,
     "Time Spent (seconds)": 130,
     "Number of People": 1,
     "Activity": "linuxhandbook.com",
@@ -56,7 +72,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 8,
+    "Rank": 10,
     "Time Spent (seconds)": 126,
     "Number of People": 1,
     "Activity": "Gmail",
@@ -64,7 +80,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 9,
+    "Rank": 11,
     "Time Spent (seconds)": 55,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -72,7 +88,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 12,
+    "Time Spent (seconds)": 47,
+    "Number of People": 1,
+    "Activity": "nielit.gov.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 46,
     "Number of People": 1,
     "Activity": "httparchive.org",
@@ -80,40 +104,16 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 30,
+    "Rank": 14,
+    "Time Spent (seconds)": 43,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 25,
-    "Number of People": 1,
-    "Activity": "ssl.wiki",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 13,
-    "Time Spent (seconds)": 19,
-    "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 14,
-    "Time Spent (seconds)": 16,
-    "Number of People": 1,
-    "Activity": "igvita.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
     "Rank": 15,
-    "Time Spent (seconds)": 4,
+    "Time Spent (seconds)": 33,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
@@ -121,6 +121,62 @@
   },
   {
     "Rank": 16,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Activity": "ssl.wiki",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "calicut.nielit.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "igvita.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "edx.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "erp.iitkgp.ac.in",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "isical.ac.in",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 23,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "ga-beacon.appspot.com",
