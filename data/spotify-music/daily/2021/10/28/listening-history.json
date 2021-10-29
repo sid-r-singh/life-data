@@ -1,0 +1,293 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZxZ03fj3tXBZHZWzvaLSM",
+          "id": "3ZxZ03fj3tXBZHZWzvaLSM",
+          "name": "Neeti Mohan",
+          "type": "artist",
+          "uri": "spotify:artist:3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/61GFHbaklmOlH3wHh2PA5K"
+          },
+          "href": "https://api.spotify.com/v1/artists/61GFHbaklmOlH3wHh2PA5K",
+          "id": "61GFHbaklmOlH3wHh2PA5K",
+          "name": "Kaushik",
+          "type": "artist",
+          "uri": "spotify:artist:61GFHbaklmOlH3wHh2PA5K"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1XO82yE4raeQEBSHxrNuSe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733361905e288acb907f181f6a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023361905e288acb907f181f6a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513361905e288acb907f181f6a",
+          "width": 64
+        }
+      ],
+      "name": "Mere Yaaraa (From \"Sooryavanshi\")",
+      "release_date": "2021-10-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1XO82yE4raeQEBSHxrNuSe"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "type": "artist",
+        "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ZxZ03fj3tXBZHZWzvaLSM",
+        "id": "3ZxZ03fj3tXBZHZWzvaLSM",
+        "name": "Neeti Mohan",
+        "type": "artist",
+        "uri": "spotify:artist:3ZxZ03fj3tXBZHZWzvaLSM"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/61GFHbaklmOlH3wHh2PA5K"
+        },
+        "href": "https://api.spotify.com/v1/artists/61GFHbaklmOlH3wHh2PA5K",
+        "id": "61GFHbaklmOlH3wHh2PA5K",
+        "name": "Kaushik",
+        "type": "artist",
+        "uri": "spotify:artist:61GFHbaklmOlH3wHh2PA5K"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0tpwqQhdfJXRcUDSNRjb9O",
+    "is_local": false,
+    "name": "Mere Yaaraa (From \"Sooryavanshi\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/aafe904aeca7931b1340a4b706585ffba1aff707?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4f7KfxeHq9BiylGmyXepGt",
+          "id": "4f7KfxeHq9BiylGmyXepGt",
+          "name": "Tanishk Bagchi",
+          "type": "artist",
+          "uri": "spotify:artist:4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
+          "id": "1tqysapcCh1lWEAc9dIFpa",
+          "name": "Jubin Nautiyal",
+          "type": "artist",
+          "uri": "spotify:artist:1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sVmXkzX2ukc6QvasrDBES",
+          "id": "1sVmXkzX2ukc6QvasrDBES",
+          "name": "Asees Kaur",
+          "type": "artist",
+          "uri": "spotify:artist:1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2DKSZvMj7Da6rzNVPMgREj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a75c2f26913099a420050f01",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a75c2f26913099a420050f01",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a75c2f26913099a420050f01",
+          "width": 64
+        }
+      ],
+      "name": "Raataan Lambiyan (From \"Shershaah\")",
+      "release_date": "2021-07-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2DKSZvMj7Da6rzNVPMgREj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        "href": "https://api.spotify.com/v1/artists/4f7KfxeHq9BiylGmyXepGt",
+        "id": "4f7KfxeHq9BiylGmyXepGt",
+        "name": "Tanishk Bagchi",
+        "type": "artist",
+        "uri": "spotify:artist:4f7KfxeHq9BiylGmyXepGt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
+        "id": "1tqysapcCh1lWEAc9dIFpa",
+        "name": "Jubin Nautiyal",
+        "type": "artist",
+        "uri": "spotify:artist:1tqysapcCh1lWEAc9dIFpa"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        "href": "https://api.spotify.com/v1/artists/1sVmXkzX2ukc6QvasrDBES",
+        "id": "1sVmXkzX2ukc6QvasrDBES",
+        "name": "Asees Kaur",
+        "type": "artist",
+        "uri": "spotify:artist:1sVmXkzX2ukc6QvasrDBES"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2rOnSn2piaqLAlYjtfUBlY",
+    "is_local": false,
+    "name": "Raataan Lambiyan (From \"Shershaah\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/d04317bacdc99181f6b24d26591e55d013c79dcf?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4f7KfxeHq9BiylGmyXepGt",
+          "id": "4f7KfxeHq9BiylGmyXepGt",
+          "name": "Tanishk Bagchi",
+          "type": "artist",
+          "uri": "spotify:artist:4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
+          "id": "1tqysapcCh1lWEAc9dIFpa",
+          "name": "Jubin Nautiyal",
+          "type": "artist",
+          "uri": "spotify:artist:1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sVmXkzX2ukc6QvasrDBES",
+          "id": "1sVmXkzX2ukc6QvasrDBES",
+          "name": "Asees Kaur",
+          "type": "artist",
+          "uri": "spotify:artist:1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2DKSZvMj7Da6rzNVPMgREj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a75c2f26913099a420050f01",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a75c2f26913099a420050f01",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a75c2f26913099a420050f01",
+          "width": 64
+        }
+      ],
+      "name": "Raataan Lambiyan (From \"Shershaah\")",
+      "release_date": "2021-07-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2DKSZvMj7Da6rzNVPMgREj"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        "href": "https://api.spotify.com/v1/artists/4f7KfxeHq9BiylGmyXepGt",
+        "id": "4f7KfxeHq9BiylGmyXepGt",
+        "name": "Tanishk Bagchi",
+        "type": "artist",
+        "uri": "spotify:artist:4f7KfxeHq9BiylGmyXepGt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
+        "id": "1tqysapcCh1lWEAc9dIFpa",
+        "name": "Jubin Nautiyal",
+        "type": "artist",
+        "uri": "spotify:artist:1tqysapcCh1lWEAc9dIFpa"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        "href": "https://api.spotify.com/v1/artists/1sVmXkzX2ukc6QvasrDBES",
+        "id": "1sVmXkzX2ukc6QvasrDBES",
+        "name": "Asees Kaur",
+        "type": "artist",
+        "uri": "spotify:artist:1sVmXkzX2ukc6QvasrDBES"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2rOnSn2piaqLAlYjtfUBlY",
+    "is_local": false,
+    "name": "Raataan Lambiyan (From \"Shershaah\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/d04317bacdc99181f6b24d26591e55d013c79dcf?cid=811598a754134358878b30bc9c28decd"
+  }
+]
