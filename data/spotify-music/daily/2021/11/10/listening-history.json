@@ -4,6 +4,16 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dN9MQpjIyNxyeRfz4EDZe",
+          "id": "3dN9MQpjIyNxyeRfz4EDZe",
+          "name": "Rochak Kohli",
+          "type": "artist",
+          "uri": "spotify:artist:3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
           },
           "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
@@ -14,13 +24,13 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+            "spotify": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
           },
-          "href": "https://api.spotify.com/v1/artists/3dN9MQpjIyNxyeRfz4EDZe",
-          "id": "3dN9MQpjIyNxyeRfz4EDZe",
-          "name": "Rochak Kohli",
+          "href": "https://api.spotify.com/v1/artists/5r2baeTwcCJnuIsDIlxUJo",
+          "id": "5r2baeTwcCJnuIsDIlxUJo",
+          "name": "Rashmi Virag",
           "type": "artist",
-          "uri": "spotify:artist:3dN9MQpjIyNxyeRfz4EDZe"
+          "uri": "spotify:artist:5r2baeTwcCJnuIsDIlxUJo"
         }
       ],
       "href": "https://api.spotify.com/v1/albums/7B5QeVfOY5EN3EgNyz8DEw",
@@ -51,6 +61,16 @@
     "artists": [
       {
         "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        "href": "https://api.spotify.com/v1/artists/3dN9MQpjIyNxyeRfz4EDZe",
+        "id": "3dN9MQpjIyNxyeRfz4EDZe",
+        "name": "Rochak Kohli",
+        "type": "artist",
+        "uri": "spotify:artist:3dN9MQpjIyNxyeRfz4EDZe"
+      },
+      {
+        "external_urls": {
           "spotify": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
         },
         "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
@@ -61,13 +81,13 @@
       },
       {
         "external_urls": {
-          "spotify": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+          "spotify": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
         },
-        "href": "https://api.spotify.com/v1/artists/3dN9MQpjIyNxyeRfz4EDZe",
-        "id": "3dN9MQpjIyNxyeRfz4EDZe",
-        "name": "Rochak Kohli",
+        "href": "https://api.spotify.com/v1/artists/5r2baeTwcCJnuIsDIlxUJo",
+        "id": "5r2baeTwcCJnuIsDIlxUJo",
+        "name": "Rashmi Virag",
         "type": "artist",
-        "uri": "spotify:artist:3dN9MQpjIyNxyeRfz4EDZe"
+        "uri": "spotify:artist:5r2baeTwcCJnuIsDIlxUJo"
       }
     ],
     "explicit": false,
