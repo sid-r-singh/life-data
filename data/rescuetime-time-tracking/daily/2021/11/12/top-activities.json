@@ -1,6 +1,38 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 16072,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.meetings",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 6503,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.video",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 5513,
+    "Number of People": 1,
+    "Activity": "YouTube for Android",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 5163,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 2992,
     "Number of People": 1,
     "Activity": "Google Forms",
@@ -8,7 +40,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 2,
+    "Rank": 6,
     "Time Spent (seconds)": 2170,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -16,7 +48,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 3,
+    "Rank": 7,
+    "Time Spent (seconds)": 1988,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 1883,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 1667,
     "Number of People": 1,
     "Activity": "Gmail",
@@ -24,7 +72,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 4,
+    "Rank": 10,
+    "Time Spent (seconds)": 968,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 806,
     "Number of People": 1,
     "Activity": "lms.sssihl.edu.in",
@@ -32,7 +88,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 5,
+    "Rank": 12,
     "Time Spent (seconds)": 476,
     "Number of People": 1,
     "Activity": "dash.cloudflare.com",
@@ -40,7 +96,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 6,
+    "Rank": 13,
+    "Time Spent (seconds)": 463,
+    "Number of People": 1,
+    "Activity": "Authy for Android",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 296,
     "Number of People": 1,
     "Activity": "Google Presentations",
@@ -48,7 +112,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 7,
+    "Rank": 15,
     "Time Spent (seconds)": 237,
     "Number of People": 1,
     "Activity": "core.telegram.org",
@@ -56,7 +120,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 8,
+    "Rank": 16,
+    "Time Spent (seconds)": 205,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 17,
     "Time Spent (seconds)": 197,
     "Number of People": 1,
     "Activity": "developers.cloudflare.com",
@@ -64,7 +136,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 9,
+    "Rank": 18,
     "Time Spent (seconds)": 122,
     "Number of People": 1,
     "Activity": "cloudflare.com",
@@ -72,7 +144,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 10,
+    "Rank": 19,
+    "Time Spent (seconds)": 100,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 20,
     "Time Spent (seconds)": 96,
     "Number of People": 1,
     "Activity": "Google Calendar",
@@ -80,7 +160,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 21,
     "Time Spent (seconds)": 89,
     "Number of People": 1,
     "Activity": "payme.uz",
@@ -88,7 +168,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
+    "Rank": 22,
     "Time Spent (seconds)": 74,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -96,7 +176,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 23,
+    "Time Spent (seconds)": 71,
+    "Number of People": 1,
+    "Activity": "Calculator",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 24,
     "Time Spent (seconds)": 65,
     "Number of People": 1,
     "Activity": "Blank Web Browser",
@@ -104,7 +192,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 14,
+    "Rank": 25,
     "Time Spent (seconds)": 61,
     "Number of People": 1,
     "Activity": "bcs.wiley.com",
@@ -112,7 +200,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 15,
+    "Rank": 26,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
     "Activity": "lh3.googleusercontent.com",
@@ -120,7 +208,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 16,
+    "Rank": 27,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
     "Activity": "newtab",
@@ -128,7 +216,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 17,
+    "Rank": 28,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.app.smartcapture",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "Google Keep",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 31,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -136,7 +248,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 18,
+    "Rank": 32,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "wiley.com",
@@ -144,7 +256,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 19,
+    "Rank": 33,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "Google Play Services",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 35,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "google.com",
