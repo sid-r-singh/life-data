@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 106,
+    "Time Spent (seconds)": 4033,
     "Number of People": 1,
     "Activity": "drive.google.com",
     "Category": "General Business",
@@ -9,34 +9,146 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 50,
+    "Time Spent (seconds)": 1380,
+    "Number of People": 1,
+    "Activity": "meet.google.com",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 927,
+    "Number of People": 1,
+    "Activity": "blog.cloudflare.com",
+    "Category": "Science & Technology",
+    "Productivity": -1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 605,
+    "Number of People": 1,
+    "Activity": "lms.sssihl.edu.in",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 371,
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
     "Productivity": 1
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 45,
-    "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
-    "Productivity": 0
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 1,
+    "Rank": 6,
+    "Time Spent (seconds)": 292,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 1,
+    "Rank": 7,
+    "Time Spent (seconds)": 201,
+    "Number of People": 1,
+    "Activity": "notion.so",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 169,
+    "Number of People": 1,
+    "Activity": "cloudflare.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 123,
+    "Number of People": 1,
+    "Activity": "wicg.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 110,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 90,
+    "Number of People": 1,
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 49,
+    "Number of People": 1,
+    "Activity": "subscribe.wordpress.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Activity": "shkspr.mobi",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "ko-fi.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "assignments.google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "indexnow.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "href.li",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "content.cloudflare.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
   }
 ]
