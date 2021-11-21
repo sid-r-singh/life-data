@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4456,
+    "Time Spent (seconds)": 4585,
     "Number of People": 1,
     "Activity": "drive.google.com",
     "Category": "General Business",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 2421,
+    "Time Spent (seconds)": 2530,
     "Number of People": 1,
     "Activity": "lms.sssihl.edu.in",
     "Category": "General Reference & Learning",
@@ -73,9 +73,9 @@
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 30,
+    "Time Spent (seconds)": 37,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
+    "Activity": "downloads",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -89,6 +89,14 @@
   },
   {
     "Rank": 12,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "estore.malwarebytes.com",
@@ -96,19 +104,19 @@
     "Productivity": -1
   },
   {
-    "Rank": 13,
+    "Rank": 14,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "web.whatsapp.com",
     "Category": "Instant Message",
     "Productivity": -1
-  },
-  {
-    "Rank": 14,
-    "Time Spent (seconds)": 24,
-    "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
-    "Productivity": 0
   }
 ]
