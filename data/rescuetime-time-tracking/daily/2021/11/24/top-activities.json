@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1486,
+    "Time Spent (seconds)": 1510,
     "Number of People": 1,
     "Activity": "lms.sssihl.edu.in",
     "Category": "General Reference & Learning",
@@ -57,6 +57,14 @@
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 822,
+    "Number of People": 1,
+    "Activity": "assignments.google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 584,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
@@ -64,20 +72,12 @@
     "Productivity": -1
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 581,
     "Number of People": 1,
     "Activity": "documentcloud.adobe.com",
     "Category": "General Software Development",
     "Productivity": 2
-  },
-  {
-    "Rank": 10,
-    "Time Spent (seconds)": 519,
-    "Number of People": 1,
-    "Activity": "assignments.google.com",
-    "Category": "Search",
-    "Productivity": 0
   },
   {
     "Rank": 11,
@@ -163,17 +163,17 @@
     "Rank": 21,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "d:",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 22,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "d:",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 23,
@@ -211,32 +211,32 @@
     "Rank": 27,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.video",
-    "Category": "Video",
+    "Activity": "Android Gallery",
+    "Category": "Photos",
     "Productivity": -2
   },
   {
     "Rank": 28,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "Android Gallery",
-    "Category": "Photos",
+    "Activity": "mobile - com.samsung.android.video",
+    "Category": "Video",
     "Productivity": -2
   },
   {
     "Rank": 29,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "adobeid-na1.services.adobe.com",
-    "Category": "General Design & Composition",
-    "Productivity": 2
+    "Activity": "ims-na1.adobelogin.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 30,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "ims-na1.adobelogin.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "adobeid-na1.services.adobe.com",
+    "Category": "General Design & Composition",
+    "Productivity": 2
   }
 ]
