@@ -163,28 +163,20 @@
     "Rank": 21,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
-  },
-  {
-    "Rank": 22,
-    "Time Spent (seconds)": 17,
-    "Number of People": 1,
     "Activity": "d:",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 23,
-    "Time Spent (seconds)": 16,
+    "Rank": 22,
+    "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
-    "Rank": 24,
+    "Rank": 23,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "Camera - Samsung Android Phone",
@@ -192,15 +184,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 25,
-    "Time Spent (seconds)": 4,
+    "Rank": 24,
+    "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "support.microsoft.com",
-    "Category": "Search",
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 26,
+    "Rank": 25,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "android",
@@ -208,15 +200,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 27,
-    "Time Spent (seconds)": 3,
+    "Rank": 26,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "Android Gallery",
-    "Category": "Photos",
-    "Productivity": -2
+    "Activity": "support.microsoft.com",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
-    "Rank": 28,
+    "Rank": 27,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.video",
@@ -224,19 +216,27 @@
     "Productivity": -2
   },
   {
-    "Rank": 29,
-    "Time Spent (seconds)": 1,
+    "Rank": 28,
+    "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "ims-na1.adobelogin.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
   },
   {
-    "Rank": 30,
+    "Rank": 29,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "adobeid-na1.services.adobe.com",
     "Category": "General Design & Composition",
     "Productivity": 2
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "ims-na1.adobelogin.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]
