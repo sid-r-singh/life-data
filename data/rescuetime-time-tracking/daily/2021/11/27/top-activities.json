@@ -299,20 +299,12 @@
     "Rank": 38,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "dash.cloudflare.com",
-    "Category": "Systems Operations",
-    "Productivity": 2
-  },
-  {
-    "Rank": 39,
-    "Time Spent (seconds)": 10,
-    "Number of People": 1,
     "Activity": "Android Settings",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 40,
+    "Rank": 39,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "android",
@@ -320,12 +312,20 @@
     "Productivity": 1
   },
   {
-    "Rank": 41,
+    "Rank": 40,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "support.google.com",
     "Category": "General News & Opinion",
     "Productivity": -2
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "dash.cloudflare.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
   },
   {
     "Rank": 42,

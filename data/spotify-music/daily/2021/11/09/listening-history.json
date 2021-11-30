@@ -426,6 +426,16 @@
           "name": "B Praak",
           "type": "artist",
           "uri": "spotify:artist:56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0bRPtPZQkWHeG7MGk9eWlh",
+          "id": "0bRPtPZQkWHeG7MGk9eWlh",
+          "name": "Romy",
+          "type": "artist",
+          "uri": "spotify:artist:0bRPtPZQkWHeG7MGk9eWlh"
         }
       ],
       "href": "https://api.spotify.com/v1/albums/0Z1zYMwJRpvq0d9rdqTOYo",
@@ -473,6 +483,16 @@
         "name": "B Praak",
         "type": "artist",
         "uri": "spotify:artist:56SjZARoEvag3RoKWIb16j"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        "href": "https://api.spotify.com/v1/artists/0bRPtPZQkWHeG7MGk9eWlh",
+        "id": "0bRPtPZQkWHeG7MGk9eWlh",
+        "name": "Romy",
+        "type": "artist",
+        "uri": "spotify:artist:0bRPtPZQkWHeG7MGk9eWlh"
       }
     ],
     "explicit": false,
