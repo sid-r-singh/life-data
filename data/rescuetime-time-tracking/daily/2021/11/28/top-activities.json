@@ -283,17 +283,17 @@
     "Rank": 36,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
-    "Activity": "android",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "unv.org",
+    "Category": "Employment",
+    "Productivity": 2
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
-    "Activity": "unv.org",
-    "Category": "Employment",
-    "Productivity": 2
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 38,
@@ -339,33 +339,33 @@
     "Rank": 43,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "groups.google.com",
-    "Category": "General Communication & Scheduling",
-    "Productivity": 0
-  },
-  {
-    "Rank": 44,
-    "Time Spent (seconds)": 13,
-    "Number of People": 1,
     "Activity": "npmjs.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 45,
-    "Time Spent (seconds)": 12,
+    "Rank": 44,
+    "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "groups.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
   },
   {
-    "Rank": 46,
+    "Rank": 45,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "google.com",
     "Category": "Search",
     "Productivity": 0
+  },
+  {
+    "Rank": 46,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 47,
@@ -411,16 +411,16 @@
     "Rank": 52,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "Google Play Services",
-    "Category": "General Shopping",
-    "Productivity": -2
+    "Activity": "S Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 53,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "S Finder",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "Google Play Services",
+    "Category": "General Shopping",
+    "Productivity": -2
   }
 ]
