@@ -1,0 +1,1318 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+          },
+          "href": "https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6",
+          "id": "09UmIX92EUH9hAK4bxvHx6",
+          "name": "Mithoon",
+          "type": "artist",
+          "uri": "spotify:artist:09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0E02VcvA5p1ndkLdqWD5JB",
+          "id": "0E02VcvA5p1ndkLdqWD5JB",
+          "name": "Ankit Tiwari",
+          "type": "artist",
+          "uri": "spotify:artist:0E02VcvA5p1ndkLdqWD5JB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl"
+          },
+          "href": "https://api.spotify.com/v1/artists/2kkQthS9OLpK4UqNWYqoVl",
+          "id": "2kkQthS9OLpK4UqNWYqoVl",
+          "name": "Jeet Gannguli",
+          "type": "artist",
+          "uri": "spotify:artist:2kkQthS9OLpK4UqNWYqoVl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0Rkv5iqjF2uenfL0OVB8hg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273348468c203278d510f0cbc5a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02348468c203278d510f0cbc5a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851348468c203278d510f0cbc5a",
+          "width": 64
+        }
+      ],
+      "name": "Aashiqui 2",
+      "release_date": "2013-04-06",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0Rkv5iqjF2uenfL0OVB8hg"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        "href": "https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6",
+        "id": "09UmIX92EUH9hAK4bxvHx6",
+        "name": "Mithoon",
+        "type": "artist",
+        "uri": "spotify:artist:09UmIX92EUH9hAK4bxvHx6"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0TEZDqtGjqPwcaFx3Mzpbz",
+    "is_local": false,
+    "name": "Aashiqui (The Love Theme)",
+    "preview_url": "https://p.scdn.co/mp3-preview/78d82b8f9be52a795cc1c2637d56826556a2843d?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+          },
+          "href": "https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6",
+          "id": "09UmIX92EUH9hAK4bxvHx6",
+          "name": "Mithoon",
+          "type": "artist",
+          "uri": "spotify:artist:09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0E02VcvA5p1ndkLdqWD5JB",
+          "id": "0E02VcvA5p1ndkLdqWD5JB",
+          "name": "Ankit Tiwari",
+          "type": "artist",
+          "uri": "spotify:artist:0E02VcvA5p1ndkLdqWD5JB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl"
+          },
+          "href": "https://api.spotify.com/v1/artists/2kkQthS9OLpK4UqNWYqoVl",
+          "id": "2kkQthS9OLpK4UqNWYqoVl",
+          "name": "Jeet Gannguli",
+          "type": "artist",
+          "uri": "spotify:artist:2kkQthS9OLpK4UqNWYqoVl"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0Rkv5iqjF2uenfL0OVB8hg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273348468c203278d510f0cbc5a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02348468c203278d510f0cbc5a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851348468c203278d510f0cbc5a",
+          "width": 64
+        }
+      ],
+      "name": "Aashiqui 2",
+      "release_date": "2013-04-06",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0Rkv5iqjF2uenfL0OVB8hg"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        },
+        "href": "https://api.spotify.com/v1/artists/3yMmYEklQ7gLOZXEFNd3xr",
+        "id": "3yMmYEklQ7gLOZXEFNd3xr",
+        "name": "Palak Muchhal",
+        "type": "artist",
+        "uri": "spotify:artist:3yMmYEklQ7gLOZXEFNd3xr"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "type": "artist",
+        "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3E9ryvrKP3hUWX79PAakH2",
+    "is_local": false,
+    "name": "Meri Aashiqui",
+    "preview_url": "https://p.scdn.co/mp3-preview/a65ef68118fe4a36ccc6a0bf3c410dfa60303bbe?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+          },
+          "href": "https://api.spotify.com/v1/artists/56SjZARoEvag3RoKWIb16j",
+          "id": "56SjZARoEvag3RoKWIb16j",
+          "name": "B Praak",
+          "type": "artist",
+          "uri": "spotify:artist:56SjZARoEvag3RoKWIb16j"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/37nWpT1gls52Tu6pymuPw3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273173a36a54fd89a650240ceac",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02173a36a54fd89a650240ceac",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851173a36a54fd89a650240ceac",
+          "width": 64
+        }
+      ],
+      "name": "Mann Bharryaa 2.0 (From \"Shershaah\")",
+      "release_date": "2021-08-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:37nWpT1gls52Tu6pymuPw3"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        "href": "https://api.spotify.com/v1/artists/56SjZARoEvag3RoKWIb16j",
+        "id": "56SjZARoEvag3RoKWIb16j",
+        "name": "B Praak",
+        "type": "artist",
+        "uri": "spotify:artist:56SjZARoEvag3RoKWIb16j"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3jf5303mzzJ96O8xFTcEn4",
+    "is_local": false,
+    "name": "Mann Bharryaa 2.0 (From \"Shershaah\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/688b24cc7c6231ea54332a74333c6e4e9129d884?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/59RFGu1upndkHRqpJWHvos",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a51f57ce4e92c152479caab7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a51f57ce4e92c152479caab7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a51f57ce4e92c152479caab7",
+          "width": 64
+        }
+      ],
+      "name": "Yaariyan",
+      "release_date": "2013-12-09",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:59RFGu1upndkHRqpJWHvos"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        },
+        "href": "https://api.spotify.com/v1/artists/5SuRAj1A9FEHj5NxS86YAm",
+        "id": "5SuRAj1A9FEHj5NxS86YAm",
+        "name": "Shafqat Amanat Ali",
+        "type": "artist",
+        "uri": "spotify:artist:5SuRAj1A9FEHj5NxS86YAm"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6YYVzVapUF3UnZQ0igasl3",
+    "is_local": false,
+    "name": "Allah Waariyan",
+    "preview_url": "https://p.scdn.co/mp3-preview/42a793f5df0f9c833a94fdf1063aebf3d212ea0a?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+          "id": "0L5GV6LN8SWWUWIdBbTLTZ",
+          "name": "Shankar-Ehsaan-Loy",
+          "type": "artist",
+          "uri": "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1DgIFH0yAPRPGBeCiJBvDv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273086334217996ebabea5bef33",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02086334217996ebabea5bef33",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851086334217996ebabea5bef33",
+          "width": 64
+        }
+      ],
+      "name": "Patiala House",
+      "release_date": "2011-01-07",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:1DgIFH0yAPRPGBeCiJBvDv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        },
+        "href": "https://api.spotify.com/v1/artists/5SuRAj1A9FEHj5NxS86YAm",
+        "id": "5SuRAj1A9FEHj5NxS86YAm",
+        "name": "Shafqat Amanat Ali",
+        "type": "artist",
+        "uri": "spotify:artist:5SuRAj1A9FEHj5NxS86YAm"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6wsMVa2M6Ktea2UbnVoMvO",
+    "is_local": false,
+    "name": "Kyun Main Jaagoon",
+    "preview_url": "https://p.scdn.co/mp3-preview/dbdcbd112f50606ab71897f96f1b908b3694d0ef?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dN9MQpjIyNxyeRfz4EDZe",
+          "id": "3dN9MQpjIyNxyeRfz4EDZe",
+          "name": "Rochak Kohli",
+          "type": "artist",
+          "uri": "spotify:artist:3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
+          "id": "1tqysapcCh1lWEAc9dIFpa",
+          "name": "Jubin Nautiyal",
+          "type": "artist",
+          "uri": "spotify:artist:1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+          },
+          "href": "https://api.spotify.com/v1/artists/5r2baeTwcCJnuIsDIlxUJo",
+          "id": "5r2baeTwcCJnuIsDIlxUJo",
+          "name": "Rashmi Virag",
+          "type": "artist",
+          "uri": "spotify:artist:5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7B5QeVfOY5EN3EgNyz8DEw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27355fb17270db10e180ffcfad9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0255fb17270db10e180ffcfad9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485155fb17270db10e180ffcfad9",
+          "width": 64
+        }
+      ],
+      "name": "Meri Aashiqui",
+      "release_date": "2020-06-03",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7B5QeVfOY5EN3EgNyz8DEw"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        "href": "https://api.spotify.com/v1/artists/3dN9MQpjIyNxyeRfz4EDZe",
+        "id": "3dN9MQpjIyNxyeRfz4EDZe",
+        "name": "Rochak Kohli",
+        "type": "artist",
+        "uri": "spotify:artist:3dN9MQpjIyNxyeRfz4EDZe"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
+        "id": "1tqysapcCh1lWEAc9dIFpa",
+        "name": "Jubin Nautiyal",
+        "type": "artist",
+        "uri": "spotify:artist:1tqysapcCh1lWEAc9dIFpa"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        },
+        "href": "https://api.spotify.com/v1/artists/5r2baeTwcCJnuIsDIlxUJo",
+        "id": "5r2baeTwcCJnuIsDIlxUJo",
+        "name": "Rashmi Virag",
+        "type": "artist",
+        "uri": "spotify:artist:5r2baeTwcCJnuIsDIlxUJo"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2Zwv2vKU8mwgh2LI5GUKcT",
+    "is_local": false,
+    "name": "Meri Aashiqui",
+    "preview_url": "https://p.scdn.co/mp3-preview/af2107adeaab4289cd64b884f9f340503eae9fb7?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5ASFrellizlx98SmsItOEm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27303c03da08efb9051d8fae5d5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0203c03da08efb9051d8fae5d5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485103c03da08efb9051d8fae5d5",
+          "width": 64
+        }
+      ],
+      "name": "Baar Baar Dekho (Original Motion Picture Soundtrack)",
+      "release_date": "2016-08-04",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:5ASFrellizlx98SmsItOEm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        "href": "https://api.spotify.com/v1/artists/4IKVDbCSBTxBeAsMKjAuTs",
+        "id": "4IKVDbCSBTxBeAsMKjAuTs",
+        "name": "Armaan Malik",
+        "type": "artist",
+        "uri": "spotify:artist:4IKVDbCSBTxBeAsMKjAuTs"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        "href": "https://api.spotify.com/v1/artists/3ZxZ03fj3tXBZHZWzvaLSM",
+        "id": "3ZxZ03fj3tXBZHZWzvaLSM",
+        "name": "Neeti Mohan",
+        "type": "artist",
+        "uri": "spotify:artist:3ZxZ03fj3tXBZHZWzvaLSM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0zHZSO80CTxNtvtRhveHRJ",
+    "is_local": false,
+    "name": "Sau Aasmaan",
+    "preview_url": "https://p.scdn.co/mp3-preview/9f0602119d7559b0669169a9ab3b1cc22a0c0905?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/55kwdrAoXE5QmFwQcI5bpz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ce8b50be7bf0e60ef72488d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024ce8b50be7bf0e60ef72488d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514ce8b50be7bf0e60ef72488d",
+          "width": 64
+        }
+      ],
+      "name": "A Decade of Love",
+      "release_date": "2010-12-27",
+      "release_date_precision": "day",
+      "total_tracks": 76,
+      "type": "album",
+      "uri": "spotify:album:55kwdrAoXE5QmFwQcI5bpz"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HCqGPJcQTyGJ2yqntbuyr",
+        "id": "7HCqGPJcQTyGJ2yqntbuyr",
+        "name": "Amit Trivedi",
+        "type": "artist",
+        "uri": "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        "href": "https://api.spotify.com/v1/artists/3nQ125TJobosBH446Dsvvv",
+        "id": "3nQ125TJobosBH446Dsvvv",
+        "name": "Kavita Seth",
+        "type": "artist",
+        "uri": "spotify:artist:3nQ125TJobosBH446Dsvvv"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        "href": "https://api.spotify.com/v1/artists/2fMqTqiTxUDlmcOEPaQSsx",
+        "id": "2fMqTqiTxUDlmcOEPaQSsx",
+        "name": "Amitabh Bhattacharya",
+        "type": "artist",
+        "uri": "spotify:artist:2fMqTqiTxUDlmcOEPaQSsx"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1U5ZT7c7Sw84xDcoEt0Zaq",
+    "is_local": false,
+    "name": "Iktara",
+    "preview_url": "https://p.scdn.co/mp3-preview/61415b250d6a2ad9abf029d420a9b021a2a93dd7?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ohaQzKaXrobAL8paLSaxq",
+          "id": "6ohaQzKaXrobAL8paLSaxq",
+          "name": "Salim–Sulaiman",
+          "type": "artist",
+          "uri": "spotify:artist:6ohaQzKaXrobAL8paLSaxq"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7pbKuvQHUTwbq4FbevvEca",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731555fec10000486f9331fbc8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021555fec10000486f9331fbc8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511555fec10000486f9331fbc8",
+          "width": 64
+        }
+      ],
+      "name": "Rab Ne Bana Di Jodi (Original)",
+      "release_date": "2008-11-06",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:7pbKuvQHUTwbq4FbevvEca"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+        },
+        "href": "https://api.spotify.com/v1/artists/03SZmfKAgYRQKUwy0EoJUa",
+        "id": "03SZmfKAgYRQKUwy0EoJUa",
+        "name": "Roop Kumar Rathod",
+        "type": "artist",
+        "uri": "spotify:artist:03SZmfKAgYRQKUwy0EoJUa"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2LcXJP95e4HKydTZ2mYfrx",
+    "is_local": false,
+    "name": "Tujh Mein Rab Dikhta Hai",
+    "preview_url": "https://p.scdn.co/mp3-preview/b64825cfa14d31f7e3f36a0f90fc6640c530dc07?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5iXTBxq6U8TlbjRIDEDItN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c439bb00ab53ff82d8622064",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c439bb00ab53ff82d8622064",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c439bb00ab53ff82d8622064",
+          "width": 64
+        }
+      ],
+      "name": "Sakhiyan2.0 - BellBottom",
+      "release_date": "2021-08-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5iXTBxq6U8TlbjRIDEDItN"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM"
+        },
+        "href": "https://api.spotify.com/v1/artists/2sN4fSzAm2rAL0HIurPCEM",
+        "id": "2sN4fSzAm2rAL0HIurPCEM",
+        "name": "Maninder Buttar",
+        "type": "artist",
+        "uri": "spotify:artist:2sN4fSzAm2rAL0HIurPCEM"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
+        },
+        "href": "https://api.spotify.com/v1/artists/7C5xVXoqim1TICnCMZ9A6P",
+        "id": "7C5xVXoqim1TICnCMZ9A6P",
+        "name": "Zahrah S Khan",
+        "type": "artist",
+        "uri": "spotify:artist:7C5xVXoqim1TICnCMZ9A6P"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        "href": "https://api.spotify.com/v1/artists/4f7KfxeHq9BiylGmyXepGt",
+        "id": "4f7KfxeHq9BiylGmyXepGt",
+        "name": "Tanishk Bagchi",
+        "type": "artist",
+        "uri": "spotify:artist:4f7KfxeHq9BiylGmyXepGt"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2hTn8oS49IQULxAWs7hEBz",
+    "is_local": false,
+    "name": "Sakhiyan2.0",
+    "preview_url": "https://p.scdn.co/mp3-preview/b5699df6189eeeb8d08bb75576ee08f48c42b5c7?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "type": "artist",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5zrZPXoYsu772sB3CwVuxr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3582107f127c2765fafb431",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3582107f127c2765fafb431",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f3582107f127c2765fafb431",
+          "width": 64
+        }
+      ],
+      "name": "Dil Bechara (Original Motion Picture Soundtrack)",
+      "release_date": "2020-07-10",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:5zrZPXoYsu772sB3CwVuxr"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+        "id": "1mYsTxnqsietFxj1OgoGbG",
+        "name": "A.R. Rahman",
+        "type": "artist",
+        "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        "href": "https://api.spotify.com/v1/artists/3eDT9fwXKuHWFvgZaaYC5v",
+        "id": "3eDT9fwXKuHWFvgZaaYC5v",
+        "name": "Sunidhi Chauhan",
+        "type": "artist",
+        "uri": "spotify:artist:3eDT9fwXKuHWFvgZaaYC5v"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp"
+        },
+        "href": "https://api.spotify.com/v1/artists/0xWGBvlwCBHAgXyR7TmPwp",
+        "id": "0xWGBvlwCBHAgXyR7TmPwp",
+        "name": "Hriday Gattani",
+        "type": "artist",
+        "uri": "spotify:artist:0xWGBvlwCBHAgXyR7TmPwp"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3AeOPuf7VfwUsxeQNN9Vsv",
+    "is_local": false,
+    "name": "Maskhari",
+    "preview_url": "https://p.scdn.co/mp3-preview/7066f11947122c8e4e1ad2bda8d1c8bccdf80e75?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+          },
+          "href": "https://api.spotify.com/v1/artists/76fuWYgIf3TVIopTs3vaJ6",
+          "id": "76fuWYgIf3TVIopTs3vaJ6",
+          "name": "Amaal Mallik",
+          "type": "artist",
+          "uri": "spotify:artist:76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0E02VcvA5p1ndkLdqWD5JB",
+          "id": "0E02VcvA5p1ndkLdqWD5JB",
+          "name": "Ankit Tiwari",
+          "type": "artist",
+          "uri": "spotify:artist:0E02VcvA5p1ndkLdqWD5JB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI"
+          },
+          "href": "https://api.spotify.com/v1/artists/5isfxZ3RSdBlSLn3cSFhnI",
+          "id": "5isfxZ3RSdBlSLn3cSFhnI",
+          "name": "Meet Bros Anjjan",
+          "type": "artist",
+          "uri": "spotify:artist:5isfxZ3RSdBlSLn3cSFhnI"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4ixAjixkWs8mCNdlTH1Cdf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f6371011af4c82fb31d54820",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f6371011af4c82fb31d54820",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f6371011af4c82fb31d54820",
+          "width": 64
+        }
+      ],
+      "name": "Roy",
+      "release_date": "2015-01-09",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:4ixAjixkWs8mCNdlTH1Cdf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "type": "artist",
+        "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY"
+        },
+        "href": "https://api.spotify.com/v1/artists/4iW4xSfMEIvrXM0Iu3aFDY",
+        "id": "4iW4xSfMEIvrXM0Iu3aFDY",
+        "name": "Aditi Singh Sharma",
+        "type": "artist",
+        "uri": "spotify:artist:4iW4xSfMEIvrXM0Iu3aFDY"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/48pyUxg9RYuwie5M9R7qRn",
+    "is_local": false,
+    "name": "Sooraj Dooba Hain",
+    "preview_url": "https://p.scdn.co/mp3-preview/f59f97da9a9abc423d00958914243a13bcb67609?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+          },
+          "href": "https://api.spotify.com/v1/artists/6CXEwIaXYfVJ84biCxqc9k",
+          "id": "6CXEwIaXYfVJ84biCxqc9k",
+          "name": "Vishal Dadlani",
+          "type": "artist",
+          "uri": "spotify:artist:6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO",
+          "id": "1mBydYMVBECdDmMfE2sEUO",
+          "name": "Sachin-Jigar",
+          "type": "artist",
+          "uri": "spotify:artist:1mBydYMVBECdDmMfE2sEUO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6KAlqL1GjrVMBTMWkiPlH5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737fb3c81257f9398123256f84",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027fb3c81257f9398123256f84",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517fb3c81257f9398123256f84",
+          "width": 64
+        }
+      ],
+      "name": "Kudi Nu Nachne De (From \"Angrezi Medium\")",
+      "release_date": "2020-03-04",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6KAlqL1GjrVMBTMWkiPlH5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        "href": "https://api.spotify.com/v1/artists/6CXEwIaXYfVJ84biCxqc9k",
+        "id": "6CXEwIaXYfVJ84biCxqc9k",
+        "name": "Vishal Dadlani",
+        "type": "artist",
+        "uri": "spotify:artist:6CXEwIaXYfVJ84biCxqc9k"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO",
+        "id": "1mBydYMVBECdDmMfE2sEUO",
+        "name": "Sachin-Jigar",
+        "type": "artist",
+        "uri": "spotify:artist:1mBydYMVBECdDmMfE2sEUO"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4YIhJmihoXwjtbY4vsV9Nh",
+    "is_local": false,
+    "name": "Kudi Nu Nachne De (From \"Angrezi Medium\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/2a49b82d6f0c77c90e6fab8e6fbc35ea02ffcffb?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          },
+          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "type": "artist",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
+          },
+          "href": "https://api.spotify.com/v1/artists/324yz9K4ufBcGkcgUhTiHH",
+          "id": "324yz9K4ufBcGkcgUhTiHH",
+          "name": "TUSHAR JOSHI",
+          "type": "artist",
+          "uri": "spotify:artist:324yz9K4ufBcGkcgUhTiHH"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6AO0pgr8j2uk3fQUmXR8lF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ee7d033788ce3dede7ca9853",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ee7d033788ce3dede7ca9853",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ee7d033788ce3dede7ca9853",
+          "width": 64
+        }
+      ],
+      "name": "Woh Din (From \"Chhichhore\")",
+      "release_date": "2019-08-26",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6AO0pgr8j2uk3fQUmXR8lF"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+        "id": "1wRPtKGflJrBx9BmLsSwlU",
+        "name": "Pritam",
+        "type": "artist",
+        "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
+        },
+        "href": "https://api.spotify.com/v1/artists/324yz9K4ufBcGkcgUhTiHH",
+        "id": "324yz9K4ufBcGkcgUhTiHH",
+        "name": "TUSHAR JOSHI",
+        "type": "artist",
+        "uri": "spotify:artist:324yz9K4ufBcGkcgUhTiHH"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6QPFWNUw9iGFZAXgqecunp",
+    "is_local": false,
+    "name": "Woh Din (From \"Chhichhore\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/7576607d4ad0100db7e5c58519e3986ec998fe3e?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+          "id": "0oOet2f43PA68X5RxKobEy",
+          "name": "Shreya Ghoshal",
+          "type": "artist",
+          "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0YYefayFD1GPuLpRKd3nFs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738cb273a5d0793eba99e18a2e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028cb273a5d0793eba99e18a2e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518cb273a5d0793eba99e18a2e",
+          "width": 64
+        }
+      ],
+      "name": "Nah Woh Main",
+      "release_date": "2020-03-25",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0YYefayFD1GPuLpRKd3nFs"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+        "id": "0oOet2f43PA68X5RxKobEy",
+        "name": "Shreya Ghoshal",
+        "type": "artist",
+        "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6ibFjwPeSfMdZGYv8lMuHD",
+    "is_local": false,
+    "name": "Nah Woh Main",
+    "preview_url": "https://p.scdn.co/mp3-preview/a29197bea2e1e616643eb6119adf624307815217?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          },
+          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "type": "artist",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2KZs4INik6X4KeZEsEWEm4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273352f44aed6f226c6ea28b961",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02352f44aed6f226c6ea28b961",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851352f44aed6f226c6ea28b961",
+          "width": 64
+        }
+      ],
+      "name": "Barfi! (Original Motion Picture Soundtrack)",
+      "release_date": "2012-06-24",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:2KZs4INik6X4KeZEsEWEm4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+        "id": "1wRPtKGflJrBx9BmLsSwlU",
+        "name": "Pritam",
+        "type": "artist",
+        "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+        "id": "0oOet2f43PA68X5RxKobEy",
+        "name": "Shreya Ghoshal",
+        "type": "artist",
+        "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7HHLBC9hUb55SDUcBlM8FQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/7HHLBC9hUb55SDUcBlM8FQ",
+        "id": "7HHLBC9hUb55SDUcBlM8FQ",
+        "name": "Nikhil Paul George",
+        "type": "artist",
+        "uri": "spotify:artist:7HHLBC9hUb55SDUcBlM8FQ"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7ttlemwytO21npSmLKqTBg",
+    "is_local": false,
+    "name": "Aashiyan",
+    "preview_url": "https://p.scdn.co/mp3-preview/ed7f69b0205fb92e49a25d3d70c990b71bff6eaf?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+          "id": "0L5GV6LN8SWWUWIdBbTLTZ",
+          "name": "Shankar-Ehsaan-Loy",
+          "type": "artist",
+          "uri": "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3U2w8t9JJNx2SrUkdY7XRa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ead1372a95d29819105a7a7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024ead1372a95d29819105a7a7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514ead1372a95d29819105a7a7",
+          "width": 64
+        }
+      ],
+      "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
+      "release_date": "2010-01-05",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3U2w8t9JJNx2SrUkdY7XRa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+        "id": "0L5GV6LN8SWWUWIdBbTLTZ",
+        "name": "Shankar-Ehsaan-Loy",
+        "type": "artist",
+        "uri": "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        },
+        "href": "https://api.spotify.com/v1/artists/5SuRAj1A9FEHj5NxS86YAm",
+        "id": "5SuRAj1A9FEHj5NxS86YAm",
+        "name": "Shafqat Amanat Ali",
+        "type": "artist",
+        "uri": "spotify:artist:5SuRAj1A9FEHj5NxS86YAm"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1AXQ4ZCUueIfGGEYAdq9Pe",
+    "is_local": false,
+    "name": "Tere Naina",
+    "preview_url": "https://p.scdn.co/mp3-preview/07fd5888134f5cec843f3b06e8b5a5fb849b39e2?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+          },
+          "href": "https://api.spotify.com/v1/artists/0y59o4v8uw5crbN9M3JiL1",
+          "id": "0y59o4v8uw5crbN9M3JiL1",
+          "name": "Badshah",
+          "type": "artist",
+          "uri": "spotify:artist:0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI",
+          "id": "5f4QpKfy7ptCHwTqspnSJI",
+          "name": "Neha Kakkar",
+          "type": "artist",
+          "uri": "spotify:artist:5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6NYmsKroUtthf1XpzGSCx7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273366d5bd2f22edaa6504721ee",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02366d5bd2f22edaa6504721ee",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851366d5bd2f22edaa6504721ee",
+          "width": 64
+        }
+      ],
+      "name": "Garmi (From \"Street Dancer 3D\")",
+      "release_date": "2019-12-26",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6NYmsKroUtthf1XpzGSCx7"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        "href": "https://api.spotify.com/v1/artists/0y59o4v8uw5crbN9M3JiL1",
+        "id": "0y59o4v8uw5crbN9M3JiL1",
+        "name": "Badshah",
+        "type": "artist",
+        "uri": "spotify:artist:0y59o4v8uw5crbN9M3JiL1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI",
+        "id": "5f4QpKfy7ptCHwTqspnSJI",
+        "name": "Neha Kakkar",
+        "type": "artist",
+        "uri": "spotify:artist:5f4QpKfy7ptCHwTqspnSJI"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1P0xN5daAiUEebg0m8pY2O"
+        },
+        "href": "https://api.spotify.com/v1/artists/1P0xN5daAiUEebg0m8pY2O",
+        "id": "1P0xN5daAiUEebg0m8pY2O",
+        "name": "Varun Dhawan",
+        "type": "artist",
+        "uri": "spotify:artist:1P0xN5daAiUEebg0m8pY2O"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6q9XTgfWilsnyiFofvYrIF",
+    "is_local": false,
+    "name": "Garmi (From \"Street Dancer 3D\") (feat. Varun Dhawan)",
+    "preview_url": "https://p.scdn.co/mp3-preview/739339619722639e97d8912f6f44dd6992cd7da6?cid=811598a754134358878b30bc9c28decd"
+  }
+]

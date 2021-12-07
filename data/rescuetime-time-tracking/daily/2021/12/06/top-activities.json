@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4208,
+    "Time Spent (seconds)": 4789,
     "Number of People": 1,
     "Activity": "discourse.gohugo.io",
     "Category": "General Software Development",
@@ -9,30 +9,110 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 3105,
+    "Time Spent (seconds)": 4361,
+    "Number of People": 1,
+    "Activity": "d:",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 3645,
     "Number of People": 1,
     "Activity": "notion.so",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 896,
+    "Rank": 4,
+    "Time Spent (seconds)": 3003,
     "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 518,
+    "Rank": 5,
+    "Time Spent (seconds)": 1472,
+    "Number of People": 1,
+    "Activity": "meet.google.com",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1212,
     "Number of People": 1,
     "Activity": "localhost:1313",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 5,
+    "Rank": 7,
+    "Time Spent (seconds)": 1056,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 673,
+    "Number of People": 1,
+    "Activity": "YouTube for Android",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 627,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.meetings",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 613,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 547,
+    "Number of People": 1,
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 364,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 323,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 302,
+    "Number of People": 1,
+    "Activity": "lms.sssihl.edu.in",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 184,
     "Number of People": 1,
     "Activity": "awesome-hugo.dev",
@@ -40,7 +120,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 16,
     "Time Spent (seconds)": 178,
     "Number of People": 1,
     "Activity": "gist.github.com",
@@ -48,7 +128,39 @@
     "Productivity": 2
   },
   {
-    "Rank": 7,
+    "Rank": 17,
+    "Time Spent (seconds)": 169,
+    "Number of People": 1,
+    "Activity": "Google Forms",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 162,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 109,
+    "Number of People": 1,
+    "Activity": "gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 109,
+    "Number of People": 1,
+    "Activity": "duolingo.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 21,
     "Time Spent (seconds)": 99,
     "Number of People": 1,
     "Activity": "vninja.net",
@@ -56,7 +168,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 22,
+    "Time Spent (seconds)": 99,
+    "Number of People": 1,
+    "Activity": "assignments.google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 92,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 90,
+    "Number of People": 1,
+    "Activity": "web.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 25,
     "Time Spent (seconds)": 79,
     "Number of People": 1,
     "Activity": "spotlightpa.org",
@@ -64,7 +200,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
+    "Rank": 26,
     "Time Spent (seconds)": 76,
     "Number of People": 1,
     "Activity": "boltdesignsystem.com",
@@ -72,7 +208,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 27,
     "Time Spent (seconds)": 75,
     "Number of People": 1,
     "Activity": "stiobhart.net",
@@ -80,7 +216,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 28,
     "Time Spent (seconds)": 59,
     "Number of People": 1,
     "Activity": "thenewdynamic.com",
@@ -88,15 +224,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 48,
+    "Rank": 29,
+    "Time Spent (seconds)": 51,
     "Number of People": 1,
-    "Activity": "gohugo.io",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "mobile - com.google.android.apps.pdfviewer",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
-    "Rank": 13,
+    "Rank": 30,
     "Time Spent (seconds)": 47,
     "Number of People": 1,
     "Activity": "zwbetz.com",
@@ -104,7 +240,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 14,
+    "Rank": 31,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Activity": "Google Documents",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 32,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
     "Activity": "craftsmandigital.net",
@@ -112,15 +256,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 15,
-    "Time Spent (seconds)": 13,
+    "Rank": 33,
+    "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "viksaas.netlify.app",
-    "Category": "Uncategorized",
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 16,
+    "Rank": 34,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "live.cogley.info",
@@ -128,23 +272,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 17,
-    "Time Spent (seconds)": 10,
+    "Rank": 35,
+    "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
+    "Activity": "viksaas.netlify.app",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 18,
-    "Time Spent (seconds)": 9,
+    "Rank": 36,
+    "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 37,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "myscope.training",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 19,
+    "Rank": 38,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "cinematt.photography",
@@ -152,7 +304,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 20,
+    "Rank": 39,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "hugo-paper.vercel.app",
@@ -160,15 +312,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 21,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "storybook.netlify.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 22,
+    "Rank": 40,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "statsandr.com",
@@ -176,11 +320,43 @@
     "Productivity": 0
   },
   {
-    "Rank": 23,
+    "Rank": 41,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "storybook.netlify.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 42,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "ackee-railway-deploy-production.up.railway.app",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 43,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 44,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "designedbyaturtle.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
   }
 ]
