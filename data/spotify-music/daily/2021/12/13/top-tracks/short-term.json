@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+          "id": "0L5GV6LN8SWWUWIdBbTLTZ",
+          "name": "Shankar-Ehsaan-Loy",
+          "type": "artist",
+          "uri": "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1DgIFH0yAPRPGBeCiJBvDv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273086334217996ebabea5bef33",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02086334217996ebabea5bef33",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851086334217996ebabea5bef33",
+          "width": 64
+        }
+      ],
+      "name": "Patiala House",
+      "release_date": "2011-01-07",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:1DgIFH0yAPRPGBeCiJBvDv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        },
+        "href": "https://api.spotify.com/v1/artists/5SuRAj1A9FEHj5NxS86YAm",
+        "id": "5SuRAj1A9FEHj5NxS86YAm",
+        "name": "Shafqat Amanat Ali",
+        "type": "artist",
+        "uri": "spotify:artist:5SuRAj1A9FEHj5NxS86YAm"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6wsMVa2M6Ktea2UbnVoMvO",
+    "is_local": false,
+    "name": "Kyun Main Jaagoon",
+    "preview_url": "https://p.scdn.co/mp3-preview/dbdcbd112f50606ab71897f96f1b908b3694d0ef?cid=811598a754134358878b30bc9c28decd"
+  }
+]
