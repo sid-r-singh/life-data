@@ -403,17 +403,17 @@
     "Rank": 51,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
-    "Activity": "fonts.google.com",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "docs.github.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 52,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
-    "Activity": "docs.github.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "fonts.google.com",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
     "Rank": 53,
@@ -451,20 +451,28 @@
     "Rank": 57,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "css-tricks.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 58,
-    "Time Spent (seconds)": 21,
-    "Number of People": 1,
     "Activity": "w3schools.com",
     "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
+    "Rank": 58,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Activity": "css-tricks.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
     "Rank": 59,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "emojipedia.org",
+    "Category": "General Social Networking",
+    "Productivity": -2
+  },
+  {
+    "Rank": 60,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "story.xaprb.com",
@@ -472,20 +480,12 @@
     "Productivity": 2
   },
   {
-    "Rank": 60,
+    "Rank": 61,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "android",
     "Category": "General Utilities",
     "Productivity": 1
-  },
-  {
-    "Rank": 61,
-    "Time Spent (seconds)": 19,
-    "Number of People": 1,
-    "Activity": "emojipedia.org",
-    "Category": "General Social Networking",
-    "Productivity": -2
   },
   {
     "Rank": 62,
@@ -563,25 +563,25 @@
     "Rank": 71,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "tutorialedge.net",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "nasasearch.nasa.gov",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 72,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "w3.org",
-    "Category": "Search",
+    "Activity": "tutorialedge.net",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
     "Rank": 73,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "nasasearch.nasa.gov",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "w3.org",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
     "Rank": 74,
