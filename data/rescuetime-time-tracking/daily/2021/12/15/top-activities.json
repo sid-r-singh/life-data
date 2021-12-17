@@ -203,20 +203,28 @@
     "Rank": 26,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "open.spotify.com",
-    "Category": "Music",
-    "Productivity": -2
-  },
-  {
-    "Rank": 27,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
     "Activity": "groups.google.com",
     "Category": "General Communication & Scheduling",
     "Productivity": 0
   },
   {
+    "Rank": 27,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "open.spotify.com",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
     "Rank": 28,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "t.co",
+    "Category": "General Social Networking",
+    "Productivity": -2
+  },
+  {
+    "Rank": 29,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "ims-na1.adobelogin.com",
@@ -224,19 +232,11 @@
     "Productivity": 0
   },
   {
-    "Rank": 29,
+    "Rank": 30,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "adobeid-na1.services.adobe.com",
     "Category": "General Design & Composition",
     "Productivity": 2
-  },
-  {
-    "Rank": 30,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "t.co",
-    "Category": "General Social Networking",
-    "Productivity": -2
   }
 ]

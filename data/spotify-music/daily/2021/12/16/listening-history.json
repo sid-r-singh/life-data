@@ -1,0 +1,79 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI",
+          "id": "5f4QpKfy7ptCHwTqspnSJI",
+          "name": "Neha Kakkar",
+          "type": "artist",
+          "uri": "spotify:artist:5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+          },
+          "href": "https://api.spotify.com/v1/artists/0NZtn1Kyq08alpHCTRf3dv",
+          "id": "0NZtn1Kyq08alpHCTRf3dv",
+          "name": "Tony Kakkar",
+          "type": "artist",
+          "uri": "spotify:artist:0NZtn1Kyq08alpHCTRf3dv"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4NuwOtIj36y7zvKado7Q4B",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b9db0c8256d9334a902b6461",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b9db0c8256d9334a902b6461",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b9db0c8256d9334a902b6461",
+          "width": 64
+        }
+      ],
+      "name": "Oh Humsafar",
+      "release_date": "2018-04-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4NuwOtIj36y7zvKado7Q4B"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI",
+        "id": "5f4QpKfy7ptCHwTqspnSJI",
+        "name": "Neha Kakkar",
+        "type": "artist",
+        "uri": "spotify:artist:5f4QpKfy7ptCHwTqspnSJI"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        },
+        "href": "https://api.spotify.com/v1/artists/0NZtn1Kyq08alpHCTRf3dv",
+        "id": "0NZtn1Kyq08alpHCTRf3dv",
+        "name": "Tony Kakkar",
+        "type": "artist",
+        "uri": "spotify:artist:0NZtn1Kyq08alpHCTRf3dv"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7Kfuk1S0nmjzRiAnezoC6j",
+    "is_local": false,
+    "name": "Oh Humsafar",
+    "preview_url": "https://p.scdn.co/mp3-preview/ec98fb533cd741d8550a894326ffcc417221719c?cid=811598a754134358878b30bc9c28decd"
+  }
+]
