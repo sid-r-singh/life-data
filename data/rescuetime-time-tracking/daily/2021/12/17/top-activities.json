@@ -1,30 +1,78 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1763,
-    "Number of People": 1,
-    "Activity": "upwork.com",
-    "Category": "Operations",
-    "Productivity": 2
-  },
-  {
-    "Rank": 2,
-    "Time Spent (seconds)": 1378,
+    "Time Spent (seconds)": 5242,
     "Number of People": 1,
     "Activity": "lms.sssihl.edu.in",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
+    "Rank": 2,
+    "Time Spent (seconds)": 2987,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Operations",
+    "Productivity": 2
+  },
+  {
     "Rank": 3,
-    "Time Spent (seconds)": 201,
+    "Time Spent (seconds)": 2507,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1744,
     "Number of People": 1,
     "Activity": "drive.google.com",
     "Category": "General Business",
     "Productivity": 2
   },
   {
-    "Rank": 4,
+    "Rank": 5,
+    "Time Spent (seconds)": 1083,
+    "Number of People": 1,
+    "Activity": "freelancer.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 387,
+    "Number of People": 1,
+    "Activity": "ndl.iitkgp.ac.in",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 193,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 128,
+    "Number of People": 1,
+    "Activity": "mess-with-dns1.wizardzines.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 125,
+    "Number of People": 1,
+    "Activity": "zwbetz.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 50,
     "Number of People": 1,
     "Activity": "savvyfox.co.uk",
@@ -32,7 +80,39 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 11,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 39,
+    "Number of People": 1,
+    "Activity": "education.gov.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "marieflanagan.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
     "Activity": "getskeleton.com",
@@ -40,26 +120,26 @@
     "Productivity": 2
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 7,
+    "Rank": 16,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "paypal.com",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
-    "Rank": 8,
+    "Rank": 17,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "simplycook.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "ocean7.messwithdns.com",
     "Category": "Uncategorized",
     "Productivity": 0
   }
