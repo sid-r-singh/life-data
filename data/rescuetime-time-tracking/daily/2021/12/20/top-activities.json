@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1395,
+    "Time Spent (seconds)": 1422,
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 683,
+    "Time Spent (seconds)": 717,
     "Number of People": 1,
     "Activity": "lms.sssihl.edu.in",
     "Category": "General Reference & Learning",
@@ -89,10 +89,26 @@
   },
   {
     "Rank": 12,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "bloomberg.com",
+    "Category": "Business",
+    "Productivity": -1
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "assignments.google.com",
     "Category": "Search",
     "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "twitter.com",
+    "Category": "General Social Networking",
+    "Productivity": -2
   }
 ]
