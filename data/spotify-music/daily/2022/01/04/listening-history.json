@@ -1,0 +1,79 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "type": "artist",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3G0diKadKaufyFybV3TzuP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731efbf8b77e571388b3520f72",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021efbf8b77e571388b3520f72",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511efbf8b77e571388b3520f72",
+          "width": 64
+        }
+      ],
+      "name": "Jab Tak Hai Jaan",
+      "release_date": "2012-10-09",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:3G0diKadKaufyFybV3TzuP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+        "id": "1mYsTxnqsietFxj1OgoGbG",
+        "name": "A.R. Rahman",
+        "type": "artist",
+        "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz"
+        },
+        "href": "https://api.spotify.com/v1/artists/3xU8YsNNkmWSPewlB18NUz",
+        "id": "3xU8YsNNkmWSPewlB18NUz",
+        "name": "Harshdeep Kaur",
+        "type": "artist",
+        "uri": "spotify:artist:3xU8YsNNkmWSPewlB18NUz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0yRC5n90spXG0d3aiDQ0vB",
+        "id": "0yRC5n90spXG0d3aiDQ0vB",
+        "name": "Gulzar",
+        "type": "artist",
+        "uri": "spotify:artist:0yRC5n90spXG0d3aiDQ0vB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1CapGmE3jqZpEATdujksnX",
+    "is_local": false,
+    "name": "Heer",
+    "preview_url": "https://p.scdn.co/mp3-preview/7e6557246792a181dbf44f8e71ad0d75ef2e42a0?cid=811598a754134358878b30bc9c28decd"
+  }
+]
