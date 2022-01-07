@@ -72,11 +72,11 @@
     "Administration": 105,
     "General Business": 63,
     "Design & Planning": 58,
-    "Video": 1,
-    "Music": 1
+    "Music": 1,
+    "Video": 1
   },
   "5": {
-    "General Software Development": 17974,
+    "General Software Development": 18272,
     "Uncategorized": 5627,
     "General Utilities": 1727,
     "Operations": 1517,
@@ -94,7 +94,19 @@
     "General Social Networking": 24,
     "Editing & IDEs": 7
   },
-  "6": {},
+  "6": {
+    "General Software Development": 11809,
+    "Operations": 9495,
+    "Email": 2172,
+    "Uncategorized": 1429,
+    "General Business": 1280,
+    "Engineering & Technology": 382,
+    "General Utilities": 318,
+    "Browsers": 239,
+    "General Communication & Scheduling": 111,
+    "Search": 98,
+    "Meetings": 38
+  },
   "7": {},
   "8": {},
   "9": {},
