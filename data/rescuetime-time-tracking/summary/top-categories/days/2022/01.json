@@ -72,8 +72,8 @@
     "Administration": 105,
     "General Business": 63,
     "Design & Planning": 58,
-    "Music": 1,
-    "Video": 1
+    "Video": 1,
+    "Music": 1
   },
   "5": {
     "General Software Development": 18272,
@@ -96,19 +96,39 @@
   },
   "6": {
     "General Software Development": 11809,
-    "Operations": 9495,
-    "Email": 2172,
+    "Operations": 9813,
+    "Email": 2178,
     "Uncategorized": 1429,
     "General Business": 1280,
     "Engineering & Technology": 382,
     "General Utilities": 318,
-    "Browsers": 239,
+    "Browsers": 242,
     "General Communication & Scheduling": 111,
     "Search": 98,
     "Meetings": 38
   },
-  "7": {},
-  "8": {},
+  "7": {
+    "Operations": 15054,
+    "Uncategorized": 4259,
+    "Video": 2606,
+    "General Software Development": 1903,
+    "General Business": 1770,
+    "Email": 1716,
+    "General Utilities": 571,
+    "Quality Assurance": 530,
+    "General Design & Composition": 410,
+    "Search": 326,
+    "Browsers": 315,
+    "Engineering & Technology": 86,
+    "General Communication & Scheduling": 24,
+    "General Social Networking": 17,
+    "Design & Planning": 13
+  },
+  "8": {
+    "Operations": 1277,
+    "Uncategorized": 194,
+    "Browsers": 27
+  },
   "9": {},
   "10": {},
   "11": {},
