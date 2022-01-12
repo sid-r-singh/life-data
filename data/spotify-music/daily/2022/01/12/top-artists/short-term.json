@@ -1,0 +1,60 @@
+[
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+    "id": "4YRxDV8wJFPHPTeXepOstw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebb2b70762d89a9d76c772b3b6",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174b2b70762d89a9d76c772b3b6",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178b2b70762d89a9d76c772b3b6",
+        "width": 160
+      }
+    ],
+    "name": "Arijit Singh",
+    "type": "artist",
+    "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+    "id": "1mYsTxnqsietFxj1OgoGbG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebb19af0ea736c6228d6eb539c",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174b19af0ea736c6228d6eb539c",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178b19af0ea736c6228d6eb539c",
+        "width": 160
+      }
+    ],
+    "name": "A.R. Rahman",
+    "type": "artist",
+    "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+  }
+]
