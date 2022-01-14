@@ -49,8 +49,8 @@
     "Science & Technology": 605,
     "General Social Networking": 534,
     "Search": 470,
-    "Browsers": 377,
     "Engineering & Technology": 377,
+    "Browsers": 377,
     "General Business": 298,
     "General Utilities": 182,
     "General Reference & Learning": 104,
@@ -80,15 +80,22 @@
     "Graphic Design": 5
   },
   "2022-01-13": {
-    "Uncategorized": 640,
-    "Operations": 446,
-    "General Software Development": 410,
+    "Operations": 4243,
+    "General Software Development": 3356,
+    "Uncategorized": 2874,
     "Engineering & Technology": 158,
-    "General Utilities": 54,
-    "Search": 30,
-    "Browsers": 24,
-    "General Reference & Learning": 19
+    "Browsers": 122,
+    "General Reference & Learning": 65,
+    "General Utilities": 65,
+    "Search": 30
   },
-  "2022-01-14": {},
+  "2022-01-14": {
+    "General Software Development": 1140,
+    "Operations": 733,
+    "Uncategorized": 457,
+    "Search": 60,
+    "Browsers": 22,
+    "General Utilities": 7
+  },
   "2022-01-15": {}
 }
