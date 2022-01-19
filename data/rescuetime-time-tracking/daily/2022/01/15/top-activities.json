@@ -235,16 +235,16 @@
     "Rank": 30,
     "Time Spent (seconds)": 194,
     "Number of People": 1,
-    "Activity": "stackexchange.com",
-    "Category": "Engineering & Technology",
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 31,
     "Time Spent (seconds)": 194,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
+    "Activity": "stackexchange.com",
+    "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
@@ -555,23 +555,23 @@
     "Rank": 70,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
-    "Activity": "sourcegraph.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 71,
-    "Time Spent (seconds)": 27,
-    "Number of People": 1,
     "Activity": "stewartgreenhill.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
+    "Rank": 71,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "sourcegraph.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
     "Rank": 72,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "upwork-usw2-prod-file-storage-wp5.s3.us-west-2.amazonaws.com",
+    "Activity": "c-m-l.net",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -579,7 +579,7 @@
     "Rank": 73,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "c-m-l.net",
+    "Activity": "upwork-usw2-prod-file-storage-wp5.s3.us-west-2.amazonaws.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -643,7 +643,7 @@
     "Rank": 81,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "stackoom.com",
+    "Activity": "it.knightnet.org.uk",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -651,7 +651,7 @@
     "Rank": 82,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "dyrobooks.com",
+    "Activity": "stackoom.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -659,7 +659,7 @@
     "Rank": 83,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "it.knightnet.org.uk",
+    "Activity": "dyrobooks.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -755,28 +755,20 @@
     "Rank": 95,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "echarts.apache.org",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 96,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
     "Activity": "nichoy.co.uk",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 97,
-    "Time Spent (seconds)": 8,
+    "Rank": 96,
+    "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "geoffruddock.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "echarts.apache.org",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
-    "Rank": 98,
+    "Rank": 97,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "about.gitlab.com",
@@ -784,7 +776,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 99,
+    "Rank": 98,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "infomoneynews.com",
@@ -792,23 +784,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 100,
-    "Time Spent (seconds)": 7,
+    "Rank": 99,
+    "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "bwaycer.github.io",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 101,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "aburr.com",
+    "Activity": "geoffruddock.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 102,
+    "Rank": 100,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "raw.githubusercontent.com",
@@ -816,23 +800,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 103,
-    "Time Spent (seconds)": 6,
+    "Rank": 101,
+    "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "bing.com",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "bwaycer.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
-    "Rank": 104,
-    "Time Spent (seconds)": 6,
+    "Rank": 102,
+    "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "nekocode.cn",
+    "Activity": "aburr.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 105,
+    "Rank": 103,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "lednerb.github.io",
@@ -840,23 +824,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 106,
-    "Time Spent (seconds)": 4,
+    "Rank": 104,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
+    "Activity": "bing.com",
+    "Category": "Search",
     "Productivity": 0
   },
   {
-    "Rank": 107,
-    "Time Spent (seconds)": 4,
+    "Rank": 105,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "sqlite.org",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "nekocode.cn",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
-    "Rank": 108,
+    "Rank": 106,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "westmusic.com",
@@ -864,12 +848,28 @@
     "Productivity": 0
   },
   {
-    "Rank": 109,
+    "Rank": 107,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "minimal-bootstrap-hugo-theme.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 108,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
+  },
+  {
+    "Rank": 109,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "sqlite.org",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 110,
@@ -891,7 +891,7 @@
     "Rank": 112,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "opensourcelibs.com",
+    "Activity": "github.innominds.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -899,7 +899,7 @@
     "Rank": 113,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "gitanswer.com",
+    "Activity": "opensourcelibs.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -907,7 +907,7 @@
     "Rank": 114,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "github.innominds.com",
+    "Activity": "gitanswer.com",
     "Category": "Uncategorized",
     "Productivity": 0
   }
