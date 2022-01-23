@@ -115,7 +115,7 @@
     "Rank": 15,
     "Time Spent (seconds)": 241,
     "Number of People": 1,
-    "Activity": "microanalytics.io",
+    "Activity": "section.io",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -123,7 +123,7 @@
     "Rank": 16,
     "Time Spent (seconds)": 241,
     "Number of People": 1,
-    "Activity": "section.io",
+    "Activity": "microanalytics.io",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -555,28 +555,20 @@
     "Rank": 70,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "merriam-webster.com",
-    "Category": "Intelligence",
-    "Productivity": 2
-  },
-  {
-    "Rank": 71,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
     "Activity": "ww25.getselfemployed.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 72,
-    "Time Spent (seconds)": 4,
+    "Rank": 71,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "raw.githubusercontent.com",
-    "Category": "General Software Development",
+    "Activity": "merriam-webster.com",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
-    "Rank": 73,
+    "Rank": 72,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "xenon-middleware.github.io",
@@ -584,15 +576,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 74,
-    "Time Spent (seconds)": 3,
+    "Rank": 73,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "ajulusthoughts.stephenajulu.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "raw.githubusercontent.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
-    "Rank": 75,
+    "Rank": 74,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "docdock.netlify.app",
@@ -600,10 +592,18 @@
     "Productivity": 0
   },
   {
-    "Rank": 76,
+    "Rank": 75,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "homeofficecribs.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 76,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "ajulusthoughts.stephenajulu.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
