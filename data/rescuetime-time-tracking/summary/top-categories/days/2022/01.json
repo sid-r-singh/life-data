@@ -440,9 +440,9 @@
     "General Business": 414,
     "Engineering & Technology": 289,
     "Instant Message": 235,
-    "Browsers": 204,
     "Systems Operations": 204,
     "Email": 204,
+    "Browsers": 204,
     "General Communication & Scheduling": 15,
     "Internet Utilities": 14,
     "Professional Networking": 4
@@ -486,14 +486,32 @@
     "General Entertainment": 6
   },
   "28": {
-    "Operations": 105,
-    "General Software Development": 39,
-    "General News & Opinion": 18,
-    "General Utilities": 16,
-    "General Reference & Learning": 10,
-    "Uncategorized": 2,
-    "Browsers": 2
+    "Operations": 5061,
+    "Meetings": 3980,
+    "General Software Development": 3854,
+    "General Business": 3063,
+    "Uncategorized": 2791,
+    "Email": 2468,
+    "Professional Networking": 606,
+    "Business & Finance": 553,
+    "General Entertainment": 403,
+    "General Utilities": 365,
+    "Audio Editing": 299,
+    "Browsers": 266,
+    "General News & Opinion": 239,
+    "General Reference & Learning": 68,
+    "Internet Utilities": 38,
+    "Search": 35,
+    "General Communication & Scheduling": 27,
+    "Engineering & Technology": 20,
+    "General Social Networking": 9,
+    "Project Management": 6
   },
-  "29": {},
+  "29": {
+    "Operations": 1882,
+    "General Utilities": 76,
+    "General Software Development": 9,
+    "Browsers": 4
+  },
   "30": {}
 }
