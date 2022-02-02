@@ -39,13 +39,30 @@
     "General News & Opinion": 4
   },
   "2022-02-1": {
-    "Operations": 2432,
-    "General Business": 295,
-    "Browsers": 33,
-    "General Communication & Scheduling": 19,
-    "General Utilities": 5
+    "Operations": 13960,
+    "Uncategorized": 6135,
+    "General Software Development": 2011,
+    "General Business": 664,
+    "General Reference & Learning": 571,
+    "General Utilities": 558,
+    "Email": 427,
+    "Browsers": 400,
+    "Editing & IDEs": 264,
+    "Intelligence": 75,
+    "General Communication & Scheduling": 55,
+    "Systems Operations": 50,
+    "Administration": 49,
+    "General News & Opinion": 5
   },
-  "2022-02-2": {},
+  "2022-02-2": {
+    "Uncategorized": 1052,
+    "General Business": 391,
+    "General Design & Composition": 268,
+    "Email": 138,
+    "Search": 40,
+    "Browsers": 24,
+    "Internet Utilities": 6
+  },
   "2022-02-3": {},
   "2022-02-4": {},
   "2022-02-5": {}
