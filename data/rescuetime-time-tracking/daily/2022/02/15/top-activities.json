@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 953,
+    "Time Spent (seconds)": 1873,
     "Number of People": 1,
     "Activity": "youtube.com",
     "Category": "Video",
@@ -9,6 +9,14 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 1139,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 628,
     "Number of People": 1,
     "Activity": "whatsyourstorybro.com",
@@ -16,7 +24,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 3,
+    "Rank": 4,
     "Time Spent (seconds)": 343,
     "Number of People": 1,
     "Activity": "losangeles.craigslist.org",
@@ -24,15 +32,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 310,
+    "Rank": 5,
+    "Time Spent (seconds)": 119,
     "Number of People": 1,
-    "Activity": "upwork.com",
-    "Category": "Operations",
-    "Productivity": 2
+    "Activity": "investopedia.com",
+    "Category": "Business & Finance",
+    "Productivity": 1
   },
   {
-    "Rank": 5,
+    "Rank": 6,
     "Time Spent (seconds)": 98,
     "Number of People": 1,
     "Activity": "event.webinarjam.com",
@@ -40,7 +48,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 91,
     "Number of People": 1,
     "Activity": "sandiego.craigslist.org",
@@ -48,7 +56,39 @@
     "Productivity": -2
   },
   {
-    "Rank": 7,
+    "Rank": 8,
+    "Time Spent (seconds)": 85,
+    "Number of People": 1,
+    "Activity": "finance.yahoo.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 72,
+    "Number of People": 1,
+    "Activity": "statista.com",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 65,
+    "Number of People": 1,
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 49,
+    "Number of People": 1,
+    "Activity": "9to5mac.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Activity": "tempmail.plus",
@@ -56,7 +96,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 13,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
     "Activity": "newyork.craigslist.org",
@@ -64,7 +104,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 9,
+    "Rank": 14,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
     "Activity": "santabarbara.craigslist.org",
@@ -72,7 +112,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 10,
+    "Rank": 15,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "devnagri.com",
@@ -80,15 +120,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 19,
+    "Rank": 16,
+    "Time Spent (seconds)": 21,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 12,
+    "Rank": 17,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "relay.firefox.com",
@@ -96,7 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 19,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "craigslist.org",
@@ -104,15 +152,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 14,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 15,
+    "Rank": 20,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "iapwe.org",
@@ -120,7 +160,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 16,
+    "Rank": 21,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "chicago.craigslist.org",
