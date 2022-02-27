@@ -1,6 +1,14 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 1516,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 1478,
     "Number of People": 1,
     "Activity": "qz.com",
@@ -8,7 +16,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 2,
+    "Rank": 3,
+    "Time Spent (seconds)": 1442,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 797,
     "Number of People": 1,
     "Activity": "codingnconcepts.com",
@@ -16,7 +32,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 3,
+    "Rank": 5,
     "Time Spent (seconds)": 621,
     "Number of People": 1,
     "Activity": "irctc.co.in",
@@ -24,7 +40,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 4,
+    "Rank": 6,
     "Time Spent (seconds)": 590,
     "Number of People": 1,
     "Activity": "w3schools.com",
@@ -32,7 +48,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 5,
+    "Rank": 7,
     "Time Spent (seconds)": 366,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -40,7 +56,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 6,
+    "Rank": 8,
     "Time Spent (seconds)": 348,
     "Number of People": 1,
     "Activity": "localhost:1313",
@@ -48,7 +64,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 7,
+    "Rank": 9,
     "Time Spent (seconds)": 329,
     "Number of People": 1,
     "Activity": "bwaycer.github.io",
@@ -56,28 +72,12 @@
     "Productivity": 2
   },
   {
-    "Rank": 8,
+    "Rank": 10,
     "Time Spent (seconds)": 320,
     "Number of People": 1,
     "Activity": "codesandbox.io",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 9,
-    "Time Spent (seconds)": 270,
-    "Number of People": 1,
-    "Activity": "upwork.com",
-    "Category": "Operations",
-    "Productivity": 2
-  },
-  {
-    "Rank": 10,
-    "Time Spent (seconds)": 236,
-    "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
   },
   {
     "Rank": 11,
@@ -113,6 +113,14 @@
   },
   {
     "Rank": 15,
+    "Time Spent (seconds)": 182,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
     "Time Spent (seconds)": 147,
     "Number of People": 1,
     "Activity": "theconversation.com",
@@ -120,7 +128,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 16,
+    "Rank": 17,
     "Time Spent (seconds)": 127,
     "Number of People": 1,
     "Activity": "keen-slider.io",
@@ -128,7 +136,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 17,
+    "Rank": 18,
     "Time Spent (seconds)": 100,
     "Number of People": 1,
     "Activity": "openbase.com",
@@ -136,7 +144,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 18,
+    "Rank": 19,
     "Time Spent (seconds)": 94,
     "Number of People": 1,
     "Activity": "swiperjs.com",
@@ -144,7 +152,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 19,
+    "Rank": 20,
+    "Time Spent (seconds)": 94,
+    "Number of People": 1,
+    "Activity": "sssihleduin-my.sharepoint.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 21,
     "Time Spent (seconds)": 86,
     "Number of People": 1,
     "Activity": "Github",
@@ -152,7 +168,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 20,
+    "Rank": 22,
     "Time Spent (seconds)": 86,
     "Number of People": 1,
     "Activity": "securegw.paytm.in",
@@ -160,7 +176,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 21,
+    "Rank": 23,
     "Time Spent (seconds)": 72,
     "Number of People": 1,
     "Activity": "wappalyzer.com",
@@ -168,23 +184,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 22,
-    "Time Spent (seconds)": 67,
+    "Rank": 24,
+    "Time Spent (seconds)": 69,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 23,
-    "Time Spent (seconds)": 63,
+    "Rank": 25,
+    "Time Spent (seconds)": 52,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
-    "Rank": 24,
+    "Rank": 26,
     "Time Spent (seconds)": 49,
     "Number of People": 1,
     "Activity": "codepen.io",
@@ -192,7 +208,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 25,
+    "Rank": 27,
     "Time Spent (seconds)": 41,
     "Number of People": 1,
     "Activity": "bondlingo.tv",
@@ -200,7 +216,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 26,
+    "Rank": 28,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
     "Activity": "cdn.jsdelivr.net",
@@ -208,7 +224,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 27,
+    "Rank": 29,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
     "Activity": "emojis.wiki",
@@ -216,7 +232,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 28,
+    "Rank": 30,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Activity": "login.microsoftonline.com",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 31,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
     "Activity": "pakstech.com",
@@ -224,7 +248,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 29,
+    "Rank": 32,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "buymeacoffee.com",
@@ -232,7 +256,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 30,
+    "Rank": 33,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "web.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 34,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "dev.to",
@@ -240,7 +272,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 31,
+    "Rank": 35,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "login.live.com",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 36,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "jsdelivr.com",
@@ -248,7 +288,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 32,
+    "Rank": 37,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
+  },
+  {
+    "Rank": 38,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "codecary.com",
@@ -256,15 +304,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 33,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "unpkg.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 34,
+    "Rank": 39,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "emojipedia.org",
@@ -272,11 +312,51 @@
     "Productivity": -2
   },
   {
-    "Rank": 35,
+    "Rank": 40,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "unpkg.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "c:",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 43,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "github.dev",
     "Category": "General Software Development",
     "Productivity": 2
+  },
+  {
+    "Rank": 44,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "192.168.29.190:1313",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "signup.live.com",
+    "Category": "Email",
+    "Productivity": 0
   }
 ]
