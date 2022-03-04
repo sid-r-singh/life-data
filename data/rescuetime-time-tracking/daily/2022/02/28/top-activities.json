@@ -179,17 +179,17 @@
     "Rank": 23,
     "Time Spent (seconds)": 102,
     "Number of People": 1,
-    "Activity": "washingtonpost.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "127.0.0.1:5500",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 24,
     "Time Spent (seconds)": 102,
     "Number of People": 1,
-    "Activity": "127.0.0.1:5500",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "washingtonpost.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 25,
@@ -331,17 +331,17 @@
     "Rank": 42,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "Authy for Android",
-    "Category": "Internet Utilities",
-    "Productivity": 1
+    "Activity": "new.sid.one",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 43,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "new.sid.one",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "Authy for Android",
+    "Category": "Internet Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 44,
@@ -355,7 +355,7 @@
     "Rank": 45,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "docdock.netlify.app",
+    "Activity": "hugo-book-demo.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -363,7 +363,7 @@
     "Rank": 46,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "hugo-book-demo.netlify.app",
+    "Activity": "docdock.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -371,16 +371,16 @@
     "Rank": 47,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "jrutheiser.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 48,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "gohugo.io",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "jrutheiser.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]

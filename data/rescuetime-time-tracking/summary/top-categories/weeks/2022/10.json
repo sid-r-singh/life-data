@@ -52,8 +52,8 @@
     "Travel & Outdoors": 98,
     "General News & Opinion": 96,
     "General Business": 76,
-    "General Communication & Scheduling": 4,
-    "Internet Utilities": 4
+    "Internet Utilities": 4,
+    "General Communication & Scheduling": 4
   },
   "2022-03-2": {
     "Video": 7118,
@@ -79,12 +79,35 @@
     "General Communication & Scheduling": 4
   },
   "2022-03-3": {
-    "General Software Development": 1152,
-    "Uncategorized": 547,
-    "Systems Operations": 187,
-    "Browsers": 15,
-    "General Utilities": 15
+    "Video": 10369,
+    "General Software Development": 6051,
+    "Uncategorized": 2755,
+    "Operations": 2523,
+    "Instant Message": 2395,
+    "Professional Networking": 592,
+    "Browsers": 241,
+    "Systems Operations": 241,
+    "General Business": 237,
+    "Search": 155,
+    "General Reference & Learning": 147,
+    "General Utilities": 79,
+    "General News & Opinion": 67,
+    "General Communication & Scheduling": 31,
+    "Editing & IDEs": 30,
+    "Engineering & Technology": 29,
+    "General Social Networking": 22,
+    "Email": 18
   },
-  "2022-03-4": {},
+  "2022-03-4": {
+    "Professional Networking": 2676,
+    "Operations": 1157,
+    "Uncategorized": 247,
+    "General Software Development": 240,
+    "General News & Opinion": 144,
+    "Employment": 29,
+    "General Reference & Learning": 16,
+    "Systems Operations": 7,
+    "Browsers": 6
+  },
   "2022-03-5": {}
 }
