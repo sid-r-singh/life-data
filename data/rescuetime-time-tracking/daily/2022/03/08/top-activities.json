@@ -1,18 +1,106 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 243,
+    "Time Spent (seconds)": 495,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 245,
     "Number of People": 1,
     "Activity": "web.whatsapp.com",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 3,
+    "Rank": 3,
+    "Time Spent (seconds)": 70,
+    "Number of People": 1,
+    "Activity": "enquiry.indianrail.gov.in",
+    "Category": "Travel & Outdoors",
+    "Productivity": -2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 66,
+    "Number of People": 1,
+    "Activity": "time.is",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "t.me",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 23,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "sid.one",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "myaccount.google.com",
+    "Category": "Internet Utilities",
+    "Productivity": 1
   }
 ]
