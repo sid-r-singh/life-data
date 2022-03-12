@@ -9,6 +9,14 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 1933,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 1627,
     "Number of People": 1,
     "Activity": "upwork.com",
@@ -16,7 +24,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 3,
+    "Rank": 4,
     "Time Spent (seconds)": 1249,
     "Number of People": 1,
     "Activity": "figma.com",
@@ -24,7 +32,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 4,
+    "Rank": 5,
     "Time Spent (seconds)": 995,
     "Number of People": 1,
     "Activity": "Firefox Android",
@@ -32,20 +40,12 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 6,
     "Time Spent (seconds)": 963,
     "Number of People": 1,
     "Activity": "canva.com",
     "Category": "General Design & Composition",
     "Productivity": 2
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 963,
-    "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
   },
   {
     "Rank": 7,
@@ -65,6 +65,14 @@
   },
   {
     "Rank": 9,
+    "Time Spent (seconds)": 409,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 392,
     "Number of People": 1,
     "Activity": "notion.so",
@@ -72,7 +80,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 11,
+    "Time Spent (seconds)": 333,
+    "Number of People": 1,
+    "Activity": "Google Chrome for Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 317,
     "Number of People": 1,
     "Activity": "plan4better.de",
@@ -80,7 +96,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 13,
     "Time Spent (seconds)": 271,
     "Number of People": 1,
     "Activity": "elegantthemes.com",
@@ -88,15 +104,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 260,
-    "Number of People": 1,
-    "Activity": "Google Chrome for Android",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 13,
+    "Rank": 14,
     "Time Spent (seconds)": 255,
     "Number of People": 1,
     "Activity": "web.whatsapp.com",
@@ -104,15 +112,15 @@
     "Productivity": -1
   },
   {
-    "Rank": 14,
-    "Time Spent (seconds)": 157,
+    "Rank": 15,
+    "Time Spent (seconds)": 159,
     "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
-    "Category": "General Utilities",
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
     "Productivity": 1
   },
   {
-    "Rank": 15,
+    "Rank": 16,
     "Time Spent (seconds)": 100,
     "Number of People": 1,
     "Activity": "gtmetrix.com",
@@ -120,7 +128,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 16,
+    "Rank": 17,
     "Time Spent (seconds)": 82,
     "Number of People": 1,
     "Activity": "mobile - com.jio.myjio",
@@ -128,20 +136,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 17,
+    "Rank": 18,
     "Time Spent (seconds)": 68,
     "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
     "Productivity": 2
-  },
-  {
-    "Rank": 18,
-    "Time Spent (seconds)": 61,
-    "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.incallui",
-    "Category": "Voice Chat",
-    "Productivity": 1
   },
   {
     "Rank": 19,
@@ -153,6 +153,14 @@
   },
   {
     "Rank": 20,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "mobile - com.opera.max.oem",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 21,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -160,7 +168,23 @@
     "Productivity": 1
   },
   {
-    "Rank": 21,
+    "Rank": 22,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.pdfviewer",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 24,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "mobile - com.spotify.lite",
@@ -168,15 +192,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 22,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 23,
+    "Rank": 25,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "developers.google.com",
@@ -184,19 +200,27 @@
     "Productivity": 2
   },
   {
-    "Rank": 24,
+    "Rank": 26,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 28,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "betterstack.com",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 25,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "Android Settings",
-    "Category": "General Utilities",
-    "Productivity": 1
   }
 ]
