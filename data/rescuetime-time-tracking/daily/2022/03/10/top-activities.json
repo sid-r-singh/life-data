@@ -195,32 +195,32 @@
     "Rank": 25,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "developers.google.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 26,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 27,
-    "Time Spent (seconds)": 2,
+    "Rank": 26,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "android",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "developers.google.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
-    "Rank": 28,
+    "Rank": 27,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "betterstack.com",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
   }
 ]
