@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4394,
+    "Time Spent (seconds)": 4466,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 3597,
+    "Time Spent (seconds)": 3617,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1755,
+    "Time Spent (seconds)": 1823,
     "Number of People": 1,
     "Activity": "Google Chrome for Android",
     "Category": "Browsers",
@@ -57,14 +57,22 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 609,
+    "Time Spent (seconds)": 668,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 614,
     "Number of People": 1,
     "Activity": "Authy for Android",
     "Category": "Internet Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 391,
     "Number of People": 1,
     "Activity": "localhost:1313",
@@ -72,16 +80,8 @@
     "Productivity": 2
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 314,
-    "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
     "Rank": 11,
-    "Time Spent (seconds)": 220,
+    "Time Spent (seconds)": 319,
     "Number of People": 1,
     "Activity": "copenhagenatomics.com",
     "Category": "Uncategorized",
@@ -169,6 +169,14 @@
   },
   {
     "Rank": 22,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "blog.getbootstrap.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 23,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
     "Activity": "zerostatic.io",
@@ -176,7 +184,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 23,
+    "Rank": 24,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.video",
@@ -184,18 +192,18 @@
     "Productivity": -2
   },
   {
-    "Rank": 24,
+    "Rank": 25,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "newtab",
+    "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 25,
-    "Time Spent (seconds)": 8,
+    "Rank": 26,
+    "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "Google Chrome",
+    "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
   }
