@@ -1,0 +1,213 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "type": "artist",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5zrZPXoYsu772sB3CwVuxr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f3582107f127c2765fafb431",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f3582107f127c2765fafb431",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f3582107f127c2765fafb431",
+          "width": 64
+        }
+      ],
+      "name": "Dil Bechara (Original Motion Picture Soundtrack)",
+      "release_date": "2020-07-10",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:5zrZPXoYsu772sB3CwVuxr"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+        "id": "1mYsTxnqsietFxj1OgoGbG",
+        "name": "A.R. Rahman",
+        "type": "artist",
+        "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
+        "id": "00sCATpEvwH48ays7PlQFU",
+        "name": "Jonita Gandhi",
+        "type": "artist",
+        "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp"
+        },
+        "href": "https://api.spotify.com/v1/artists/0xWGBvlwCBHAgXyR7TmPwp",
+        "id": "0xWGBvlwCBHAgXyR7TmPwp",
+        "name": "Hriday Gattani",
+        "type": "artist",
+        "uri": "spotify:artist:0xWGBvlwCBHAgXyR7TmPwp"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2ZvWoJ82LKCgD0nU9H5ue5",
+    "is_local": false,
+    "name": "Main Tumhara",
+    "preview_url": "https://p.scdn.co/mp3-preview/fbe462553c6387ef76aa0ccc4899a81d9d31574a?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jW93KBgv7vhPpBqbcLxWy"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jW93KBgv7vhPpBqbcLxWy",
+          "id": "5jW93KBgv7vhPpBqbcLxWy",
+          "name": "Gaurav Dagaonkar",
+          "type": "artist",
+          "uri": "spotify:artist:5jW93KBgv7vhPpBqbcLxWy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yE29no7fHNeyPRIIiwaJ4",
+          "id": "2yE29no7fHNeyPRIIiwaJ4",
+          "name": "Fuzon",
+          "type": "artist",
+          "uri": "spotify:artist:2yE29no7fHNeyPRIIiwaJ4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1hPrjTLgnaAlEmDIDtfd5X",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f7f3feb4c9ea40bae3888d2a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f7f3feb4c9ea40bae3888d2a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f7f3feb4c9ea40bae3888d2a",
+          "width": 64
+        }
+      ],
+      "name": "Heartless",
+      "release_date": "2014-01-08",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:1hPrjTLgnaAlEmDIDtfd5X"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "type": "artist",
+        "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/75p6BrziB5urmwPCeXl3y7",
+    "is_local": false,
+    "name": "Main Dhoondne Ko Zamaane Mein",
+    "preview_url": "https://p.scdn.co/mp3-preview/f6c1fb4657c797add9e7f4b5e2ab05f6c95248dd?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5jW93KBgv7vhPpBqbcLxWy"
+          },
+          "href": "https://api.spotify.com/v1/artists/5jW93KBgv7vhPpBqbcLxWy",
+          "id": "5jW93KBgv7vhPpBqbcLxWy",
+          "name": "Gaurav Dagaonkar",
+          "type": "artist",
+          "uri": "spotify:artist:5jW93KBgv7vhPpBqbcLxWy"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yE29no7fHNeyPRIIiwaJ4",
+          "id": "2yE29no7fHNeyPRIIiwaJ4",
+          "name": "Fuzon",
+          "type": "artist",
+          "uri": "spotify:artist:2yE29no7fHNeyPRIIiwaJ4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1hPrjTLgnaAlEmDIDtfd5X",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f7f3feb4c9ea40bae3888d2a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f7f3feb4c9ea40bae3888d2a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f7f3feb4c9ea40bae3888d2a",
+          "width": 64
+        }
+      ],
+      "name": "Heartless",
+      "release_date": "2014-01-08",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:1hPrjTLgnaAlEmDIDtfd5X"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "type": "artist",
+        "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/75p6BrziB5urmwPCeXl3y7",
+    "is_local": false,
+    "name": "Main Dhoondne Ko Zamaane Mein",
+    "preview_url": "https://p.scdn.co/mp3-preview/f6c1fb4657c797add9e7f4b5e2ab05f6c95248dd?cid=811598a754134358878b30bc9c28decd"
+  }
+]
