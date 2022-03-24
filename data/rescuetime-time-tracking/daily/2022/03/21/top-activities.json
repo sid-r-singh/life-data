@@ -211,7 +211,7 @@
     "Rank": 27,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "S Finder",
+    "Activity": "android",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -219,7 +219,7 @@
     "Rank": 28,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "android",
+    "Activity": "S Finder",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -283,28 +283,20 @@
     "Rank": 36,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.app.smartcapture",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 37,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "Play Store",
     "Category": "General Shopping",
     "Productivity": -2
   },
   {
-    "Rank": 38,
-    "Time Spent (seconds)": 1,
+    "Rank": 37,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "quadfellowship.org",
+    "Activity": "mobile - com.samsung.android.app.smartcapture",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 39,
+    "Rank": 38,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -312,11 +304,19 @@
     "Productivity": 0
   },
   {
-    "Rank": 40,
+    "Rank": 39,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "edx.org",
     "Category": "Engineering & Technology",
     "Productivity": 1
+  },
+  {
+    "Rank": 40,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "quadfellowship.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]
