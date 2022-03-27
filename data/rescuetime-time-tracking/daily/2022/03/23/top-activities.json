@@ -171,25 +171,25 @@
     "Rank": 22,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.video",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "mobile - com.samsung.android.messaging",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
     "Rank": 23,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
-    "Productivity": 0
+    "Activity": "mobile - com.samsung.android.video",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 24,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.messaging",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
   },
   {
     "Rank": 25,
@@ -203,7 +203,7 @@
     "Rank": 26,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "android",
+    "Activity": "Android Settings",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -211,7 +211,7 @@
     "Rank": 27,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "Android Settings",
+    "Activity": "android",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -251,16 +251,16 @@
     "Rank": 32,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.app.smartcapture",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "merriam-webster.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 33,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "merriam-webster.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "mobile - com.samsung.android.app.smartcapture",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]
