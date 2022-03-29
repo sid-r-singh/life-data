@@ -266,13 +266,26 @@
     "Shopping": 26
   },
   "27": {
-    "Utilities": 6760,
-    "Communication & Scheduling": 4730,
+    "Utilities": 15458,
+    "Communication & Scheduling": 4731,
     "Reference & Learning": 1110,
     "Entertainment": 380,
-    "Uncategorized": 88
+    "Uncategorized": 88,
+    "Business": 3
   },
-  "28": {},
-  "29": {},
+  "28": {
+    "Utilities": 6331,
+    "Entertainment": 5033,
+    "Communication & Scheduling": 3737,
+    "Uncategorized": 2434,
+    "Business": 661,
+    "Software Development": 643,
+    "Reference & Learning": 218
+  },
+  "29": {
+    "Communication & Scheduling": 1204,
+    "Utilities": 119,
+    "Entertainment": 12
+  },
   "30": {}
 }
