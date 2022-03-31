@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 12474,
+    "Time Spent (seconds)": 17417,
     "Number of People": 1,
     "Activity": "Firefox Android",
     "Category": "Browsers",
@@ -17,6 +17,22 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 2700,
+    "Number of People": 1,
+    "Activity": "Google Chrome for Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 2125,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 1384,
     "Number of People": 1,
     "Activity": "mobile - com.google.android.apps.meetings",
@@ -24,7 +40,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 4,
+    "Rank": 6,
     "Time Spent (seconds)": 961,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -32,24 +48,8 @@
     "Productivity": 2
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 838,
-    "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 494,
-    "Number of People": 1,
-    "Activity": "web.whatsapp.com",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
     "Rank": 7,
-    "Time Spent (seconds)": 410,
+    "Time Spent (seconds)": 907,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -57,14 +57,38 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 215,
+    "Time Spent (seconds)": 494,
     "Number of People": 1,
-    "Activity": "Google Chrome for Android",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "web.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
     "Rank": 9,
+    "Time Spent (seconds)": 302,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 222,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.pdfviewer",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 194,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 119,
     "Number of People": 1,
     "Activity": "weble.upc.edu",
@@ -72,7 +96,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 10,
+    "Rank": 13,
+    "Time Spent (seconds)": 63,
+    "Number of People": 1,
+    "Activity": "mobile - com.jio.myjio",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
     "Activity": "c:",
@@ -80,7 +112,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 11,
+    "Rank": 15,
     "Time Spent (seconds)": 55,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.messaging",
@@ -88,7 +120,7 @@
     "Productivity": -1
   },
   {
-    "Rank": 12,
+    "Rank": 16,
     "Time Spent (seconds)": 49,
     "Number of People": 1,
     "Activity": "Play Store",
@@ -96,15 +128,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 48,
-    "Number of People": 1,
-    "Activity": "Telegram Messenger",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 14,
+    "Rank": 17,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
     "Activity": "RescueTime for Android",
@@ -112,7 +136,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 15,
+    "Rank": 18,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
     "Activity": "mobile - com.sec.android.app.clockpackage",
@@ -120,7 +144,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 16,
+    "Rank": 19,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 20,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "Google Keep",
@@ -128,7 +160,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 17,
+    "Rank": 21,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.dialer",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
     "Activity": "newtab",
@@ -136,7 +176,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 18,
+    "Rank": 23,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
@@ -144,7 +184,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 19,
+    "Rank": 24,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "mobile - com.spotify.lite",
@@ -152,7 +192,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 20,
+    "Rank": 25,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.rcs",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 26,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -160,15 +208,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 21,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "android",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 22,
+    "Rank": 27,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.app.smartcapture",
@@ -176,7 +216,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 23,
+    "Rank": 28,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.app.contacts",
