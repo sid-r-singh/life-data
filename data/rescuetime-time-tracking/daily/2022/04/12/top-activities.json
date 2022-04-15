@@ -97,7 +97,7 @@
   },
   {
     "Rank": 13,
-    "Time Spent (seconds)": 110,
+    "Time Spent (seconds)": 111,
     "Number of People": 1,
     "Activity": "192.168.11.254:8090",
     "Category": "General Software Development",
@@ -123,17 +123,17 @@
     "Rank": 16,
     "Time Spent (seconds)": 90,
     "Number of People": 1,
-    "Activity": "training.linuxfoundation.org",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 17,
     "Time Spent (seconds)": 90,
     "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "training.linuxfoundation.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 18,
@@ -163,16 +163,16 @@
     "Rank": 21,
     "Time Spent (seconds)": 60,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
+    "Activity": "hackr.io",
+    "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
     "Rank": 22,
     "Time Spent (seconds)": 60,
     "Number of People": 1,
-    "Activity": "hackr.io",
-    "Category": "Engineering & Technology",
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
@@ -243,17 +243,17 @@
     "Rank": 31,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "merriam-webster.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "onlinecoursespro.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 32,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "onlinecoursespro.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "merriam-webster.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 33,
@@ -329,6 +329,14 @@
   },
   {
     "Rank": 42,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "in.linkedin.com",
+    "Category": "Professional Networking",
+    "Productivity": 1
+  },
+  {
+    "Rank": 43,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "msftconnecttest.com",
@@ -336,7 +344,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 43,
+    "Rank": 44,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "192.168.11.254:4443",
@@ -344,27 +352,19 @@
     "Productivity": 2
   },
   {
-    "Rank": 44,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "edge.microsoft.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
-  },
-  {
     "Rank": 45,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "in.linkedin.com",
-    "Category": "Professional Networking",
-    "Productivity": 1
-  },
-  {
-    "Rank": 46,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "youtu.be",
     "Category": "Video",
     "Productivity": -2
+  },
+  {
+    "Rank": 46,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "edge.microsoft.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   }
 ]
