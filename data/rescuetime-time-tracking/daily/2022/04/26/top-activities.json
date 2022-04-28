@@ -9,18 +9,18 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 752,
+    "Time Spent (seconds)": 783,
     "Number of People": 1,
-    "Activity": "linkedin.com",
-    "Category": "Professional Networking",
+    "Activity": "coursera.org",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 461,
+    "Time Spent (seconds)": 752,
     "Number of People": 1,
-    "Activity": "coursera.org",
-    "Category": "General Reference & Learning",
+    "Activity": "linkedin.com",
+    "Category": "Professional Networking",
     "Productivity": 1
   },
   {
@@ -33,19 +33,19 @@
   },
   {
     "Rank": 5,
+    "Time Spent (seconds)": 248,
+    "Number of People": 1,
+    "Activity": "d3c33hcgiwev3.cloudfront.net",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 6,
     "Time Spent (seconds)": 175,
     "Number of People": 1,
     "Activity": "livemint.com",
     "Category": "Email",
     "Productivity": 0
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 159,
-    "Number of People": 1,
-    "Activity": "d3c33hcgiwev3.cloudfront.net",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
   },
   {
     "Rank": 7,
@@ -83,17 +83,17 @@
     "Rank": 11,
     "Time Spent (seconds)": 51,
     "Number of People": 1,
-    "Activity": "timesnownews.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "news.com.au",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 12,
     "Time Spent (seconds)": 51,
     "Number of People": 1,
-    "Activity": "news.com.au",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "timesnownews.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 13,
@@ -131,24 +131,24 @@
     "Rank": 17,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "yt1.icu",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 18,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
     "Activity": "192.168.11.254:8090",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 19,
+    "Rank": 18,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "yt1.icu",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
