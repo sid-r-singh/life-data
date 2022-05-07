@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 133,
+    "Time Spent (seconds)": 219,
     "Number of People": 1,
     "Activity": "localhost:1313",
     "Category": "General Software Development",
@@ -41,19 +41,19 @@
   },
   {
     "Rank": 6,
+    "Time Spent (seconds)": 108,
+    "Number of People": 1,
+    "Activity": "blist.vercel.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 98,
     "Number of People": 1,
     "Activity": "marvell.com",
     "Category": "General News & Opinion",
     "Productivity": -2
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 76,
-    "Number of People": 1,
-    "Activity": "blist.vercel.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
   },
   {
     "Rank": 8,
@@ -123,7 +123,7 @@
     "Rank": 16,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "opensuse.org",
+    "Activity": "yast.opensuse.org",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
@@ -131,7 +131,7 @@
     "Rank": 17,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "yast.opensuse.org",
+    "Activity": "opensuse.org",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
