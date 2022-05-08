@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 643,
+    "Time Spent (seconds)": 942,
     "Number of People": 1,
     "Activity": "dash.cloudflare.com",
     "Category": "Systems Operations",
@@ -30,5 +30,13 @@
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "twitter.com",
+    "Category": "General Social Networking",
+    "Productivity": -2
   }
 ]

@@ -83,17 +83,17 @@
     "Rank": 11,
     "Time Spent (seconds)": 41,
     "Number of People": 1,
-    "Activity": "wiki.gnome.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "en.opensuse.org",
+    "Category": "Science & Technology",
+    "Productivity": -1
   },
   {
     "Rank": 12,
     "Time Spent (seconds)": 41,
     "Number of People": 1,
-    "Activity": "en.opensuse.org",
-    "Category": "Science & Technology",
-    "Productivity": -1
+    "Activity": "wiki.gnome.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 13,
@@ -123,7 +123,7 @@
     "Rank": 16,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "yast.opensuse.org",
+    "Activity": "opensuse.org",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
@@ -131,7 +131,7 @@
     "Rank": 17,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "opensuse.org",
+    "Activity": "yast.opensuse.org",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
@@ -155,17 +155,17 @@
     "Rank": 20,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "gitlab.gnome.org",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 21,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "gitlab.gnome.org",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 22,
