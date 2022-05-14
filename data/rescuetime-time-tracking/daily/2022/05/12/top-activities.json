@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 2534,
+    "Time Spent (seconds)": 2548,
     "Number of People": 1,
     "Activity": "linkedin.com",
     "Category": "Professional Networking",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 583,
+    "Time Spent (seconds)": 774,
     "Number of People": 1,
     "Activity": "upwork.com",
     "Category": "Operations",
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 231,
+    "Time Spent (seconds)": 244,
     "Number of People": 1,
     "Activity": "willdrevo.com",
     "Category": "Uncategorized",
@@ -33,27 +33,27 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 67,
-    "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 66,
+    "Time Spent (seconds)": 97,
     "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 52,
+    "Rank": 6,
+    "Time Spent (seconds)": 90,
     "Number of People": 1,
-    "Activity": "credly.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "zachholman.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 67,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 8,
@@ -65,6 +65,14 @@
   },
   {
     "Rank": 9,
+    "Time Spent (seconds)": 52,
+    "Number of People": 1,
+    "Activity": "credly.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 38,
     "Number of People": 1,
     "Activity": "newtab",
@@ -72,7 +80,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 11,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Activity": "browserling.com",
@@ -80,7 +88,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 11,
+    "Rank": 12,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "ai4bharat.org",
@@ -88,7 +96,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
+    "Rank": 13,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "netacad.com",
@@ -96,15 +104,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 16,
+    "Rank": 14,
+    "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -112,7 +120,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 15,
+    "Rank": 16,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "id.cisco.com",
@@ -120,7 +128,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 16,
+    "Rank": 17,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "192.168.11.254:8090",
@@ -128,7 +136,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 17,
+    "Rank": 18,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "imgur.com",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 19,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "gentoo.org",
