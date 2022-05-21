@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 235,
+    "Time Spent (seconds)": 305,
     "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
@@ -41,6 +41,14 @@
   },
   {
     "Rank": 6,
+    "Time Spent (seconds)": 132,
+    "Number of People": 1,
+    "Activity": "blist.vercel.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 129,
     "Number of People": 1,
     "Activity": "blog.sethcorker.com",
@@ -48,18 +56,10 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
+    "Rank": 8,
     "Time Spent (seconds)": 122,
     "Number of People": 1,
     "Activity": "imageoptim.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 58,
-    "Number of People": 1,
-    "Activity": "blist.vercel.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -161,6 +161,14 @@
   },
   {
     "Rank": 21,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "r4ven.fr",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "themes.gohugo.io",
@@ -168,19 +176,27 @@
     "Productivity": 2
   },
   {
-    "Rank": 22,
+    "Rank": 23,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "localhost:5000",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "192.168.11.254:8090",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 25,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "aztech.us",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 23,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "192.168.11.254:8090",
-    "Category": "General Software Development",
-    "Productivity": 2
   }
 ]
