@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3399,
+    "Time Spent (seconds)": 3430,
     "Number of People": 1,
     "Activity": "coursera.org",
     "Category": "General Reference & Learning",
@@ -17,15 +17,15 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 307,
+    "Time Spent (seconds)": 503,
     "Number of People": 1,
-    "Activity": "docs.linuxfoundation.org",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "linkedin.com",
+    "Category": "Professional Networking",
+    "Productivity": 1
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 275,
+    "Time Spent (seconds)": 373,
     "Number of People": 1,
     "Activity": "c:",
     "Category": "General Utilities",
@@ -33,14 +33,54 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 233,
+    "Time Spent (seconds)": 370,
+    "Number of People": 1,
+    "Activity": "docs.linuxfoundation.org",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 345,
+    "Number of People": 1,
+    "Activity": "whataftercollege.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 325,
+    "Number of People": 1,
+    "Activity": "jobs.lever.co",
+    "Category": "Employment",
+    "Productivity": 2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 299,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 262,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 10,
+    "Time Spent (seconds)": 183,
+    "Number of People": 1,
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 142,
     "Number of People": 1,
     "Activity": "spaceplace.nasa.gov",
@@ -48,27 +88,139 @@
     "Productivity": -2
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 73,
+    "Rank": 12,
+    "Time Spent (seconds)": 107,
     "Number of People": 1,
-    "Activity": "google.co.in",
-    "Category": "Search",
+    "Activity": "alumni.cern",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 61,
+    "Rank": 13,
+    "Time Spent (seconds)": 88,
+    "Number of People": 1,
+    "Activity": "indico.cern.ch",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 86,
+    "Number of People": 1,
+    "Activity": "hackerrank.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 67,
+    "Number of People": 1,
+    "Activity": "leadzap.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 62,
     "Number of People": 1,
     "Activity": "blog.coursera.org",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 18,
+    "Rank": 17,
+    "Time Spent (seconds)": 60,
+    "Number of People": 1,
+    "Activity": "anishlearnstocode.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 55,
+    "Number of People": 1,
+    "Activity": "careers.cern",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 37,
+    "Number of People": 1,
+    "Activity": "rss3.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "smartrecruiters.com",
+    "Category": "Administration",
+    "Productivity": 2
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Activity": "leetcode.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "developers.mattermost.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "docs.mattermost.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "mattermost.web.cern.ch",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "d1c2gz5q23tkk0.cloudfront.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "mattermost.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "web.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
   }
 ]
