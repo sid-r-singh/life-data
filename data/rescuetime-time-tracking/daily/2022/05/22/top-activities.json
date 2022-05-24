@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1093,
+    "Time Spent (seconds)": 1104,
     "Number of People": 1,
     "Activity": "upwork.com",
     "Category": "Operations",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 388,
+    "Time Spent (seconds)": 389,
     "Number of People": 1,
     "Activity": "blog.elementary.io",
     "Category": "Uncategorized",
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 353,
+    "Time Spent (seconds)": 357,
     "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
@@ -33,7 +33,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 296,
+    "Time Spent (seconds)": 315,
     "Number of People": 1,
     "Activity": "ghost.org",
     "Category": "Writing",
@@ -59,25 +59,25 @@
     "Rank": 8,
     "Time Spent (seconds)": 154,
     "Number of People": 1,
-    "Activity": "basho-color.fueko.net",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "opensource.com",
+    "Category": "Business",
+    "Productivity": -1
   },
   {
     "Rank": 9,
     "Time Spent (seconds)": 154,
     "Number of People": 1,
-    "Activity": "splidejs.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "basho-color.fueko.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 153,
+    "Time Spent (seconds)": 154,
     "Number of People": 1,
-    "Activity": "opensource.com",
-    "Category": "Business",
-    "Productivity": -1
+    "Activity": "splidejs.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 11,
@@ -129,6 +129,14 @@
   },
   {
     "Rank": 17,
+    "Time Spent (seconds)": 60,
+    "Number of People": 1,
+    "Activity": "inros.gbjsolution.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 56,
     "Number of People": 1,
     "Activity": "newtab",
@@ -136,7 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 18,
+    "Rank": 19,
     "Time Spent (seconds)": 54,
     "Number of People": 1,
     "Activity": "flickity.metafizzy.co",
@@ -144,7 +152,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 19,
+    "Rank": 20,
+    "Time Spent (seconds)": 51,
+    "Number of People": 1,
+    "Activity": "firma.eduardogomez.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 21,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
     "Activity": "basho-dark.fueko.net",
@@ -152,7 +168,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 20,
+    "Rank": 22,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "headline.ghost.io",
@@ -160,7 +176,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 21,
+    "Rank": 23,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
     "Activity": "flutter.dev",
@@ -168,15 +184,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 22,
-    "Time Spent (seconds)": 21,
-    "Number of People": 1,
-    "Activity": "mobile - elementary.io",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 23,
+    "Rank": 24,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
     "Activity": "credly.com",
@@ -184,7 +192,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 24,
+    "Rank": 25,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Activity": "mobile - elementary.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 26,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "valadoc.org",
@@ -192,24 +208,8 @@
     "Productivity": 1
   },
   {
-    "Rank": 25,
-    "Time Spent (seconds)": 18,
-    "Number of People": 1,
-    "Activity": "docs.flutter.dev",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 26,
-    "Time Spent (seconds)": 18,
-    "Number of People": 1,
-    "Activity": "inros.gbjsolution.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
     "Rank": 27,
-    "Time Spent (seconds)": 17,
+    "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
@@ -217,11 +217,11 @@
   },
   {
     "Rank": 28,
-    "Time Spent (seconds)": 12,
+    "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "docs.flutter.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 29,
@@ -233,6 +233,14 @@
   },
   {
     "Rank": 30,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 31,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "saucelabs.com",
@@ -240,7 +248,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 31,
+    "Rank": 32,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "wiki.gnome.org",
@@ -248,7 +256,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 32,
+    "Rank": 33,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "seeratawan.goprogs.com",
@@ -256,7 +264,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 33,
+    "Rank": 34,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "firma-docs.eduardogomez.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 35,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "192.168.11.254:8090",
