@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 733,
+    "Time Spent (seconds)": 782,
     "Number of People": 1,
     "Activity": "courses.edx.org",
     "Category": "General Reference & Learning",
@@ -9,6 +9,30 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 503,
+    "Number of People": 1,
+    "Activity": "codecademy.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 415,
+    "Number of People": 1,
+    "Activity": "coursera.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 398,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 369,
     "Number of People": 1,
     "Activity": "medium.com",
@@ -16,15 +40,31 @@
     "Productivity": -2
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 300,
+    "Rank": 6,
+    "Time Spent (seconds)": 256,
     "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "learning.edx.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
-    "Rank": 4,
+    "Rank": 7,
+    "Time Spent (seconds)": 236,
+    "Number of People": 1,
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 224,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 199,
     "Number of People": 1,
     "Activity": "mobile - com.phonepe.app",
@@ -32,7 +72,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 10,
     "Time Spent (seconds)": 188,
     "Number of People": 1,
     "Activity": "Google Chrome for Android",
@@ -40,7 +80,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 11,
     "Time Spent (seconds)": 182,
     "Number of People": 1,
     "Activity": "Android Gallery",
@@ -48,7 +88,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 7,
+    "Rank": 12,
     "Time Spent (seconds)": 163,
     "Number of People": 1,
     "Activity": "getmimo.com",
@@ -56,47 +96,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 117,
+    "Rank": 13,
+    "Time Spent (seconds)": 140,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 112,
-    "Number of People": 1,
-    "Activity": "codecademy.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
-  },
-  {
-    "Rank": 10,
-    "Time Spent (seconds)": 106,
-    "Number of People": 1,
-    "Activity": "google.co.in",
-    "Category": "Search",
-    "Productivity": 0
-  },
-  {
-    "Rank": 11,
-    "Time Spent (seconds)": 101,
+    "Rank": 14,
+    "Time Spent (seconds)": 118,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 90,
-    "Number of People": 1,
-    "Activity": "learning.edx.org",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
-  },
-  {
-    "Rank": 13,
+    "Rank": 15,
     "Time Spent (seconds)": 89,
     "Number of People": 1,
     "Activity": "Telegram Messenger",
@@ -104,7 +120,7 @@
     "Productivity": -1
   },
   {
-    "Rank": 14,
+    "Rank": 16,
     "Time Spent (seconds)": 86,
     "Number of People": 1,
     "Activity": "sololearn.com",
@@ -112,24 +128,8 @@
     "Productivity": 1
   },
   {
-    "Rank": 15,
-    "Time Spent (seconds)": 79,
-    "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 16,
-    "Time Spent (seconds)": 64,
-    "Number of People": 1,
-    "Activity": "datacamp.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
-  },
-  {
     "Rank": 17,
-    "Time Spent (seconds)": 59,
+    "Time Spent (seconds)": 84,
     "Number of People": 1,
     "Activity": "edx.org",
     "Category": "Engineering & Technology",
@@ -137,6 +137,22 @@
   },
   {
     "Rank": 18,
+    "Time Spent (seconds)": 79,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 64,
+    "Number of People": 1,
+    "Activity": "datacamp.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 20,
     "Time Spent (seconds)": 52,
     "Number of People": 1,
     "Activity": "support.edx.org",
@@ -144,7 +160,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 19,
+    "Rank": 21,
+    "Time Spent (seconds)": 36,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
     "Activity": "jobs.getmimo.com",
@@ -152,7 +176,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 20,
+    "Rank": 23,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -160,7 +184,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 21,
+    "Rank": 24,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "charactercounter.com",
@@ -168,7 +192,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 22,
+    "Rank": 25,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 26,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "getmimo.zendesk.com",
@@ -176,7 +208,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 23,
+    "Rank": 27,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Activity": "hemaneel.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 28,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "sololearn.bamboohr.com",
@@ -184,7 +224,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 24,
+    "Rank": 29,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "grasshopper.app",
@@ -192,7 +232,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 25,
+    "Rank": 30,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "Android Settings",
@@ -200,7 +240,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 26,
+    "Rank": 31,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "authn.edx.org",
@@ -208,15 +248,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 27,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 28,
+    "Rank": 32,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "learn.grasshopper.app",
@@ -224,11 +256,19 @@
     "Productivity": 0
   },
   {
-    "Rank": 29,
+    "Rank": 33,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "grasshopper.com",
     "Category": "General Business",
     "Productivity": 2
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "clicktrixredirects.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]
