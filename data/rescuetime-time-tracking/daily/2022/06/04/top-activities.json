@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4106,
+    "Time Spent (seconds)": 7681,
     "Number of People": 1,
     "Activity": "Google Chrome for Android",
     "Category": "Browsers",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 2007,
+    "Time Spent (seconds)": 4326,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 1225,
+    "Time Spent (seconds)": 2361,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
     "Category": "Voice Chat",
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 846,
+    "Time Spent (seconds)": 1421,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -33,6 +33,22 @@
   },
   {
     "Rank": 5,
+    "Time Spent (seconds)": 914,
+    "Number of People": 1,
+    "Activity": "mobile - com.spotify.lite",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 639,
+    "Number of People": 1,
+    "Activity": "MX Video Player",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 555,
     "Number of People": 1,
     "Activity": "Firefox Android",
@@ -40,15 +56,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 491,
+    "Rank": 8,
+    "Time Spent (seconds)": 397,
     "Number of People": 1,
-    "Activity": "mobile - com.spotify.lite",
-    "Category": "Music",
-    "Productivity": -2
+    "Activity": "mobile - com.jio.myjio",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 7,
+    "Rank": 9,
+    "Time Spent (seconds)": 369,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.dialer",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 338,
     "Number of People": 1,
     "Activity": "YouTube for Android",
@@ -56,15 +80,39 @@
     "Productivity": -2
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 329,
+    "Rank": 11,
+    "Time Spent (seconds)": 207,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.dialer",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 9,
+    "Rank": 12,
+    "Time Spent (seconds)": 190,
+    "Number of People": 1,
+    "Activity": "Play Store",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 190,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.permissioncontroller",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 177,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 147,
     "Number of People": 1,
     "Activity": "mobile - com.x8bit.bitwarden",
@@ -72,7 +120,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 16,
+    "Time Spent (seconds)": 142,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.nbu.files",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 17,
     "Time Spent (seconds)": 124,
     "Number of People": 1,
     "Activity": "mobile - com.phonepe.app",
@@ -80,23 +136,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 117,
-    "Number of People": 1,
-    "Activity": "MX Video Player",
-    "Category": "Video",
-    "Productivity": -2
-  },
-  {
-    "Rank": 12,
-    "Time Spent (seconds)": 75,
+    "Rank": 18,
+    "Time Spent (seconds)": 106,
     "Number of People": 1,
     "Activity": "mobile - com.google.android.apps.pdfviewer",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 13,
+    "Rank": 19,
+    "Time Spent (seconds)": 81,
+    "Number of People": 1,
+    "Activity": "Camera - Samsung Android Phone",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 20,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.app.smartcapture",
@@ -104,64 +160,8 @@
     "Productivity": 0
   },
   {
-    "Rank": 14,
-    "Time Spent (seconds)": 58,
-    "Number of People": 1,
-    "Activity": "mobile - com.jio.myjio",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 15,
-    "Time Spent (seconds)": 54,
-    "Number of People": 1,
-    "Activity": "Android Settings",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 16,
-    "Time Spent (seconds)": 54,
-    "Number of People": 1,
-    "Activity": "Play Store",
-    "Category": "General Shopping",
-    "Productivity": -2
-  },
-  {
-    "Rank": 17,
-    "Time Spent (seconds)": 49,
-    "Number of People": 1,
-    "Activity": "Telegram Messenger",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 18,
-    "Time Spent (seconds)": 43,
-    "Number of People": 1,
-    "Activity": "Camera - Samsung Android Phone",
-    "Category": "Photos",
-    "Productivity": -2
-  },
-  {
-    "Rank": 19,
-    "Time Spent (seconds)": 38,
-    "Number of People": 1,
-    "Activity": "mobile - org.malwarebytes.antimalware",
-    "Category": "Anti-Virus & Spyware",
-    "Productivity": -1
-  },
-  {
-    "Rank": 20,
-    "Time Spent (seconds)": 36,
-    "Number of People": 1,
-    "Activity": "Device Maintenance",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
     "Rank": 21,
-    "Time Spent (seconds)": 32,
+    "Time Spent (seconds)": 43,
     "Number of People": 1,
     "Activity": "android",
     "Category": "General Utilities",
@@ -169,6 +169,38 @@
   },
   {
     "Rank": 22,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Activity": "Google Play Services",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 38,
+    "Number of People": 1,
+    "Activity": "mobile - org.malwarebytes.antimalware",
+    "Category": "Anti-Virus & Spyware",
+    "Productivity": -1
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 38,
+    "Number of People": 1,
+    "Activity": "mobile - share.indiashare.appshare",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 36,
+    "Number of People": 1,
+    "Activity": "Device Maintenance",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 26,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
     "Activity": "Android Gallery",
@@ -176,7 +208,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 23,
+    "Rank": 27,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.messaging",
@@ -184,7 +216,7 @@
     "Productivity": -1
   },
   {
-    "Rank": 24,
+    "Rank": 28,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.app.contacts",
@@ -192,7 +224,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 25,
+    "Rank": 29,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "com.android.providers.media",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "Google Keep",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "S Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 32,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "mobile - com.sec.android.app.clockpackage",
@@ -200,7 +256,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 26,
+    "Rank": 33,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.inputmethod.latin",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 34,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "Authy for Android",
@@ -208,18 +272,10 @@
     "Productivity": 1
   },
   {
-    "Rank": 27,
-    "Time Spent (seconds)": 4,
+    "Rank": 35,
+    "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "Google Play Services",
-    "Category": "General Shopping",
-    "Productivity": -2
-  },
-  {
-    "Rank": 28,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "mobile - com.google.android.permissioncontroller",
+    "Activity": "mobile - com.android.settings.intelligence",
     "Category": "General Utilities",
     "Productivity": 1
   }
