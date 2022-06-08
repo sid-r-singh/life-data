@@ -9,14 +9,46 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 2130,
+    "Time Spent (seconds)": 5303,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 4255,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 3,
+    "Rank": 4,
+    "Time Spent (seconds)": 2301,
+    "Number of People": 1,
+    "Activity": "Google Chrome for Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 1361,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1193,
+    "Number of People": 1,
+    "Activity": "mobile - in.amazon.mshop.android.shopping",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 748,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
@@ -24,31 +56,23 @@
     "Productivity": 1
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 132,
-    "Number of People": 1,
-    "Activity": "Telegram Messenger",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 114,
-    "Number of People": 1,
-    "Activity": "Google Chrome for Android",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 96,
+    "Rank": 8,
+    "Time Spent (seconds)": 459,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 7,
+    "Rank": 9,
+    "Time Spent (seconds)": 104,
+    "Number of People": 1,
+    "Activity": "Google Keep",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 78,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.dialer",
@@ -56,7 +80,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 11,
+    "Time Spent (seconds)": 48,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.app.contacts",
@@ -64,7 +96,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
+    "Rank": 13,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
     "Activity": "Android Gallery",
@@ -72,18 +104,42 @@
     "Productivity": -2
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 31,
+    "Rank": 14,
+    "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "Android Settings",
+    "Activity": "Flipkart",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "mobile - com.jio.myjio",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 11,
+    "Rank": 16,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "Android System",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.permissioncontroller",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "android",
     "Category": "General Utilities",
     "Productivity": 1
   }
