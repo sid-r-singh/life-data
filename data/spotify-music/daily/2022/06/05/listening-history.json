@@ -4,6 +4,73 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+          },
+          "href": "https://api.spotify.com/v1/artists/3OLGltG8UPIea8sA4w0yg0",
+          "id": "3OLGltG8UPIea8sA4w0yg0",
+          "name": "Rahat Fateh Ali Khan",
+          "type": "artist",
+          "uri": "spotify:artist:3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2XpYarn4l8zxeCh5Zzj3Mv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27361e0b61e11706b9acff50231",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0261e0b61e11706b9acff50231",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485161e0b61e11706b9acff50231",
+          "width": 64
+        }
+      ],
+      "name": "Back 2 Love",
+      "release_date": "2014-05-07",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:2XpYarn4l8zxeCh5Zzj3Mv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        "href": "https://api.spotify.com/v1/artists/3OLGltG8UPIea8sA4w0yg0",
+        "id": "3OLGltG8UPIea8sA4w0yg0",
+        "name": "Rahat Fateh Ali Khan",
+        "type": "artist",
+        "uri": "spotify:artist:3OLGltG8UPIea8sA4w0yg0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+        "id": "0oOet2f43PA68X5RxKobEy",
+        "name": "Shreya Ghoshal",
+        "type": "artist",
+        "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3RuzPmPU3ZOyQ6sT3bgou7",
+    "is_local": false,
+    "name": "Rim Jhim",
+    "preview_url": null
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
           },
           "href": "https://api.spotify.com/v1/artists/71hjb5G92mGoKRSAW3Cj00",
@@ -1481,82 +1548,5 @@
     "is_local": false,
     "name": "Raabta (Night In A Motel)",
     "preview_url": "https://p.scdn.co/mp3-preview/5a5fadd4057aa16d8d268abeb5103cd39b0f38a9?cid=811598a754134358878b30bc9c28decd"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-          },
-          "href": "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
-          "id": "6Mv8GjQa7LKUGCAqa9qqdb",
-          "name": "Vishal-Shekhar",
-          "type": "artist",
-          "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/4SPHfSWibeoFCSdR4vd5QL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2731992dd7b33baf5887ea4a1ec",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e021992dd7b33baf5887ea4a1ec",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048511992dd7b33baf5887ea4a1ec",
-          "width": 64
-        }
-      ],
-      "name": "I Hate Luv Storys (Original Motion Picture Soundtrack)",
-      "release_date": "2010-05-25",
-      "release_date_precision": "day",
-      "total_tracks": 8,
-      "type": "album",
-      "uri": "spotify:album:4SPHfSWibeoFCSdR4vd5QL"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-        },
-        "href": "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
-        "id": "6Mv8GjQa7LKUGCAqa9qqdb",
-        "name": "Vishal-Shekhar",
-        "type": "artist",
-        "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/6eMFGgGDh5iXU1POAK0cpe"
-        },
-        "href": "https://api.spotify.com/v1/artists/6eMFGgGDh5iXU1POAK0cpe",
-        "id": "6eMFGgGDh5iXU1POAK0cpe",
-        "name": "Suraj Jagan",
-        "type": "artist",
-        "uri": "spotify:artist:6eMFGgGDh5iXU1POAK0cpe"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
-        },
-        "href": "https://api.spotify.com/v1/artists/0Yb0T3wUUNiIvHjqnfkbuH",
-        "id": "0Yb0T3wUUNiIvHjqnfkbuH",
-        "name": "Mahalakshmi Iyer",
-        "type": "artist",
-        "uri": "spotify:artist:0Yb0T3wUUNiIvHjqnfkbuH"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/4dPeCbg2Op44s9kwyMS3ZT",
-    "is_local": false,
-    "name": "Sadka",
-    "preview_url": "https://p.scdn.co/mp3-preview/4240d5da8801fdbba90c79617dd0718f2d37314a?cid=811598a754134358878b30bc9c28decd"
   }
 ]

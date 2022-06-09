@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 673,
+    "Time Spent (seconds)": 863,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
@@ -9,6 +9,22 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 483,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 335,
+    "Number of People": 1,
+    "Activity": "mobile - com.jio.myjio",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 281,
     "Number of People": 1,
     "Activity": "mobile - in.amazon.mshop.android.shopping",
@@ -16,15 +32,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 262,
-    "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 4,
+    "Rank": 5,
     "Time Spent (seconds)": 222,
     "Number of People": 1,
     "Activity": "Firefox Android",
@@ -32,15 +40,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 113,
+    "Rank": 6,
+    "Time Spent (seconds)": 153,
     "Number of People": 1,
     "Activity": "Telegram Messenger",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 98,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
@@ -48,7 +56,23 @@
     "Productivity": 1
   },
   {
-    "Rank": 7,
+    "Rank": 8,
+    "Time Spent (seconds)": 33,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.messaging",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "mobile - com.myairtelapp",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "Google Chrome for Android",
@@ -56,18 +80,18 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 11,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "Device Manager - Tmobile",
+    "Activity": "Android Settings",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 2,
+    "Rank": 12,
+    "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "Android Settings",
+    "Activity": "Device Manager - Tmobile",
     "Category": "General Utilities",
     "Productivity": 1
   }
