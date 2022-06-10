@@ -12,14 +12,16 @@
   },
   "2022-06-6": {
     "Video": 7694,
-    "Browsers": 7604,
+    "Browsers": 7628,
     "Instant Message": 5616,
     "General Shopping": 1221,
     "Voice Chat": 748,
-    "General Utilities": 543,
+    "General Utilities": 679,
     "Uncategorized": 114,
     "General Reference & Learning": 104,
-    "Photos": 32
+    "Photos": 32,
+    "Accounting": 10,
+    "General News & Opinion": 6
   },
   "2022-06-7": {
     "Instant Message": 1049,
@@ -35,7 +37,22 @@
     "Photos": 133,
     "General Utilities": 113
   },
-  "2022-06-9": {},
-  "2022-06-10": {},
+  "2022-06-9": {
+    "Email": 2604,
+    "General Communication & Scheduling": 389,
+    "Writing": 293,
+    "Search": 249,
+    "Uncategorized": 205,
+    "Browsers": 44,
+    "Internet Utilities": 29,
+    "General Utilities": 16
+  },
+  "2022-06-10": {
+    "General Communication & Scheduling": 269,
+    "General Reference & Learning": 126,
+    "Browsers": 11,
+    "Engineering & Technology": 11,
+    "General Utilities": 3
+  },
   "2022-06-11": {}
 }
