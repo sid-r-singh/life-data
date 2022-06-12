@@ -1,6 +1,62 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 4551,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 1571,
+    "Number of People": 1,
+    "Activity": "flipkart.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1467,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 771,
+    "Number of People": 1,
+    "Activity": "typingtest.com",
+    "Category": "Employment",
+    "Productivity": 2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 766,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 506,
+    "Number of People": 1,
+    "Activity": "woshub.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 396,
+    "Number of People": 1,
+    "Activity": "typetastic.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 342,
     "Number of People": 1,
     "Activity": "programminghistorian.org",
@@ -8,15 +64,135 @@
     "Productivity": 1
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 286,
+    "Rank": 9,
+    "Time Spent (seconds)": 334,
+    "Number of People": 1,
+    "Activity": "gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 299,
     "Number of People": 1,
     "Activity": "upwork.com",
     "Category": "Operations",
     "Productivity": 2
   },
   {
-    "Rank": 3,
+    "Rank": 11,
+    "Time Spent (seconds)": 263,
+    "Number of People": 1,
+    "Activity": "devicetests.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 241,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.pdfviewer",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 219,
+    "Number of People": 1,
+    "Activity": "keyboardtester.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 195,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 192,
+    "Number of People": 1,
+    "Activity": "redwoodinteractive.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 178,
+    "Number of People": 1,
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 174,
+    "Number of People": 1,
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 171,
+    "Number of People": 1,
+    "Activity": "keyboard-test.space",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 168,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 130,
+    "Number of People": 1,
+    "Activity": "fantechworld.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 129,
+    "Number of People": 1,
+    "Activity": "courses.edx.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 98,
+    "Number of People": 1,
+    "Activity": "hilton-hugo.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 86,
+    "Number of People": 1,
+    "Activity": "menca-hugo.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 77,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 25,
     "Time Spent (seconds)": 74,
     "Number of People": 1,
     "Activity": "pandoc.org",
@@ -24,7 +200,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 4,
+    "Rank": 26,
     "Time Spent (seconds)": 73,
     "Number of People": 1,
     "Activity": "scholarslab.lib.virginia.edu",
@@ -32,7 +208,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 27,
+    "Time Spent (seconds)": 63,
+    "Number of People": 1,
+    "Activity": "gamingview.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 53,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 46,
+    "Number of People": 1,
+    "Activity": "demo.gethugothemes.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 30,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
     "Activity": "wp.alithemes.com",
@@ -40,7 +240,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 31,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "amazon.in",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 32,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
     "Activity": "go-dh.github.io",
@@ -48,7 +256,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 7,
+    "Rank": 33,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "patreon.com",
@@ -56,15 +264,39 @@
     "Productivity": -2
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 24,
+    "Rank": 34,
+    "Time Spent (seconds)": 27,
     "Number of People": 1,
-    "Activity": "Github",
+    "Activity": "themeforest.net",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "iobit.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 36,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 37,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Activity": "stackoverflow.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 9,
+    "Rank": 38,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "elotroalex.com",
@@ -72,27 +304,59 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 14,
+    "Rank": 39,
+    "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
+    "Activity": "google.com",
+    "Category": "Search",
     "Productivity": 0
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 6,
+    "Rank": 40,
+    "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "demo.gethugothemes.com",
+    "Activity": "preview.themeforest.net",
+    "Category": "General Design & Composition",
+    "Productivity": 2
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "authn.edx.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "passmark.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 4,
+    "Rank": 43,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "edx.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 44,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "learning.edx.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
   }
 ]
