@@ -115,17 +115,17 @@
     "Rank": 15,
     "Time Spent (seconds)": 295,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
-    "Productivity": 0
+    "Activity": "learning.edx.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 16,
     "Time Spent (seconds)": 295,
     "Number of People": 1,
-    "Activity": "learning.edx.org",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
   },
   {
     "Rank": 17,
@@ -195,17 +195,17 @@
     "Rank": 25,
     "Time Spent (seconds)": 83,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.dialer",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "Play Store",
+    "Category": "General Shopping",
+    "Productivity": -2
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 83,
     "Number of People": 1,
-    "Activity": "Play Store",
-    "Category": "General Shopping",
-    "Productivity": -2
+    "Activity": "mobile - com.samsung.android.dialer",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 27,
@@ -323,17 +323,17 @@
     "Rank": 41,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 42,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "Android Settings",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 43,
@@ -347,20 +347,12 @@
     "Rank": 44,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "ecommerce.edx.org",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
-  },
-  {
-    "Rank": 45,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
     "Activity": "android",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 46,
+    "Rank": 45,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "orders.edx.org",
@@ -368,15 +360,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 47,
-    "Time Spent (seconds)": 7,
+    "Rank": 46,
+    "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "support.google.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "ecommerce.edx.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
-    "Rank": 48,
+    "Rank": 47,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "vault.bitwarden.com",
@@ -384,19 +376,27 @@
     "Productivity": 0
   },
   {
+    "Rank": 48,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "support.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
     "Rank": 49,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "authn.edx.org",
-    "Category": "Engineering & Technology",
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 50,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "mobile - com.sec.android.app.clockpackage",
-    "Category": "General Utilities",
+    "Activity": "authn.edx.org",
+    "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
@@ -411,25 +411,25 @@
     "Rank": 52,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "c:",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 53,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
     "Activity": "flickr.com",
     "Category": "Photos",
     "Productivity": -2
   },
   {
-    "Rank": 54,
+    "Rank": 53,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "hugothemesfree.com",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 54,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "c:",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 55,
