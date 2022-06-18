@@ -267,17 +267,17 @@
     "Rank": 34,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
-    "Activity": "query.prod.cms.rt.microsoft.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "codereview.stackexchange.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 35,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
-    "Activity": "codereview.stackexchange.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "query.prod.cms.rt.microsoft.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 36,
@@ -339,7 +339,7 @@
     "Rank": 43,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "techrepublic.com",
+    "Activity": "invitations.microsoft.com",
     "Category": "Engineering & Technology",
     "Productivity": 1
   },
@@ -347,7 +347,7 @@
     "Rank": 44,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "invitations.microsoft.com",
+    "Activity": "techrepublic.com",
     "Category": "Engineering & Technology",
     "Productivity": 1
   },
@@ -411,33 +411,33 @@
     "Rank": 52,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "linkedin.com",
-    "Category": "Professional Networking",
-    "Productivity": 1
-  },
-  {
-    "Rank": 53,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
-    "Activity": "tecmint.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
-  },
-  {
-    "Rank": 54,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
     "Activity": "superuser.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 55,
+    "Rank": 53,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "draft.blogger.com",
     "Category": "General Communication & Scheduling",
     "Productivity": 0
+  },
+  {
+    "Rank": 54,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "linkedin.com",
+    "Category": "Professional Networking",
+    "Productivity": 1
+  },
+  {
+    "Rank": 55,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "tecmint.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 56,

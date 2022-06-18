@@ -1,10 +1,58 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 76,
+    "Time Spent (seconds)": 710,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 381,
     "Number of People": 1,
     "Activity": "missing.csail.mit.edu",
     "Category": "General Reference & Learning",
     "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Activity": "pramp.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "clubhouse.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "bukola.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "babeengineer.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   }
 ]
