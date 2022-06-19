@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 710,
+    "Time Spent (seconds)": 747,
     "Number of People": 1,
     "Activity": "youtube.com",
     "Category": "Video",
@@ -17,6 +17,14 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 167,
+    "Number of People": 1,
+    "Activity": "docs.microsoft.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
     "Activity": "pramp.com",
@@ -24,7 +32,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 4,
+    "Rank": 5,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
     "Activity": "clubhouse.com",
@@ -32,7 +48,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 7,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "bukola.dev",
@@ -40,19 +56,19 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "babeengineer.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 7,
+    "Rank": 8,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "babeengineer.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   }
 ]
