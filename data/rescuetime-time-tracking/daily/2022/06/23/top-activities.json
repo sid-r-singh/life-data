@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "learning.edx.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "courses.edx.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "authn.edx.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  }
+]
