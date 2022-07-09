@@ -1,19 +1,19 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 1046,
+    "Number of People": 1,
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 901,
     "Number of People": 1,
     "Activity": "dash.cloudflare.com",
     "Category": "Systems Operations",
     "Productivity": 2
-  },
-  {
-    "Rank": 2,
-    "Time Spent (seconds)": 800,
-    "Number of People": 1,
-    "Activity": "google.co.in",
-    "Category": "Search",
-    "Productivity": 0
   },
   {
     "Rank": 3,
@@ -65,7 +65,7 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 89,
+    "Time Spent (seconds)": 92,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
@@ -73,7 +73,7 @@
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 33,
+    "Time Spent (seconds)": 86,
     "Number of People": 1,
     "Activity": "namecheap.com",
     "Category": "Internet Utilities",
@@ -126,5 +126,13 @@
     "Activity": "loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
   }
 ]
