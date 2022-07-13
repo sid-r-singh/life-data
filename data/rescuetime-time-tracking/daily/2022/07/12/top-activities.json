@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1489,
+    "Time Spent (seconds)": 5353,
     "Number of People": 1,
     "Activity": "upwork.com",
     "Category": "Operations",
@@ -9,22 +9,310 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 219,
+    "Time Spent (seconds)": 2590,
+    "Number of People": 1,
+    "Activity": "linkedin.com",
+    "Category": "Professional Networking",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 2482,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 2268,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 1753,
+    "Number of People": 1,
+    "Activity": "twitter.com",
+    "Category": "General Social Networking",
+    "Productivity": -2
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 894,
     "Number of People": 1,
     "Activity": "support.upwork.com",
     "Category": "General Business",
     "Productivity": 2
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 172,
+    "Rank": 7,
+    "Time Spent (seconds)": 409,
+    "Number of People": 1,
+    "Activity": "docslikecode.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 383,
+    "Number of People": 1,
+    "Activity": "stc.org",
+    "Category": "Employment",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 347,
+    "Number of People": 1,
+    "Activity": "writethedocs.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 336,
+    "Number of People": 1,
+    "Activity": "kubeworld.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 323,
+    "Number of People": 1,
+    "Activity": "classcentral.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 301,
+    "Number of People": 1,
+    "Activity": "aws.amazon.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 299,
+    "Number of People": 1,
+    "Activity": "cutshort.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 288,
+    "Number of People": 1,
+    "Activity": "credly.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 266,
+    "Number of People": 1,
+    "Activity": "jobs.writethedocs.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 254,
+    "Number of People": 1,
+    "Activity": "samarbeid.digdir.no",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 249,
+    "Number of People": 1,
+    "Activity": "materializecss.com",
+    "Category": "Design & Planning",
+    "Productivity": 2
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 245,
+    "Number of People": 1,
+    "Activity": "commclassroom.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 242,
+    "Number of People": 1,
+    "Activity": "the-collab-lab.codes",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 231,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 229,
+    "Number of People": 1,
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 216,
+    "Number of People": 1,
+    "Activity": "becometechnicalwriter.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 213,
     "Number of People": 1,
     "Activity": "demo.gethugothemes.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 4,
+    "Rank": 24,
+    "Time Spent (seconds)": 194,
+    "Number of People": 1,
+    "Activity": "dovetailapp.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 190,
+    "Number of People": 1,
+    "Activity": "trickest.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 190,
+    "Number of People": 1,
+    "Activity": "docs.redis.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 181,
+    "Number of People": 1,
+    "Activity": "blog.kubeworld.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 179,
+    "Number of People": 1,
+    "Activity": "blog.commclassroom.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 171,
+    "Number of People": 1,
+    "Activity": "timeline.iamdeveloper.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 168,
+    "Number of People": 1,
+    "Activity": "bootcamp.unh.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 152,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 148,
+    "Number of People": 1,
+    "Activity": "superpeer.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 147,
+    "Number of People": 1,
+    "Activity": "gatsbyjs.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 147,
+    "Number of People": 1,
+    "Activity": "docs.redpanda.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 142,
+    "Number of People": 1,
+    "Activity": "hbs.razonyang.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 36,
+    "Time Spent (seconds)": 140,
+    "Number of People": 1,
+    "Activity": "aakanshapriya.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 37,
+    "Time Spent (seconds)": 136,
+    "Number of People": 1,
+    "Activity": "alexiscollado.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 38,
+    "Time Spent (seconds)": 136,
+    "Number of People": 1,
+    "Activity": "explore.skillbuilder.aws",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 39,
+    "Time Spent (seconds)": 135,
+    "Number of People": 1,
+    "Activity": "themejam.gatsbyjs.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 40,
     "Time Spent (seconds)": 131,
     "Number of People": 1,
     "Activity": "reviewapp-dev.duckdns.org",
@@ -32,7 +320,199 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 41,
+    "Time Spent (seconds)": 129,
+    "Number of People": 1,
+    "Activity": "gethugothemes.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 125,
+    "Number of People": 1,
+    "Activity": "docs.cloudify.co",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 43,
+    "Time Spent (seconds)": 123,
+    "Number of People": 1,
+    "Activity": "cloudify.co",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 44,
+    "Time Spent (seconds)": 122,
+    "Number of People": 1,
+    "Activity": "app.netlify.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 116,
+    "Number of People": 1,
+    "Activity": "buymeacoffee.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 46,
+    "Time Spent (seconds)": 115,
+    "Number of People": 1,
+    "Activity": "kubesimplify.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 47,
+    "Time Spent (seconds)": 114,
+    "Number of People": 1,
+    "Activity": "developers.google.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 48,
+    "Time Spent (seconds)": 113,
+    "Number of People": 1,
+    "Activity": "learndigital.withgoogle.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 49,
+    "Time Spent (seconds)": 111,
+    "Number of People": 1,
+    "Activity": "futurelearn.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 50,
+    "Time Spent (seconds)": 111,
+    "Number of People": 1,
+    "Activity": "robinmetral.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 51,
+    "Time Spent (seconds)": 110,
+    "Number of People": 1,
+    "Activity": "techdocs.co.il",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 52,
+    "Time Spent (seconds)": 106,
+    "Number of People": 1,
+    "Activity": "femke.design",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 53,
+    "Time Spent (seconds)": 105,
+    "Number of People": 1,
+    "Activity": "eddiehinkle.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 54,
+    "Time Spent (seconds)": 105,
+    "Number of People": 1,
+    "Activity": "altinn.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 55,
+    "Time Spent (seconds)": 99,
+    "Number of People": 1,
+    "Activity": "application.nxlog.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 56,
+    "Time Spent (seconds)": 98,
+    "Number of People": 1,
+    "Activity": "stripe.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 57,
+    "Time Spent (seconds)": 97,
+    "Number of People": 1,
+    "Activity": "quickstart.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 58,
+    "Time Spent (seconds)": 96,
+    "Number of People": 1,
+    "Activity": "quillbot.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 59,
+    "Time Spent (seconds)": 94,
+    "Number of People": 1,
+    "Activity": "themeforest.net",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 60,
+    "Time Spent (seconds)": 93,
+    "Number of People": 1,
+    "Activity": "nanransohoff.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 61,
+    "Time Spent (seconds)": 92,
+    "Number of People": 1,
+    "Activity": "redis.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 62,
+    "Time Spent (seconds)": 92,
+    "Number of People": 1,
+    "Activity": "help.buymeacoffee.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 63,
+    "Time Spent (seconds)": 91,
+    "Number of People": 1,
+    "Activity": "guitarx.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 64,
+    "Time Spent (seconds)": 91,
+    "Number of People": 1,
+    "Activity": "alexaleighh.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 65,
     "Time Spent (seconds)": 91,
     "Number of People": 1,
     "Activity": "in.tradingview.com",
@@ -40,7 +520,119 @@
     "Productivity": 1
   },
   {
-    "Rank": 6,
+    "Rank": 66,
+    "Time Spent (seconds)": 90,
+    "Number of People": 1,
+    "Activity": "careers.guidewire.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 67,
+    "Time Spent (seconds)": 90,
+    "Number of People": 1,
+    "Activity": "bytrangle.surge.sh",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 68,
+    "Time Spent (seconds)": 88,
+    "Number of People": 1,
+    "Activity": "meetup.com",
+    "Category": "General Social Networking",
+    "Productivity": -2
+  },
+  {
+    "Rank": 69,
+    "Time Spent (seconds)": 87,
+    "Number of People": 1,
+    "Activity": "app.forestry.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 70,
+    "Time Spent (seconds)": 85,
+    "Number of People": 1,
+    "Activity": "romantic-lewin-b197e9.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 71,
+    "Time Spent (seconds)": 80,
+    "Number of People": 1,
+    "Activity": "gatsby-theme-simplecast.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 72,
+    "Time Spent (seconds)": 71,
+    "Number of People": 1,
+    "Activity": "specter.coach",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 73,
+    "Time Spent (seconds)": 68,
+    "Number of People": 1,
+    "Activity": "paper.li",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 74,
+    "Time Spent (seconds)": 67,
+    "Number of People": 1,
+    "Activity": "experteam.co.il",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 75,
+    "Time Spent (seconds)": 66,
+    "Number of People": 1,
+    "Activity": "cpse.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 76,
+    "Time Spent (seconds)": 65,
+    "Number of People": 1,
+    "Activity": "belugacat.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 77,
+    "Time Spent (seconds)": 64,
+    "Number of People": 1,
+    "Activity": "xioyito.top",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 78,
+    "Time Spent (seconds)": 63,
+    "Number of People": 1,
+    "Activity": "iimskills.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 79,
+    "Time Spent (seconds)": 63,
+    "Number of People": 1,
+    "Activity": "pce.uw.edu",
+    "Category": "Administration",
+    "Productivity": 2
+  },
+  {
+    "Rank": 80,
     "Time Spent (seconds)": 61,
     "Number of People": 1,
     "Activity": "reviewapp.mobi",
@@ -48,15 +640,95 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 52,
+    "Rank": 81,
+    "Time Spent (seconds)": 60,
     "Number of People": 1,
-    "Activity": "gethugothemes.com",
+    "Activity": "activeviam.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 82,
+    "Time Spent (seconds)": 60,
+    "Number of People": 1,
+    "Activity": "digitalsynopsis.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 83,
+    "Time Spent (seconds)": 58,
+    "Number of People": 1,
+    "Activity": "freecodecamp.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 84,
+    "Time Spent (seconds)": 56,
+    "Number of People": 1,
+    "Activity": "discord.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 85,
+    "Time Spent (seconds)": 55,
+    "Number of People": 1,
+    "Activity": "opensource.google",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 86,
+    "Time Spent (seconds)": 54,
+    "Number of People": 1,
+    "Activity": "sarah-cic-uk.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 87,
+    "Time Spent (seconds)": 54,
+    "Number of People": 1,
+    "Activity": "media-exp1.licdn.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 88,
+    "Time Spent (seconds)": 54,
+    "Number of People": 1,
+    "Activity": "axissecurity.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 89,
+    "Time Spent (seconds)": 52,
+    "Number of People": 1,
+    "Activity": "coursera.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 90,
+    "Time Spent (seconds)": 52,
+    "Number of People": 1,
+    "Activity": "keeperforms.co.il",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 91,
+    "Time Spent (seconds)": 52,
+    "Number of People": 1,
+    "Activity": "twitch.tv",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 92,
     "Time Spent (seconds)": 51,
     "Number of People": 1,
     "Activity": "ssl-wiki-hugo.pages.dev",
@@ -64,15 +736,55 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 46,
+    "Rank": 93,
+    "Time Spent (seconds)": 50,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
+    "Activity": "helloimalexa.pallet.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 94,
+    "Time Spent (seconds)": 48,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 95,
+    "Time Spent (seconds)": 48,
+    "Number of People": 1,
+    "Activity": "guidewire.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 96,
+    "Time Spent (seconds)": 48,
+    "Number of People": 1,
+    "Activity": "opensoftware.pl",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 97,
+    "Time Spent (seconds)": 45,
+    "Number of People": 1,
+    "Activity": "workspace.oregonstate.edu",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 10,
+    "Rank": 98,
+    "Time Spent (seconds)": 45,
+    "Number of People": 1,
+    "Activity": "hugothemesfree.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 99,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
     "Activity": "inksoftware.house",
@@ -80,7 +792,39 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 100,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Activity": "y4er.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 101,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Activity": "online.rmit.edu.au",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 102,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Activity": "hashnode.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 103,
+    "Time Spent (seconds)": 39,
+    "Number of People": 1,
+    "Activity": "altinndigital.no",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 104,
     "Time Spent (seconds)": 37,
     "Number of People": 1,
     "Activity": "jamstack.codes",
@@ -88,7 +832,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
+    "Rank": 105,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Activity": "help.reviewapp.mobi",
@@ -96,7 +840,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 106,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Activity": "new.sid.one",
@@ -104,31 +848,647 @@
     "Productivity": 0
   },
   {
-    "Rank": 14,
+    "Rank": 107,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "lifetimesin.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 108,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "icomparefx.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 109,
+    "Time Spent (seconds)": 33,
+    "Number of People": 1,
+    "Activity": "femkedesign-jobs.pallet.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 110,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "redpanda.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 111,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "course.keep.edu.hk",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 112,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Activity": "titlecaseconverter.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 113,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Activity": "redsparrowthemes.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 114,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Activity": "cpe.gmu.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 115,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Activity": "documentation.platformos.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 116,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Activity": "opensource.googleblog.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 117,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Activity": "marketplace.visualstudio.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 118,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "rashidma.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 119,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "access.stc.org",
+    "Category": "Employment",
+    "Productivity": 2
+  },
+  {
+    "Rank": 120,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "Google Forms",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 121,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "edubard.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 122,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "secure.squarespace.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 123,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
+    "Activity": "flag.pt",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 15,
+    "Rank": 124,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "vagrantup.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 125,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "blog.superpeer.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 126,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "themes.gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 127,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Activity": "coursesity.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 128,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Activity": "materialize-themes.myshopify.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 129,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Activity": "informit.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 130,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Activity": "c:",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 131,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "t.co",
+    "Category": "General Social Networking",
+    "Productivity": -2
+  },
+  {
+    "Rank": 132,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "docs.ansible.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 133,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "ckarchive.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 134,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
+    "Activity": "support.discord.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 16,
+    "Rank": 135,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "extendedstudies.ucsd.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 136,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "gatsby-theme-element-jm.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 137,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "gavintomlins.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 138,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "axway-open-docs.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 139,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "docdock.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 140,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "transparent-can-5a4.notion.site",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 141,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "gatsby-theme-portfolio-arena.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 142,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "nxlog.co",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 143,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "gatsby-theme-doc.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 144,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "lucid.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 145,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "medium.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 146,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "linktr.ee",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 147,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "honestwork.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 148,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "stylepedia.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 149,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "warmmachine.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 150,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "forestry.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 151,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "mooclab.club",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 152,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 153,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "info.credly.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 154,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "vno-hugo.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 155,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "docs.guidewire.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 156,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "preview.themeforest.net",
+    "Category": "General Design & Composition",
+    "Productivity": 2
+  },
+  {
+    "Rank": 157,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "witivio.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 158,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "henryharvin.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 159,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "lucidchart.com",
+    "Category": "General Design & Composition",
+    "Productivity": 2
+  },
+  {
+    "Rank": 160,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "chatra.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 161,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "learn.hashicorp.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 162,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "yeassociates.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 163,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "femke.ck.page",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 164,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "support.storyhunter.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 165,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "merriam-webster.com",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 166,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "awseducate.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 167,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "making-it-pretty.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 168,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "google.co.in",
-    "Category": "Search",
+    "Activity": "d:",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 169,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "mrosvik.no",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 17,
+    "Rank": 170,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "android-kiosk.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 171,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "healyourheart.org.il",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 172,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "developer.cisco.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 173,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "waitlist.swarm.work",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 174,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "docusign.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
+  },
+  {
+    "Rank": 175,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "theme-ui.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 176,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "onehtmlpagechallenge.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 177,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "gatsby-theme-job-board.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 178,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "pensive-euler-227add.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 179,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "storage.googleapis.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 180,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "app.pallet.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 181,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "bio.link",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 182,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "help.android-kiosk.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 183,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "dashboard.stripe.com",
+    "Category": "Accounting",
+    "Productivity": 2
+  },
+  {
+    "Rank": 184,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "best-winplace.life",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 185,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "webonise.co.uk",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 186,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "upbeat-yalow-997d84.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 187,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "tender-poitras-0df16e.netlify.app",
@@ -136,7 +1496,47 @@
     "Productivity": 0
   },
   {
-    "Rank": 18,
+    "Rank": 188,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "cloudguru.tech",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 189,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "redis.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 190,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "d1fdloi71mui9q.cloudfront.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 191,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "guidewire-hub.okta.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 192,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "portal.cashraven.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 193,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "about:blank#blocked",
@@ -144,10 +1544,114 @@
     "Productivity": 0
   },
   {
-    "Rank": 19,
+    "Rank": 194,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "roboterwelt.de",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 195,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "Google Spreadsheets",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 196,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "account.keep.edu.hk",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 197,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "history",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 198,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "play.google.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 199,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "techwriterstribe.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 200,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "courses3.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 201,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "careers.stc.org",
+    "Category": "Employment",
+    "Productivity": 2
+  },
+  {
+    "Rank": 202,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "vluyiy.skymetry.buzz",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 203,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "peaceful-mccarthy-14accb.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 204,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "millioncourses.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 205,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "modis.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 206,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "conf.writethedocs.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 207,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "explore.guidewire.com",
     "Category": "Uncategorized",
     "Productivity": 0
   }
