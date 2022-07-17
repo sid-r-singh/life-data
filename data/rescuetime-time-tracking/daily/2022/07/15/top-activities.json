@@ -163,17 +163,17 @@
     "Rank": 21,
     "Time Spent (seconds)": 104,
     "Number of People": 1,
-    "Activity": "lokeshdhakar.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "amplication.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 22,
     "Time Spent (seconds)": 104,
     "Number of People": 1,
-    "Activity": "amplication.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "lokeshdhakar.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 23,
@@ -443,15 +443,15 @@
     "Rank": 56,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "help.ko-fi.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "t.co",
+    "Category": "General Social Networking",
+    "Productivity": -2
   },
   {
     "Rank": 57,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "docs.nops.io",
+    "Activity": "help.ko-fi.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -459,9 +459,9 @@
     "Rank": 58,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "t.co",
-    "Category": "General Social Networking",
-    "Productivity": -2
+    "Activity": "docs.nops.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 59,
@@ -491,28 +491,12 @@
     "Rank": 62,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "themes.gohugo.io",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 63,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "in.linkedin.com",
-    "Category": "Professional Networking",
-    "Productivity": 1
-  },
-  {
-    "Rank": 64,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
     "Activity": "digitalocean.com",
     "Category": "Systems Operations",
     "Productivity": 2
   },
   {
-    "Rank": 65,
+    "Rank": 63,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "cal.mixmax.com",
@@ -520,12 +504,28 @@
     "Productivity": 0
   },
   {
-    "Rank": 66,
+    "Rank": 64,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "boards.greenhouse.io",
     "Category": "Administration",
     "Productivity": 2
+  },
+  {
+    "Rank": 65,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "themes.gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 66,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "in.linkedin.com",
+    "Category": "Professional Networking",
+    "Productivity": 1
   },
   {
     "Rank": 67,
@@ -547,44 +547,12 @@
     "Rank": 69,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "claritascreative.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 70,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "c:",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 71,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "blog.abhattacharyea.dev",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 72,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "rewriter.ai",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 73,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
     "Activity": "wsaz.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 74,
+    "Rank": 70,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "mockupbro.com",
@@ -592,7 +560,47 @@
     "Productivity": 0
   },
   {
+    "Rank": 71,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "claritascreative.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 72,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "c:",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 73,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "blog.abhattacharyea.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 74,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "rewriter.ai",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 75,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "abhattacharyea.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 76,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "dk.linkedin.com",
@@ -600,7 +608,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 76,
+    "Rank": 77,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "skillsforchicagolandsfuture.com",
@@ -608,18 +616,10 @@
     "Productivity": 0
   },
   {
-    "Rank": 77,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Activity": "thethingsofgod.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
     "Rank": 78,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "abhattacharyea.dev",
+    "Activity": "thethingsofgod.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -635,12 +635,20 @@
     "Rank": 80,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
+    "Activity": "Google Documents",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 81,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
     "Activity": "accounts.google.com",
     "Category": "General Communication & Scheduling",
     "Productivity": 0
   },
   {
-    "Rank": 81,
+    "Rank": 82,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "oocss.org",
@@ -648,19 +656,11 @@
     "Productivity": 2
   },
   {
-    "Rank": 82,
+    "Rank": 83,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "spectrumlocalnews.com",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 83,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "Google Documents",
-    "Category": "Writing",
-    "Productivity": 2
   }
 ]
