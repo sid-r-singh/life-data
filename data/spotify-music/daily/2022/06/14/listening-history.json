@@ -4,6 +4,83 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6FtZhorjCMfkaVJ7kKdmq7",
+          "id": "6FtZhorjCMfkaVJ7kKdmq7",
+          "name": "Payal Dev",
+          "type": "artist",
+          "uri": "spotify:artist:6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
+          "id": "1tqysapcCh1lWEAc9dIFpa",
+          "name": "Jubin Nautiyal",
+          "type": "artist",
+          "uri": "spotify:artist:1tqysapcCh1lWEAc9dIFpa"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0B5NNNGeeDHfsml4vnucRf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d49446e2e8fa8752a4430faa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d49446e2e8fa8752a4430faa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d49446e2e8fa8752a4430faa",
+          "width": 64
+        }
+      ],
+      "name": "Kuch Baatein",
+      "release_date": "2022-03-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0B5NNNGeeDHfsml4vnucRf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        "href": "https://api.spotify.com/v1/artists/6FtZhorjCMfkaVJ7kKdmq7",
+        "id": "6FtZhorjCMfkaVJ7kKdmq7",
+        "name": "Payal Dev",
+        "type": "artist",
+        "uri": "spotify:artist:6FtZhorjCMfkaVJ7kKdmq7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
+        "id": "1tqysapcCh1lWEAc9dIFpa",
+        "name": "Jubin Nautiyal",
+        "type": "artist",
+        "uri": "spotify:artist:1tqysapcCh1lWEAc9dIFpa"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Halrb8cVQFlK8ZIXHazO0",
+    "is_local": false,
+    "name": "Kuch Baatein",
+    "preview_url": "https://p.scdn.co/mp3-preview/f071f483d706cd099fdb71ae6ed59b5d111f9e8d?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
           },
           "href": "https://api.spotify.com/v1/artists/6WOdPJmexxFINcKMkP2jMG",
