@@ -422,8 +422,8 @@
     "Administration": 46,
     "General Social Networking": 43,
     "Customer Relations": 32,
-    "Email": 3,
     "General Communication & Scheduling": 3,
+    "Email": 3,
     "Marketing": 2,
     "Presentation": 2
   },
@@ -469,8 +469,24 @@
     "General Communication & Scheduling": 3,
     "General Reference & Learning": 3
   },
-  "24": {},
-  "25": {},
+  "24": {
+    "General Shopping": 4343,
+    "Video": 2573,
+    "Uncategorized": 1043,
+    "Operations": 806,
+    "General Software Development": 513,
+    "Browsers": 385,
+    "General Business": 123,
+    "General Utilities": 95,
+    "Search": 67
+  },
+  "25": {
+    "Uncategorized": 1302,
+    "General Software Development": 265,
+    "Search": 106,
+    "Browsers": 16,
+    "General Reference & Learning": 7
+  },
   "26": {},
   "27": {},
   "28": {},
