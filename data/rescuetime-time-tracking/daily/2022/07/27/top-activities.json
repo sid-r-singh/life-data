@@ -1,22 +1,118 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 618,
+    "Time Spent (seconds)": 3889,
+    "Number of People": 1,
+    "Activity": "amazon.in",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 3654,
     "Number of People": 1,
     "Activity": "youtube.com",
     "Category": "Video",
     "Productivity": -2
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 129,
+    "Rank": 3,
+    "Time Spent (seconds)": 821,
+    "Number of People": 1,
+    "Activity": "numpy.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 777,
+    "Number of People": 1,
+    "Activity": "flipkart.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 646,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 633,
     "Number of People": 1,
     "Activity": "stackoverflow.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 3,
+    "Rank": 7,
+    "Time Spent (seconds)": 341,
+    "Number of People": 1,
+    "Activity": "business.pingpongx.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 279,
+    "Number of People": 1,
+    "Activity": "sarathi.parivahan.gov.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 223,
+    "Number of People": 1,
+    "Activity": "in.tradingview.com",
+    "Category": "Business & Finance",
+    "Productivity": 1
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 219,
+    "Number of People": 1,
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 150,
+    "Number of People": 1,
+    "Activity": "edutelly.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 148,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 137,
+    "Number of People": 1,
+    "Activity": "nic.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 135,
+    "Number of People": 1,
+    "Activity": "myscheme.gov.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 120,
     "Number of People": 1,
     "Activity": "pythontutorial.net",
@@ -24,15 +120,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 113,
+    "Rank": 16,
+    "Time Spent (seconds)": 88,
     "Number of People": 1,
-    "Activity": "google.co.in",
-    "Category": "Search",
+    "Activity": "bharatmaps.gov.in",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 17,
+    "Time Spent (seconds)": 80,
+    "Number of People": 1,
+    "Activity": "docs.netlify.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 68,
+    "Number of People": 1,
+    "Activity": "netlify.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 19,
     "Time Spent (seconds)": 65,
     "Number of People": 1,
     "Activity": "dalelane.co.uk",
@@ -40,7 +152,23 @@
     "Productivity": -2
   },
   {
-    "Rank": 6,
+    "Rank": 20,
+    "Time Spent (seconds)": 65,
+    "Number of People": 1,
+    "Activity": "app.netlify.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 48,
+    "Number of People": 1,
+    "Activity": "wp2static.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 38,
     "Number of People": 1,
     "Activity": "pythonprogramming.net",
@@ -48,7 +176,87 @@
     "Productivity": 1
   },
   {
-    "Rank": 7,
+    "Rank": 23,
+    "Time Spent (seconds)": 38,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 36,
+    "Number of People": 1,
+    "Activity": "smashingmagazine.com",
+    "Category": "Graphic Design",
+    "Productivity": 2
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 36,
+    "Number of People": 1,
+    "Activity": "web.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "behance.net",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "jeevanpramaan.gov.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "india.gov.in",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "email.gov.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "yt3.ggpht.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 33,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "matplotlib.org",
@@ -56,7 +264,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 8,
+    "Rank": 34,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "gtk3-matplotlib-cookbook.readthedocs.io",
@@ -64,7 +272,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
+    "Rank": 35,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "strattic.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 36,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "dev-qa.com",
@@ -72,7 +288,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 37,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "lightroom.adobe.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 38,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "datatofish.com",
@@ -80,7 +304,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 39,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "in.linkedin.com",
+    "Category": "Professional Networking",
+    "Productivity": 1
+  },
+  {
+    "Rank": 40,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "geeksforgeeks.org",
@@ -88,15 +320,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 13,
+    "Rank": 41,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "w3schools.com",
@@ -104,11 +328,19 @@
     "Productivity": 1
   },
   {
-    "Rank": 14,
-    "Time Spent (seconds)": 6,
+    "Rank": 42,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
+    "Activity": "linkedin.com",
+    "Category": "Professional Networking",
     "Productivity": 1
+  },
+  {
+    "Rank": 43,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "i.stack.imgur.com",
+    "Category": "Photos",
+    "Productivity": -2
   }
 ]
