@@ -1,0 +1,176 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+          },
+          "href": "https://api.spotify.com/v1/artists/6FtZhorjCMfkaVJ7kKdmq7",
+          "id": "6FtZhorjCMfkaVJ7kKdmq7",
+          "name": "Payal Dev",
+          "type": "artist",
+          "uri": "spotify:artist:6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+          },
+          "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
+          "id": "1tqysapcCh1lWEAc9dIFpa",
+          "name": "Jubin Nautiyal",
+          "type": "artist",
+          "uri": "spotify:artist:1tqysapcCh1lWEAc9dIFpa"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0B5NNNGeeDHfsml4vnucRf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d49446e2e8fa8752a4430faa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d49446e2e8fa8752a4430faa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d49446e2e8fa8752a4430faa",
+          "width": 64
+        }
+      ],
+      "name": "Kuch Baatein",
+      "release_date": "2022-03-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0B5NNNGeeDHfsml4vnucRf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        "href": "https://api.spotify.com/v1/artists/6FtZhorjCMfkaVJ7kKdmq7",
+        "id": "6FtZhorjCMfkaVJ7kKdmq7",
+        "name": "Payal Dev",
+        "type": "artist",
+        "uri": "spotify:artist:6FtZhorjCMfkaVJ7kKdmq7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
+        "id": "1tqysapcCh1lWEAc9dIFpa",
+        "name": "Jubin Nautiyal",
+        "type": "artist",
+        "uri": "spotify:artist:1tqysapcCh1lWEAc9dIFpa"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0Halrb8cVQFlK8ZIXHazO0",
+    "is_local": false,
+    "name": "Kuch Baatein",
+    "preview_url": "https://p.scdn.co/mp3-preview/f071f483d706cd099fdb71ae6ed59b5d111f9e8d?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3Bvds6pk1SCpmtIF6jZei0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735f9986639c53b4927ccb7c99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025f9986639c53b4927ccb7c99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515f9986639c53b4927ccb7c99",
+          "width": 64
+        }
+      ],
+      "name": "Pyar Kiya Toh Nibhana-Wada Raha (From \"T-Series Mixtape Rewind Season 3\")",
+      "release_date": "2021-08-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3Bvds6pk1SCpmtIF6jZei0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
+        "id": "00sCATpEvwH48ays7PlQFU",
+        "name": "Jonita Gandhi",
+        "type": "artist",
+        "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN"
+        },
+        "href": "https://api.spotify.com/v1/artists/7hVmdlsJp0E2WQIvVl8ngN",
+        "id": "7hVmdlsJp0E2WQIvVl8ngN",
+        "name": "Millind Gaba",
+        "type": "artist",
+        "uri": "spotify:artist:7hVmdlsJp0E2WQIvVl8ngN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4"
+        },
+        "href": "https://api.spotify.com/v1/artists/70voqWnL1gpuxodufMgBt4",
+        "id": "70voqWnL1gpuxodufMgBt4",
+        "name": "Abhijit Vaghani",
+        "type": "artist",
+        "uri": "spotify:artist:70voqWnL1gpuxodufMgBt4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH"
+        },
+        "href": "https://api.spotify.com/v1/artists/5ixQ5hSywFLUaxoaA0uVaH",
+        "id": "5ixQ5hSywFLUaxoaA0uVaH",
+        "name": "Anand Raj Anand",
+        "type": "artist",
+        "uri": "spotify:artist:5ixQ5hSywFLUaxoaA0uVaH"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        "href": "https://api.spotify.com/v1/artists/3PpjqSKBer3obW6lDflOBx",
+        "id": "3PpjqSKBer3obW6lDflOBx",
+        "name": "Ram Sampath",
+        "type": "artist",
+        "uri": "spotify:artist:3PpjqSKBer3obW6lDflOBx"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7y6pNr5lq9E6wzd6Pehg63",
+    "is_local": false,
+    "name": "Pyar Kiya Toh Nibhana-Wada Raha (From \"T-Series Mixtape Rewind Season 3\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/c8b5302cd44a7834b78e4337d0d62ea5b7b386fa?cid=811598a754134358878b30bc9c28decd"
+  }
+]
