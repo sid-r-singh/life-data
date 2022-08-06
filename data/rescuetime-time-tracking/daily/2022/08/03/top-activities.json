@@ -499,15 +499,15 @@
     "Rank": 63,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "elegant-hugo.pages.dev",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "jotform.com",
+    "Category": "Presentation",
+    "Productivity": 2
   },
   {
     "Rank": 64,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "pf.sidrana.dev",
+    "Activity": "elegant-hugo.pages.dev",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -515,7 +515,7 @@
     "Rank": 65,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "blog.athulcyriac.in",
+    "Activity": "pf.sidrana.dev",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -523,7 +523,7 @@
     "Rank": 66,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "nicepage.com",
+    "Activity": "blog.athulcyriac.in",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -531,9 +531,9 @@
     "Rank": 67,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "jotform.com",
-    "Category": "Presentation",
-    "Productivity": 2
+    "Activity": "nicepage.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 68,
@@ -555,15 +555,15 @@
     "Rank": 70,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "pipelines.actions.githubusercontent.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "docs.netlify.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 71,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "docusaurus.io",
+    "Activity": "themes.typlog.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -571,7 +571,7 @@
     "Rank": 72,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "roaldnefs.com",
+    "Activity": "pipelines.actions.githubusercontent.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -579,15 +579,15 @@
     "Rank": 73,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "docs.netlify.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "docusaurus.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 74,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "themes.typlog.com",
+    "Activity": "roaldnefs.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -603,68 +603,20 @@
     "Rank": 76,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "jamstatic.fr",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 77,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
     "Activity": "linkedin.com",
     "Category": "Professional Networking",
     "Productivity": 1
   },
   {
+    "Rank": 77,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "jamstatic.fr",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 78,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "jamstack.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 79,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "sid.one",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 80,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "jekyll.github.io",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 81,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "beta.moe.team",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 82,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "swyx.io",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 83,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "scorreia.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 84,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "namecheap.com",
@@ -672,7 +624,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 85,
+    "Rank": 79,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "yaml-multiline.info",
@@ -680,7 +632,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 86,
+    "Rank": 80,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "maddhruv.xyz",
@@ -688,7 +640,63 @@
     "Productivity": 0
   },
   {
+    "Rank": 81,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "jamstack.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 82,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "sid.one",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 83,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "jekyll.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 84,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "beta.moe.team",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 85,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "swyx.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 86,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "scorreia.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 87,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "support.strikingly.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 88,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "risingstars.js.org",
@@ -696,19 +704,11 @@
     "Productivity": 1
   },
   {
-    "Rank": 88,
+    "Rank": 89,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "guilyx.vercel.app",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 89,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "support.strikingly.com",
-    "Category": "General Business",
-    "Productivity": 2
   }
 ]
