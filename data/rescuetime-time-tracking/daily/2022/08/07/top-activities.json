@@ -387,17 +387,17 @@
     "Rank": 49,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
-    "Activity": "wordpress.tv",
-    "Category": "Marketing",
-    "Productivity": 2
+    "Activity": "fsociety.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 50,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
-    "Activity": "fsociety.netlify.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "wordpress.tv",
+    "Category": "Marketing",
+    "Productivity": 2
   },
   {
     "Rank": 51,
@@ -435,33 +435,33 @@
     "Rank": 55,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "edutelly.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 56,
-    "Time Spent (seconds)": 18,
-    "Number of People": 1,
     "Activity": "fanny.github.io",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 57,
-    "Time Spent (seconds)": 17,
+    "Rank": 56,
+    "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "community.fiverr.com",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "edutelly.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
-    "Rank": 58,
+    "Rank": 57,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "youtube.com",
     "Category": "Video",
     "Productivity": -2
+  },
+  {
+    "Rank": 58,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "community.fiverr.com",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
     "Rank": 59,
@@ -571,20 +571,12 @@
     "Rank": 72,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.messaging",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 73,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
     "Activity": "ianrodrigues.dev",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 74,
+    "Rank": 73,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "localazy.com",
@@ -592,7 +584,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 75,
+    "Rank": 74,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "fiverr.zendesk.com",
@@ -600,10 +592,18 @@
     "Productivity": -2
   },
   {
+    "Rank": 75,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.messaging",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
     "Rank": 76,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "avatars.githubusercontent.com",
+    "Activity": "marvin.beckers.dev",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -611,7 +611,7 @@
     "Rank": 77,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "marvin.beckers.dev",
+    "Activity": "avatars.githubusercontent.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -627,44 +627,20 @@
     "Rank": 79,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "camo.githubusercontent.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
-  },
-  {
-    "Rank": 80,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "api.netlify.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
+    "Rank": 80,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "camo.githubusercontent.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
     "Rank": 81,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "thecloudadmin.eu",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 82,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "coolserv.io",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 83,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "vibrantshadows.softorage.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 84,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "cristianmarint.com",
@@ -672,7 +648,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 85,
+    "Rank": 82,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "Android Settings",
@@ -680,10 +656,34 @@
     "Productivity": 1
   },
   {
-    "Rank": 86,
+    "Rank": 83,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "demo.uicard.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 84,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "thecloudadmin.eu",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 85,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "coolserv.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 86,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "vibrantshadows.softorage.com",
     "Category": "Uncategorized",
     "Productivity": 0
   }

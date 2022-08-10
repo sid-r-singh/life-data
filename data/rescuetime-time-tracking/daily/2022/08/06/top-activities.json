@@ -395,17 +395,17 @@
     "Rank": 50,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
-    "Activity": "Android Settings",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "heksagonnet.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 51,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
-    "Activity": "heksagonnet.github.io",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 52,
@@ -523,7 +523,7 @@
     "Rank": 66,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "ziprecruiter.in",
+    "Activity": "willschenk.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -531,7 +531,7 @@
     "Rank": 67,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "willschenk.com",
+    "Activity": "ziprecruiter.in",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -547,20 +547,12 @@
     "Rank": 69,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "themes.gohugo.io",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 70,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
     "Activity": "accounts.google.com",
     "Category": "General Communication & Scheduling",
     "Productivity": 0
   },
   {
-    "Rank": 71,
+    "Rank": 70,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "sfc.vuejs.org",
@@ -568,7 +560,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 72,
+    "Rank": 71,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "ifttt.com",
@@ -576,15 +568,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 73,
-    "Time Spent (seconds)": 2,
+    "Rank": 72,
+    "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "status.esolia.pro",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "themes.gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
-    "Rank": 74,
+    "Rank": 73,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "jamstackthemes.dev",
@@ -592,10 +584,18 @@
     "Productivity": 0
   },
   {
-    "Rank": 75,
+    "Rank": 74,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "rb.gy",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 75,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "status.esolia.pro",
     "Category": "Uncategorized",
     "Productivity": 0
   },
