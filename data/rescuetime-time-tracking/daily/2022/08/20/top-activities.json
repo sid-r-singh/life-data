@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 204,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 70,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "Flipkart",
+    "Category": "General Shopping",
+    "Productivity": -2
+  }
+]
