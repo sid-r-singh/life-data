@@ -1,23 +1,23 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4639,
-    "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 2,
-    "Time Spent (seconds)": 3783,
+    "Time Spent (seconds)": 5986,
     "Number of People": 1,
     "Activity": "Firefox Android",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
+    "Rank": 2,
+    "Time Spent (seconds)": 4707,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
     "Rank": 3,
-    "Time Spent (seconds)": 3359,
+    "Time Spent (seconds)": 3848,
     "Number of People": 1,
     "Activity": "Slack for Android",
     "Category": "Instant Message",
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 676,
+    "Time Spent (seconds)": 897,
     "Number of People": 1,
     "Activity": "Telegram Messenger",
     "Category": "Instant Message",
@@ -75,12 +75,20 @@
     "Rank": 10,
     "Time Spent (seconds)": 60,
     "Number of People": 1,
-    "Activity": "mobile - com.standardnotes",
+    "Activity": "mobile - com.phonepe.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
     "Rank": 11,
+    "Time Spent (seconds)": 60,
+    "Number of People": 1,
+    "Activity": "mobile - com.standardnotes",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
     "Activity": "Calculator",
@@ -88,7 +96,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 12,
+    "Rank": 13,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.video",
@@ -96,7 +104,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 13,
+    "Rank": 14,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.app.smartcapture",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
@@ -104,15 +120,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 14,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
-    "Activity": "android",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 15,
+    "Rank": 16,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "Android Gallery",
@@ -120,10 +128,34 @@
     "Productivity": -2
   },
   {
-    "Rank": 16,
+    "Rank": 17,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 19,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "S Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "mobile - com.android.documentsui",
     "Category": "General Utilities",
     "Productivity": 1
   }
