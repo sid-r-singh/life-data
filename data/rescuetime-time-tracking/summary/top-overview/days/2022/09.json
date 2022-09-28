@@ -161,13 +161,26 @@
   },
   "25": {
     "Entertainment": 14000,
-    "Utilities": 6614,
-    "Communication & Scheduling": 1791,
+    "Utilities": 6733,
+    "Communication & Scheduling": 1857,
     "Reference & Learning": 170,
     "Business": 16
   },
-  "26": {},
-  "27": {},
-  "28": {},
+  "26": {
+    "Utilities": 19625,
+    "Entertainment": 6111,
+    "Communication & Scheduling": 2712,
+    "Uncategorized": 41
+  },
+  "27": {
+    "Entertainment": 3427,
+    "Utilities": 3077,
+    "Communication & Scheduling": 1361,
+    "Shopping": 189
+  },
+  "28": {
+    "Utilities": 131,
+    "Communication & Scheduling": 90
+  },
   "29": {}
 }
