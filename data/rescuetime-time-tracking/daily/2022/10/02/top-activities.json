@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 7316,
+    "Time Spent (seconds)": 10732,
     "Number of People": 1,
     "Activity": "YouTube for Android",
     "Category": "Video",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1046,
+    "Time Spent (seconds)": 1114,
     "Number of People": 1,
     "Activity": "Telegram Messenger",
     "Category": "Instant Message",
@@ -17,22 +17,54 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 556,
+    "Time Spent (seconds)": 1064,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 744,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 368,
+    "Rank": 5,
+    "Time Spent (seconds)": 636,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 513,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 5,
+    "Rank": 7,
+    "Time Spent (seconds)": 388,
+    "Number of People": 1,
+    "Activity": "Camera - Samsung Android Phone",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 265,
+    "Number of People": 1,
+    "Activity": "GMail for Android",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 234,
     "Number of People": 1,
     "Activity": "Flipkart",
@@ -40,7 +72,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 6,
+    "Rank": 10,
     "Time Spent (seconds)": 176,
     "Number of People": 1,
     "Activity": "Play Store",
@@ -48,15 +80,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 153,
-    "Number of People": 1,
-    "Activity": "GMail for Android",
-    "Category": "Email",
-    "Productivity": 0
-  },
-  {
-    "Rank": 8,
+    "Rank": 11,
     "Time Spent (seconds)": 145,
     "Number of People": 1,
     "Activity": "RescueTime for Android",
@@ -64,7 +88,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 9,
+    "Rank": 12,
     "Time Spent (seconds)": 127,
     "Number of People": 1,
     "Activity": "Slack for Android",
@@ -72,7 +96,7 @@
     "Productivity": -1
   },
   {
-    "Rank": 10,
+    "Rank": 13,
     "Time Spent (seconds)": 125,
     "Number of People": 1,
     "Activity": "Microsoft Word for Tablet",
@@ -80,23 +104,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 105,
+    "Rank": 14,
+    "Time Spent (seconds)": 112,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.incallui",
-    "Category": "Voice Chat",
-    "Productivity": 1
+    "Activity": "mobile - com.samsung.android.messaging",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 43,
+    "Rank": 15,
+    "Time Spent (seconds)": 83,
     "Number of People": 1,
-    "Activity": "Firefox Android",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
   },
   {
-    "Rank": 13,
+    "Rank": 16,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
     "Activity": "Authy for Android",
@@ -104,7 +128,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 14,
+    "Rank": 17,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
     "Activity": "mobile - com.google.android.apps.pdfviewer",
@@ -112,7 +136,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 15,
+    "Rank": 18,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Activity": "Android Settings",
@@ -120,7 +144,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 16,
+    "Rank": 19,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
     "Activity": "mobile - com.phonepe.app",
@@ -128,7 +152,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 17,
+    "Rank": 20,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "android",
@@ -136,7 +160,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 18,
+    "Rank": 21,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.dialer",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "mobile - io.nineapp.android",
