@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 997,
+    "Time Spent (seconds)": 1330,
     "Number of People": 1,
     "Activity": "themeforest.net",
     "Category": "General Business",
@@ -81,9 +81,9 @@
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 233,
+    "Time Spent (seconds)": 241,
     "Number of People": 1,
-    "Activity": "mobile - com.phonepe.app",
+    "Activity": "mria-hugo.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -97,6 +97,14 @@
   },
   {
     "Rank": 13,
+    "Time Spent (seconds)": 233,
+    "Number of People": 1,
+    "Activity": "mobile - com.phonepe.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 229,
     "Number of People": 1,
     "Activity": "paypal.com",
@@ -104,7 +112,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 211,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -112,7 +120,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 15,
+    "Rank": 16,
+    "Time Spent (seconds)": 189,
+    "Number of People": 1,
+    "Activity": "localhost:1313",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 17,
     "Time Spent (seconds)": 119,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
@@ -120,7 +136,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 16,
+    "Rank": 18,
     "Time Spent (seconds)": 89,
     "Number of People": 1,
     "Activity": "Android Settings",
@@ -128,7 +144,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 17,
+    "Rank": 19,
     "Time Spent (seconds)": 60,
     "Number of People": 1,
     "Activity": "Android Gallery",
@@ -136,7 +152,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 18,
+    "Rank": 20,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
     "Activity": "app.netlify.com",
@@ -144,7 +160,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 19,
+    "Rank": 21,
     "Time Spent (seconds)": 51,
     "Number of People": 1,
     "Activity": "preview.themeforest.net",
@@ -152,7 +168,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 20,
+    "Rank": 22,
+    "Time Spent (seconds)": 45,
+    "Number of People": 1,
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 23,
     "Time Spent (seconds)": 44,
     "Number of People": 1,
     "Activity": "Github",
@@ -160,7 +184,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 21,
+    "Rank": 24,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 25,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
     "Activity": "d:",
@@ -168,15 +200,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 22,
-    "Time Spent (seconds)": 39,
-    "Number of People": 1,
-    "Activity": "mria-hugo.netlify.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 23,
+    "Rank": 26,
     "Time Spent (seconds)": 38,
     "Number of People": 1,
     "Activity": "bankbazaar.com",
@@ -184,7 +208,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 24,
+    "Rank": 27,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Activity": "mobile - in.amazon.mshop.android.shopping",
@@ -192,7 +216,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 25,
+    "Rank": 28,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
     "Activity": "Duolingo: Learn Languages Free",
@@ -200,23 +224,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 26,
-    "Time Spent (seconds)": 26,
+    "Rank": 29,
+    "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "imgur.com",
+    "Category": "Photos",
+    "Productivity": -2
   },
   {
-    "Rank": 27,
-    "Time Spent (seconds)": 25,
-    "Number of People": 1,
-    "Activity": "google.co.in",
-    "Category": "Search",
-    "Productivity": 0
-  },
-  {
-    "Rank": 28,
+    "Rank": 30,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "android",
@@ -224,27 +240,11 @@
     "Productivity": 1
   },
   {
-    "Rank": 29,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "localhost:1313",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 30,
+    "Rank": 31,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
-  },
-  {
-    "Rank": 31,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Activity": "imgur.com",
-    "Category": "Photos",
-    "Productivity": -2
   }
 ]

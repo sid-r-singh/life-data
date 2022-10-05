@@ -1,13 +1,13 @@
 {
   "1": {
-    "Entertainment": 5370,
-    "Utilities": 4773,
+    "Entertainment": 5381,
+    "Utilities": 4788,
     "Communication & Scheduling": 2244,
-    "Business": 1226,
-    "Uncategorized": 943,
+    "Business": 1559,
+    "Uncategorized": 1145,
     "Shopping": 910,
-    "Software Development": 144,
-    "Reference & Learning": 58,
+    "Software Development": 328,
+    "Reference & Learning": 78,
     "Design & Composition": 51
   },
   "2": {
@@ -27,8 +27,18 @@
     "Communication & Scheduling": 1281,
     "Uncategorized": 176
   },
-  "4": {},
-  "5": {},
+  "4": {
+    "Utilities": 12022,
+    "Communication & Scheduling": 11836,
+    "Entertainment": 10777,
+    "Shopping": 1312,
+    "Reference & Learning": 62
+  },
+  "5": {
+    "Communication & Scheduling": 761,
+    "Utilities": 152,
+    "Shopping": 4
+  },
   "6": {},
   "7": {},
   "8": {},
