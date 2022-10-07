@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4650,
+    "Time Spent (seconds)": 7301,
     "Number of People": 1,
     "Activity": "Firefox Android",
     "Category": "Browsers",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 976,
+    "Time Spent (seconds)": 4798,
     "Number of People": 1,
     "Activity": "Slack for Android",
     "Category": "Instant Message",
@@ -17,46 +17,110 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 273,
-    "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 208,
+    "Time Spent (seconds)": 1220,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
+    "Rank": 4,
+    "Time Spent (seconds)": 933,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
     "Rank": 5,
-    "Time Spent (seconds)": 202,
-    "Number of People": 1,
-    "Activity": "Telegram Messenger",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 156,
-    "Number of People": 1,
-    "Activity": "K-9 Mail",
-    "Category": "Email",
-    "Productivity": 0
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 85,
+    "Time Spent (seconds)": 745,
     "Number of People": 1,
     "Activity": "GMail for Android",
     "Category": "Email",
     "Productivity": 0
   },
   {
+    "Rank": 6,
+    "Time Spent (seconds)": 576,
+    "Number of People": 1,
+    "Activity": "YouTube for Android",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 466,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
     "Rank": 8,
+    "Time Spent (seconds)": 217,
+    "Number of People": 1,
+    "Activity": "K-9 Mail",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 128,
+    "Number of People": 1,
+    "Activity": "Flipkart",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 106,
+    "Number of People": 1,
+    "Activity": "Authy for Android",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 79,
+    "Number of People": 1,
+    "Activity": "Skype for Android",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 58,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 45,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "mobile - com.android.settings.intelligence",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 16,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.forest",
@@ -64,11 +128,19 @@
     "Productivity": 1
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 4,
+    "Rank": 17,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "Flipkart",
-    "Category": "General Shopping",
-    "Productivity": -2
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.easysetup",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]
