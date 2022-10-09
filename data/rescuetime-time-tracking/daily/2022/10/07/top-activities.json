@@ -1,6 +1,14 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 6757,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.video",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 6720,
     "Number of People": 1,
     "Activity": "Firefox Android",
@@ -8,16 +16,8 @@
     "Productivity": 0
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 3038,
-    "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
     "Rank": 3,
-    "Time Spent (seconds)": 2812,
+    "Time Spent (seconds)": 5862,
     "Number of People": 1,
     "Activity": "YouTube for Android",
     "Category": "Video",
@@ -25,6 +25,14 @@
   },
   {
     "Rank": 4,
+    "Time Spent (seconds)": 3038,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 2563,
     "Number of People": 1,
     "Activity": "Slack for Android",
@@ -32,16 +40,8 @@
     "Productivity": -1
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 2369,
-    "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.video",
-    "Category": "Video",
-    "Productivity": -2
-  },
-  {
     "Rank": 6,
-    "Time Spent (seconds)": 850,
+    "Time Spent (seconds)": 970,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -49,6 +49,14 @@
   },
   {
     "Rank": 7,
+    "Time Spent (seconds)": 911,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 481,
     "Number of People": 1,
     "Activity": "Flipkart",
@@ -56,7 +64,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 8,
+    "Rank": 9,
     "Time Spent (seconds)": 294,
     "Number of People": 1,
     "Activity": "mobile - com.spotify.lite",
@@ -64,16 +72,8 @@
     "Productivity": -2
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 192,
-    "Number of People": 1,
-    "Activity": "Telegram Messenger",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
     "Rank": 10,
-    "Time Spent (seconds)": 133,
+    "Time Spent (seconds)": 163,
     "Number of People": 1,
     "Activity": "GMail for Android",
     "Category": "Email",
@@ -81,7 +81,7 @@
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 122,
+    "Time Spent (seconds)": 142,
     "Number of People": 1,
     "Activity": "Android Gallery",
     "Category": "Photos",
@@ -125,6 +125,14 @@
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
     "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
     "Productivity": 1
   }
 ]
