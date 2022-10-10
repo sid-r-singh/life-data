@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 11855,
+    "Time Spent (seconds)": 13547,
     "Number of People": 1,
     "Activity": "Firefox Android",
     "Category": "Browsers",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 6158,
+    "Time Spent (seconds)": 8316,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -25,19 +25,19 @@
   },
   {
     "Rank": 4,
+    "Time Spent (seconds)": 2848,
+    "Number of People": 1,
+    "Activity": "YouTube for Android",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 2670,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
     "Productivity": -1
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 1760,
-    "Number of People": 1,
-    "Activity": "YouTube for Android",
-    "Category": "Video",
-    "Productivity": -2
   },
   {
     "Rank": 6,
@@ -49,6 +49,14 @@
   },
   {
     "Rank": 7,
+    "Time Spent (seconds)": 506,
+    "Number of People": 1,
+    "Activity": "mobile - com.sbi.lotusintouch",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 376,
     "Number of People": 1,
     "Activity": "GMail for Android",
@@ -56,7 +64,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 9,
     "Time Spent (seconds)": 331,
     "Number of People": 1,
     "Activity": "mobile - com.sbi.sbifreedomplus",
@@ -64,15 +72,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 260,
+    "Rank": 10,
+    "Time Spent (seconds)": 279,
     "Number of People": 1,
     "Activity": "Telegram Messenger",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 10,
+    "Rank": 11,
     "Time Spent (seconds)": 253,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
@@ -80,7 +88,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 11,
+    "Rank": 12,
+    "Time Spent (seconds)": 116,
+    "Number of People": 1,
+    "Activity": "mobile - in.amazon.mshop.android.shopping",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
     "Activity": "mobile - com.sec.android.app.clockpackage",
@@ -88,7 +104,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 12,
+    "Rank": 14,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "mobile - share.indiashare.appshare",
@@ -96,7 +112,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 15,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "mobile - com.google.android.apps.pdfviewer",
@@ -104,7 +120,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 14,
+    "Rank": 16,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "Android Gallery",
@@ -112,7 +128,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 15,
+    "Rank": 17,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "android",
