@@ -4,63 +4,6 @@
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
-          },
-          "href": "https://api.spotify.com/v1/artists/71oGOxg5ez52Hh1Ye41A98",
-          "id": "71oGOxg5ez52Hh1Ye41A98",
-          "name": "Mustafa Zahid",
-          "type": "artist",
-          "uri": "spotify:artist:71oGOxg5ez52Hh1Ye41A98"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/1DLkwM3y6h6kTcZYfFG8K5",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2732cfa8688701a3509adf44a58",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e022cfa8688701a3509adf44a58",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048512cfa8688701a3509adf44a58",
-          "width": 64
-        }
-      ],
-      "name": "Bekhudi",
-      "release_date": "2022-06-10",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:1DLkwM3y6h6kTcZYfFG8K5"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
-        },
-        "href": "https://api.spotify.com/v1/artists/71oGOxg5ez52Hh1Ye41A98",
-        "id": "71oGOxg5ez52Hh1Ye41A98",
-        "name": "Mustafa Zahid",
-        "type": "artist",
-        "uri": "spotify:artist:71oGOxg5ez52Hh1Ye41A98"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/6PpSKwidm4sewyRExjuEYe",
-    "is_local": false,
-    "name": "Bekhudi",
-    "preview_url": "https://p.scdn.co/mp3-preview/86896dd3c2b801200959355b0db690d8c023689f?cid=811598a754134358878b30bc9c28decd"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
           },
           "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
@@ -132,5 +75,62 @@
     "is_local": false,
     "name": "Desh Mere (From \"Bhuj The Pride Of India\")",
     "preview_url": "https://p.scdn.co/mp3-preview/6af29aff676eb9c85bd31bf36f896e606c82c313?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2rgMLBPzMGrnxj8NaDaIwf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273696bb5555960c0886e644f27",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02696bb5555960c0886e644f27",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851696bb5555960c0886e644f27",
+          "width": 64
+        }
+      ],
+      "name": "Awarapan (Original Soundtrack)",
+      "release_date": "2022-03-21",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:2rgMLBPzMGrnxj8NaDaIwf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+        },
+        "href": "https://api.spotify.com/v1/artists/71oGOxg5ez52Hh1Ye41A98",
+        "id": "71oGOxg5ez52Hh1Ye41A98",
+        "name": "Mustafa Zahid",
+        "type": "artist",
+        "uri": "spotify:artist:71oGOxg5ez52Hh1Ye41A98"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2PxZSFOv7RebkeSEwQTjr7",
+    "is_local": false,
+    "name": "Tera Mera Rishta",
+    "preview_url": "https://p.scdn.co/mp3-preview/43abd6520aa8fef790e6b146ae2508539f7fd372?cid=811598a754134358878b30bc9c28decd"
   }
 ]
