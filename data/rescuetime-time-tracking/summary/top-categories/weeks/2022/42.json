@@ -37,7 +37,7 @@
   },
   "2022-10-12": {
     "Instant Message": 5028,
-    "Video": 3646,
+    "Video": 3952,
     "General Shopping": 3082,
     "General Utilities": 2082,
     "Browsers": 1242,
@@ -61,14 +61,29 @@
     "Email": 95
   },
   "2022-10-14": {
-    "Browsers": 8779,
-    "General Utilities": 1794,
-    "Instant Message": 1486,
-    "Video": 1060,
-    "Voice Chat": 136,
+    "Browsers": 10693,
+    "Video": 3557,
+    "Instant Message": 2236,
+    "General Utilities": 2133,
+    "Voice Chat": 184,
     "Photos": 53,
-    "Email": 33,
-    "Uncategorized": 2
+    "Email": 47,
+    "General Reference & Learning": 38,
+    "Music": 29,
+    "Uncategorized": 24
   },
-  "2022-10-15": {}
+  "2022-10-15": {
+    "Browsers": 3446,
+    "Video": 2654,
+    "General Software Development": 1100,
+    "General Shopping": 791,
+    "Instant Message": 639,
+    "Email": 606,
+    "General Utilities": 599,
+    "Uncategorized": 471,
+    "Photos": 332,
+    "Music": 283,
+    "Voice Chat": 51,
+    "Internet Utilities": 3
+  }
 }
