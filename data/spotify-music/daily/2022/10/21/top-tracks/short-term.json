@@ -1,0 +1,568 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+          },
+          "href": "https://api.spotify.com/v1/artists/7hHDO4bJGlEaEHlY2lj1eZ",
+          "id": "7hHDO4bJGlEaEHlY2lj1eZ",
+          "name": "Bilal Saeed",
+          "type": "artist",
+          "uri": "spotify:artist:7hHDO4bJGlEaEHlY2lj1eZ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
+          },
+          "href": "https://api.spotify.com/v1/artists/7J2gs5q2wLq6lU4q4wkyuV",
+          "id": "7J2gs5q2wLq6lU4q4wkyuV",
+          "name": "Momina Mustehsan",
+          "type": "artist",
+          "uri": "spotify:artist:7J2gs5q2wLq6lU4q4wkyuV"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4AqwIHdf4s6gXHVcvwHsIu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273145093e357e458a15fc7f242",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02145093e357e458a15fc7f242",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851145093e357e458a15fc7f242",
+          "width": 64
+        }
+      ],
+      "name": "Baari",
+      "release_date": "2021-07-12",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4AqwIHdf4s6gXHVcvwHsIu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/7hHDO4bJGlEaEHlY2lj1eZ",
+        "id": "7hHDO4bJGlEaEHlY2lj1eZ",
+        "name": "Bilal Saeed",
+        "type": "artist",
+        "uri": "spotify:artist:7hHDO4bJGlEaEHlY2lj1eZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
+        },
+        "href": "https://api.spotify.com/v1/artists/7J2gs5q2wLq6lU4q4wkyuV",
+        "id": "7J2gs5q2wLq6lU4q4wkyuV",
+        "name": "Momina Mustehsan",
+        "type": "artist",
+        "uri": "spotify:artist:7J2gs5q2wLq6lU4q4wkyuV"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0HTb4JfMtMkMYUtyd19In3",
+    "is_local": false,
+    "name": "Baari",
+    "preview_url": "https://p.scdn.co/mp3-preview/1fd7a5f63d5e08f9588ad336b595620e5a70f854?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO",
+          "id": "1mBydYMVBECdDmMfE2sEUO",
+          "name": "Sachin-Jigar",
+          "type": "artist",
+          "uri": "spotify:artist:1mBydYMVBECdDmMfE2sEUO"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1VgXTSQsIrRn150j5MJrxR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cab73e6ac9bf4bf3c6931570",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cab73e6ac9bf4bf3c6931570",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cab73e6ac9bf4bf3c6931570",
+          "width": 64
+        }
+      ],
+      "name": "Ramaiya Vastavaiya (Original Motion Picture Soundtrack)",
+      "release_date": "2013-07-19",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:1VgXTSQsIrRn150j5MJrxR"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oSONSC9zQ4UonDKnLqksx",
+        "id": "2oSONSC9zQ4UonDKnLqksx",
+        "name": "Atif Aslam",
+        "type": "artist",
+        "uri": "spotify:artist:2oSONSC9zQ4UonDKnLqksx"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+        "id": "0oOet2f43PA68X5RxKobEy",
+        "name": "Shreya Ghoshal",
+        "type": "artist",
+        "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3t3wsY5IdLVzB9WidegJSU",
+    "is_local": false,
+    "name": "Jeene Laga Hoon",
+    "preview_url": "https://p.scdn.co/mp3-preview/a93a54ba6a8611b32ae55c1b38b6270413215b93?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6RF8hEdlUKoLPQOHmBbHiM",
+          "id": "6RF8hEdlUKoLPQOHmBbHiM",
+          "name": "Yasser Desai",
+          "type": "artist",
+          "uri": "spotify:artist:6RF8hEdlUKoLPQOHmBbHiM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI",
+          "id": "5f4QpKfy7ptCHwTqspnSJI",
+          "name": "Neha Kakkar",
+          "type": "artist",
+          "uri": "spotify:artist:5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yxICw7joYAxRI2sTRldLB",
+          "id": "4yxICw7joYAxRI2sTRldLB",
+          "name": "Rajat Nagpal",
+          "type": "artist",
+          "uri": "spotify:artist:4yxICw7joYAxRI2sTRldLB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3PRk98aAwGeeXQsoDa5DGe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739acc843616b7226a85f201db",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029acc843616b7226a85f201db",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519acc843616b7226a85f201db",
+          "width": 64
+        }
+      ],
+      "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
+      "release_date": "2020-07-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3PRk98aAwGeeXQsoDa5DGe"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+        },
+        "href": "https://api.spotify.com/v1/artists/6RF8hEdlUKoLPQOHmBbHiM",
+        "id": "6RF8hEdlUKoLPQOHmBbHiM",
+        "name": "Yasser Desai",
+        "type": "artist",
+        "uri": "spotify:artist:6RF8hEdlUKoLPQOHmBbHiM"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI",
+        "id": "5f4QpKfy7ptCHwTqspnSJI",
+        "name": "Neha Kakkar",
+        "type": "artist",
+        "uri": "spotify:artist:5f4QpKfy7ptCHwTqspnSJI"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yxICw7joYAxRI2sTRldLB",
+        "id": "4yxICw7joYAxRI2sTRldLB",
+        "name": "Rajat Nagpal",
+        "type": "artist",
+        "uri": "spotify:artist:4yxICw7joYAxRI2sTRldLB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5urYiIXu1ZhfMAOsp7WDTc",
+    "is_local": false,
+    "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/eb973a77c7f52514c4d6596dcf256aa7eb393033?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jf2eKjiPT6P18RbOSLzf0",
+          "id": "6jf2eKjiPT6P18RbOSLzf0",
+          "name": "Arko",
+          "type": "artist",
+          "uri": "spotify:artist:6jf2eKjiPT6P18RbOSLzf0"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5nQuXDLUMXgkbowCHYA5r0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27344aa643852edca921d1b67ca",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0244aa643852edca921d1b67ca",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485144aa643852edca921d1b67ca",
+          "width": 64
+        }
+      ],
+      "name": "Desh Mere (From \"Bhuj The Pride Of India\")",
+      "release_date": "2021-08-06",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5nQuXDLUMXgkbowCHYA5r0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "type": "artist",
+        "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jf2eKjiPT6P18RbOSLzf0",
+        "id": "6jf2eKjiPT6P18RbOSLzf0",
+        "name": "Arko",
+        "type": "artist",
+        "uri": "spotify:artist:6jf2eKjiPT6P18RbOSLzf0"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2HbrsAxOZfG0s1xCQuk6nB",
+    "is_local": false,
+    "name": "Desh Mere (From \"Bhuj The Pride Of India\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/6af29aff676eb9c85bd31bf36f896e606c82c313?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+          },
+          "href": "https://api.spotify.com/v1/artists/71oGOxg5ez52Hh1Ye41A98",
+          "id": "71oGOxg5ez52Hh1Ye41A98",
+          "name": "Mustafa Zahid",
+          "type": "artist",
+          "uri": "spotify:artist:71oGOxg5ez52Hh1Ye41A98"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1DLkwM3y6h6kTcZYfFG8K5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732cfa8688701a3509adf44a58",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022cfa8688701a3509adf44a58",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512cfa8688701a3509adf44a58",
+          "width": 64
+        }
+      ],
+      "name": "Bekhudi",
+      "release_date": "2022-06-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1DLkwM3y6h6kTcZYfFG8K5"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+        },
+        "href": "https://api.spotify.com/v1/artists/71oGOxg5ez52Hh1Ye41A98",
+        "id": "71oGOxg5ez52Hh1Ye41A98",
+        "name": "Mustafa Zahid",
+        "type": "artist",
+        "uri": "spotify:artist:71oGOxg5ez52Hh1Ye41A98"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6PpSKwidm4sewyRExjuEYe",
+    "is_local": false,
+    "name": "Bekhudi",
+    "preview_url": "https://p.scdn.co/mp3-preview/86896dd3c2b801200959355b0db690d8c023689f?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+          },
+          "href": "https://api.spotify.com/v1/artists/5HcunTidTUrOaf8V0iJcvl",
+          "id": "5HcunTidTUrOaf8V0iJcvl",
+          "name": "Nusrat Fateh Ali Khan",
+          "type": "artist",
+          "uri": "spotify:artist:5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7nGoW6UqfB2JE1Gb9FDrdr"
+          },
+          "href": "https://api.spotify.com/v1/artists/7nGoW6UqfB2JE1Gb9FDrdr",
+          "id": "7nGoW6UqfB2JE1Gb9FDrdr",
+          "name": "Akhtar Hussain Akhtar",
+          "type": "artist",
+          "uri": "spotify:artist:7nGoW6UqfB2JE1Gb9FDrdr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UpmjPgIFSGqnxXuiwD014",
+          "id": "3UpmjPgIFSGqnxXuiwD014",
+          "name": "Javed Akhtar",
+          "type": "artist",
+          "uri": "spotify:artist:3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4CbXnO7XtyeRj2vKgao0zI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a305b64011b7c9ec5c17f354",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a305b64011b7c9ec5c17f354",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a305b64011b7c9ec5c17f354",
+          "width": 64
+        }
+      ],
+      "name": "Sangam And Salaalm",
+      "release_date": "2009-09-30",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:4CbXnO7XtyeRj2vKgao0zI"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        },
+        "href": "https://api.spotify.com/v1/artists/5HcunTidTUrOaf8V0iJcvl",
+        "id": "5HcunTidTUrOaf8V0iJcvl",
+        "name": "Nusrat Fateh Ali Khan",
+        "type": "artist",
+        "uri": "spotify:artist:5HcunTidTUrOaf8V0iJcvl"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1afITFFlf2Sg7JVhND5RZK",
+    "is_local": false,
+    "name": "Afreen Afreen",
+    "preview_url": "https://p.scdn.co/mp3-preview/c214d89c7745602b8624baf133e4078d03baf537?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ohaQzKaXrobAL8paLSaxq",
+          "id": "6ohaQzKaXrobAL8paLSaxq",
+          "name": "Salim–Sulaiman",
+          "type": "artist",
+          "uri": "spotify:artist:6ohaQzKaXrobAL8paLSaxq"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1dfXFDshfWHj25JC6DyupU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733d36d537a9e39e6784a6b2ed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023d36d537a9e39e6784a6b2ed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513d36d537a9e39e6784a6b2ed",
+          "width": 64
+        }
+      ],
+      "name": "Azaan (Original Motion Picture Soundtrack)",
+      "release_date": "2020-09-07",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:1dfXFDshfWHj25JC6DyupU"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        "href": "https://api.spotify.com/v1/artists/3OLGltG8UPIea8sA4w0yg0",
+        "id": "3OLGltG8UPIea8sA4w0yg0",
+        "name": "Rahat Fateh Ali Khan",
+        "type": "artist",
+        "uri": "spotify:artist:3OLGltG8UPIea8sA4w0yg0"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1sMSjHhluXklRtBGvN3gy5",
+    "is_local": false,
+    "name": "Aafreen (Reprise)",
+    "preview_url": "https://p.scdn.co/mp3-preview/7b84bf25df5e80f0cf67d011c6a8c95fdd4dd5f0?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/2rgMLBPzMGrnxj8NaDaIwf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273696bb5555960c0886e644f27",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02696bb5555960c0886e644f27",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851696bb5555960c0886e644f27",
+          "width": 64
+        }
+      ],
+      "name": "Awarapan (Original Soundtrack)",
+      "release_date": "2022-03-21",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:2rgMLBPzMGrnxj8NaDaIwf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+        },
+        "href": "https://api.spotify.com/v1/artists/71oGOxg5ez52Hh1Ye41A98",
+        "id": "71oGOxg5ez52Hh1Ye41A98",
+        "name": "Mustafa Zahid",
+        "type": "artist",
+        "uri": "spotify:artist:71oGOxg5ez52Hh1Ye41A98"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2PxZSFOv7RebkeSEwQTjr7",
+    "is_local": false,
+    "name": "Tera Mera Rishta",
+    "preview_url": "https://p.scdn.co/mp3-preview/43abd6520aa8fef790e6b146ae2508539f7fd372?cid=811598a754134358878b30bc9c28decd"
+  }
+]

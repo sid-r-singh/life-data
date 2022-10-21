@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1435,
+    "Time Spent (seconds)": 1803,
     "Number of People": 1,
     "Activity": "YouTube for Android",
     "Category": "Video",
@@ -9,15 +9,15 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 373,
+    "Time Spent (seconds)": 1379,
     "Number of People": 1,
-    "Activity": "mobile - com.sec.android.app.clockpackage",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 195,
+    "Time Spent (seconds)": 822,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -25,26 +25,66 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 54,
+    "Time Spent (seconds)": 736,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.video",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 687,
     "Number of People": 1,
     "Activity": "Firefox Android",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 48,
+    "Rank": 6,
+    "Time Spent (seconds)": 373,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 271,
+    "Number of People": 1,
+    "Activity": "GMail for Android",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 111,
     "Number of People": 1,
     "Activity": "Telegram Messenger",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 30,
+    "Rank": 9,
+    "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.spaymini",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
   }
 ]
