@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 1793,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 390,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 176,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "Google Play Services",
+    "Category": "General Shopping",
+    "Productivity": -2
+  }
+]
