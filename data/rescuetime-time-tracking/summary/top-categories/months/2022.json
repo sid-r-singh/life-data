@@ -376,15 +376,15 @@
   },
   "10": {
     "Video": 164439,
-    "Browsers": 171402,
-    "Instant Message": 76604,
+    "Browsers": 171406,
+    "Instant Message": 76635,
     "General Business": 1559,
     "Uncategorized": 9967,
     "General Shopping": 17621,
-    "General Utilities": 72569,
+    "General Utilities": 72605,
     "Email": 10482,
     "General Software Development": 6520,
-    "Voice Chat": 4394,
+    "Voice Chat": 4458,
     "Photos": 3189,
     "General Design & Composition": 51,
     "Search": 452,
@@ -401,6 +401,12 @@
     "Editing & IDEs": 12,
     "Science & Technology": 6
   },
-  "11": {},
+  "11": {
+    "Voice Chat": 418,
+    "Instant Message": 258,
+    "Email": 170,
+    "General Utilities": 164,
+    "Browsers": 3
+  },
   "12": {}
 }

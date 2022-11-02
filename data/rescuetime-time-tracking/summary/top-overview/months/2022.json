@@ -123,8 +123,8 @@
   },
   "10": {
     "Entertainment": 168531,
-    "Utilities": 244252,
-    "Communication & Scheduling": 95840,
+    "Utilities": 244292,
+    "Communication & Scheduling": 95935,
     "Business": 1704,
     "Uncategorized": 9967,
     "Shopping": 17621,
@@ -134,6 +134,9 @@
     "Social Networking": 4,
     "News & Opinion": 6
   },
-  "11": {},
+  "11": {
+    "Communication & Scheduling": 846,
+    "Utilities": 167
+  },
   "12": {}
 }
