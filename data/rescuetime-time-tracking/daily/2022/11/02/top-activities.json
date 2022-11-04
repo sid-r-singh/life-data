@@ -1,6 +1,14 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 4762,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 3065,
     "Number of People": 1,
     "Activity": "YouTube for Android",
@@ -8,40 +16,32 @@
     "Productivity": -2
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 2916,
-    "Number of People": 1,
-    "Activity": "Firefox Android",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
     "Rank": 3,
-    "Time Spent (seconds)": 693,
-    "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 490,
-    "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 121,
+    "Time Spent (seconds)": 1483,
     "Number of People": 1,
     "Activity": "Telegram Messenger",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
+    "Rank": 4,
+    "Time Spent (seconds)": 872,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 596,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
     "Rank": 6,
-    "Time Spent (seconds)": 49,
+    "Time Spent (seconds)": 130,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
     "Category": "Voice Chat",
