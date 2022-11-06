@@ -1,34 +1,138 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 976,
+    "Time Spent (seconds)": 3501,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 2596,
     "Number of People": 1,
     "Activity": "YouTube for Android",
     "Category": "Video",
     "Productivity": -2
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 48,
+    "Rank": 3,
+    "Time Spent (seconds)": 2140,
+    "Number of People": 1,
+    "Activity": "Flipkart",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1517,
+    "Number of People": 1,
+    "Activity": "mobile - in.amazon.mshop.android.shopping",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 407,
+    "Number of People": 1,
+    "Activity": "mobile - com.jio.myjio",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 293,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 19,
+    "Rank": 7,
+    "Time Spent (seconds)": 164,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 132,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 117,
+    "Number of People": 1,
+    "Activity": "GMail for Android",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 43,
     "Number of People": 1,
     "Activity": "Telegram Messenger",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 2,
+    "Rank": 11,
+    "Time Spent (seconds)": 22,
     "Number of People": 1,
-    "Activity": "Firefox Android",
-    "Category": "Browsers",
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "mobile - com.phonepe.app",
+    "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "Calculator",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "Microsoft Word for Tablet",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "com.android.htmlviewer",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.permissioncontroller",
+    "Category": "General Utilities",
+    "Productivity": 1
   }
 ]
