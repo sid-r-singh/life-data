@@ -1,15 +1,15 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 376,
+    "Time Spent (seconds)": 2187,
     "Number of People": 1,
-    "Activity": "Firefox Android",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "YouTube for Android",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 275,
+    "Time Spent (seconds)": 566,
     "Number of People": 1,
     "Activity": "mobile - in.amazon.mshop.android.shopping",
     "Category": "General Shopping",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 140,
+    "Time Spent (seconds)": 505,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
@@ -25,18 +25,66 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 67,
+    "Time Spent (seconds)": 386,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 304,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 12,
+    "Rank": 6,
+    "Time Spent (seconds)": 73,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.pdfviewer",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 39,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
     "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 33,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "mobile - com.android.settings.intelligence",
+    "Category": "General Utilities",
     "Productivity": 1
   }
 ]
