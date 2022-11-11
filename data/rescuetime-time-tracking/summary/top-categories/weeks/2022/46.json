@@ -31,18 +31,32 @@
     "Voice Chat": 39
   },
   "2022-11-9": {
-    "Browsers": 3816,
-    "General Shopping": 2656,
-    "General Utilities": 449,
-    "Instant Message": 404,
+    "Browsers": 14543,
+    "General Shopping": 2781,
+    "Instant Message": 1744,
+    "General Utilities": 645,
+    "Video": 410,
     "General Reference & Learning": 393,
-    "Uncategorized": 148,
-    "Voice Chat": 53,
-    "Email": 46,
-    "Photos": 15,
-    "Video": 8
+    "Uncategorized": 150,
+    "Photos": 122,
+    "Voice Chat": 99,
+    "Email": 46
   },
-  "2022-11-10": {},
-  "2022-11-11": {},
+  "2022-11-10": {
+    "Browsers": 14502,
+    "General Shopping": 2592,
+    "Instant Message": 2014,
+    "General Utilities": 596,
+    "Email": 440,
+    "Uncategorized": 332,
+    "Video": 223,
+    "Voice Chat": 139,
+    "Photos": 117
+  },
+  "2022-11-11": {
+    "Browsers": 5281,
+    "General Utilities": 41,
+    "Email": 29
+  },
   "2022-11-12": {}
 }
