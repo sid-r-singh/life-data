@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5281,
+    "Time Spent (seconds)": 17324,
     "Number of People": 1,
     "Activity": "Firefox Android",
     "Category": "Browsers",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 41,
+    "Time Spent (seconds)": 127,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -17,10 +17,26 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 29,
+    "Time Spent (seconds)": 115,
     "Number of People": 1,
     "Activity": "GMail for Android",
     "Category": "Email",
     "Productivity": 0
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 79,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
   }
 ]
