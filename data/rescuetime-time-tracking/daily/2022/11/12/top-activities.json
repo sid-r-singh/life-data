@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 1229,
+    "Time Spent (seconds)": 1239,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
@@ -41,7 +41,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 374,
+    "Time Spent (seconds)": 457,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -49,7 +49,7 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 373,
+    "Time Spent (seconds)": 456,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
     "Category": "Voice Chat",
@@ -67,17 +67,17 @@
     "Rank": 9,
     "Time Spent (seconds)": 127,
     "Number of People": 1,
-    "Activity": "K-9 Mail",
-    "Category": "Email",
-    "Productivity": 0
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
   },
   {
     "Rank": 10,
     "Time Spent (seconds)": 127,
     "Number of People": 1,
-    "Activity": "Android Gallery",
-    "Category": "Photos",
-    "Productivity": -2
+    "Activity": "K-9 Mail",
+    "Category": "Email",
+    "Productivity": 0
   },
   {
     "Rank": 11,
@@ -97,6 +97,14 @@
   },
   {
     "Rank": 13,
+    "Time Spent (seconds)": 99,
+    "Number of People": 1,
+    "Activity": "Google Keep",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 78,
     "Number of People": 1,
     "Activity": "Microsoft Excel for Tablet",
@@ -104,7 +112,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 54,
     "Number of People": 1,
     "Activity": "mobile - com.google.android.apps.docs.editors.sheets",
@@ -112,7 +120,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 15,
+    "Rank": 16,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "android",
@@ -120,7 +128,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 16,
+    "Rank": 17,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.dialer",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "mobile - com.google.android.permissioncontroller",
