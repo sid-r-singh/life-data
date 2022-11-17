@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1114,
+    "Time Spent (seconds)": 1664,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
@@ -33,7 +33,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 496,
+    "Time Spent (seconds)": 509,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -65,6 +65,14 @@
   },
   {
     "Rank": 9,
+    "Time Spent (seconds)": 86,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 65,
     "Number of People": 1,
     "Activity": "mobile - com.myairtelapp",
@@ -72,7 +80,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 10,
+    "Rank": 11,
     "Time Spent (seconds)": 54,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
@@ -80,7 +88,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 11,
+    "Rank": 12,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Activity": "mobile - com.x8bit.bitwarden",
@@ -88,7 +96,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
+    "Rank": 13,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.dialer",
@@ -96,7 +104,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 14,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Activity": "Android Settings",
@@ -104,15 +112,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 14,
-    "Time Spent (seconds)": 6,
+    "Rank": 15,
+    "Time Spent (seconds)": 27,
     "Number of People": 1,
-    "Activity": "Firefox Android",
-    "Category": "Browsers",
+    "Activity": "GMail for Android",
+    "Category": "Email",
     "Productivity": 0
   },
   {
-    "Rank": 15,
+    "Rank": 16,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "Android System",
@@ -120,7 +128,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 16,
+    "Rank": 17,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "mobile - com.google.android.permissioncontroller",

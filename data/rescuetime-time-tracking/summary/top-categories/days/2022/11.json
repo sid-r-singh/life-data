@@ -135,15 +135,34 @@
   },
   "14": {
     "Video": 2488,
-    "General Utilities": 1336,
-    "Instant Message": 1247,
+    "Instant Message": 1797,
+    "General Utilities": 1349,
     "Uncategorized": 601,
-    "Email": 251,
-    "Voice Chat": 54,
-    "Browsers": 6
+    "Email": 278,
+    "Browsers": 86,
+    "Voice Chat": 54
   },
-  "15": {},
-  "16": {},
+  "15": {
+    "Browsers": 9230,
+    "Video": 4373,
+    "Instant Message": 1000,
+    "General Utilities": 418,
+    "General Shopping": 210,
+    "Email": 154,
+    "Voice Chat": 61
+  },
+  "16": {
+    "Browsers": 10993,
+    "General Utilities": 1841,
+    "Video": 1495,
+    "Instant Message": 1459,
+    "Voice Chat": 244,
+    "Internet Utilities": 194,
+    "Email": 179,
+    "Uncategorized": 51,
+    "Photos": 35,
+    "General Shopping": 2
+  },
   "17": {},
   "18": {},
   "19": {},
