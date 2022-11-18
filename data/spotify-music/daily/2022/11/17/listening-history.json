@@ -1,0 +1,156 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IKVDbCSBTxBeAsMKjAuTs",
+          "id": "4IKVDbCSBTxBeAsMKjAuTs",
+          "name": "Armaan Malik",
+          "type": "artist",
+          "uri": "spotify:artist:4IKVDbCSBTxBeAsMKjAuTs"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4MGu4YPgaKkxwgGf6MaAyn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d5fb91faa0124cdd3f6e284a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d5fb91faa0124cdd3f6e284a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d5fb91faa0124cdd3f6e284a",
+          "width": 64
+        }
+      ],
+      "name": "Tu/You - Spotify Singles",
+      "release_date": "2022-07-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4MGu4YPgaKkxwgGf6MaAyn"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        "href": "https://api.spotify.com/v1/artists/4IKVDbCSBTxBeAsMKjAuTs",
+        "id": "4IKVDbCSBTxBeAsMKjAuTs",
+        "name": "Armaan Malik",
+        "type": "artist",
+        "uri": "spotify:artist:4IKVDbCSBTxBeAsMKjAuTs"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4L6hCEc9xFf01U4d66JzK0",
+    "is_local": false,
+    "name": "Tu / You",
+    "preview_url": "https://p.scdn.co/mp3-preview/3b36f88b8f006720b1d629bca8121f0631227533?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
+          },
+          "href": "https://api.spotify.com/v1/artists/5azWSYXVoLKYKHlR5zNJ7i",
+          "id": "5azWSYXVoLKYKHlR5zNJ7i",
+          "name": "Sharry Mann",
+          "type": "artist",
+          "uri": "spotify:artist:5azWSYXVoLKYKHlR5zNJ7i"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ZXuveln0SCEl9FW7oOMYz"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ZXuveln0SCEl9FW7oOMYz",
+          "id": "5ZXuveln0SCEl9FW7oOMYz",
+          "name": "Gupz Sehra",
+          "type": "artist",
+          "uri": "spotify:artist:5ZXuveln0SCEl9FW7oOMYz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4"
+          },
+          "href": "https://api.spotify.com/v1/artists/70voqWnL1gpuxodufMgBt4",
+          "id": "70voqWnL1gpuxodufMgBt4",
+          "name": "Abhijit Vaghani",
+          "type": "artist",
+          "uri": "spotify:artist:70voqWnL1gpuxodufMgBt4"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1ZeoYocWyq5GYKc2zNmaD0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273def8a498e3376b7f3b494d21",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02def8a498e3376b7f3b494d21",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851def8a498e3376b7f3b494d21",
+          "width": 64
+        }
+      ],
+      "name": "3 Peg-Label Black (From \"T-Series Mixtape Punjabi\")",
+      "release_date": "2017-12-11",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1ZeoYocWyq5GYKc2zNmaD0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
+        },
+        "href": "https://api.spotify.com/v1/artists/5azWSYXVoLKYKHlR5zNJ7i",
+        "id": "5azWSYXVoLKYKHlR5zNJ7i",
+        "name": "Sharry Mann",
+        "type": "artist",
+        "uri": "spotify:artist:5azWSYXVoLKYKHlR5zNJ7i"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ZXuveln0SCEl9FW7oOMYz"
+        },
+        "href": "https://api.spotify.com/v1/artists/5ZXuveln0SCEl9FW7oOMYz",
+        "id": "5ZXuveln0SCEl9FW7oOMYz",
+        "name": "Gupz Sehra",
+        "type": "artist",
+        "uri": "spotify:artist:5ZXuveln0SCEl9FW7oOMYz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4"
+        },
+        "href": "https://api.spotify.com/v1/artists/70voqWnL1gpuxodufMgBt4",
+        "id": "70voqWnL1gpuxodufMgBt4",
+        "name": "Abhijit Vaghani",
+        "type": "artist",
+        "uri": "spotify:artist:70voqWnL1gpuxodufMgBt4"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3lx5Tf3Mj5WiIJTAV0XDp6",
+    "is_local": false,
+    "name": "3 Peg-Label Black (From \"T-Series Mixtape Punjabi\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/37beadf080dc06d59e867f2acfba56ab2771e22a?cid=811598a754134358878b30bc9c28decd"
+  }
+]
