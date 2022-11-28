@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 14274,
+    "Time Spent (seconds)": 29586,
     "Number of People": 1,
     "Activity": "mobile - com.amazon.avod.thirdpartyclient",
     "Category": "Video",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1671,
+    "Time Spent (seconds)": 2252,
     "Number of People": 1,
     "Activity": "Firefox Android",
     "Category": "Browsers",
@@ -17,22 +17,30 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 557,
+    "Time Spent (seconds)": 1148,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.pdfviewer",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 623,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 387,
+    "Rank": 5,
+    "Time Spent (seconds)": 550,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 5,
+    "Rank": 6,
     "Time Spent (seconds)": 237,
     "Number of People": 1,
     "Activity": "mobile - com.jio.myjio",
@@ -40,7 +48,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 200,
     "Number of People": 1,
     "Activity": "Telegram Messenger",
@@ -48,27 +56,19 @@
     "Productivity": -1
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 184,
+    "Rank": 8,
+    "Time Spent (seconds)": 198,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
     "Category": "Voice Chat",
     "Productivity": 1
   },
   {
-    "Rank": 8,
+    "Rank": 9,
     "Time Spent (seconds)": 65,
     "Number of People": 1,
     "Activity": "Android Settings",
     "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 9,
-    "Time Spent (seconds)": 60,
-    "Number of People": 1,
-    "Activity": "mobile - com.google.android.apps.pdfviewer",
-    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
@@ -89,7 +89,7 @@
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 4,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "android",
     "Category": "General Utilities",
