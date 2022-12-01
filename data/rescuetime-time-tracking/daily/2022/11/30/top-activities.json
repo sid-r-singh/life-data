@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 7180,
+    "Time Spent (seconds)": 32225,
     "Number of People": 1,
     "Activity": "mobile - com.amazon.avod.thirdpartyclient",
     "Category": "Video",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 434,
+    "Time Spent (seconds)": 1573,
     "Number of People": 1,
     "Activity": "Firefox Android",
     "Category": "Browsers",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 123,
+    "Time Spent (seconds)": 613,
     "Number of People": 1,
     "Activity": "Telegram Messenger",
     "Category": "Instant Message",
@@ -25,22 +25,46 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 84,
+    "Time Spent (seconds)": 266,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 193,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 59,
+    "Rank": 6,
+    "Time Spent (seconds)": 134,
+    "Number of People": 1,
+    "Activity": "mobile - in.amazon.mshop.android.shopping",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 66,
     "Number of People": 1,
     "Activity": "Android Settings",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 6,
+    "Rank": 8,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Activity": "mobile - cris.icms.ntes",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.memorysaver",
@@ -48,7 +72,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
+    "Rank": 10,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "android",
@@ -56,8 +80,8 @@
     "Productivity": 1
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 2,
+    "Rank": 11,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "YouTube for Android",
     "Category": "Video",
