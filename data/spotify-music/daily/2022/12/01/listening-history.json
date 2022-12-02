@@ -1,0 +1,116 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr"
+          },
+          "href": "https://api.spotify.com/v1/artists/06s7ddCmb1OcHlZzu9DzIr",
+          "id": "06s7ddCmb1OcHlZzu9DzIr",
+          "name": "Rebecka Aether",
+          "type": "artist",
+          "uri": "spotify:artist:06s7ddCmb1OcHlZzu9DzIr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3zOIJ6Ke62DFZYdXMMtrnQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273feb55dff7c41c4728e14bf8a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02feb55dff7c41c4728e14bf8a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851feb55dff7c41c4728e14bf8a",
+          "width": 64
+        }
+      ],
+      "name": "Redamancy",
+      "release_date": "2022-09-01",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3zOIJ6Ke62DFZYdXMMtrnQ"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr"
+        },
+        "href": "https://api.spotify.com/v1/artists/06s7ddCmb1OcHlZzu9DzIr",
+        "id": "06s7ddCmb1OcHlZzu9DzIr",
+        "name": "Rebecka Aether",
+        "type": "artist",
+        "uri": "spotify:artist:06s7ddCmb1OcHlZzu9DzIr"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2iWt83ffEevRHEPJiz6nJN",
+    "is_local": false,
+    "name": "Redamancy",
+    "preview_url": "https://p.scdn.co/mp3-preview/25d8518e7422ebff32ab0f7631b52028e8aef598?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8"
+          },
+          "href": "https://api.spotify.com/v1/artists/4aVZNmLEXiIMrNM5GIzRw8",
+          "id": "4aVZNmLEXiIMrNM5GIzRw8",
+          "name": "Rae Mansell",
+          "type": "artist",
+          "uri": "spotify:artist:4aVZNmLEXiIMrNM5GIzRw8"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0hzrMQP5DDS5iyDiAyNj3y",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273333114e8ba870cdca6a097b5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02333114e8ba870cdca6a097b5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851333114e8ba870cdca6a097b5",
+          "width": 64
+        }
+      ],
+      "name": "Calmative",
+      "release_date": "2022-04-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0hzrMQP5DDS5iyDiAyNj3y"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8"
+        },
+        "href": "https://api.spotify.com/v1/artists/4aVZNmLEXiIMrNM5GIzRw8",
+        "id": "4aVZNmLEXiIMrNM5GIzRw8",
+        "name": "Rae Mansell",
+        "type": "artist",
+        "uri": "spotify:artist:4aVZNmLEXiIMrNM5GIzRw8"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4q0m55JUumpMjGiLtYsSan",
+    "is_local": false,
+    "name": "Calmative",
+    "preview_url": "https://p.scdn.co/mp3-preview/ec31c944ded807947b02546e17a5f42ba2376d07?cid=811598a754134358878b30bc9c28decd"
+  }
+]
