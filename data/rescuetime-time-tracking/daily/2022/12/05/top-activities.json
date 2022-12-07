@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 352,
+    "Time Spent (seconds)": 377,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -49,6 +49,14 @@
   },
   {
     "Rank": 7,
+    "Time Spent (seconds)": 63,
+    "Number of People": 1,
+    "Activity": "GMail for Android",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 58,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
@@ -56,19 +64,11 @@
     "Productivity": 1
   },
   {
-    "Rank": 8,
+    "Rank": 9,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Activity": "RescueTime for Android",
     "Category": "Intelligence",
     "Productivity": 2
-  },
-  {
-    "Rank": 9,
-    "Time Spent (seconds)": 32,
-    "Number of People": 1,
-    "Activity": "GMail for Android",
-    "Category": "Email",
-    "Productivity": 0
   }
 ]
