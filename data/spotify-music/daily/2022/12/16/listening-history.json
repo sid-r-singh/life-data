@@ -4,6 +4,73 @@
       "artists": [
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          },
+          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "type": "artist",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6leYdBPs1XzfUgpc8xgeSi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273970e7d9a98d483f24a3345b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02970e7d9a98d483f24a3345b6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851970e7d9a98d483f24a3345b6",
+          "width": 64
+        }
+      ],
+      "name": "Life In A Metro (Original Motion Picture Soundtrack)",
+      "release_date": "2007-03-17",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6leYdBPs1XzfUgpc8xgeSi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+        "id": "1wRPtKGflJrBx9BmLsSwlU",
+        "name": "Pritam",
+        "type": "artist",
+        "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6icGUGLUKCVB5esdQXdjiw"
+        },
+        "href": "https://api.spotify.com/v1/artists/6icGUGLUKCVB5esdQXdjiw",
+        "id": "6icGUGLUKCVB5esdQXdjiw",
+        "name": "Soham",
+        "type": "artist",
+        "uri": "spotify:artist:6icGUGLUKCVB5esdQXdjiw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6YycppSAeGtSvwmu8qCcr2",
+    "is_local": false,
+    "name": "In Dino",
+    "preview_url": "https://p.scdn.co/mp3-preview/5ae906179e7d9fcf76305dfcf40b96745660deaa?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1wmoF73GhlylxwAbn9YGYr"
           },
           "href": "https://api.spotify.com/v1/artists/1wmoF73GhlylxwAbn9YGYr",
@@ -989,180 +1056,6 @@
     "is_local": false,
     "name": "Subhanallah",
     "preview_url": "https://p.scdn.co/mp3-preview/ec2b016f66f51ce3c8309686959e4a96c91d2614?cid=811598a754134358878b30bc9c28decd"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-          },
-          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-          "id": "1wRPtKGflJrBx9BmLsSwlU",
-          "name": "Pritam",
-          "type": "artist",
-          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-          },
-          "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
-          "id": "0oOet2f43PA68X5RxKobEy",
-          "name": "Shreya Ghoshal",
-          "type": "artist",
-          "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
-          },
-          "href": "https://api.spotify.com/v1/artists/324yz9K4ufBcGkcgUhTiHH",
-          "id": "324yz9K4ufBcGkcgUhTiHH",
-          "name": "TUSHAR JOSHI",
-          "type": "artist",
-          "uri": "spotify:artist:324yz9K4ufBcGkcgUhTiHH"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/5pjSP9gi3qIDK9NvI0uY88",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273d5bc8c60d74c017ef2cfca14",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02d5bc8c60d74c017ef2cfca14",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851d5bc8c60d74c017ef2cfca14",
-          "width": 64
-        }
-      ],
-      "name": "Rasiya (From \"Brahmastra\")",
-      "release_date": "2022-09-24",
-      "release_date_precision": "day",
-      "total_tracks": 1,
-      "type": "album",
-      "uri": "spotify:album:5pjSP9gi3qIDK9NvI0uY88"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-        "id": "1wRPtKGflJrBx9BmLsSwlU",
-        "name": "Pritam",
-        "type": "artist",
-        "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
-        "id": "0oOet2f43PA68X5RxKobEy",
-        "name": "Shreya Ghoshal",
-        "type": "artist",
-        "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
-        },
-        "href": "https://api.spotify.com/v1/artists/324yz9K4ufBcGkcgUhTiHH",
-        "id": "324yz9K4ufBcGkcgUhTiHH",
-        "name": "TUSHAR JOSHI",
-        "type": "artist",
-        "uri": "spotify:artist:324yz9K4ufBcGkcgUhTiHH"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/4Hv055xg1SZZgwwGBx8Cr5",
-    "is_local": false,
-    "name": "Rasiya (From \"Brahmastra\")",
-    "preview_url": "https://p.scdn.co/mp3-preview/208a33dd344ad7a14e55c51fa076dde73440b18c?cid=811598a754134358878b30bc9c28decd"
-  },
-  {
-    "album": {
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-          },
-          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-          "id": "1wRPtKGflJrBx9BmLsSwlU",
-          "name": "Pritam",
-          "type": "artist",
-          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
-        }
-      ],
-      "href": "https://api.spotify.com/v1/albums/6IXfWhC7omotM4lt0ROmEr",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273095191f6b96fd9eff585befc",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02095191f6b96fd9eff585befc",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851095191f6b96fd9eff585befc",
-          "width": 64
-        }
-      ],
-      "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
-      "release_date": "2020-02-14",
-      "release_date_precision": "day",
-      "total_tracks": 11,
-      "type": "album",
-      "uri": "spotify:album:6IXfWhC7omotM4lt0ROmEr"
-    },
-    "artists": [
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-        "id": "1wRPtKGflJrBx9BmLsSwlU",
-        "name": "Pritam",
-        "type": "artist",
-        "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        },
-        "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-        "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-        "name": "Darshan Raval",
-        "type": "artist",
-        "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
-      },
-      {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
-        },
-        "href": "https://api.spotify.com/v1/artists/2UwDJeoMqYers5Jmm75zm2",
-        "id": "2UwDJeoMqYers5Jmm75zm2",
-        "name": "Antara Mitra",
-        "type": "artist",
-        "uri": "spotify:artist:2UwDJeoMqYers5Jmm75zm2"
-      }
-    ],
-    "explicit": false,
-    "href": "https://api.spotify.com/v1/tracks/6cUOiOY5qh2FpIQWIYAd2h",
-    "is_local": false,
-    "name": "Mehrama",
-    "preview_url": "https://p.scdn.co/mp3-preview/31c4008b5746df6145b5d540e7b6c1520f01d35e?cid=811598a754134358878b30bc9c28decd"
   },
   {
     "album": {
