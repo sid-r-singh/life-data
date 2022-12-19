@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 679,
+    "Time Spent (seconds)": 7333,
     "Number of People": 1,
     "Activity": "Firefox Android",
     "Category": "Browsers",
@@ -9,6 +9,22 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 4821,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 461,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 324,
     "Number of People": 1,
     "Activity": "mobile - com.amazon.avod.thirdpartyclient",
@@ -16,26 +32,66 @@
     "Productivity": -2
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 130,
+    "Rank": 5,
+    "Time Spent (seconds)": 264,
     "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "mobile - com.spotify.lite",
+    "Category": "Music",
+    "Productivity": -2
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 90,
+    "Rank": 6,
+    "Time Spent (seconds)": 254,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
     "Category": "Voice Chat",
     "Productivity": 1
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 53,
+    "Rank": 7,
+    "Time Spent (seconds)": 146,
     "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
+    "Activity": "mobile - com.phonepe.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 137,
+    "Number of People": 1,
+    "Activity": "mobile - com.downlood.sav.whmedia",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 134,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 103,
+    "Number of People": 1,
+    "Activity": "GMail for Android",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "Outlook for Android",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "Android Settings",
     "Category": "General Utilities",
     "Productivity": 1
   }

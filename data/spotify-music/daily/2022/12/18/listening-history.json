@@ -1,0 +1,223 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gdMJYnopf2nEUcanAwstx",
+          "id": "4gdMJYnopf2nEUcanAwstx",
+          "name": "Anuv Jain",
+          "type": "artist",
+          "uri": "spotify:artist:4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4ysOhipyMXKstywus51VXS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27361694f071d402a10931d671e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0261694f071d402a10931d671e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485161694f071d402a10931d671e",
+          "width": 64
+        }
+      ],
+      "name": "Baarishein",
+      "release_date": "2018-01-12",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4ysOhipyMXKstywus51VXS"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        },
+        "href": "https://api.spotify.com/v1/artists/4gdMJYnopf2nEUcanAwstx",
+        "id": "4gdMJYnopf2nEUcanAwstx",
+        "name": "Anuv Jain",
+        "type": "artist",
+        "uri": "spotify:artist:4gdMJYnopf2nEUcanAwstx"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5iCY0TXNImK4hyKfcplQsg",
+    "is_local": false,
+    "name": "Baarishein",
+    "preview_url": "https://p.scdn.co/mp3-preview/66896f23a4c6c334e6fd2a7f5f3faa2e894df43e?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+          },
+          "href": "https://api.spotify.com/v1/artists/4W91bbPB2CTSsHwt7eqNl7",
+          "id": "4W91bbPB2CTSsHwt7eqNl7",
+          "name": "Javed Ali",
+          "type": "artist",
+          "uri": "spotify:artist:4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+          },
+          "href": "https://api.spotify.com/v1/artists/5sSzCxHtgL82pYDvx2QyEU",
+          "id": "5sSzCxHtgL82pYDvx2QyEU",
+          "name": "Devi Sri Prasad",
+          "type": "artist",
+          "uri": "spotify:artist:5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0o80h7hMTz2wjzJSvckOcr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738074d75f0e453804efcec351",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028074d75f0e453804efcec351",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518074d75f0e453804efcec351",
+          "width": 64
+        }
+      ],
+      "name": "Srivalli (From \"Pushpa The Rise Part - 01\")",
+      "release_date": "2021-12-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0o80h7hMTz2wjzJSvckOcr"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        "href": "https://api.spotify.com/v1/artists/4W91bbPB2CTSsHwt7eqNl7",
+        "id": "4W91bbPB2CTSsHwt7eqNl7",
+        "name": "Javed Ali",
+        "type": "artist",
+        "uri": "spotify:artist:4W91bbPB2CTSsHwt7eqNl7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        "href": "https://api.spotify.com/v1/artists/5sSzCxHtgL82pYDvx2QyEU",
+        "id": "5sSzCxHtgL82pYDvx2QyEU",
+        "name": "Devi Sri Prasad",
+        "type": "artist",
+        "uri": "spotify:artist:5sSzCxHtgL82pYDvx2QyEU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7sVEoPc5ZUUQerRkgTypUZ",
+    "is_local": false,
+    "name": "Srivalli (From \"Pushpa The Rise Part - 01\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/513c79a6bcf41d75e0f9c7441b8709c3f7f34d7e?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/48VomBCSqAsYmxI3C3TNSC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a6dd88a097d77eaa6a5f517f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a6dd88a097d77eaa6a5f517f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a6dd88a097d77eaa6a5f517f",
+          "width": 64
+        }
+      ],
+      "name": "Doobey (From \"Gehraiyaan\")",
+      "release_date": "2022-01-24",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:48VomBCSqAsYmxI3C3TNSC"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR"
+        },
+        "href": "https://api.spotify.com/v1/artists/2k66ibJfgMigF5QWqUgLyR",
+        "id": "2k66ibJfgMigF5QWqUgLyR",
+        "name": "OAFF",
+        "type": "artist",
+        "uri": "spotify:artist:2k66ibJfgMigF5QWqUgLyR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb"
+        },
+        "href": "https://api.spotify.com/v1/artists/3CVXA5TAWpmfGPqyMqXpPb",
+        "id": "3CVXA5TAWpmfGPqyMqXpPb",
+        "name": "Savera",
+        "type": "artist",
+        "uri": "spotify:artist:3CVXA5TAWpmfGPqyMqXpPb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX"
+        },
+        "href": "https://api.spotify.com/v1/artists/7yZDrVInKssNCaZkAkQGTX",
+        "id": "7yZDrVInKssNCaZkAkQGTX",
+        "name": "Lothika",
+        "type": "artist",
+        "uri": "spotify:artist:7yZDrVInKssNCaZkAkQGTX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        },
+        "href": "https://api.spotify.com/v1/artists/3GBSge8pq7mpezUQl0GAOA",
+        "id": "3GBSge8pq7mpezUQl0GAOA",
+        "name": "Kausar Munir",
+        "type": "artist",
+        "uri": "spotify:artist:3GBSge8pq7mpezUQl0GAOA"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7MBqVOzb8C3f0FXr2LBLiq",
+    "is_local": false,
+    "name": "Doobey (From \"Gehraiyaan\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/3d5cef60c4e0a64f2121484b3c26fc2e4e59b576?cid=811598a754134358878b30bc9c28decd"
+  }
+]
