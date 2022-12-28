@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 6569,
+    "Time Spent (seconds)": 6638,
     "Number of People": 1,
     "Activity": "Twitter for Android",
     "Category": "General Social Networking",
@@ -17,6 +17,14 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 251,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 233,
     "Number of People": 1,
     "Activity": "Firefox Android",
@@ -24,7 +32,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 4,
+    "Rank": 5,
     "Time Spent (seconds)": 215,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
@@ -32,15 +40,15 @@
     "Productivity": -1
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 214,
+    "Rank": 6,
+    "Time Spent (seconds)": 130,
     "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 61,
     "Number of People": 1,
     "Activity": "mobile - com.sec.android.app.clockpackage",
@@ -48,20 +56,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 7,
+    "Rank": 8,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
     "Category": "Voice Chat",
     "Productivity": 1
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 16,
-    "Number of People": 1,
-    "Activity": "Telegram Messenger",
-    "Category": "Instant Message",
-    "Productivity": -1
   },
   {
     "Rank": 9,

@@ -190,13 +190,23 @@
     "Business": 21
   },
   "26": {
-    "Social Networking": 6569,
+    "Social Networking": 6638,
     "Shopping": 1212,
-    "Utilities": 514,
-    "Communication & Scheduling": 250
+    "Utilities": 551,
+    "Communication & Scheduling": 364
   },
-  "27": {},
-  "28": {},
+  "27": {
+    "Utilities": 5383,
+    "Social Networking": 3351,
+    "Shopping": 1128,
+    "Communication & Scheduling": 847,
+    "Entertainment": 40,
+    "Reference & Learning": 16
+  },
+  "28": {
+    "Utilities": 32,
+    "Communication & Scheduling": 11
+  },
   "29": {},
   "30": {}
 }
