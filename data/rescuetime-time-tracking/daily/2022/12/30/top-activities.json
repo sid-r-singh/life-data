@@ -9,6 +9,22 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 116,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 58,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "stackoverflow.com",
@@ -16,7 +32,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 3,
+    "Rank": 5,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
     "Activity": "google.co.in",
@@ -24,7 +40,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 4,
+    "Rank": 6,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "docs.github.com",
@@ -32,7 +48,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 5,
+    "Rank": 7,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "newtab",
