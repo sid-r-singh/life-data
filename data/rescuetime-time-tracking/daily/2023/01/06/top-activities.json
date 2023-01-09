@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 296,
+    "Time Spent (seconds)": 302,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 186,
+    "Time Spent (seconds)": 201,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -25,6 +25,14 @@
   },
   {
     "Rank": 4,
+    "Time Spent (seconds)": 103,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
     "Activity": "mobile - com.phonepe.app",
@@ -32,7 +40,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 6,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.messaging",
@@ -40,7 +48,7 @@
     "Productivity": -1
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "S Finder",
@@ -48,7 +56,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 7,
+    "Rank": 8,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "Android Settings",
