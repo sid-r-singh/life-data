@@ -9,22 +9,30 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1339,
+    "Time Spent (seconds)": 1877,
+    "Number of People": 1,
+    "Activity": "mobile - com.brave.browser",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1522,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 877,
+    "Rank": 4,
+    "Time Spent (seconds)": 937,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 4,
+    "Rank": 5,
     "Time Spent (seconds)": 604,
     "Number of People": 1,
     "Activity": "Firefox Android",
@@ -32,7 +40,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 6,
     "Time Spent (seconds)": 480,
     "Number of People": 1,
     "Activity": "Github",
@@ -40,7 +48,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 327,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
@@ -48,7 +56,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 7,
+    "Rank": 8,
     "Time Spent (seconds)": 274,
     "Number of People": 1,
     "Activity": "GMail for Android",
@@ -56,7 +64,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 9,
     "Time Spent (seconds)": 262,
     "Number of People": 1,
     "Activity": "mobile - com.x8bit.bitwarden",
@@ -64,20 +72,12 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 84,
     "Number of People": 1,
     "Activity": "Play Store",
     "Category": "General Shopping",
     "Productivity": -2
-  },
-  {
-    "Rank": 10,
-    "Time Spent (seconds)": 80,
-    "Number of People": 1,
-    "Activity": "mobile - com.brave.browser",
-    "Category": "Browsers",
-    "Productivity": 0
   },
   {
     "Rank": 11,
@@ -134,5 +134,13 @@
     "Activity": "Google Play Services",
     "Category": "General Shopping",
     "Productivity": -2
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
   }
 ]
