@@ -1,6 +1,22 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 654,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 528,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 211,
     "Number of People": 1,
     "Activity": "dash.cloudflare.com",
@@ -8,7 +24,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 2,
+    "Rank": 4,
+    "Time Spent (seconds)": 198,
+    "Number of People": 1,
+    "Activity": "Twitter for Android",
+    "Category": "General Social Networking",
+    "Productivity": -2
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 170,
     "Number of People": 1,
     "Activity": "toolbox.googleapps.com",
@@ -16,7 +40,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 3,
+    "Rank": 6,
     "Time Spent (seconds)": 162,
     "Number of People": 1,
     "Activity": "support.rebrandly.com",
@@ -24,7 +48,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 4,
+    "Rank": 7,
     "Time Spent (seconds)": 131,
     "Number of People": 1,
     "Activity": "bitly.com",
@@ -32,7 +56,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 5,
+    "Rank": 8,
     "Time Spent (seconds)": 121,
     "Number of People": 1,
     "Activity": "app.rebrandly.com",
@@ -40,7 +64,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 6,
+    "Rank": 9,
+    "Time Spent (seconds)": 116,
+    "Number of People": 1,
+    "Activity": "mobile - com.brave.browser",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 102,
+    "Number of People": 1,
+    "Activity": "Flipkart",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 97,
     "Number of People": 1,
     "Activity": "Github",
@@ -48,15 +88,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 91,
+    "Rank": 12,
+    "Time Spent (seconds)": 70,
     "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "mobile - in.amazon.mshop.android.shopping",
+    "Category": "General Shopping",
+    "Productivity": -2
   },
   {
-    "Rank": 8,
+    "Rank": 13,
     "Time Spent (seconds)": 69,
     "Number of People": 1,
     "Activity": "oauth.rebrandly.com",
@@ -64,7 +104,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 9,
+    "Rank": 14,
+    "Time Spent (seconds)": 60,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 56,
     "Number of People": 1,
     "Activity": "mbrn.in",
@@ -72,7 +120,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 16,
     "Time Spent (seconds)": 53,
     "Number of People": 1,
     "Activity": "newtab",
@@ -80,7 +128,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 17,
+    "Time Spent (seconds)": 44,
+    "Number of People": 1,
+    "Activity": "YouTube for Android",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
     "Activity": "google.co.in",
@@ -88,15 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 28,
-    "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 13,
+    "Rank": 19,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "go.mbrn.in",
@@ -104,7 +152,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 14,
+    "Rank": 20,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "iplocation.net",
@@ -112,7 +160,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 15,
+    "Rank": 21,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -120,7 +168,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 16,
+    "Rank": 22,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "mega.nz",
@@ -128,7 +176,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 17,
+    "Rank": 23,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "104.21.72.70",
@@ -136,7 +184,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 18,
+    "Rank": 24,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -144,15 +192,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 19,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Activity": "app.short.io",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 20,
+    "Rank": 25,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -160,15 +200,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 21,
+    "Rank": 26,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "mobile - com.brave.browser",
-    "Category": "Browsers",
+    "Activity": "app.short.io",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 22,
+    "Rank": 27,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 28,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "52.72.49.79",
@@ -176,7 +224,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 23,
+    "Rank": 29,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "rebrandly.zendesk.com",
@@ -184,7 +232,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 24,
+    "Rank": 30,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 31,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "rebrandly.com",
