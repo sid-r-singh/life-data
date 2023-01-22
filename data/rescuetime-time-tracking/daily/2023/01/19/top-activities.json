@@ -1,34 +1,106 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 99,
+    "Time Spent (seconds)": 611,
+    "Number of People": 1,
+    "Activity": "mobile - com.brave.browser",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 532,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 512,
     "Number of People": 1,
     "Activity": "Firefox Android",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 49,
+    "Rank": 4,
+    "Time Spent (seconds)": 200,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 21,
+    "Rank": 5,
+    "Time Spent (seconds)": 195,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 4,
+    "Rank": 6,
+    "Time Spent (seconds)": 72,
+    "Number of People": 1,
+    "Activity": "Microsoft Word for Tablet",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Activity": "mobile - com.x8bit.bitwarden",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Activity": "Google Keep",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "GMail for Android",
     "Category": "Email",
     "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "K-9 Mail",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.app.telephonyui",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
   }
 ]

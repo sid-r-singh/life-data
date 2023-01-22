@@ -1,0 +1,59 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1wmoF73GhlylxwAbn9YGYr"
+          },
+          "href": "https://api.spotify.com/v1/artists/1wmoF73GhlylxwAbn9YGYr",
+          "id": "1wmoF73GhlylxwAbn9YGYr",
+          "name": "Prashant Katheriya",
+          "type": "artist",
+          "uri": "spotify:artist:1wmoF73GhlylxwAbn9YGYr"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3EvyrQbcYUbye2DxYDhv8b",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27305b6eb73376a6d9b200450d9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0205b6eb73376a6d9b200450d9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485105b6eb73376a6d9b200450d9",
+          "width": 64
+        }
+      ],
+      "name": "Dreams Revisited (Short Version)",
+      "release_date": "2022-09-02",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:3EvyrQbcYUbye2DxYDhv8b"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1wmoF73GhlylxwAbn9YGYr"
+        },
+        "href": "https://api.spotify.com/v1/artists/1wmoF73GhlylxwAbn9YGYr",
+        "id": "1wmoF73GhlylxwAbn9YGYr",
+        "name": "Prashant Katheriya",
+        "type": "artist",
+        "uri": "spotify:artist:1wmoF73GhlylxwAbn9YGYr"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2TcRvzS7C22LePsokUOHnn",
+    "is_local": false,
+    "name": "Jiske Aane Se Mukammal",
+    "preview_url": "https://p.scdn.co/mp3-preview/b14d72e08dcf6ca7ff9ef971f1f9a77c801697a6?cid=811598a754134358878b30bc9c28decd"
+  }
+]
