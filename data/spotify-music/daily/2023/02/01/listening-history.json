@@ -1,0 +1,109 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          },
+          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "type": "artist",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+          },
+          "href": "https://api.spotify.com/v1/artists/2fMqTqiTxUDlmcOEPaQSsx",
+          "id": "2fMqTqiTxUDlmcOEPaQSsx",
+          "name": "Amitabh Bhattacharya",
+          "type": "artist",
+          "uri": "spotify:artist:2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6zwucxlWusEUCZt6DeQJCu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27348988194ba040796bf8033d4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0248988194ba040796bf8033d4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485148988194ba040796bf8033d4",
+          "width": 64
+        }
+      ],
+      "name": "Deva Deva (From \"Brahmastra\")",
+      "release_date": "2022-08-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6zwucxlWusEUCZt6DeQJCu"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+        "id": "1wRPtKGflJrBx9BmLsSwlU",
+        "name": "Pritam",
+        "type": "artist",
+        "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "type": "artist",
+        "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        "href": "https://api.spotify.com/v1/artists/2fMqTqiTxUDlmcOEPaQSsx",
+        "id": "2fMqTqiTxUDlmcOEPaQSsx",
+        "name": "Amitabh Bhattacharya",
+        "type": "artist",
+        "uri": "spotify:artist:2fMqTqiTxUDlmcOEPaQSsx"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        "href": "https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU",
+        "id": "00sCATpEvwH48ays7PlQFU",
+        "name": "Jonita Gandhi",
+        "type": "artist",
+        "uri": "spotify:artist:00sCATpEvwH48ays7PlQFU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0IGXY47K2ha3AHfX57wY1O",
+    "is_local": false,
+    "name": "Deva Deva (From \"Brahmastra\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/74528de23c80f8796fdc80f86251410613c09b4c?cid=811598a754134358878b30bc9c28decd"
+  }
+]
