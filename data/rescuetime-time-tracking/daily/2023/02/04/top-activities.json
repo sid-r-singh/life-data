@@ -1,14 +1,30 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1736,
+    "Time Spent (seconds)": 19650,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 2674,
     "Number of People": 1,
     "Activity": "Twitter for Android",
     "Category": "General Social Networking",
     "Productivity": -2
   },
   {
-    "Rank": 2,
+    "Rank": 3,
+    "Time Spent (seconds)": 1113,
+    "Number of People": 1,
+    "Activity": "mobile - com.spotify.lite",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 788,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -16,15 +32,47 @@
     "Productivity": 0
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 755,
+    "Rank": 5,
+    "Time Spent (seconds)": 686,
     "Number of People": 1,
-    "Activity": "Firefox Android",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 4,
+    "Rank": 6,
+    "Time Spent (seconds)": 592,
+    "Number of People": 1,
+    "Activity": "MX Video Player",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 515,
+    "Number of People": 1,
+    "Activity": "MyFiles - Samsung Android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 463,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 381,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 327,
     "Number of People": 1,
     "Activity": "axisbank.com",
@@ -32,7 +80,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 5,
+    "Rank": 11,
     "Time Spent (seconds)": 319,
     "Number of People": 1,
     "Activity": "mobile - com.meditation.tracker.android",
@@ -40,7 +88,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 6,
+    "Rank": 12,
+    "Time Spent (seconds)": 308,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.pdfviewer",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 267,
     "Number of People": 1,
     "Activity": "upskill.manipalbfsi.com",
@@ -48,7 +104,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
+    "Rank": 14,
+    "Time Spent (seconds)": 209,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 114,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.video",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 16,
     "Time Spent (seconds)": 105,
     "Number of People": 1,
     "Activity": "axisbank.ripplehire.com",
@@ -56,7 +128,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 17,
     "Time Spent (seconds)": 88,
     "Number of People": 1,
     "Activity": "trampolinetech.ripplehire.com",
@@ -64,15 +136,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 65,
+    "Rank": 18,
+    "Time Spent (seconds)": 87,
     "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
-    "Category": "General Utilities",
+    "Activity": "mobile - com.pcloud.pcloud",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 85,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
     "Productivity": 1
   },
   {
-    "Rank": 10,
+    "Rank": 20,
+    "Time Spent (seconds)": 83,
+    "Number of People": 1,
+    "Activity": "GMail for Android",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 21,
     "Time Spent (seconds)": 64,
     "Number of People": 1,
     "Activity": "ripplehire.com",
@@ -80,15 +168,79 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 17,
+    "Rank": 22,
+    "Time Spent (seconds)": 37,
     "Number of People": 1,
-    "Activity": "Telegram Messenger",
+    "Activity": "mobile - com.samsung.android.messaging",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 12,
+    "Rank": 23,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.packageinstaller",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "S Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "mobile - com.dreamplug.androidapp",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "Calculator",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "mobile - us.zoom.videomeetings",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.dialer",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.samsungpass",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 31,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "mobile - com.google.android.permissioncontroller",
@@ -96,15 +248,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 13,
+    "Rank": 32,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "Samsung Notes",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
-    "Rank": 14,
+    "Rank": 33,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "omni.axisbank.co.in",
@@ -112,15 +264,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 15,
-    "Time Spent (seconds)": 5,
+    "Rank": 34,
+    "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "mobile - com.pcloud.pcloud",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "mobile - com.sec.android.daemonapp",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 16,
+    "Rank": 35,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "web.whatsapp.com",
