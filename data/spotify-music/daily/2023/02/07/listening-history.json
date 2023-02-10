@@ -1,0 +1,89 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl"
+          },
+          "href": "https://api.spotify.com/v1/artists/2kkQthS9OLpK4UqNWYqoVl",
+          "id": "2kkQthS9OLpK4UqNWYqoVl",
+          "name": "Jeet Gannguli",
+          "type": "artist",
+          "uri": "spotify:artist:2kkQthS9OLpK4UqNWYqoVl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+          },
+          "href": "https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6",
+          "id": "09UmIX92EUH9hAK4bxvHx6",
+          "name": "Mithoon",
+          "type": "artist",
+          "uri": "spotify:artist:09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ugsiK49gIkIVh8U93EO0z",
+          "id": "5ugsiK49gIkIVh8U93EO0z",
+          "name": "Ami Mishra",
+          "type": "artist",
+          "uri": "spotify:artist:5ugsiK49gIkIVh8U93EO0z"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7sVzilmsqYcLMYw2gtvoZM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b0f9ceb59927ab76fe6269be",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b0f9ceb59927ab76fe6269be",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b0f9ceb59927ab76fe6269be",
+          "width": 64
+        }
+      ],
+      "name": "Hamari Adhuri Kahani (Original Motion Picture Soundtrack)",
+      "release_date": "2015-05-21",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:7sVzilmsqYcLMYw2gtvoZM"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl"
+        },
+        "href": "https://api.spotify.com/v1/artists/2kkQthS9OLpK4UqNWYqoVl",
+        "id": "2kkQthS9OLpK4UqNWYqoVl",
+        "name": "Jeet Gannguli",
+        "type": "artist",
+        "uri": "spotify:artist:2kkQthS9OLpK4UqNWYqoVl"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "type": "artist",
+        "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3HiobOOpSpMsi95WBKPBYk",
+    "is_local": false,
+    "name": "Hamari Adhuri Kahani (Title Track)",
+    "preview_url": "https://p.scdn.co/mp3-preview/412d8630498907c21dbaf9b1d4fbb3f1ea66dc0b?cid=811598a754134358878b30bc9c28decd"
+  }
+]

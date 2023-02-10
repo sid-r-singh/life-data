@@ -1,22 +1,406 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 332,
+    "Time Spent (seconds)": 17478,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 2306,
+    "Number of People": 1,
+    "Activity": "mobile - com.sbi.lotusintouch",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1813,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1767,
+    "Number of People": 1,
+    "Activity": "YouTube for Android",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 1726,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 919,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 896,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 805,
+    "Number of People": 1,
+    "Activity": "notion.so",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 608,
+    "Number of People": 1,
+    "Activity": "Google Chrome for Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 539,
+    "Number of People": 1,
+    "Activity": "odishatreasury.gov.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 529,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 450,
     "Number of People": 1,
     "Activity": "hdfcbank.com",
     "Category": "General Business",
     "Productivity": 2
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 208,
+    "Rank": 13,
+    "Time Spent (seconds)": 435,
+    "Number of People": 1,
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 379,
+    "Number of People": 1,
+    "Activity": "open.spotify.com",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 359,
+    "Number of People": 1,
+    "Activity": "stackoverflow.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 358,
+    "Number of People": 1,
+    "Activity": "Google Music Player for Android",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 350,
+    "Number of People": 1,
+    "Activity": "irctc.co.in",
+    "Category": "Travel & Outdoors",
+    "Productivity": -2
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 349,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 339,
+    "Number of People": 1,
+    "Activity": "linuxfordevices.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 330,
+    "Number of People": 1,
+    "Activity": "web.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 309,
+    "Number of People": 1,
+    "Activity": "app.capacities.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 286,
+    "Number of People": 1,
+    "Activity": "GMail for Android",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 271,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.pdfviewer",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 271,
+    "Number of People": 1,
+    "Activity": "mina.codes",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 263,
+    "Number of People": 1,
+    "Activity": "klise.vercel.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 261,
+    "Number of People": 1,
+    "Activity": "ndtv.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 246,
+    "Number of People": 1,
+    "Activity": "muhammadyusufengineer.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 219,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.dialer",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 219,
+    "Number of People": 1,
+    "Activity": "labs.openai.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 209,
     "Number of People": 1,
     "Activity": "axisbank.com",
     "Category": "General Business",
     "Productivity": 2
   },
   {
-    "Rank": 3,
+    "Rank": 31,
+    "Time Spent (seconds)": 176,
+    "Number of People": 1,
+    "Activity": "samirpaul.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 169,
+    "Number of People": 1,
+    "Activity": "thelallantop.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 163,
+    "Number of People": 1,
+    "Activity": "mobile - com.spotify.lite",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 158,
+    "Number of People": 1,
+    "Activity": "dashboard.heroku.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 156,
+    "Number of People": 1,
+    "Activity": "vmaker.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 36,
+    "Time Spent (seconds)": 149,
+    "Number of People": 1,
+    "Activity": "chat.openai.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 37,
+    "Time Spent (seconds)": 138,
+    "Number of People": 1,
+    "Activity": "meetfranz.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 38,
+    "Time Spent (seconds)": 138,
+    "Number of People": 1,
+    "Activity": "chirpy.cotes.page",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 39,
+    "Time Spent (seconds)": 117,
+    "Number of People": 1,
+    "Activity": "Play Store",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 40,
+    "Time Spent (seconds)": 116,
+    "Number of People": 1,
+    "Activity": "capacities.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 113,
+    "Number of People": 1,
+    "Activity": "bing.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 112,
+    "Number of People": 1,
+    "Activity": "id.heroku.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 43,
+    "Time Spent (seconds)": 99,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 44,
+    "Time Spent (seconds)": 95,
+    "Number of People": 1,
+    "Activity": "rambox.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 90,
+    "Number of People": 1,
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 46,
+    "Time Spent (seconds)": 84,
+    "Number of People": 1,
+    "Activity": "askpython.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 47,
+    "Time Spent (seconds)": 83,
+    "Number of People": 1,
+    "Activity": "indiatoday.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 48,
+    "Time Spent (seconds)": 81,
+    "Number of People": 1,
+    "Activity": "reddit.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 49,
+    "Time Spent (seconds)": 79,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 50,
+    "Time Spent (seconds)": 79,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 51,
     "Time Spent (seconds)": 79,
     "Number of People": 1,
     "Activity": "rbi.org.in",
@@ -24,19 +408,395 @@
     "Productivity": 1
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 28,
+    "Rank": 52,
+    "Time Spent (seconds)": 76,
     "Number of People": 1,
-    "Activity": "google.co.in",
-    "Category": "Search",
+    "Activity": "Camera - Samsung Android Phone",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 53,
+    "Time Spent (seconds)": 73,
+    "Number of People": 1,
+    "Activity": "deskgap.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 54,
+    "Time Spent (seconds)": 71,
+    "Number of People": 1,
+    "Activity": "verify.salesforce.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 55,
+    "Time Spent (seconds)": 70,
+    "Number of People": 1,
+    "Activity": "mobile - com.phonepe.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 56,
+    "Time Spent (seconds)": 70,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 57,
+    "Time Spent (seconds)": 67,
+    "Number of People": 1,
+    "Activity": "omglinux.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 58,
+    "Time Spent (seconds)": 64,
+    "Number of People": 1,
+    "Activity": "mobile - com.sbi.sbifreedomplus",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 59,
+    "Time Spent (seconds)": 63,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 60,
+    "Time Spent (seconds)": 61,
+    "Number of People": 1,
+    "Activity": "help.heroku.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 61,
+    "Time Spent (seconds)": 59,
+    "Number of People": 1,
+    "Activity": "devcenter.heroku.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 62,
+    "Time Spent (seconds)": 55,
+    "Number of People": 1,
+    "Activity": "Authy for Android",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 63,
+    "Time Spent (seconds)": 52,
+    "Number of People": 1,
+    "Activity": "codeforgeek.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 64,
+    "Time Spent (seconds)": 45,
+    "Number of People": 1,
+    "Activity": "highlights.mina.codes",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 65,
+    "Time Spent (seconds)": 44,
+    "Number of People": 1,
+    "Activity": "wired.com",
+    "Category": "Science & Technology",
+    "Productivity": -1
+  },
+  {
+    "Rank": 66,
+    "Time Spent (seconds)": 44,
+    "Number of People": 1,
+    "Activity": "indianexpress.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 67,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Activity": "geeksforgeeks.org",
+    "Category": "Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 68,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Activity": "blog.devgenius.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 69,
+    "Time Spent (seconds)": 36,
+    "Number of People": 1,
+    "Activity": "Calculator",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 70,
+    "Time Spent (seconds)": 36,
+    "Number of People": 1,
+    "Activity": "in.linkedin.com",
+    "Category": "Professional Networking",
+    "Productivity": 1
+  },
+  {
+    "Rank": 71,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "portfolio-webflow-html-website-template.webflow.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 72,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.messaging",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 73,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Activity": "S Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 74,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "auth0.openai.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 75,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Activity": "getstation.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 76,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "wavebox.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 77,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "zero-to-nix.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 78,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Activity": "metadock.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 79,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "maximus.axisbank.co.in",
     "Category": "General Business",
     "Productivity": 2
+  },
+  {
+    "Rank": 80,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 81,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "fiverr.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 82,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "skillshare.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 83,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "news.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 84,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "a.storyblok.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 85,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 86,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "accounts.spotify.com",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 87,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "hillaryclinton.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 88,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "bundler.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 89,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "data.heroku.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 90,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "azuriom.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 91,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "samir.pages.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 92,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "hulu.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 93,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "medium.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 94,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 95,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "t.co",
+    "Category": "General Social Networking",
+    "Productivity": -2
+  },
+  {
+    "Rank": 96,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "openai.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 97,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "blog.byte.builders",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 98,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "admin.rambox.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 99,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.permissioncontroller",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 100,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "samirpaul.is-a.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]
