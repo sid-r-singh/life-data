@@ -1,6 +1,22 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 5871,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 2858,
+    "Number of People": 1,
+    "Activity": "YouTube for Android",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 2150,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -8,23 +24,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 987,
-    "Number of People": 1,
-    "Activity": "Firefox Android",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 360,
+    "Rank": 4,
+    "Time Spent (seconds)": 966,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 4,
+    "Rank": 5,
+    "Time Spent (seconds)": 596,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 335,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 249,
     "Number of People": 1,
     "Activity": "GMail for Android",
@@ -32,7 +56,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 8,
+    "Time Spent (seconds)": 195,
+    "Number of People": 1,
+    "Activity": "mobile - com.sbi.sbifreedomplus",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 194,
     "Number of People": 1,
     "Activity": "Camera - Samsung Android Phone",
@@ -40,15 +72,23 @@
     "Productivity": -2
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 171,
+    "Rank": 10,
+    "Time Spent (seconds)": 163,
     "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "mobile - com.jio.myjio",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 7,
+    "Rank": 11,
+    "Time Spent (seconds)": 126,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 50,
     "Number of People": 1,
     "Activity": "hugo-blog-awesome.netlify.app",
@@ -56,15 +96,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 47,
+    "Rank": 13,
+    "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "Telegram Messenger",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 9,
+    "Rank": 14,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.messaging",
