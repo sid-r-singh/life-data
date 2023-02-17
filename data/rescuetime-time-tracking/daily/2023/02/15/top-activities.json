@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 10462,
+    "Time Spent (seconds)": 27168,
     "Number of People": 1,
     "Activity": "Firefox Android",
     "Category": "Browsers",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 905,
+    "Time Spent (seconds)": 1000,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
@@ -17,23 +17,23 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 356,
+    "Time Spent (seconds)": 984,
     "Number of People": 1,
-    "Activity": "pagespeed.web.dev",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 162,
-    "Number of People": 1,
-    "Activity": "Android Gallery",
-    "Category": "Photos",
+    "Activity": "YouTube for Android",
+    "Category": "Video",
     "Productivity": -2
   },
   {
+    "Rank": 4,
+    "Time Spent (seconds)": 919,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
     "Rank": 5,
-    "Time Spent (seconds)": 128,
+    "Time Spent (seconds)": 806,
     "Number of People": 1,
     "Activity": "Telegram Messenger",
     "Category": "Instant Message",
@@ -41,22 +41,62 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 77,
+    "Time Spent (seconds)": 579,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 356,
+    "Number of People": 1,
+    "Activity": "pagespeed.web.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 323,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 37,
+    "Rank": 9,
+    "Time Spent (seconds)": 123,
     "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "mobile - com.samsung.android.dialer",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 10,
+    "Time Spent (seconds)": 77,
+    "Number of People": 1,
+    "Activity": "mobile - com.phonepe.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "GMail for Android",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.app.contacts",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "Camera - Samsung Android Phone",
@@ -64,7 +104,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 9,
+    "Rank": 14,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "mobile - com.sec.android.mimage.photoretouching",
@@ -72,7 +120,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 10,
+    "Rank": 16,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 17,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "newtab",
