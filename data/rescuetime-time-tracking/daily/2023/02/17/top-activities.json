@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3827,
+    "Time Spent (seconds)": 7300,
     "Number of People": 1,
     "Activity": "Firefox Android",
     "Category": "Browsers",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 727,
+    "Time Spent (seconds)": 1143,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
@@ -25,15 +25,15 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 202,
+    "Time Spent (seconds)": 703,
     "Number of People": 1,
-    "Activity": "mobile - com.sbi.lotusintouch",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 171,
+    "Time Spent (seconds)": 351,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -41,6 +41,14 @@
   },
   {
     "Rank": 6,
+    "Time Spent (seconds)": 202,
+    "Number of People": 1,
+    "Activity": "mobile - com.sbi.lotusintouch",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 163,
     "Number of People": 1,
     "Activity": "mobile - com.sbi.sbifreedomplus",
@@ -48,16 +56,8 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 97,
-    "Number of People": 1,
-    "Activity": "Play Store",
-    "Category": "General Shopping",
-    "Productivity": -2
-  },
-  {
     "Rank": 8,
-    "Time Spent (seconds)": 66,
+    "Time Spent (seconds)": 162,
     "Number of People": 1,
     "Activity": "Google Keep",
     "Category": "General Reference & Learning",
@@ -65,11 +65,11 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 38,
+    "Time Spent (seconds)": 97,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.incallui",
-    "Category": "Voice Chat",
-    "Productivity": 1
+    "Activity": "Play Store",
+    "Category": "General Shopping",
+    "Productivity": -2
   },
   {
     "Rank": 10,
@@ -86,5 +86,21 @@
     "Activity": "S Finder",
     "Category": "General Utilities",
     "Productivity": 1
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.dialer",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]
