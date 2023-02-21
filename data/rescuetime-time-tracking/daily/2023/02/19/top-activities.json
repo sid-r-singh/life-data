@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5288,
+    "Time Spent (seconds)": 5414,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
@@ -17,6 +17,14 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 3235,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 644,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
@@ -24,16 +32,8 @@
     "Productivity": 1
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 571,
-    "Number of People": 1,
-    "Activity": "Android Gallery",
-    "Category": "Photos",
-    "Productivity": -2
-  },
-  {
     "Rank": 5,
-    "Time Spent (seconds)": 480,
+    "Time Spent (seconds)": 488,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -41,19 +41,19 @@
   },
   {
     "Rank": 6,
+    "Time Spent (seconds)": 475,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.video",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 435,
     "Number of People": 1,
     "Activity": "mobile - com.jio.myjio",
     "Category": "General Utilities",
     "Productivity": 1
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 279,
-    "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.video",
-    "Category": "Video",
-    "Productivity": -2
   },
   {
     "Rank": 8,
