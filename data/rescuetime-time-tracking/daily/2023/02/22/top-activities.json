@@ -1,23 +1,23 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1633,
+    "Time Spent (seconds)": 2901,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 1699,
     "Number of People": 1,
     "Activity": "YouTube for Android",
     "Category": "Video",
     "Productivity": -2
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 439,
-    "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
     "Rank": 3,
-    "Time Spent (seconds)": 309,
+    "Time Spent (seconds)": 1085,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
@@ -25,6 +25,22 @@
   },
   {
     "Rank": 4,
+    "Time Spent (seconds)": 641,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 307,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 6,
     "Time Spent (seconds)": 273,
     "Number of People": 1,
     "Activity": "GMail for Android",
@@ -32,23 +48,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 96,
+    "Rank": 7,
+    "Time Spent (seconds)": 111,
     "Number of People": 1,
     "Activity": "Telegram Messenger",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 91,
-    "Number of People": 1,
-    "Activity": "Firefox Android",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 7,
+    "Rank": 8,
     "Time Spent (seconds)": 87,
     "Number of People": 1,
     "Activity": "Authy for Android",
@@ -56,7 +64,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 8,
+    "Rank": 9,
     "Time Spent (seconds)": 82,
     "Number of People": 1,
     "Activity": "mobile - com.phonepe.app",
@@ -64,7 +72,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 50,
     "Number of People": 1,
     "Activity": "Skype for Android",
@@ -72,7 +80,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 10,
+    "Rank": 11,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Activity": "Google Authenticator",
@@ -80,15 +88,23 @@
     "Productivity": 1
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 30,
+    "Rank": 12,
+    "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.incallui",
-    "Category": "Voice Chat",
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 12,
+    "Rank": 13,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "Outlook for Android",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "Android Gallery",
@@ -96,7 +112,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 13,
+    "Rank": 15,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "Device Manager - Tmobile",
@@ -104,18 +120,10 @@
     "Productivity": 1
   },
   {
-    "Rank": 14,
+    "Rank": 16,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "android",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 15,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "Android Settings",
     "Category": "General Utilities",
     "Productivity": 1
   }
