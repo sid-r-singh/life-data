@@ -1,10 +1,250 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 260,
+    "Time Spent (seconds)": 2266,
+    "Number of People": 1,
+    "Activity": "mobile - com.brave.browser",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 1208,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 768,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 646,
+    "Number of People": 1,
+    "Activity": "web.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 641,
+    "Number of People": 1,
+    "Activity": "unistudio.co",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 511,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 339,
+    "Number of People": 1,
+    "Activity": "im.vector.app",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 336,
+    "Number of People": 1,
+    "Activity": "revolut.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 331,
+    "Number of People": 1,
+    "Activity": "app.gumroad.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 331,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 310,
+    "Number of People": 1,
+    "Activity": "GMail for Android",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 210,
+    "Number of People": 1,
+    "Activity": "unistudio.gumroad.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 87,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.apps.pdfviewer",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 67,
+    "Number of People": 1,
+    "Activity": "mobile - com.sbi.sbifreedomplus",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 66,
+    "Number of People": 1,
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 47,
+    "Number of People": 1,
+    "Activity": "mobile - com.x8bit.bitwarden",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 47,
+    "Number of People": 1,
+    "Activity": "mobile - com.phonepe.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 33,
+    "Number of People": 1,
+    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "vyaparapp.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "qreader.online",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "me-qr-scanner.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "mobile - com.jio.myjio",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "mobile - com.spotify.lite",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "qrcodescan.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "app.revolut.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "webqr.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "online-qr-scanner.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "mobile - com.google.android.permissioncontroller",
+    "Category": "General Utilities",
+    "Productivity": 1
   }
 ]
