@@ -1,0 +1,136 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
+          },
+          "href": "https://api.spotify.com/v1/artists/0FJz7XR37hH69traaHLijA",
+          "id": "0FJz7XR37hH69traaHLijA",
+          "name": "Shaarib Toshi",
+          "type": "artist",
+          "uri": "spotify:artist:0FJz7XR37hH69traaHLijA"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0eBjbMAR0N7knX6hBT6c3h",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735cd31847e786b7e1e185e062",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025cd31847e786b7e1e185e062",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515cd31847e786b7e1e185e062",
+          "width": 64
+        }
+      ],
+      "name": "Bandeya (feat. Arijit Singh) [From \"Dil Juunglee\"]",
+      "release_date": "2018-02-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0eBjbMAR0N7knX6hBT6c3h"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
+        },
+        "href": "https://api.spotify.com/v1/artists/0FJz7XR37hH69traaHLijA",
+        "id": "0FJz7XR37hH69traaHLijA",
+        "name": "Shaarib Toshi",
+        "type": "artist",
+        "uri": "spotify:artist:0FJz7XR37hH69traaHLijA"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "type": "artist",
+        "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6gwnKOvdBKkTU4CQ7KpIAu",
+    "is_local": false,
+    "name": "Bandeya (feat. Arijit Singh) - From \"Dil Juunglee\"",
+    "preview_url": "https://p.scdn.co/mp3-preview/bb71b3f089cf18feb34f5cd1765fbb984775fb2a?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3gndvk3fgTgqXYjX2g2j8E",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27366b66a7796c59db59ebb076b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0266b66a7796c59db59ebb076b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485166b66a7796c59db59ebb076b",
+          "width": 64
+        }
+      ],
+      "name": "One Night Stand",
+      "release_date": "2016-04-06",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:3gndvk3fgTgqXYjX2g2j8E"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        "href": "https://api.spotify.com/v1/artists/0qpsFfOT3SmdGmnyV6rOhS",
+        "id": "0qpsFfOT3SmdGmnyV6rOhS",
+        "name": "Meet Bros.",
+        "type": "artist",
+        "uri": "spotify:artist:0qpsFfOT3SmdGmnyV6rOhS"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "type": "artist",
+        "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1uwCYPAgiy5d7lPJvf0gf8",
+    "is_local": false,
+    "name": "Ijazat",
+    "preview_url": "https://p.scdn.co/mp3-preview/8c8ada23519df20d2079f73088e0a2ca06a744ef?cid=811598a754134358878b30bc9c28decd"
+  }
+]

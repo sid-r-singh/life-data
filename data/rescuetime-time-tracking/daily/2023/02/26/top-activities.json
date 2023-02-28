@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 7301,
+    "Time Spent (seconds)": 7318,
     "Number of People": 1,
     "Activity": "mobile - com.brave.browser",
     "Category": "Browsers",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 3649,
+    "Time Spent (seconds)": 3691,
     "Number of People": 1,
     "Activity": "Firefox Android",
     "Category": "Browsers",
@@ -17,19 +17,19 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 624,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 615,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 515,
-    "Number of People": 1,
-    "Activity": "Telegram Messenger",
-    "Category": "Instant Message",
-    "Productivity": -1
   },
   {
     "Rank": 5,
@@ -41,18 +41,18 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 429,
+    "Time Spent (seconds)": 446,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.incallui",
-    "Category": "Voice Chat",
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 426,
+    "Time Spent (seconds)": 429,
     "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
-    "Category": "General Utilities",
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
     "Productivity": 1
   },
   {
