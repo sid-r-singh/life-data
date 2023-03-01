@@ -99,17 +99,17 @@
     "Rank": 13,
     "Time Spent (seconds)": 331,
     "Number of People": 1,
-    "Activity": "app.gumroad.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 14,
     "Time Spent (seconds)": 331,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "app.gumroad.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 15,
@@ -211,7 +211,7 @@
     "Rank": 27,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
-    "Activity": "vyaparapp.in",
+    "Activity": "qreader.online",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -219,7 +219,7 @@
     "Rank": 28,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
-    "Activity": "qreader.online",
+    "Activity": "vyaparapp.in",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -235,28 +235,20 @@
     "Rank": 30,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 31,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
     "Activity": "Android Settings",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 32,
-    "Time Spent (seconds)": 5,
+    "Rank": 31,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "qrcodescan.in",
-    "Category": "Uncategorized",
+    "Activity": "newtab",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 33,
+    "Rank": 32,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "app.revolut.com",
@@ -264,12 +256,20 @@
     "Productivity": 0
   },
   {
-    "Rank": 34,
+    "Rank": 33,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "mobile - com.spotify.lite",
     "Category": "Music",
     "Productivity": -2
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "qrcodescan.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 35,
@@ -283,15 +283,15 @@
     "Rank": 36,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "online-qr-scanner.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "android",
+    "Activity": "mobile - com.google.android.permissioncontroller",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -299,8 +299,8 @@
     "Rank": 38,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "mobile - com.google.android.permissioncontroller",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "online-qr-scanner.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]

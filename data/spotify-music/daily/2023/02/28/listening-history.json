@@ -1,0 +1,89 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+          },
+          "href": "https://api.spotify.com/v1/artists/6jf2eKjiPT6P18RbOSLzf0",
+          "id": "6jf2eKjiPT6P18RbOSLzf0",
+          "name": "Arko",
+          "type": "artist",
+          "uri": "spotify:artist:6jf2eKjiPT6P18RbOSLzf0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO",
+          "id": "1mBydYMVBECdDmMfE2sEUO",
+          "name": "Sachin-Jigar",
+          "type": "artist",
+          "uri": "spotify:artist:1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4f7KfxeHq9BiylGmyXepGt",
+          "id": "4f7KfxeHq9BiylGmyXepGt",
+          "name": "Tanishk Bagchi",
+          "type": "artist",
+          "uri": "spotify:artist:4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1qQ4CquENm72m7CeyFECQa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730ea42a96e90b9121b51924f8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020ea42a96e90b9121b51924f8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510ea42a96e90b9121b51924f8",
+          "width": 64
+        }
+      ],
+      "name": "Gold",
+      "release_date": "2018-08-20",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1qQ4CquENm72m7CeyFECQa"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+        },
+        "href": "https://api.spotify.com/v1/artists/6RF8hEdlUKoLPQOHmBbHiM",
+        "id": "6RF8hEdlUKoLPQOHmBbHiM",
+        "name": "Yasser Desai",
+        "type": "artist",
+        "uri": "spotify:artist:6RF8hEdlUKoLPQOHmBbHiM"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        },
+        "href": "https://api.spotify.com/v1/artists/6jf2eKjiPT6P18RbOSLzf0",
+        "id": "6jf2eKjiPT6P18RbOSLzf0",
+        "name": "Arko",
+        "type": "artist",
+        "uri": "spotify:artist:6jf2eKjiPT6P18RbOSLzf0"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1rinwuHEJlACLuDxihAlCu",
+    "is_local": false,
+    "name": "Naino Ne Baandhi",
+    "preview_url": "https://p.scdn.co/mp3-preview/fd402dcd1537156c6133a6abbda711598447ae75?cid=811598a754134358878b30bc9c28decd"
+  }
+]

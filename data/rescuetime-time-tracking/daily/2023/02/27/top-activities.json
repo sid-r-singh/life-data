@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 6902,
+    "Time Spent (seconds)": 9435,
     "Number of People": 1,
     "Activity": "mobile - com.brave.browser",
     "Category": "Browsers",
@@ -17,6 +17,14 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 2816,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 1610,
     "Number of People": 1,
     "Activity": "mobile - com.sbi.lotusintouch",
@@ -24,23 +32,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 578,
+    "Rank": 5,
+    "Time Spent (seconds)": 883,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 543,
+    "Rank": 6,
+    "Time Spent (seconds)": 572,
     "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
+    "Activity": "mobile - com.google.android.apps.pdfviewer",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 463,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 6,
+    "Rank": 8,
     "Time Spent (seconds)": 318,
     "Number of People": 1,
     "Activity": "Android Gallery",
@@ -48,7 +64,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 7,
+    "Rank": 9,
+    "Time Spent (seconds)": 311,
+    "Number of People": 1,
+    "Activity": "mobile - com.phonepe.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 222,
     "Number of People": 1,
     "Activity": "YouTube for Android",
@@ -56,7 +80,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 8,
+    "Rank": 11,
     "Time Spent (seconds)": 209,
     "Number of People": 1,
     "Activity": "K-9 Mail",
@@ -64,31 +88,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 206,
-    "Number of People": 1,
-    "Activity": "Telegram Messenger",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 10,
-    "Time Spent (seconds)": 164,
-    "Number of People": 1,
-    "Activity": "mobile - com.phonepe.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 11,
-    "Time Spent (seconds)": 125,
+    "Rank": 12,
+    "Time Spent (seconds)": 201,
     "Number of People": 1,
     "Activity": "GMail for Android",
     "Category": "Email",
     "Productivity": 0
   },
   {
-    "Rank": 12,
+    "Rank": 13,
     "Time Spent (seconds)": 117,
     "Number of People": 1,
     "Activity": "mobile - in.gov.uidai.maadhaarplus",
@@ -96,7 +104,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 14,
     "Time Spent (seconds)": 88,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.messaging",
@@ -104,16 +112,8 @@
     "Productivity": -1
   },
   {
-    "Rank": 14,
-    "Time Spent (seconds)": 48,
-    "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.incallui",
-    "Category": "Voice Chat",
-    "Productivity": 1
-  },
-  {
     "Rank": 15,
-    "Time Spent (seconds)": 43,
+    "Time Spent (seconds)": 55,
     "Number of People": 1,
     "Activity": "MyFiles - Samsung Android",
     "Category": "General Utilities",
@@ -121,14 +121,22 @@
   },
   {
     "Rank": 16,
-    "Time Spent (seconds)": 27,
+    "Time Spent (seconds)": 48,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Activity": "Android Settings",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 17,
+    "Rank": 18,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "Calculator",
@@ -136,19 +144,11 @@
     "Productivity": 1
   },
   {
-    "Rank": 18,
-    "Time Spent (seconds)": 8,
+    "Rank": 19,
+    "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "android",
     "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 19,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "mobile - com.google.android.apps.pdfviewer",
-    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
