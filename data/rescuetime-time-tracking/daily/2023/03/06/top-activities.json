@@ -1,6 +1,14 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 4492,
+    "Number of People": 1,
+    "Activity": "mobile - com.brave.browser",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 2268,
     "Number of People": 1,
     "Activity": "Twitter for Android",
@@ -8,28 +16,20 @@
     "Productivity": -2
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 2230,
+    "Rank": 3,
+    "Time Spent (seconds)": 1711,
     "Number of People": 1,
-    "Activity": "mobile - com.brave.browser",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
-    "Rank": 3,
+    "Rank": 4,
     "Time Spent (seconds)": 1308,
     "Number of People": 1,
     "Activity": "YouTube for Android",
     "Category": "Video",
     "Productivity": -2
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 1180,
-    "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
   },
   {
     "Rank": 5,
@@ -41,7 +41,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 705,
+    "Time Spent (seconds)": 814,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -81,6 +81,14 @@
   },
   {
     "Rank": 11,
+    "Time Spent (seconds)": 175,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 168,
     "Number of People": 1,
     "Activity": "upwork.com",
@@ -88,15 +96,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 165,
+    "Rank": 13,
+    "Time Spent (seconds)": 163,
     "Number of People": 1,
-    "Activity": "Telegram Messenger",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "GMail for Android",
+    "Category": "Email",
+    "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 14,
     "Time Spent (seconds)": 117,
     "Number of People": 1,
     "Activity": "Outlook for Android",
@@ -104,19 +112,11 @@
     "Productivity": 0
   },
   {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 99,
     "Number of People": 1,
     "Activity": "sales.rocks",
     "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 15,
-    "Time Spent (seconds)": 95,
-    "Number of People": 1,
-    "Activity": "GMail for Android",
-    "Category": "Email",
     "Productivity": 0
   },
   {
