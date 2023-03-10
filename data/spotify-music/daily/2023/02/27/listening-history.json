@@ -1,6 +1,7 @@
 [
   {
     "album": {
+      "album_group": "single",
       "artists": [
         {
           "external_urls": {
@@ -31,6 +32,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Bandeya (feat. Arijit Singh) [From \"Dil Juunglee\"]",
       "release_date": "2018-02-22",
       "release_date_precision": "day",
@@ -68,6 +70,7 @@
   },
   {
     "album": {
+      "album_group": "single",
       "artists": [
         {
           "external_urls": {
@@ -98,6 +101,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "One Night Stand",
       "release_date": "2016-04-06",
       "release_date_precision": "day",

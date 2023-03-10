@@ -1,6 +1,7 @@
 [
   {
     "album": {
+      "album_group": "single",
       "artists": [
         {
           "external_urls": {
@@ -31,6 +32,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Jugnu",
       "release_date": "2021-10-26",
       "release_date_precision": "day",
@@ -68,6 +70,7 @@
   },
   {
     "album": {
+      "album_group": "album",
       "artists": [
         {
           "external_urls": {
@@ -108,6 +111,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Brahmastra (Original Motion Picture Soundtrack)",
       "release_date": "2022-10-06",
       "release_date_precision": "day",
@@ -165,6 +169,7 @@
   },
   {
     "album": {
+      "album_group": "single",
       "artists": [
         {
           "external_urls": {
@@ -205,6 +210,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Desh Mere (From \"Bhuj The Pride Of India\")",
       "release_date": "2021-08-06",
       "release_date_precision": "day",
@@ -242,6 +248,7 @@
   },
   {
     "album": {
+      "album_group": "single",
       "artists": [
         {
           "external_urls": {
@@ -292,6 +299,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Manike (From \"Thank God\")",
       "release_date": "2022-09-16",
       "release_date_precision": "day",
@@ -359,6 +367,7 @@
   },
   {
     "album": {
+      "album_group": "album",
       "artists": [
         {
           "external_urls": {
@@ -389,6 +398,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "KGF, Vol. 2 (Original Background Score)",
       "release_date": "2019-10-12",
       "release_date_precision": "day",
@@ -416,6 +426,7 @@
   },
   {
     "album": {
+      "album_group": "single",
       "artists": [
         {
           "external_urls": {
@@ -446,6 +457,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Shiddat Title Track (From \"Shiddat\")",
       "release_date": "2021-09-15",
       "release_date_precision": "day",
@@ -473,6 +485,7 @@
   },
   {
     "album": {
+      "album_group": "single",
       "artists": [
         {
           "external_urls": {
@@ -513,6 +526,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Srivalli (From \"Pushpa The Rise Part - 01\")",
       "release_date": "2021-12-14",
       "release_date_precision": "day",
@@ -550,6 +564,7 @@
   },
   {
     "album": {
+      "album_group": "compilation",
       "artists": [
         {
           "external_urls": {
@@ -580,6 +595,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Telugu Latest Love Hits",
       "release_date": "2022-07-15",
       "release_date_precision": "day",
@@ -607,6 +623,7 @@
   },
   {
     "album": {
+      "album_group": "compilation",
       "artists": [
         {
           "external_urls": {
@@ -637,6 +654,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Badhaai Do (Original Motion Picture Soundtrack)",
       "release_date": "2022-02-01",
       "release_date_precision": "day",

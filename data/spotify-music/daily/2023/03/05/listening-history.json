@@ -1,6 +1,7 @@
 [
   {
     "album": {
+      "album_group": "single",
       "artists": [
         {
           "external_urls": {
@@ -51,6 +52,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
       "release_date": "2020-07-31",
       "release_date_precision": "day",
@@ -98,6 +100,7 @@
   },
   {
     "album": {
+      "album_group": "compilation",
       "artists": [
         {
           "external_urls": {
@@ -128,6 +131,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Raees",
       "release_date": "2017-01-24",
       "release_date_precision": "day",
@@ -165,6 +169,7 @@
   },
   {
     "album": {
+      "album_group": "single",
       "artists": [
         {
           "external_urls": {
@@ -215,6 +220,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Mere Yaaraa (From \"Sooryavanshi\")",
       "release_date": "2021-10-27",
       "release_date_precision": "day",
@@ -262,6 +268,7 @@
   },
   {
     "album": {
+      "album_group": "single",
       "artists": [
         {
           "external_urls": {
@@ -312,6 +319,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Rait Zara Si (From \"Atrangi Re\")",
       "release_date": "2021-12-06",
       "release_date_precision": "day",
@@ -359,6 +367,7 @@
   },
   {
     "album": {
+      "album_group": "compilation",
       "artists": [
         {
           "external_urls": {
@@ -389,6 +398,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Raees",
       "release_date": "2017-01-24",
       "release_date_precision": "day",
@@ -426,6 +436,7 @@
   },
   {
     "album": {
+      "album_group": "album",
       "artists": [
         {
           "external_urls": {
@@ -476,6 +487,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Zero",
       "release_date": "2018-12-21",
       "release_date_precision": "day",

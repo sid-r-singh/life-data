@@ -1,6 +1,7 @@
 [
   {
     "album": {
+      "album_group": "album",
       "artists": [
         {
           "external_urls": {
@@ -51,6 +52,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Gold",
       "release_date": "2018-08-20",
       "release_date_precision": "day",

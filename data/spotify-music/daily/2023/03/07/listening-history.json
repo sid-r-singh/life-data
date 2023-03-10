@@ -1,6 +1,7 @@
 [
   {
     "album": {
+      "album_group": "single",
       "artists": [
         {
           "external_urls": {
@@ -41,6 +42,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Lut Gaye",
       "release_date": "2021-02-17",
       "release_date_precision": "day",
@@ -98,6 +100,7 @@
   },
   {
     "album": {
+      "album_group": "single",
       "artists": [
         {
           "external_urls": {
@@ -148,6 +151,7 @@
           "width": 64
         }
       ],
+      "is_playable": true,
       "name": "Raataan Lambiyan (From \"Shershaah\")",
       "release_date": "2021-07-30",
       "release_date_precision": "day",
