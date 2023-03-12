@@ -1,23 +1,23 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4420,
-    "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 2,
-    "Time Spent (seconds)": 2050,
+    "Time Spent (seconds)": 8295,
     "Number of People": 1,
     "Activity": "mobile - com.brave.browser",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
+    "Rank": 2,
+    "Time Spent (seconds)": 4575,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
     "Rank": 3,
-    "Time Spent (seconds)": 499,
+    "Time Spent (seconds)": 675,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -25,6 +25,14 @@
   },
   {
     "Rank": 4,
+    "Time Spent (seconds)": 436,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 395,
     "Number of People": 1,
     "Activity": "Twitter for Android",
@@ -32,7 +40,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 5,
+    "Rank": 6,
     "Time Spent (seconds)": 325,
     "Number of People": 1,
     "Activity": "mobile - com.sbi.lotusintouch",
@@ -40,16 +48,8 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 234,
-    "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
     "Rank": 7,
-    "Time Spent (seconds)": 190,
+    "Time Spent (seconds)": 229,
     "Number of People": 1,
     "Activity": "GMail for Android",
     "Category": "Email",
@@ -57,7 +57,7 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 140,
+    "Time Spent (seconds)": 222,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
     "Category": "Voice Chat",
@@ -65,15 +65,15 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 33,
+    "Time Spent (seconds)": 142,
     "Number of People": 1,
-    "Activity": "Google Play Services",
-    "Category": "General Shopping",
-    "Productivity": -2
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 28,
+    "Time Spent (seconds)": 59,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.messaging",
     "Category": "Instant Message",
@@ -81,14 +81,30 @@
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 15,
+    "Time Spent (seconds)": 58,
     "Number of People": 1,
-    "Activity": "Telegram Messenger",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "Google Keep",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 12,
+    "Time Spent (seconds)": 33,
+    "Number of People": 1,
+    "Activity": "Google Play Services",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "Azure Authenticator",
@@ -96,7 +112,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 15,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "Android Settings",
