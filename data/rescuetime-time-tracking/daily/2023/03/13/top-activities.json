@@ -1,6 +1,14 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 5094,
+    "Number of People": 1,
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 1937,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.video",
@@ -8,15 +16,79 @@
     "Productivity": -2
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 782,
+    "Rank": 3,
+    "Time Spent (seconds)": 1156,
     "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
+    "Activity": "mobile - com.brave.browser",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 955,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 767,
+    "Number of People": 1,
+    "Activity": "GMail for Android",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 732,
+    "Number of People": 1,
+    "Activity": "MyFiles - Samsung Android",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 3,
+    "Rank": 7,
+    "Time Spent (seconds)": 407,
+    "Number of People": 1,
+    "Activity": "irctc.co.in",
+    "Category": "Travel & Outdoors",
+    "Productivity": -2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 165,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 83,
+    "Number of People": 1,
+    "Activity": "mobile - com.phonepe.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 73,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 70,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.app.contacts",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 68,
     "Number of People": 1,
     "Activity": "Authy for Android",
@@ -24,15 +96,39 @@
     "Productivity": 1
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 31,
+    "Rank": 13,
+    "Time Spent (seconds)": 67,
     "Number of People": 1,
-    "Activity": "GMail for Android",
-    "Category": "Email",
+    "Activity": "web.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 60,
+    "Number of People": 1,
+    "Activity": "Blank Web Browser",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 49,
+    "Number of People": 1,
+    "Activity": "Play Store",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "irctcipay.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 17,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "K-9 Mail",
@@ -40,15 +136,63 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 7,
+    "Rank": 18,
+    "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "Android Gallery",
-    "Category": "Photos",
-    "Productivity": -2
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
-    "Rank": 7,
+    "Rank": 19,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "d:",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "mobile - com.fullykiosk.examkiosk",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.mtpapplication",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 25,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "mobile - com.google.android.permissioncontroller",
