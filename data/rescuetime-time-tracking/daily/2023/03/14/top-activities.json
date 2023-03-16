@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3279,
+    "Time Spent (seconds)": 9166,
     "Number of People": 1,
     "Activity": "mobile - com.brave.browser",
     "Category": "Browsers",
@@ -9,23 +9,23 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 861,
-    "Number of People": 1,
-    "Activity": "WhatsApp Messenger Android",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 817,
+    "Time Spent (seconds)": 1620,
     "Number of People": 1,
     "Activity": "mobile - com.google.android.apps.pdfviewer",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
+    "Rank": 3,
+    "Time Spent (seconds)": 1260,
+    "Number of People": 1,
+    "Activity": "WhatsApp Messenger Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
     "Rank": 4,
-    "Time Spent (seconds)": 542,
+    "Time Spent (seconds)": 1095,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -33,58 +33,186 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 399,
-    "Number of People": 1,
-    "Activity": "Telegram Messenger",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 255,
-    "Number of People": 1,
-    "Activity": "GMail for Android",
-    "Category": "Email",
-    "Productivity": 0
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 113,
-    "Number of People": 1,
-    "Activity": "mobile - com.sbi.sbifreedomplus",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 59,
+    "Time Spent (seconds)": 796,
     "Number of People": 1,
     "Activity": "mobile - com.phonepe.app",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
+    "Rank": 6,
+    "Time Spent (seconds)": 518,
+    "Number of People": 1,
+    "Activity": "Telegram Messenger",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 459,
+    "Number of People": 1,
+    "Activity": "GMail for Android",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 412,
+    "Number of People": 1,
+    "Activity": "mobile - com.ge.capital.konysbiapp",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 9,
-    "Time Spent (seconds)": 39,
+    "Time Spent (seconds)": 386,
+    "Number of People": 1,
+    "Activity": "Slack for Android",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 374,
+    "Number of People": 1,
+    "Activity": "Play Store",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 331,
+    "Number of People": 1,
+    "Activity": "mobile - com.sbi.lotusintouch",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 215,
+    "Number of People": 1,
+    "Activity": "mobile - com.sbi.sbifreedomplus",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 191,
+    "Number of People": 1,
+    "Activity": "mobile - com.krishnasomayajula.sssbaudio",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 178,
+    "Number of People": 1,
+    "Activity": "Android Gallery",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 89,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.incallui",
     "Category": "Voice Chat",
     "Productivity": 1
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 8,
+    "Rank": 16,
+    "Time Spent (seconds)": 68,
+    "Number of People": 1,
+    "Activity": "Google Keep",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 55,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 36,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.app.smartcapture",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "android",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 6,
+    "Rank": 20,
+    "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "Android Settings",
+    "Activity": "Camera - Samsung Android Phone",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Activity": "mobile - com.x8bit.bitwarden",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "Google Play Services",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.messaging",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.spaymini",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "mobile - com.osp.app.signin",
     "Category": "General Utilities",
     "Productivity": 1
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "Outlook for Android",
+    "Category": "Email",
+    "Productivity": 0
   }
 ]
