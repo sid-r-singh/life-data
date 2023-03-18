@@ -49,13 +49,30 @@
     "Photos": 49
   },
   "2023-03-16": {
-    "Browsers": 5221,
-    "General Utilities": 643,
-    "Uncategorized": 426,
-    "Instant Message": 336,
-    "Email": 145,
-    "Voice Chat": 107
+    "Browsers": 9329,
+    "General Utilities": 1180,
+    "Instant Message": 931,
+    "Uncategorized": 472,
+    "Music": 277,
+    "Email": 253,
+    "Voice Chat": 107,
+    "General Reference & Learning": 57
   },
-  "2023-03-17": {},
-  "2023-03-18": {}
+  "2023-03-17": {
+    "Browsers": 6450,
+    "Instant Message": 1536,
+    "Uncategorized": 980,
+    "General Utilities": 669,
+    "General Software Development": 639,
+    "Email": 111,
+    "Voice Chat": 101,
+    "Photos": 56
+  },
+  "2023-03-18": {
+    "Browsers": 814,
+    "Instant Message": 577,
+    "General Utilities": 110,
+    "Uncategorized": 53,
+    "Email": 16
+  }
 }
