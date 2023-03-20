@@ -1,0 +1,150 @@
+[
+  {
+    "album": {
+      "album_group": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5hzAIEMlQpsEGIQFvnFOQx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737b93fd8b0ade33ceb9d536de",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027b93fd8b0ade33ceb9d536de",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517b93fd8b0ade33ceb9d536de",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Duniyaa (From \"Luka Chuppi\")",
+      "release_date": "2019-02-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5hzAIEMlQpsEGIQFvnFOQx"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zZrFenNe3YPttxZsnQQs1",
+        "id": "6zZrFenNe3YPttxZsnQQs1",
+        "name": "Akhil",
+        "type": "artist",
+        "uri": "spotify:artist:6zZrFenNe3YPttxZsnQQs1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        "href": "https://api.spotify.com/v1/artists/1OPqAyxsQc8mcRmoNBAnVk",
+        "id": "1OPqAyxsQc8mcRmoNBAnVk",
+        "name": "Dhvani Bhanushali",
+        "type": "artist",
+        "uri": "spotify:artist:1OPqAyxsQc8mcRmoNBAnVk"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4"
+        },
+        "href": "https://api.spotify.com/v1/artists/70voqWnL1gpuxodufMgBt4",
+        "id": "70voqWnL1gpuxodufMgBt4",
+        "name": "Abhijit Vaghani",
+        "type": "artist",
+        "uri": "spotify:artist:70voqWnL1gpuxodufMgBt4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/69TcMkhvenAeokIhBGIUCQ"
+        },
+        "href": "https://api.spotify.com/v1/artists/69TcMkhvenAeokIhBGIUCQ",
+        "id": "69TcMkhvenAeokIhBGIUCQ",
+        "name": "Bob",
+        "type": "artist",
+        "uri": "spotify:artist:69TcMkhvenAeokIhBGIUCQ"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/2tjWCe2W7sgvS3C8NHcdtI",
+    "is_local": false,
+    "name": "Duniyaa (From \"Luka Chuppi\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/615d8699b9be2363bd0ad31a19a43846c63bd99f?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "album_group": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+          "id": "0oOet2f43PA68X5RxKobEy",
+          "name": "Shreya Ghoshal",
+          "type": "artist",
+          "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0YYefayFD1GPuLpRKd3nFs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738cb273a5d0793eba99e18a2e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028cb273a5d0793eba99e18a2e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518cb273a5d0793eba99e18a2e",
+          "width": 64
+        }
+      ],
+      "is_playable": true,
+      "name": "Nah Woh Main",
+      "release_date": "2020-03-25",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0YYefayFD1GPuLpRKd3nFs"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+        "id": "0oOet2f43PA68X5RxKobEy",
+        "name": "Shreya Ghoshal",
+        "type": "artist",
+        "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6ibFjwPeSfMdZGYv8lMuHD",
+    "is_local": false,
+    "name": "Nah Woh Main",
+    "preview_url": "https://p.scdn.co/mp3-preview/aa33d69041006cae9c680ae13660403b422e187c?cid=811598a754134358878b30bc9c28decd"
+  }
+]
