@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 575,
+    "Time Spent (seconds)": 587,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
@@ -235,16 +235,16 @@
     "Rank": 30,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "cse.iitb.ac.in",
-    "Category": "General Reference & Learning",
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 31,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "Android Settings",
-    "Category": "General Utilities",
+    "Activity": "cse.iitb.ac.in",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
@@ -267,12 +267,20 @@
     "Rank": 34,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
+    "Activity": "android",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 35,
+    "Rank": 36,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "vikmans.com",
@@ -280,18 +288,10 @@
     "Productivity": 0
   },
   {
-    "Rank": 36,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "android",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
     "Rank": 37,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "search.brave.com",
+    "Activity": "rnd.iitb.ac.in",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
@@ -299,7 +299,7 @@
     "Rank": 38,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "rnd.iitb.ac.in",
+    "Activity": "search.brave.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
@@ -315,16 +315,16 @@
     "Rank": 40,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
+    "Activity": "cdac.in",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
     "Rank": 41,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "cdac.in",
-    "Category": "Uncategorized",
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
