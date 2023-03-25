@@ -1,38 +1,62 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 654,
-    "Number of People": 1,
-    "Activity": "mobile - com.brave.browser",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 2,
-    "Time Spent (seconds)": 462,
+    "Time Spent (seconds)": 3922,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
+    "Rank": 2,
+    "Time Spent (seconds)": 1510,
+    "Number of People": 1,
+    "Activity": "mobile - com.brave.browser",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
     "Rank": 3,
-    "Time Spent (seconds)": 285,
+    "Time Spent (seconds)": 1460,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 666,
     "Number of People": 1,
     "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 138,
+    "Rank": 5,
+    "Time Spent (seconds)": 338,
+    "Number of People": 1,
+    "Activity": "Google Keep",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 248,
     "Number of People": 1,
     "Activity": "GMail for Android",
     "Category": "Email",
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 7,
+    "Time Spent (seconds)": 132,
+    "Number of People": 1,
+    "Activity": "Google Music Player for Android",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 106,
     "Number of People": 1,
     "Activity": "mobile - com.phonepe.app",
@@ -40,15 +64,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 84,
+    "Rank": 9,
+    "Time Spent (seconds)": 67,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.incallui",
-    "Category": "Voice Chat",
+    "Activity": "com.android.providers.media",
+    "Category": "Internet Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 7,
+    "Rank": 10,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
     "Activity": "Twitter for Android",
@@ -56,18 +80,58 @@
     "Productivity": -2
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 5,
+    "Rank": 11,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.dialer",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "Telegram Messenger",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 9,
+    "Rank": 13,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.app.contacts",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "Google Play Services",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "S Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "android",
     "Category": "General Utilities",
     "Productivity": 1
   }
