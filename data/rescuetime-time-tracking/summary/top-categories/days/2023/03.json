@@ -279,18 +279,29 @@
     "Internet Utilities": 5
   },
   "25": {
-    "Browsers": 2030,
+    "Browsers": 3648,
+    "General Utilities": 1004,
     "Video": 974,
-    "General Utilities": 809,
-    "Email": 508,
+    "Email": 724,
+    "Instant Message": 482,
+    "Voice Chat": 280,
     "General Social Networking": 265,
-    "Voice Chat": 136,
-    "Instant Message": 106,
     "Photos": 95,
-    "Uncategorized": 84
+    "Uncategorized": 87
   },
-  "26": {},
-  "27": {},
+  "26": {
+    "Browsers": 4160,
+    "Uncategorized": 1105,
+    "Instant Message": 625,
+    "General Utilities": 553,
+    "Music": 548,
+    "Email": 456,
+    "Voice Chat": 175,
+    "General Reference & Learning": 103
+  },
+  "27": {
+    "Browsers": 42
+  },
   "28": {},
   "29": {},
   "30": {}
