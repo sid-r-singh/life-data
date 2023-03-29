@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 7325,
+    "Time Spent (seconds)": 10541,
     "Number of People": 1,
     "Activity": "mobile - com.brave.browser",
     "Category": "Browsers",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 608,
+    "Time Spent (seconds)": 2773,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
@@ -17,17 +17,17 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 491,
+    "Time Spent (seconds)": 504,
     "Number of People": 1,
-    "Activity": "mobile - com.sec.android.app.clockpackage",
+    "Activity": "Samsung Touchwiz Launcher",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 342,
+    "Time Spent (seconds)": 491,
     "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
+    "Activity": "mobile - com.sec.android.app.clockpackage",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -65,10 +65,34 @@
   },
   {
     "Rank": 9,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "mobile - com.samsung.android.dialer",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "Google Keep",
     "Category": "General Reference & Learning",
     "Productivity": 1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "Android Settings",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "Azure Authenticator",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]
