@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1289,
+    "Time Spent (seconds)": 1656,
     "Number of People": 1,
     "Activity": "WhatsApp Messenger Android",
     "Category": "Instant Message",
@@ -17,18 +17,18 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 1216,
+    "Time Spent (seconds)": 1261,
     "Number of People": 1,
-    "Activity": "mobile - com.samsung.android.incallui",
-    "Category": "Voice Chat",
+    "Activity": "Samsung Touchwiz Launcher",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1083,
+    "Time Spent (seconds)": 1250,
     "Number of People": 1,
-    "Activity": "Samsung Touchwiz Launcher",
-    "Category": "General Utilities",
+    "Activity": "mobile - com.samsung.android.incallui",
+    "Category": "Voice Chat",
     "Productivity": 1
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 638,
+    "Time Spent (seconds)": 930,
     "Number of People": 1,
     "Activity": "mobile - com.brave.browser",
     "Category": "Browsers",
@@ -65,6 +65,14 @@
   },
   {
     "Rank": 9,
+    "Time Spent (seconds)": 467,
+    "Number of People": 1,
+    "Activity": "GMail for Android",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 461,
     "Number of People": 1,
     "Activity": "mobile - com.axis.mobile",
@@ -72,23 +80,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 376,
+    "Rank": 11,
+    "Time Spent (seconds)": 304,
     "Number of People": 1,
-    "Activity": "GMail for Android",
-    "Category": "Email",
-    "Productivity": 0
+    "Activity": "Google Music Player for Android",
+    "Category": "Music",
+    "Productivity": -2
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 211,
+    "Rank": 12,
+    "Time Spent (seconds)": 251,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.dialer",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 12,
+    "Rank": 13,
     "Time Spent (seconds)": 208,
     "Number of People": 1,
     "Activity": "mobile - com.sbi.lotusintouch",
@@ -96,16 +104,8 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 94,
-    "Number of People": 1,
-    "Activity": "Firefox Android",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
     "Rank": 14,
-    "Time Spent (seconds)": 92,
+    "Time Spent (seconds)": 109,
     "Number of People": 1,
     "Activity": "K-9 Mail",
     "Category": "Email",
@@ -113,6 +113,14 @@
   },
   {
     "Rank": 15,
+    "Time Spent (seconds)": 94,
+    "Number of People": 1,
+    "Activity": "Firefox Android",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
     "Time Spent (seconds)": 73,
     "Number of People": 1,
     "Activity": "mobile - com.phonepe.app",
@@ -120,7 +128,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 16,
+    "Rank": 17,
+    "Time Spent (seconds)": 59,
+    "Number of People": 1,
+    "Activity": "Google Keep",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
     "Activity": "mobile - com.sbi.sbifreedomplus",
@@ -128,7 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 17,
+    "Rank": 19,
     "Time Spent (seconds)": 54,
     "Number of People": 1,
     "Activity": "Android Gallery",
@@ -136,7 +152,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 18,
+    "Rank": 20,
     "Time Spent (seconds)": 45,
     "Number of People": 1,
     "Activity": "Play Store",
@@ -144,7 +160,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 19,
+    "Rank": 21,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
     "Activity": "Camera - Samsung Android Phone",
@@ -152,7 +168,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 20,
+    "Rank": 22,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "mobile - com.samsung.android.app.contacts",
@@ -160,7 +176,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 21,
+    "Rank": 23,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "mobile - com.google.android.permissioncontroller",
@@ -168,7 +184,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 22,
+    "Rank": 24,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "android",
@@ -176,7 +192,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 23,
+    "Rank": 25,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "mobile - com.sec.android.app.clockpackage",
@@ -184,7 +200,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 24,
+    "Rank": 26,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "newtab",
@@ -192,7 +208,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 25,
+    "Rank": 27,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "Android Settings",
