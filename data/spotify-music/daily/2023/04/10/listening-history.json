@@ -1,0 +1,917 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wwYGgSpeBtvk5WX6HBqzw",
+          "id": "4wwYGgSpeBtvk5WX6HBqzw",
+          "name": "Aditya A",
+          "type": "artist",
+          "uri": "spotify:artist:4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6AJaDEafyyyWWXHZQtcFGe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ec4ecaa0fcf68c0966f21514",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ec4ecaa0fcf68c0966f21514",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ec4ecaa0fcf68c0966f21514",
+          "width": 64
+        }
+      ],
+      "name": "Chaand Baaliyan",
+      "release_date": "2020-03-28",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6AJaDEafyyyWWXHZQtcFGe"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4wwYGgSpeBtvk5WX6HBqzw",
+        "id": "4wwYGgSpeBtvk5WX6HBqzw",
+        "name": "Aditya A",
+        "type": "artist",
+        "uri": "spotify:artist:4wwYGgSpeBtvk5WX6HBqzw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0snQrp1VaY5Pj1YIHRJpRJ",
+    "is_local": false,
+    "name": "Chaand Baaliyan",
+    "preview_url": "https://p.scdn.co/mp3-preview/4ca72498beea7e2a5f8e447aa4244963bd883695?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6RF8hEdlUKoLPQOHmBbHiM",
+          "id": "6RF8hEdlUKoLPQOHmBbHiM",
+          "name": "Yasser Desai",
+          "type": "artist",
+          "uri": "spotify:artist:6RF8hEdlUKoLPQOHmBbHiM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI",
+          "id": "5f4QpKfy7ptCHwTqspnSJI",
+          "name": "Neha Kakkar",
+          "type": "artist",
+          "uri": "spotify:artist:5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+          },
+          "href": "https://api.spotify.com/v1/artists/4yxICw7joYAxRI2sTRldLB",
+          "id": "4yxICw7joYAxRI2sTRldLB",
+          "name": "Rajat Nagpal",
+          "type": "artist",
+          "uri": "spotify:artist:4yxICw7joYAxRI2sTRldLB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3PRk98aAwGeeXQsoDa5DGe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739acc843616b7226a85f201db",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029acc843616b7226a85f201db",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519acc843616b7226a85f201db",
+          "width": 64
+        }
+      ],
+      "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
+      "release_date": "2020-07-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3PRk98aAwGeeXQsoDa5DGe"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+        },
+        "href": "https://api.spotify.com/v1/artists/6RF8hEdlUKoLPQOHmBbHiM",
+        "id": "6RF8hEdlUKoLPQOHmBbHiM",
+        "name": "Yasser Desai",
+        "type": "artist",
+        "uri": "spotify:artist:6RF8hEdlUKoLPQOHmBbHiM"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        "href": "https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI",
+        "id": "5f4QpKfy7ptCHwTqspnSJI",
+        "name": "Neha Kakkar",
+        "type": "artist",
+        "uri": "spotify:artist:5f4QpKfy7ptCHwTqspnSJI"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        "href": "https://api.spotify.com/v1/artists/4yxICw7joYAxRI2sTRldLB",
+        "id": "4yxICw7joYAxRI2sTRldLB",
+        "name": "Rajat Nagpal",
+        "type": "artist",
+        "uri": "spotify:artist:4yxICw7joYAxRI2sTRldLB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5urYiIXu1ZhfMAOsp7WDTc",
+    "is_local": false,
+    "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
+    "preview_url": "https://p.scdn.co/mp3-preview/6125e01dbb96ee50132d58af3349cc40fed7ad3c?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wwYGgSpeBtvk5WX6HBqzw",
+          "id": "4wwYGgSpeBtvk5WX6HBqzw",
+          "name": "Aditya A",
+          "type": "artist",
+          "uri": "spotify:artist:4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6AJaDEafyyyWWXHZQtcFGe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ec4ecaa0fcf68c0966f21514",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ec4ecaa0fcf68c0966f21514",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ec4ecaa0fcf68c0966f21514",
+          "width": 64
+        }
+      ],
+      "name": "Chaand Baaliyan",
+      "release_date": "2020-03-28",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6AJaDEafyyyWWXHZQtcFGe"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4wwYGgSpeBtvk5WX6HBqzw",
+        "id": "4wwYGgSpeBtvk5WX6HBqzw",
+        "name": "Aditya A",
+        "type": "artist",
+        "uri": "spotify:artist:4wwYGgSpeBtvk5WX6HBqzw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0snQrp1VaY5Pj1YIHRJpRJ",
+    "is_local": false,
+    "name": "Chaand Baaliyan",
+    "preview_url": "https://p.scdn.co/mp3-preview/4ca72498beea7e2a5f8e447aa4244963bd883695?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          },
+          "href": "https://api.spotify.com/v1/artists/4xnihxcoXWK3UqryOSnbw5",
+          "id": "4xnihxcoXWK3UqryOSnbw5",
+          "name": "Sasha Alex Sloan",
+          "type": "artist",
+          "uri": "spotify:artist:4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7qUpf1A0w5hh4Do5SLRYjP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ac7b2fea4090330372dddb01",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ac7b2fea4090330372dddb01",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ac7b2fea4090330372dddb01",
+          "width": 64
+        }
+      ],
+      "name": "Loser",
+      "release_date": "2018-11-29",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:7qUpf1A0w5hh4Do5SLRYjP"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        },
+        "href": "https://api.spotify.com/v1/artists/4xnihxcoXWK3UqryOSnbw5",
+        "id": "4xnihxcoXWK3UqryOSnbw5",
+        "name": "Sasha Alex Sloan",
+        "type": "artist",
+        "uri": "spotify:artist:4xnihxcoXWK3UqryOSnbw5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3kywzyEr7V106Un5cDyh12",
+    "is_local": false,
+    "name": "Older",
+    "preview_url": "https://p.scdn.co/mp3-preview/6919d16471106f1e2a05b125b38fdd2616c5c9cf?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x"
+          },
+          "href": "https://api.spotify.com/v1/artists/3L733apFuBmRr4GEVvhh9x",
+          "id": "3L733apFuBmRr4GEVvhh9x",
+          "name": "Alexa Cappelli",
+          "type": "artist",
+          "uri": "spotify:artist:3L733apFuBmRr4GEVvhh9x"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4YZhf1VSWJ52JtT4vwhrNI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b629aaace2275243e7baf9b3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b629aaace2275243e7baf9b3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b629aaace2275243e7baf9b3",
+          "width": 64
+        }
+      ],
+      "name": "Someone Better",
+      "release_date": "2023-03-24",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4YZhf1VSWJ52JtT4vwhrNI"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x"
+        },
+        "href": "https://api.spotify.com/v1/artists/3L733apFuBmRr4GEVvhh9x",
+        "id": "3L733apFuBmRr4GEVvhh9x",
+        "name": "Alexa Cappelli",
+        "type": "artist",
+        "uri": "spotify:artist:3L733apFuBmRr4GEVvhh9x"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/6g7vmvWmMqAJCdIU38J4pC",
+    "is_local": false,
+    "name": "Someone Better",
+    "preview_url": "https://p.scdn.co/mp3-preview/9b1ed60e22c61b0b8ba365736188b59142e6d9df?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+          },
+          "href": "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+          "id": "20DZAfCuP1TKZl5KcY7z3Q",
+          "name": "SLANDER",
+          "type": "artist",
+          "uri": "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+          },
+          "href": "https://api.spotify.com/v1/artists/6d0ZjIp5L7Ygy2l02HskRX",
+          "id": "6d0ZjIp5L7Ygy2l02HskRX",
+          "name": "Dylan Matthew",
+          "type": "artist",
+          "uri": "spotify:artist:6d0ZjIp5L7Ygy2l02HskRX"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4sFNNIc9t1SS1FnuVKXR3J",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733892a2a2c261629f34bb5536",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023892a2a2c261629f34bb5536",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513892a2a2c261629f34bb5536",
+          "width": 64
+        }
+      ],
+      "name": "Love Is Gone (Acoustic)",
+      "release_date": "2019-11-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4sFNNIc9t1SS1FnuVKXR3J"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        "href": "https://api.spotify.com/v1/artists/20DZAfCuP1TKZl5KcY7z3Q",
+        "id": "20DZAfCuP1TKZl5KcY7z3Q",
+        "name": "SLANDER",
+        "type": "artist",
+        "uri": "spotify:artist:20DZAfCuP1TKZl5KcY7z3Q"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        },
+        "href": "https://api.spotify.com/v1/artists/6d0ZjIp5L7Ygy2l02HskRX",
+        "id": "6d0ZjIp5L7Ygy2l02HskRX",
+        "name": "Dylan Matthew",
+        "type": "artist",
+        "uri": "spotify:artist:6d0ZjIp5L7Ygy2l02HskRX"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7F1CiKqrY44kh5cDqwHOnx",
+    "is_local": false,
+    "name": "Love Is Gone - Acoustic",
+    "preview_url": "https://p.scdn.co/mp3-preview/3df9f5b66d8ce06d11d90078a51f5e871f10c608?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+          },
+          "href": "https://api.spotify.com/v1/artists/0ekCwZGQUkAISV1h48jlHn",
+          "id": "0ekCwZGQUkAISV1h48jlHn",
+          "name": "Rachel Grae",
+          "type": "artist",
+          "uri": "spotify:artist:0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5xVrTHPF3KilJ0C7IjqQtk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dc175c20496ca63db35a8a6d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dc175c20496ca63db35a8a6d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dc175c20496ca63db35a8a6d",
+          "width": 64
+        }
+      ],
+      "name": "Love I've Been Jealous Of",
+      "release_date": "2023-03-24",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5xVrTHPF3KilJ0C7IjqQtk"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        },
+        "href": "https://api.spotify.com/v1/artists/0ekCwZGQUkAISV1h48jlHn",
+        "id": "0ekCwZGQUkAISV1h48jlHn",
+        "name": "Rachel Grae",
+        "type": "artist",
+        "uri": "spotify:artist:0ekCwZGQUkAISV1h48jlHn"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/37sYE6Cho29A0qHm6Q3bSf",
+    "is_local": false,
+    "name": "Love I've Been Jealous Of",
+    "preview_url": "https://p.scdn.co/mp3-preview/e511ac05c5bd10e19bedced1490e95139b9205f3?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0K87f3owemzI8NUCoEIXOB",
+          "id": "0K87f3owemzI8NUCoEIXOB",
+          "name": "vaultboy",
+          "type": "artist",
+          "uri": "spotify:artist:0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/0SiHxjCWqC4ODGKirRUk9L",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27342bd4d8a3042334c222efacb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0242bd4d8a3042334c222efacb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485142bd4d8a3042334c222efacb",
+          "width": 64
+        }
+      ],
+      "name": "vaultboy EP",
+      "release_date": "2022-01-14",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:0SiHxjCWqC4ODGKirRUk9L"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0K87f3owemzI8NUCoEIXOB",
+        "id": "0K87f3owemzI8NUCoEIXOB",
+        "name": "vaultboy",
+        "type": "artist",
+        "uri": "spotify:artist:0K87f3owemzI8NUCoEIXOB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4hH46xhExjwEGfuWFgnOc3",
+    "is_local": false,
+    "name": "i think i wanna text u",
+    "preview_url": "https://p.scdn.co/mp3-preview/f644ec4e34870707c30c5940213b2b98043550f2?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+          },
+          "href": "https://api.spotify.com/v1/artists/3J0BpFVUc9LeOIVeN5uNhU",
+          "id": "3J0BpFVUc9LeOIVeN5uNhU",
+          "name": "Lauren Jauregui",
+          "type": "artist",
+          "uri": "spotify:artist:3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/54xPUKxnexBttdrk44bz1o",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b87e5c1521ecca82f70dc903",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b87e5c1521ecca82f70dc903",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b87e5c1521ecca82f70dc903",
+          "width": 64
+        }
+      ],
+      "name": "Trust Issues",
+      "release_date": "2023-03-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:54xPUKxnexBttdrk44bz1o"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        },
+        "href": "https://api.spotify.com/v1/artists/3J0BpFVUc9LeOIVeN5uNhU",
+        "id": "3J0BpFVUc9LeOIVeN5uNhU",
+        "name": "Lauren Jauregui",
+        "type": "artist",
+        "uri": "spotify:artist:3J0BpFVUc9LeOIVeN5uNhU"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3jtSXngSQ7DvjavyA8Z64x",
+    "is_local": false,
+    "name": "Trust Issues",
+    "preview_url": "https://p.scdn.co/mp3-preview/21de0064d3b4f662289daa1637b8dbba76421837?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          },
+          "href": "https://api.spotify.com/v1/artists/0fTSzq9jAh4c36UVb4V7CB",
+          "id": "0fTSzq9jAh4c36UVb4V7CB",
+          "name": "Alex Warren",
+          "type": "artist",
+          "uri": "spotify:artist:0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5laO2TJ5lwhscYwdFB0sIX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27381049ec7b03b83de74243c1f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0281049ec7b03b83de74243c1f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485181049ec7b03b83de74243c1f",
+          "width": 64
+        }
+      ],
+      "name": "Chasing Shadows",
+      "release_date": "2022-12-02",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:5laO2TJ5lwhscYwdFB0sIX"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0fTSzq9jAh4c36UVb4V7CB",
+        "id": "0fTSzq9jAh4c36UVb4V7CB",
+        "name": "Alex Warren",
+        "type": "artist",
+        "uri": "spotify:artist:0fTSzq9jAh4c36UVb4V7CB"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5zcoYCmeIL392as1bwIYce",
+    "is_local": false,
+    "name": "Chasing Shadows",
+    "preview_url": "https://p.scdn.co/mp3-preview/dc89554fba0b9895492f292b7e0ad0893edd224c?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+          },
+          "href": "https://api.spotify.com/v1/artists/49jTY62Cpw3RYo4dLuG43W",
+          "id": "49jTY62Cpw3RYo4dLuG43W",
+          "name": "Cian Ducrot",
+          "type": "artist",
+          "uri": "spotify:artist:49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5ELHOuo4BjMkzirsbyQnsv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739f1b852c028502a68c5ea5fe",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029f1b852c028502a68c5ea5fe",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519f1b852c028502a68c5ea5fe",
+          "width": 64
+        }
+      ],
+      "name": "Part Of Me",
+      "release_date": "2023-03-31",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:5ELHOuo4BjMkzirsbyQnsv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        },
+        "href": "https://api.spotify.com/v1/artists/49jTY62Cpw3RYo4dLuG43W",
+        "id": "49jTY62Cpw3RYo4dLuG43W",
+        "name": "Cian Ducrot",
+        "type": "artist",
+        "uri": "spotify:artist:49jTY62Cpw3RYo4dLuG43W"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/22UYp7aAy1XmIYZ1GsnJuB",
+    "is_local": false,
+    "name": "Part Of Me",
+    "preview_url": "https://p.scdn.co/mp3-preview/d5e1b9a3381f0db9a83ba7b9610a0c2a009bbc5b?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          },
+          "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+          "id": "6eUKZXaKkcviH0Ku9w2n3V",
+          "name": "Ed Sheeran",
+          "type": "artist",
+          "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6dhAJ4oigNFSv4paZnZHmW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735d8aeaadd021444c5c05e737",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025d8aeaadd021444c5c05e737",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515d8aeaadd021444c5c05e737",
+          "width": 64
+        }
+      ],
+      "name": "Eyes Closed (Piano Version)",
+      "release_date": "2023-03-23",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:6dhAJ4oigNFSv4paZnZHmW"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1C0Uqh9cRMLPw9WpZzL4Z1",
+    "is_local": false,
+    "name": "Eyes Closed - Piano Version",
+    "preview_url": "https://p.scdn.co/mp3-preview/e29af542360898783db89c2661ac2815f5a3d2cf?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+          },
+          "href": "https://api.spotify.com/v1/artists/66W9LaWS0DPdL7Sz8iYGYe",
+          "id": "66W9LaWS0DPdL7Sz8iYGYe",
+          "name": "JP Saxe",
+          "type": "artist",
+          "uri": "spotify:artist:66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6ozapqxYdXe9uMaMfB6UZp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cec4151d45d645c7321f2592",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cec4151d45d645c7321f2592",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cec4151d45d645c7321f2592",
+          "width": 64
+        }
+      ],
+      "name": "I Don't Miss You",
+      "release_date": "2023-04-07",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6ozapqxYdXe9uMaMfB6UZp"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        "href": "https://api.spotify.com/v1/artists/66W9LaWS0DPdL7Sz8iYGYe",
+        "id": "66W9LaWS0DPdL7Sz8iYGYe",
+        "name": "JP Saxe",
+        "type": "artist",
+        "uri": "spotify:artist:66W9LaWS0DPdL7Sz8iYGYe"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3q9zwhKPHiUh8zVZ4sI5qs",
+    "is_local": false,
+    "name": "I Don't Miss You",
+    "preview_url": "https://p.scdn.co/mp3-preview/9b9e7cfa690f45e83d28a8af9483bfddb7614ab4?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+          },
+          "href": "https://api.spotify.com/v1/artists/1QRj3hoop9Mv5VvHQkwPEp",
+          "id": "1QRj3hoop9Mv5VvHQkwPEp",
+          "name": "Olivia O'Brien",
+          "type": "artist",
+          "uri": "spotify:artist:1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/7y3ET5fbEgCohTwHOkM6zh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273db34f461387428d8c10c01a5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02db34f461387428d8c10c01a5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851db34f461387428d8c10c01a5",
+          "width": 64
+        }
+      ],
+      "name": "Born With A Broken Heart",
+      "release_date": "2023-04-07",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7y3ET5fbEgCohTwHOkM6zh"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        },
+        "href": "https://api.spotify.com/v1/artists/1QRj3hoop9Mv5VvHQkwPEp",
+        "id": "1QRj3hoop9Mv5VvHQkwPEp",
+        "name": "Olivia O'Brien",
+        "type": "artist",
+        "uri": "spotify:artist:1QRj3hoop9Mv5VvHQkwPEp"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/1GTcBwVrpxpTLeJXtceeb8",
+    "is_local": false,
+    "name": "Born With A Broken Heart",
+    "preview_url": "https://p.scdn.co/mp3-preview/33c09de3732bd657088565b95d78137e444d8b72?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+          },
+          "href": "https://api.spotify.com/v1/artists/3aHe9rMa5HFTjXHw8tEz0A",
+          "id": "3aHe9rMa5HFTjXHw8tEz0A",
+          "name": "Jenna Raine",
+          "type": "artist",
+          "uri": "spotify:artist:3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5L3H6uXdvsSUkgSZTeU3fv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736e3cd6b848b2756075caf0a7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026e3cd6b848b2756075caf0a7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516e3cd6b848b2756075caf0a7",
+          "width": 64
+        }
+      ],
+      "name": "Stupid Cupid",
+      "release_date": "2023-03-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5L3H6uXdvsSUkgSZTeU3fv"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        },
+        "href": "https://api.spotify.com/v1/artists/3aHe9rMa5HFTjXHw8tEz0A",
+        "id": "3aHe9rMa5HFTjXHw8tEz0A",
+        "name": "Jenna Raine",
+        "type": "artist",
+        "uri": "spotify:artist:3aHe9rMa5HFTjXHw8tEz0A"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/08uYRkYyBrEBAolgY5irVW",
+    "is_local": false,
+    "name": "Stupid Cupid",
+    "preview_url": "https://p.scdn.co/mp3-preview/5e2e391ad40bd2ddaab488518bfbb0e6592a609b?cid=811598a754134358878b30bc9c28decd"
+  }
+]
