@@ -235,17 +235,17 @@
     "Rank": 30,
     "Time Spent (seconds)": 113,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "bws.bio",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 31,
     "Time Spent (seconds)": 113,
     "Number of People": 1,
-    "Activity": "bws.bio",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 32,
@@ -451,17 +451,17 @@
     "Rank": 57,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "pypi.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 58,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "gohugo.io",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "pypi.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 59,
@@ -499,12 +499,20 @@
     "Rank": 63,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
+    "Activity": "desicinemas.tv",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 64,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
     "Activity": "login.microsoftonline.com",
     "Category": "Email",
     "Productivity": 0
   },
   {
-    "Rank": 64,
+    "Rank": 65,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "arjenbrandenburgh.medium.com",
@@ -512,23 +520,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 65,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
-    "Activity": "desicinemas.tv",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
     "Rank": 66,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
-    "Activity": "login.live.com",
-    "Category": "Email",
-    "Productivity": 0
-  },
-  {
-    "Rank": 67,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "github.blog",
@@ -536,7 +528,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 68,
+    "Rank": 67,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "unistudio.co",
@@ -544,7 +536,23 @@
     "Productivity": 0
   },
   {
+    "Rank": 68,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "login.live.com",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
     "Rank": 69,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "proton.me",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 70,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "firebasestorage.googleapis.com",
@@ -552,19 +560,11 @@
     "Productivity": 2
   },
   {
-    "Rank": 70,
+    "Rank": 71,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "fouroom.co",
     "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 71,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "proton.me",
-    "Category": "Email",
     "Productivity": 0
   },
   {
@@ -595,32 +595,32 @@
     "Rank": 75,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
+    "Activity": "167.172.86.55",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
     "Rank": 76,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "t.co",
-    "Category": "General Social Networking",
+    "Activity": "microsoft-onedrive.en.softonic.com",
+    "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
     "Rank": 77,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "167.172.86.55",
-    "Category": "Uncategorized",
+    "Activity": "google.com",
+    "Category": "Search",
     "Productivity": 0
   },
   {
     "Rank": 78,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "microsoft-onedrive.en.softonic.com",
-    "Category": "General News & Opinion",
+    "Activity": "t.co",
+    "Category": "General Social Networking",
     "Productivity": -2
   },
   {
