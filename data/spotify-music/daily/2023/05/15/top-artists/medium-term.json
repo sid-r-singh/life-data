@@ -1,0 +1,490 @@
+[
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "indian instrumental",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+    "id": "1wRPtKGflJrBx9BmLsSwlU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebcb6926f44f620555ba444fca",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174cb6926f44f620555ba444fca",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178cb6926f44f620555ba444fca",
+        "width": 160
+      }
+    ],
+    "name": "Pritam",
+    "type": "artist",
+    "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+    "id": "4YRxDV8wJFPHPTeXepOstw",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb0261696c5df3be99da6ed3f3",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051740261696c5df3be99da6ed3f3",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1780261696c5df3be99da6ed3f3",
+        "width": 160
+      }
+    ],
+    "name": "Arijit Singh",
+    "type": "artist",
+    "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+  },
+  {
+    "genres": [
+      "sandalwood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2q1LRGJHpFxovU8Tz6OgRn",
+    "id": "2q1LRGJHpFxovU8Tz6OgRn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d9bf1c9e03c05e234da8bca4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d9bf1c9e03c05e234da8bca4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d9bf1c9e03c05e234da8bca4",
+        "width": 64
+      }
+    ],
+    "name": "Ravi Basrur",
+    "type": "artist",
+    "uri": "spotify:artist:2q1LRGJHpFxovU8Tz6OgRn"
+  },
+  {
+    "genres": [
+      "classic pakistani pop",
+      "desi pop",
+      "filmi",
+      "modern bollywood",
+      "sufi"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2oSONSC9zQ4UonDKnLqksx",
+    "id": "2oSONSC9zQ4UonDKnLqksx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc40600e02356cc86f0debe84",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174c40600e02356cc86f0debe84",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178c40600e02356cc86f0debe84",
+        "width": 160
+      }
+    ],
+    "name": "Atif Aslam",
+    "type": "artist",
+    "uri": "spotify:artist:2oSONSC9zQ4UonDKnLqksx"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+    "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb90b6c3d093f9b02aad628eaf",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517490b6c3d093f9b02aad628eaf",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17890b6c3d093f9b02aad628eaf",
+        "width": 160
+      }
+    ],
+    "name": "Vishal-Shekhar",
+    "type": "artist",
+    "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+  },
+  {
+    "genres": [
+      "filmi"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+    "id": "1mYsTxnqsietFxj1OgoGbG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebb19af0ea736c6228d6eb539c",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174b19af0ea736c6228d6eb539c",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178b19af0ea736c6228d6eb539c",
+        "width": 160
+      }
+    ],
+    "name": "A.R. Rahman",
+    "type": "artist",
+    "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "hare krishna",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
+    "id": "1tqysapcCh1lWEAc9dIFpa",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb1a9d9cfc59b01338c0786953",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051741a9d9cfc59b01338c0786953",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1781a9d9cfc59b01338c0786953",
+        "width": 160
+      }
+    ],
+    "name": "Jubin Nautiyal",
+    "type": "artist",
+    "uri": "spotify:artist:1tqysapcCh1lWEAc9dIFpa"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4IKVDbCSBTxBeAsMKjAuTs",
+    "id": "4IKVDbCSBTxBeAsMKjAuTs",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebfc11e518d6fb19b531db9ead",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174fc11e518d6fb19b531db9ead",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178fc11e518d6fb19b531db9ead",
+        "width": 160
+      }
+    ],
+    "name": "Armaan Malik",
+    "type": "artist",
+    "uri": "spotify:artist:4IKVDbCSBTxBeAsMKjAuTs"
+  },
+  {
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/1wmoF73GhlylxwAbn9YGYr",
+    "id": "1wmoF73GhlylxwAbn9YGYr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb91467b650396a56e629e31d4",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517491467b650396a56e629e31d4",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17891467b650396a56e629e31d4",
+        "width": 160
+      }
+    ],
+    "name": "Prashant Katheriya",
+    "type": "artist",
+    "uri": "spotify:artist:1wmoF73GhlylxwAbn9YGYr"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6",
+    "id": "09UmIX92EUH9hAK4bxvHx6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb632872204269d4b950c97731",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174632872204269d4b950c97731",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178632872204269d4b950c97731",
+        "width": 160
+      }
+    ],
+    "name": "Mithoon",
+    "type": "artist",
+    "uri": "spotify:artist:09UmIX92EUH9hAK4bxvHx6"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3dN9MQpjIyNxyeRfz4EDZe",
+    "id": "3dN9MQpjIyNxyeRfz4EDZe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebe09b58bac3afccac3e6e546b",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174e09b58bac3afccac3e6e546b",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178e09b58bac3afccac3e6e546b",
+        "width": 160
+      }
+    ],
+    "name": "Rochak Kohli",
+    "type": "artist",
+    "uri": "spotify:artist:3dN9MQpjIyNxyeRfz4EDZe"
+  },
+  {
+    "genres": [
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3pQ4aA7dkolyjUAMrVScgh",
+    "id": "3pQ4aA7dkolyjUAMrVScgh",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb6cf13c307bbcc43ad08cdf78",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051746cf13c307bbcc43ad08cdf78",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1786cf13c307bbcc43ad08cdf78",
+        "width": 160
+      }
+    ],
+    "name": "Manan Bhardwaj",
+    "type": "artist",
+    "uri": "spotify:artist:3pQ4aA7dkolyjUAMrVScgh"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3yMmYEklQ7gLOZXEFNd3xr",
+    "id": "3yMmYEklQ7gLOZXEFNd3xr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb37d0a183ce70dd31008f5622",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517437d0a183ce70dd31008f5622",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17837d0a183ce70dd31008f5622",
+        "width": 160
+      }
+    ],
+    "name": "Palak Muchhal",
+    "type": "artist",
+    "uri": "spotify:artist:3yMmYEklQ7gLOZXEFNd3xr"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4fEkbug6kZzzJ8eYX6Kbbp",
+    "id": "4fEkbug6kZzzJ8eYX6Kbbp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebb09a31f853166e721d4d46b2",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174b09a31f853166e721d4d46b2",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178b09a31f853166e721d4d46b2",
+        "width": 160
+      }
+    ],
+    "name": "KK",
+    "type": "artist",
+    "uri": "spotify:artist:4fEkbug6kZzzJ8eYX6Kbbp"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "gujarati pop",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
+    "id": "2GoeZ0qOTt6kjsWW4eA6LS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb9abbff30e53ddb8fe4b5d2f1",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051749abbff30e53ddb8fe4b5d2f1",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1789abbff30e53ddb8fe4b5d2f1",
+        "width": 160
+      }
+    ],
+    "name": "Darshan Raval",
+    "type": "artist",
+    "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "gujarati pop",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO",
+    "id": "1mBydYMVBECdDmMfE2sEUO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eba038d7d87f8577bbb9686bd3",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174a038d7d87f8577bbb9686bd3",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178a038d7d87f8577bbb9686bd3",
+        "width": 160
+      }
+    ],
+    "name": "Sachin-Jigar",
+    "type": "artist",
+    "uri": "spotify:artist:1mBydYMVBECdDmMfE2sEUO"
+  },
+  {
+    "genres": [
+      "desi pop",
+      "filmi",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4f7KfxeHq9BiylGmyXepGt",
+    "id": "4f7KfxeHq9BiylGmyXepGt",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb50559387e7830328533792a6",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517450559387e7830328533792a6",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17850559387e7830328533792a6",
+        "width": 160
+      }
+    ],
+    "name": "Tanishk Bagchi",
+    "type": "artist",
+    "uri": "spotify:artist:4f7KfxeHq9BiylGmyXepGt"
+  }
+]
