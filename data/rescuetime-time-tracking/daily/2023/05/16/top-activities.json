@@ -17,6 +17,14 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 57,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Activity": "Gmail",
@@ -24,7 +32,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 4,
+    "Rank": 5,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "search.google.com",
@@ -32,7 +40,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 6,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "newtab",
@@ -40,7 +48,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "domains.google",
@@ -48,19 +56,11 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
+    "Rank": 8,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "gds.google.com",
     "Category": "Search",
-    "Productivity": 0
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
     "Productivity": 0
   }
 ]
