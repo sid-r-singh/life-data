@@ -116,10 +116,10 @@
     "Music": 178
   },
   "5": {
-    "Browsers": 6896,
+    "Browsers": 6898,
     "General Software Development": 86191,
-    "Uncategorized": 42329,
-    "General Social Networking": 9225,
+    "Uncategorized": 42485,
+    "General Social Networking": 9227,
     "General Reference & Learning": 1995,
     "General News & Opinion": 2925,
     "Search": 6029,
@@ -133,7 +133,7 @@
     "General Communication & Scheduling": 356,
     "Project Management": 22,
     "General Entertainment": 2475,
-    "Email": 1004,
+    "Email": 1014,
     "Engineering & Technology": 2280,
     "Clothes & Personal": 6,
     "Video": 26679,
@@ -150,7 +150,9 @@
     "Regional": 251,
     "Business": 1
   },
-  "6": {},
+  "6": {
+    "Browsers": 300
+  },
   "7": {},
   "8": {},
   "9": {},
