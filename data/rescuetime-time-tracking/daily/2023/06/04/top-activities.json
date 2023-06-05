@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 402,
+    "Time Spent (seconds)": 685,
     "Number of People": 1,
     "Activity": "localhost:1313",
     "Category": "General Software Development",
@@ -9,6 +9,78 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 506,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 411,
+    "Number of People": 1,
+    "Activity": "tailwindcss.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 329,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 312,
+    "Number of People": 1,
+    "Activity": "hugo-sid.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 309,
+    "Number of People": 1,
+    "Activity": "anandchowdhary.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 259,
+    "Number of People": 1,
+    "Activity": "thenewdynamic.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 164,
+    "Number of People": 1,
+    "Activity": "gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 140,
+    "Number of People": 1,
+    "Activity": "schedule.sssmediacentre.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 86,
+    "Number of People": 1,
+    "Activity": "gitlab.gnome.org",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 80,
     "Number of People": 1,
     "Activity": "stackoverflow.com",
@@ -16,7 +88,71 @@
     "Productivity": 2
   },
   {
-    "Rank": 3,
+    "Rank": 12,
+    "Time Spent (seconds)": 75,
+    "Number of People": 1,
+    "Activity": "linkedin.com",
+    "Category": "Professional Networking",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 71,
+    "Number of People": 1,
+    "Activity": "twitter.com",
+    "Category": "General Social Networking",
+    "Productivity": -2
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 70,
+    "Number of People": 1,
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 46,
+    "Number of People": 1,
+    "Activity": "gokarna-hugo.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Activity": "archive.sssmediacentre.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 39,
+    "Number of People": 1,
+    "Activity": "flathub.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 37,
+    "Number of People": 1,
+    "Activity": "jamstackthemes.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "oswaldlabs.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
     "Activity": "officialrajdeepsingh.dev",
@@ -24,23 +160,63 @@
     "Productivity": 0
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 32,
+    "Rank": 21,
+    "Time Spent (seconds)": 23,
     "Number of People": 1,
-    "Activity": "google.co.in",
-    "Category": "Search",
+    "Activity": "sukritikapoor.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 11,
+    "Rank": 22,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "radiosai.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "buymeacoffee.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "shrutibalasa.gumroad.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "alternativeto.net",
     "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
-    "Rank": 6,
+    "Rank": 26,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "media.licdn.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 28,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "marketplace.visualstudio.com",
@@ -48,19 +224,27 @@
     "Productivity": 2
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 3,
+    "Rank": 29,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Activity": "flathub.org",
+    "Activity": "kate-editor.org",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "t.co",
+    "Category": "General Social Networking",
+    "Productivity": -2
   }
 ]
