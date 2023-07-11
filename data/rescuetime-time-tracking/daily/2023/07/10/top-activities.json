@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1310,
+    "Time Spent (seconds)": 8313,
     "Number of People": 1,
     "Activity": "youtube.com",
     "Category": "Video",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 208,
+    "Time Spent (seconds)": 1366,
     "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
@@ -17,6 +17,142 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 889,
+    "Number of People": 1,
+    "Activity": "c:",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 527,
+    "Number of People": 1,
+    "Activity": "nerdsid.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 462,
+    "Number of People": 1,
+    "Activity": "archive.storycorps.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 353,
+    "Number of People": 1,
+    "Activity": "pypi.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 328,
+    "Number of People": 1,
+    "Activity": "docs.python.org",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 294,
+    "Number of People": 1,
+    "Activity": "status.python.org",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 266,
+    "Number of People": 1,
+    "Activity": "stackoverflow.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 202,
+    "Number of People": 1,
+    "Activity": "spinncode.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 193,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 189,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 163,
+    "Number of People": 1,
+    "Activity": "jessicategner.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 134,
+    "Number of People": 1,
+    "Activity": "godatadriven.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 129,
+    "Number of People": 1,
+    "Activity": "pip-tools.readthedocs.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 118,
+    "Number of People": 1,
+    "Activity": "libraries.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 113,
+    "Number of People": 1,
+    "Activity": "downloads",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 97,
+    "Number of People": 1,
+    "Activity": "python.land",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 84,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
     "Time Spent (seconds)": 67,
     "Number of People": 1,
     "Activity": "goqr.me",
@@ -24,7 +160,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 4,
+    "Rank": 21,
+    "Time Spent (seconds)": 64,
+    "Number of People": 1,
+    "Activity": "indently.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 61,
+    "Number of People": 1,
+    "Activity": "pip.pypa.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 23,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
     "Activity": "get-simple.info",
@@ -32,7 +184,23 @@
     "Productivity": 1
   },
   {
-    "Rank": 5,
+    "Rank": 24,
+    "Time Spent (seconds)": 40,
+    "Number of People": 1,
+    "Activity": "y2mate.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 40,
+    "Number of People": 1,
+    "Activity": "python-poetry.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 26,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -40,7 +208,47 @@
     "Productivity": 2
   },
   {
-    "Rank": 6,
+    "Rank": 27,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "code.visualstudio.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "peps.python.org",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "yt1s.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "udemy.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "khamisikibet.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 32,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "api.qrserver.com",
@@ -48,7 +256,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
+    "Rank": 33,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "tablatronix.com",
@@ -56,11 +264,11 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 5,
+    "Rank": 34,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "packaging.python.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   }
 ]

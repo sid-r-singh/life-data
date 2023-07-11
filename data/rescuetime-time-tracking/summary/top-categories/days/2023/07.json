@@ -58,8 +58,8 @@
     "Email": 15,
     "General Business": 8,
     "General News & Opinion": 5,
-    "Design & Planning": 2,
-    "Intelligence": 2
+    "Intelligence": 2,
+    "Design & Planning": 2
   },
   "9": {
     "Browsers": 2546,
@@ -72,14 +72,21 @@
     "Engineering & Technology": 21
   },
   "10": {
-    "Video": 1310,
-    "General Software Development": 208,
-    "Uncategorized": 83,
-    "General Utilities": 57,
+    "Video": 8313,
+    "General Software Development": 2489,
+    "Uncategorized": 1955,
+    "General Utilities": 1248,
+    "General Reference & Learning": 363,
+    "Browsers": 277,
     "General Business": 33,
-    "Browsers": 5
+    "Engineering & Technology": 4
   },
-  "11": {},
+  "11": {
+    "Uncategorized": 730,
+    "Video": 143,
+    "General Software Development": 110,
+    "General Utilities": 19
+  },
   "12": {},
   "13": {},
   "14": {},
