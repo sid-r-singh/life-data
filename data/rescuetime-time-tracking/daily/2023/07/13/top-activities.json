@@ -99,16 +99,16 @@
     "Rank": 13,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
-    "Activity": "timeline.google.com",
-    "Category": "Search",
+    "Activity": "newtab",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
     "Rank": 14,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
+    "Activity": "timeline.google.com",
+    "Category": "Search",
     "Productivity": 0
   },
   {
@@ -131,17 +131,17 @@
     "Rank": 17,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "safety.google",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "medium.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 18,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "medium.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "safety.google",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 19,
@@ -171,9 +171,9 @@
     "Rank": 22,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "hba.sid.one",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 23,
@@ -187,9 +187,9 @@
     "Rank": 24,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "hba.sid.one",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 25,
@@ -219,20 +219,12 @@
     "Rank": 28,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "realfavicongenerator.net",
-    "Category": "Design & Planning",
-    "Productivity": 2
-  },
-  {
-    "Rank": 29,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
     "Activity": "colorcomputerarchive.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 30,
+    "Rank": 29,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "contrib.rocks",
@@ -240,11 +232,19 @@
     "Productivity": 0
   },
   {
-    "Rank": 31,
+    "Rank": 30,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "c:",
     "Category": "General Utilities",
     "Productivity": 1
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "realfavicongenerator.net",
+    "Category": "Design & Planning",
+    "Productivity": 2
   }
 ]
