@@ -9,19 +9,19 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 1038,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 866,
     "Number of People": 1,
     "Activity": "semweb.youronly.one",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 856,
-    "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
-    "Productivity": 2
   },
   {
     "Rank": 4,
@@ -67,17 +67,17 @@
     "Rank": 9,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "play.google.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 10,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "play.google.com",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 11,
@@ -107,28 +107,20 @@
     "Rank": 14,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "docs.syncthing.net",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 15,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
     "Activity": "f-droid.org",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 16,
-    "Time Spent (seconds)": 2,
+    "Rank": 15,
+    "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "apt.syncthing.net",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "docs.syncthing.net",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
-    "Rank": 17,
+    "Rank": 16,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -136,19 +128,27 @@
     "Productivity": 0
   },
   {
+    "Rank": 17,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "apt.syncthing.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 18,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "urday.in",
-    "Category": "Uncategorized",
+    "Activity": "books.google.co.in",
+    "Category": "Search",
     "Productivity": 0
   },
   {
     "Rank": 19,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "books.google.co.in",
-    "Category": "Search",
+    "Activity": "urday.in",
+    "Category": "Uncategorized",
     "Productivity": 0
   }
 ]
