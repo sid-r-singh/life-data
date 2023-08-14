@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 808,
+    "Time Spent (seconds)": 1182,
     "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 432,
+    "Time Spent (seconds)": 481,
     "Number of People": 1,
     "Activity": "mybluelinux.com",
     "Category": "Uncategorized",
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 179,
+    "Time Spent (seconds)": 189,
     "Number of People": 1,
     "Activity": "learn.arm.com",
     "Category": "General Reference & Learning",
@@ -33,7 +33,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 98,
+    "Time Spent (seconds)": 112,
     "Number of People": 1,
     "Activity": "lucidmanager.org",
     "Category": "Uncategorized",
@@ -49,6 +49,22 @@
   },
   {
     "Rank": 7,
+    "Time Spent (seconds)": 66,
+    "Number of People": 1,
+    "Activity": "jesstruck.dk",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 65,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
     "Activity": "suite8demo.suiteondemand.com",
@@ -56,7 +72,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 10,
     "Time Spent (seconds)": 53,
     "Number of People": 1,
     "Activity": "docs.suitecrm.com",
@@ -64,7 +80,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
+    "Rank": 11,
+    "Time Spent (seconds)": 46,
+    "Number of People": 1,
+    "Activity": "skcript.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
     "Activity": "hugomods.com",
@@ -72,15 +96,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 35,
-    "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 11,
+    "Rank": 13,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "gift.glenfiddich.com",
@@ -88,7 +104,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
+    "Rank": 14,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "arm.com",
@@ -96,15 +112,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 12,
-    "Number of People": 1,
-    "Activity": "www-mybluelinux-com.translate.goog",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "docs.syncthing.net",
@@ -112,7 +120,23 @@
     "Productivity": 1
   },
   {
-    "Rank": 15,
+    "Rank": 16,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "afrixi.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "www-mybluelinux-com.translate.goog",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -120,7 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 16,
+    "Rank": 19,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "youtube.com",
@@ -128,15 +152,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 17,
+    "Rank": 20,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "pgorod.github.io",
+    "Activity": "zzo-docs.vercel.app",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 18,
+    "Rank": 21,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "suitecrm.com",
@@ -144,19 +168,19 @@
     "Productivity": 0
   },
   {
-    "Rank": 19,
+    "Rank": 22,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "pgorod.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 23,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "readtexts.org",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 20,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "zzo-docs.vercel.app",
-    "Category": "General Software Development",
-    "Productivity": 2
   }
 ]

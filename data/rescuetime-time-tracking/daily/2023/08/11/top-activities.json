@@ -67,17 +67,17 @@
     "Rank": 9,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "play.google.com",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 10,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "play.google.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 11,
@@ -107,32 +107,32 @@
     "Rank": 14,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "f-droid.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 15,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
     "Activity": "docs.syncthing.net",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
+    "Rank": 15,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "f-droid.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 16,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
+    "Activity": "apt.syncthing.net",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
     "Rank": 17,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "apt.syncthing.net",
-    "Category": "Uncategorized",
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
