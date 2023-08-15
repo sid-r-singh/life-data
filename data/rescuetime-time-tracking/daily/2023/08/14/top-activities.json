@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1480,
+    "Time Spent (seconds)": 5128,
     "Number of People": 1,
     "Activity": "youtube.com",
     "Category": "Video",
@@ -9,14 +9,62 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 582,
+    "Time Spent (seconds)": 1053,
+    "Number of People": 1,
+    "Activity": "web.whatsapp.com",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 912,
+    "Number of People": 1,
+    "Activity": "ar.pinterest.com",
+    "Category": "General Social Networking",
+    "Productivity": -2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 595,
     "Number of People": 1,
     "Activity": "soundcloud.com",
     "Category": "Internet Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 3,
+    "Rank": 5,
+    "Time Spent (seconds)": 498,
+    "Number of People": 1,
+    "Activity": "premabandham.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 463,
+    "Number of People": 1,
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 424,
+    "Number of People": 1,
+    "Activity": "static.wixstatic.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 252,
+    "Number of People": 1,
+    "Activity": "varma-bharathamuthishtathajagratha.blogspot.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 222,
     "Number of People": 1,
     "Activity": "Github",
@@ -24,7 +72,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 4,
+    "Rank": 10,
     "Time Spent (seconds)": 216,
     "Number of People": 1,
     "Activity": "sathyasaiwithstudents.blogspot.com",
@@ -32,7 +80,39 @@
     "Productivity": 2
   },
   {
-    "Rank": 5,
+    "Rank": 11,
+    "Time Spent (seconds)": 156,
+    "Number of People": 1,
+    "Activity": "twitter.com",
+    "Category": "General Social Networking",
+    "Productivity": -2
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 133,
+    "Number of People": 1,
+    "Activity": "dnaindia.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 119,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 98,
+    "Number of People": 1,
+    "Activity": "hindustantimes.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 93,
     "Number of People": 1,
     "Activity": "lens.google.com",
@@ -40,7 +120,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 16,
+    "Time Spent (seconds)": 63,
+    "Number of People": 1,
+    "Activity": "currentaffairs.adda247.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 51,
+    "Number of People": 1,
+    "Activity": "livemint.com",
+    "Category": "Email",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 50,
+    "Number of People": 1,
+    "Activity": "saibhaktabrasil.files.wordpress.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
     "Time Spent (seconds)": 49,
     "Number of People": 1,
     "Activity": "2.bp.blogspot.com",
@@ -48,7 +152,79 @@
     "Productivity": -2
   },
   {
-    "Rank": 7,
+    "Rank": 20,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Activity": "picklewix.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 40,
+    "Number of People": 1,
+    "Activity": "i.pinimg.com",
+    "Category": "Photos",
+    "Productivity": -2
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 40,
+    "Number of People": 1,
+    "Activity": "wix.com",
+    "Category": "Presentation",
+    "Productivity": 2
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "zeenews.india.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "saibabaofindia.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Activity": "amazon.com",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Activity": "sathyasai.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Activity": "timesnownews.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 29,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "i1.sndcdn.com",
@@ -56,7 +232,39 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 30,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "chrome.google.com",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "saibhaktabrasil.wordpress.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "yt3.ggpht.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 34,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "i.ytimg.com",
@@ -64,15 +272,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 10,
-    "Number of People": 1,
-    "Activity": "google.co.in",
-    "Category": "Search",
-    "Productivity": 0
-  },
-  {
-    "Rank": 10,
+    "Rank": 35,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "google.com",
@@ -80,23 +280,55 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 8,
+    "Rank": 36,
+    "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
+    "Activity": "sathyasaibaba.wordpress.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 37,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "briefreelancing.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 3,
+    "Rank": 38,
+    "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
+    "Activity": "support.wix.com",
+    "Category": "Presentation",
+    "Productivity": 2
+  },
+  {
+    "Rank": 39,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "amazon.in",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 40,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "forum.wixstudio.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 41,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "1.bp.blogspot.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 42,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "m.soundcloud.com",
