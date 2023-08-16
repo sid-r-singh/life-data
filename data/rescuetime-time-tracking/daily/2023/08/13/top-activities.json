@@ -131,7 +131,7 @@
     "Rank": 17,
     "Time Spent (seconds)": 55,
     "Number of People": 1,
-    "Activity": "echocat.org",
+    "Activity": "skillbuilder.aws",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -139,7 +139,7 @@
     "Rank": 18,
     "Time Spent (seconds)": 55,
     "Number of People": 1,
-    "Activity": "skillbuilder.aws",
+    "Activity": "echocat.org",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -187,7 +187,7 @@
     "Rank": 24,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "doctoolchain.org",
+    "Activity": "control.pixysos.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -195,7 +195,7 @@
     "Rank": 25,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "control.pixysos.com",
+    "Activity": "doctoolchain.org",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -211,17 +211,17 @@
     "Rank": 27,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "markdowntutorial.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "asciidoctor.zulipchat.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 28,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "asciidoctor.zulipchat.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "markdowntutorial.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 29,
@@ -235,12 +235,20 @@
     "Rank": 30,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
+    "Activity": "jbake.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
     "Activity": "arquillian.org",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 31,
+    "Rank": 32,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "antora.org",
@@ -248,20 +256,12 @@
     "Productivity": 0
   },
   {
-    "Rank": 32,
+    "Rank": 33,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "mojavelinux.com",
     "Category": "General Software Development",
     "Productivity": 2
-  },
-  {
-    "Rank": 33,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
-    "Activity": "jbake.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
   },
   {
     "Rank": 34,
@@ -275,12 +275,20 @@
     "Rank": 35,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
+    "Activity": "partnercentral.awspartner.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 36,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
     "Activity": "account.arm.com",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 36,
+    "Rank": 37,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "randomodbuild.mphs.club",
@@ -288,20 +296,12 @@
     "Productivity": 0
   },
   {
-    "Rank": 37,
+    "Rank": 38,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "gitlab.com",
     "Category": "General Software Development",
     "Productivity": 2
-  },
-  {
-    "Rank": 38,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Activity": "partnercentral.awspartner.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
   },
   {
     "Rank": 39,
@@ -323,7 +323,7 @@
     "Rank": 41,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "docs.asciidoctor.org",
+    "Activity": "graphitefriction.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -331,17 +331,17 @@
     "Rank": 42,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "rfc-editor.org",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "docs.asciidoctor.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 43,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "graphitefriction.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "rfc-editor.org",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 44,
