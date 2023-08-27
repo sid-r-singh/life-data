@@ -139,7 +139,7 @@
     "Rank": 18,
     "Time Spent (seconds)": 120,
     "Number of People": 1,
-    "Activity": "codeberg.org",
+    "Activity": "automatic-eureka-qr6jqpx46x434xww.github.dev",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -147,7 +147,7 @@
     "Rank": 19,
     "Time Spent (seconds)": 120,
     "Number of People": 1,
-    "Activity": "automatic-eureka-qr6jqpx46x434xww.github.dev",
+    "Activity": "codeberg.org",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -235,15 +235,15 @@
     "Rank": 30,
     "Time Spent (seconds)": 56,
     "Number of People": 1,
-    "Activity": "blaede.family",
-    "Category": "Uncategorized",
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
     "Rank": 31,
     "Time Spent (seconds)": 56,
     "Number of People": 1,
-    "Activity": "stephlocke.info",
+    "Activity": "blaede.family",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -251,8 +251,8 @@
     "Rank": 32,
     "Time Spent (seconds)": 56,
     "Number of People": 1,
-    "Activity": "Google Chrome",
-    "Category": "Browsers",
+    "Activity": "stephlocke.info",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
@@ -283,23 +283,23 @@
     "Rank": 36,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
-    "Activity": "creativemarket.com",
-    "Category": "General Design & Composition",
-    "Productivity": 2
+    "Activity": "racknerd.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
-    "Activity": "halbrd.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "creativemarket.com",
+    "Category": "General Design & Composition",
+    "Productivity": 2
   },
   {
     "Rank": 38,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
-    "Activity": "racknerd.com",
+    "Activity": "halbrd.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -515,28 +515,20 @@
     "Rank": 65,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "chrome-extension",
-    "Category": "Browsers",
+    "Activity": "abakcus.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
     "Rank": 66,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "abakcus.com",
-    "Category": "Uncategorized",
+    "Activity": "chrome-extension",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
     "Rank": 67,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "nadiaeghbal.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 68,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "pyxll.com",
@@ -544,15 +536,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 69,
-    "Time Spent (seconds)": 4,
+    "Rank": 68,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "nadiaeghbal.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
-    "Rank": 70,
+    "Rank": 69,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "jeglonganmbarang.blogspot.com",
@@ -560,15 +552,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 71,
-    "Time Spent (seconds)": 3,
+    "Rank": 70,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "askonomm.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
-    "Rank": 72,
+    "Rank": 71,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "schrifteria.xyz",
@@ -576,20 +568,28 @@
     "Productivity": 0
   },
   {
-    "Rank": 73,
-    "Time Spent (seconds)": 2,
+    "Rank": 72,
+    "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "pensive-sammet-17c943.netlify.app",
+    "Activity": "askonomm.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 74,
+    "Rank": 73,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "bandcamp.com",
     "Category": "Music",
     "Productivity": -2
+  },
+  {
+    "Rank": 74,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "pensive-sammet-17c943.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 75,
