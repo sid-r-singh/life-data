@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 1168,
+    "Time Spent (seconds)": 1406,
     "Number of People": 1,
     "Activity": "amazon.in",
     "Category": "General Shopping",
@@ -41,7 +41,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 493,
+    "Time Spent (seconds)": 497,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
     "Category": "General Utilities",
@@ -145,7 +145,7 @@
   },
   {
     "Rank": 19,
-    "Time Spent (seconds)": 65,
+    "Time Spent (seconds)": 69,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
@@ -161,6 +161,14 @@
   },
   {
     "Rank": 21,
+    "Time Spent (seconds)": 53,
+    "Number of People": 1,
+    "Activity": "read.amazon.in",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 46,
     "Number of People": 1,
     "Activity": "tinyprojects.dev",
@@ -168,7 +176,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 22,
+    "Rank": 23,
     "Time Spent (seconds)": 44,
     "Number of People": 1,
     "Activity": "rename.online",
@@ -176,7 +184,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 23,
+    "Rank": 24,
     "Time Spent (seconds)": 37,
     "Number of People": 1,
     "Activity": "indiatoday.in",
@@ -184,7 +192,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 24,
+    "Rank": 25,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
     "Activity": "mobile - jess.sh",
@@ -192,7 +200,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 25,
+    "Rank": 26,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
     "Activity": "themes.gohugo.io",
@@ -200,7 +208,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 26,
+    "Rank": 27,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Activity": "kubernetes.io",
@@ -208,7 +216,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 27,
+    "Rank": 28,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "namecheap.com",
@@ -216,7 +224,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 28,
+    "Rank": 29,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "in.com",
@@ -224,7 +232,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 29,
+    "Rank": 30,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "gatsbyjs.com",
@@ -232,7 +240,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 30,
+    "Rank": 31,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "git-scm.com",
@@ -240,7 +248,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 31,
+    "Rank": 32,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "developers.cloudflare.com",
@@ -248,7 +256,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 32,
+    "Rank": 33,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
     "Activity": "dev.to",
@@ -256,7 +264,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 33,
+    "Rank": 34,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "gitlab.com",
@@ -264,7 +272,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 34,
+    "Rank": 35,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "howtopronounce.com",
@@ -272,7 +280,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 35,
+    "Rank": 36,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -280,19 +288,11 @@
     "Productivity": 1
   },
   {
-    "Rank": 36,
+    "Rank": 37,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 37,
-    "Time Spent (seconds)": 11,
-    "Number of People": 1,
-    "Activity": "krolcloud.com",
-    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
@@ -305,6 +305,14 @@
   },
   {
     "Rank": 39,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "krolcloud.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 40,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "serverfault.com",
@@ -312,7 +320,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 40,
+    "Rank": 41,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "jam-csv.netlify.app",
@@ -320,7 +328,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 41,
+    "Rank": 42,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "stackoverflow.com",
@@ -328,7 +336,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 42,
+    "Rank": 43,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "raw.githubusercontent.com",
@@ -336,7 +344,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 43,
+    "Rank": 44,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "stotranidhi.com",
@@ -344,7 +352,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 44,
+    "Rank": 45,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "imdb.com",
@@ -352,7 +360,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 45,
+    "Rank": 46,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "bepsays.com",
@@ -360,7 +368,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 46,
+    "Rank": 47,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "data:image",
@@ -368,7 +376,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 47,
+    "Rank": 48,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "read.amazon.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 49,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "news.gandi.net",
@@ -376,7 +392,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 48,
+    "Rank": 50,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "baeldung.com",
@@ -384,7 +400,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 49,
+    "Rank": 51,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "sairhythms.sathyasai.org",
