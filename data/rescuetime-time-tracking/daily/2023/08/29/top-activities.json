@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1170,
+    "Time Spent (seconds)": 1176,
     "Number of People": 1,
     "Activity": "app.netlify.com",
     "Category": "General Software Development",
@@ -267,17 +267,17 @@
     "Rank": 34,
     "Time Spent (seconds)": 70,
     "Number of People": 1,
-    "Activity": "redhat.com",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "training.linuxfoundation.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 35,
     "Time Spent (seconds)": 70,
     "Number of People": 1,
-    "Activity": "training.linuxfoundation.org",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "redhat.com",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
     "Rank": 36,
@@ -395,25 +395,25 @@
     "Rank": 50,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "pkg.go.dev",
-    "Category": "Uncategorized",
+    "Activity": "pluralsight.com",
+    "Category": "Search",
     "Productivity": 0
   },
   {
     "Rank": 51,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "payment.edx.org",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "pkg.go.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 52,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "pluralsight.com",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "payment.edx.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 53,
@@ -435,20 +435,28 @@
     "Rank": 55,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "orders.edx.org",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
-  },
-  {
-    "Rank": 56,
-    "Time Spent (seconds)": 17,
-    "Number of People": 1,
     "Activity": "notesontech.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
+    "Rank": 56,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "orders.edx.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
     "Rank": 57,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "github.blog",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 58,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "c:",
@@ -456,20 +464,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 58,
+    "Rank": 59,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "gingersoftware.com",
     "Category": "Writing",
     "Productivity": 2
-  },
-  {
-    "Rank": 59,
-    "Time Spent (seconds)": 13,
-    "Number of People": 1,
-    "Activity": "github.blog",
-    "Category": "Uncategorized",
-    "Productivity": 0
   },
   {
     "Rank": 60,
@@ -491,25 +491,25 @@
     "Rank": 62,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "authn.edx.org",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
-  },
-  {
-    "Rank": 63,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
     "Activity": "kubernetes.io",
     "Category": "Systems Operations",
     "Productivity": 2
   },
   {
-    "Rank": 64,
+    "Rank": 63,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "chrome-extension",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 64,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "authn.edx.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 65,
@@ -539,17 +539,17 @@
     "Rank": 68,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "shareasale-analytics.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "learning.edx.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 69,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "learning.edx.org",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "shareasale-analytics.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 70,

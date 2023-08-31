@@ -275,7 +275,7 @@
     "Rank": 35,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
-    "Activity": "trends.builtwith.com",
+    "Activity": "doc.rust-lang.org",
     "Category": "Engineering & Technology",
     "Productivity": 1
   },
@@ -283,7 +283,7 @@
     "Rank": 36,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
-    "Activity": "doc.rust-lang.org",
+    "Activity": "trends.builtwith.com",
     "Category": "Engineering & Technology",
     "Productivity": 1
   },
@@ -307,17 +307,17 @@
     "Rank": 39,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
-    "Activity": "nostarch.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "lotusdocs.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
-    "Activity": "lotusdocs.dev",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "nostarch.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 41,
@@ -379,17 +379,17 @@
     "Rank": 48,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
-    "Activity": "git-scm.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "illustrious-squirrel-2826f9.netlify.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 49,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
-    "Activity": "illustrious-squirrel-2826f9.netlify.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "git-scm.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 50,
@@ -435,15 +435,15 @@
     "Rank": 55,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "quillbot.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "rust-lang.org",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 56,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "userway.org",
+    "Activity": "quillbot.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -451,7 +451,7 @@
     "Rank": 57,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "catalystsql.com",
+    "Activity": "userway.org",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -459,12 +459,20 @@
     "Rank": 58,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "rust-lang.org",
+    "Activity": "catalystsql.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 59,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "preview.codecanyon.net",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 59,
+    "Rank": 60,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "read.amazon.in",
@@ -472,20 +480,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 60,
+    "Rank": 61,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "discord.com",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 61,
-    "Time Spent (seconds)": 10,
-    "Number of People": 1,
-    "Activity": "preview.codecanyon.net",
-    "Category": "General Software Development",
-    "Productivity": 2
   },
   {
     "Rank": 62,
@@ -555,20 +555,12 @@
     "Rank": 70,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "sorbet.org",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 71,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
     "Activity": "rust-book.cs.brown.edu",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 72,
+    "Rank": 71,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "codecanyon.net",
@@ -576,7 +568,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 73,
+    "Rank": 72,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "kubernetes.io",
@@ -584,15 +576,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 74,
-    "Time Spent (seconds)": 5,
+    "Rank": 73,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "user-images.githubusercontent.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "sorbet.org",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
-    "Rank": 75,
+    "Rank": 74,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "t.co",
@@ -600,15 +592,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 76,
-    "Time Spent (seconds)": 4,
+    "Rank": 75,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "paste.pics",
+    "Activity": "user-images.githubusercontent.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 77,
+    "Rank": 76,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "support.discord.com",
@@ -616,7 +608,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 78,
+    "Rank": 77,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "catalyzesql.com",
@@ -624,20 +616,28 @@
     "Productivity": 0
   },
   {
-    "Rank": 79,
-    "Time Spent (seconds)": 3,
+    "Rank": 78,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "example.com",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "paste.pics",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
-    "Rank": 80,
+    "Rank": 79,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "to-do-list-73732f.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 80,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "example.com",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 81,
