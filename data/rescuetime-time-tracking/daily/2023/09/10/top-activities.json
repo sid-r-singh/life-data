@@ -1,14 +1,38 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 236,
+    "Time Spent (seconds)": 14401,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 558,
     "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 2,
+    "Rank": 3,
+    "Time Spent (seconds)": 424,
+    "Number of People": 1,
+    "Activity": "lonelyplanet.com",
+    "Category": "Travel & Outdoors",
+    "Productivity": -2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 247,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 225,
     "Number of People": 1,
     "Activity": "bwaycer.github.io",
@@ -16,15 +40,63 @@
     "Productivity": 2
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 51,
+    "Rank": 6,
+    "Time Spent (seconds)": 219,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
+    "Activity": "jionews.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 209,
+    "Number of People": 1,
+    "Activity": "scroll.in",
+    "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 4,
+    "Rank": 8,
+    "Time Spent (seconds)": 187,
+    "Number of People": 1,
+    "Activity": "google.co.in",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 112,
+    "Number of People": 1,
+    "Activity": "narendramodi.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 109,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 90,
+    "Number of People": 1,
+    "Activity": "britannica.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 36,
+    "Number of People": 1,
+    "Activity": "grammarly.com",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
     "Activity": "pkg.go.dev",
@@ -32,15 +104,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 31,
-    "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 6,
+    "Rank": 14,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
     "Activity": "hugoif.github.io",
@@ -48,7 +112,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 7,
+    "Rank": 15,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "presidency.eg",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 16,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "mjml.io",
@@ -56,7 +128,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 8,
+    "Rank": 17,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
     "Activity": "gohugo.io",
@@ -64,7 +136,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 9,
+    "Rank": 18,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Activity": "y2mate.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "documentation.mjml.io",
@@ -72,7 +152,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 10,
+    "Rank": 20,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "wtfdial.com",
@@ -80,7 +160,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 21,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "odishabank.in",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "deshgujarat.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 24,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "lowkey-hugo.netlify.app",
@@ -88,11 +192,35 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 2,
+    "Rank": 25,
+    "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "spain.info",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "tripadvisor.com",
+    "Category": "Travel & Outdoors",
+    "Productivity": -2
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "support.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   }
 ]
