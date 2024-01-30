@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 666,
+    "Time Spent (seconds)": 827,
     "Number of People": 1,
     "Activity": "upwork.com",
     "Category": "Operations",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 60,
+    "Time Spent (seconds)": 527,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
@@ -17,10 +17,50 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 103,
+    "Number of People": 1,
+    "Activity": "bitbucket.org",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 88,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "forkful.ai",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "discourse.gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "app.slack.com",
     "Category": "Communications",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
     "Productivity": 0
   }
 ]
