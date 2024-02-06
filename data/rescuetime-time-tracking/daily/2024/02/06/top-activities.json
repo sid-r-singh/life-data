@@ -1,0 +1,42 @@
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 1307,
+    "Number of People": 1,
+    "Activity": "app.slack.com",
+    "Category": "Communications",
+    "Productivity": 0
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 182,
+    "Number of People": 1,
+    "Activity": "chat.openai.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 172,
+    "Number of People": 1,
+    "Activity": "bitbucket.org",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Operations",
+    "Productivity": 2
+  }
+]
