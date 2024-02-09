@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1307,
+    "Time Spent (seconds)": 1317,
     "Number of People": 1,
     "Activity": "app.slack.com",
     "Category": "Communications",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 182,
+    "Time Spent (seconds)": 185,
     "Number of People": 1,
     "Activity": "chat.openai.com",
     "Category": "General Reference & Learning",
@@ -37,6 +37,14 @@
     "Number of People": 1,
     "Activity": "upwork.com",
     "Category": "Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "discourse.gohugo.io",
+    "Category": "General Software Development",
     "Productivity": 2
   }
 ]
