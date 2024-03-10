@@ -1,0 +1,521 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+          },
+          "href": "https://api.spotify.com/v1/artists/5fvTHKKzW44A9867nPDocM",
+          "id": "5fvTHKKzW44A9867nPDocM",
+          "name": "Ajay-Atul",
+          "type": "artist",
+          "uri": "spotify:artist:5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+          },
+          "href": "https://api.spotify.com/v1/artists/5HcunTidTUrOaf8V0iJcvl",
+          "id": "5HcunTidTUrOaf8V0iJcvl",
+          "name": "Nusrat Fateh Ali Khan",
+          "type": "artist",
+          "uri": "spotify:artist:5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4f7KfxeHq9BiylGmyXepGt",
+          "id": "4f7KfxeHq9BiylGmyXepGt",
+          "name": "Tanishk Bagchi",
+          "type": "artist",
+          "uri": "spotify:artist:4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/5z2yHjVO0vVLaFodbgdtJf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273105b2126cb2da220758430aa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02105b2126cb2da220758430aa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851105b2126cb2da220758430aa",
+          "width": 64
+        }
+      ],
+      "name": "Zero",
+      "release_date": "2018-12-21",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:5z2yHjVO0vVLaFodbgdtJf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        "href": "https://api.spotify.com/v1/artists/27rK4pP0VMqWiRe7pamKe5",
+        "id": "27rK4pP0VMqWiRe7pamKe5",
+        "name": "Abhay Jodhpurkar",
+        "type": "artist",
+        "uri": "spotify:artist:27rK4pP0VMqWiRe7pamKe5"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/5fZ0oNVVUQe11KGpgcDCrY",
+    "is_local": false,
+    "name": "Mere Naam Tu",
+    "preview_url": "https://p.scdn.co/mp3-preview/27cd56081d67ea52594a73dea33cfdc0657c1bfe?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4wwYGgSpeBtvk5WX6HBqzw",
+          "id": "4wwYGgSpeBtvk5WX6HBqzw",
+          "name": "Aditya A",
+          "type": "artist",
+          "uri": "spotify:artist:4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6AJaDEafyyyWWXHZQtcFGe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ec4ecaa0fcf68c0966f21514",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ec4ecaa0fcf68c0966f21514",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ec4ecaa0fcf68c0966f21514",
+          "width": 64
+        }
+      ],
+      "name": "Chaand Baaliyan",
+      "release_date": "2020-03-28",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6AJaDEafyyyWWXHZQtcFGe"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4wwYGgSpeBtvk5WX6HBqzw",
+        "id": "4wwYGgSpeBtvk5WX6HBqzw",
+        "name": "Aditya A",
+        "type": "artist",
+        "uri": "spotify:artist:4wwYGgSpeBtvk5WX6HBqzw"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/0snQrp1VaY5Pj1YIHRJpRJ",
+    "is_local": false,
+    "name": "Chaand Baaliyan",
+    "preview_url": "https://p.scdn.co/mp3-preview/4ca72498beea7e2a5f8e447aa4244963bd883695?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+          "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+          "name": "Vishal-Shekhar",
+          "type": "artist",
+          "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/4SPHfSWibeoFCSdR4vd5QL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731992dd7b33baf5887ea4a1ec",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021992dd7b33baf5887ea4a1ec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511992dd7b33baf5887ea4a1ec",
+          "width": 64
+        }
+      ],
+      "name": "I Hate Luv Storys (Original Motion Picture Soundtrack)",
+      "release_date": "2010-05-25",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:4SPHfSWibeoFCSdR4vd5QL"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+        "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+        "name": "Vishal-Shekhar",
+        "type": "artist",
+        "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eMFGgGDh5iXU1POAK0cpe"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eMFGgGDh5iXU1POAK0cpe",
+        "id": "6eMFGgGDh5iXU1POAK0cpe",
+        "name": "Suraj Jagan",
+        "type": "artist",
+        "uri": "spotify:artist:6eMFGgGDh5iXU1POAK0cpe"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Yb0T3wUUNiIvHjqnfkbuH",
+        "id": "0Yb0T3wUUNiIvHjqnfkbuH",
+        "name": "Mahalakshmi Iyer",
+        "type": "artist",
+        "uri": "spotify:artist:0Yb0T3wUUNiIvHjqnfkbuH"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/4dPeCbg2Op44s9kwyMS3ZT",
+    "is_local": false,
+    "name": "Sadka",
+    "preview_url": "https://p.scdn.co/mp3-preview/8f77933d73a69c8c6d51171ba622ee32bd37150a?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/6c4nK9brQbmS2Y2ilrvG5H",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730dc03da31b9a63b84f9e50eb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020dc03da31b9a63b84f9e50eb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510dc03da31b9a63b84f9e50eb",
+          "width": 64
+        }
+      ],
+      "name": "Ek Paheli Leela",
+      "release_date": "2015-03-10",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:6c4nK9brQbmS2Y2ilrvG5H"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3xbeS8ZmDEW7zgEd0IdArM"
+        },
+        "href": "https://api.spotify.com/v1/artists/3xbeS8ZmDEW7zgEd0IdArM",
+        "id": "3xbeS8ZmDEW7zgEd0IdArM",
+        "name": "Uzair Jaswal",
+        "type": "artist",
+        "uri": "spotify:artist:3xbeS8ZmDEW7zgEd0IdArM"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3u947zydbp5jVgVNlaRgv4",
+    "is_local": false,
+    "name": "Tere Bin Nahi Laage (Male Version)",
+    "preview_url": "https://p.scdn.co/mp3-preview/d3c64effd51442cc513f6b4989b589099a36a0fe?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+          "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+          "name": "Vishal-Shekhar",
+          "type": "artist",
+          "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/3PxXJhlxSQkj8JO7IXy0FE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732025db071cd9dd7e8023e01e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022025db071cd9dd7e8023e01e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512025db071cd9dd7e8023e01e",
+          "width": 64
+        }
+      ],
+      "name": "Hasee Toh Phasee (Original Motion Picture Soundtrack)",
+      "release_date": "2014-01-05",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:3PxXJhlxSQkj8JO7IXy0FE"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        "href": "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+        "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+        "name": "Vishal-Shekhar",
+        "type": "artist",
+        "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        },
+        "href": "https://api.spotify.com/v1/artists/5SuRAj1A9FEHj5NxS86YAm",
+        "id": "5SuRAj1A9FEHj5NxS86YAm",
+        "name": "Shafqat Amanat Ali",
+        "type": "artist",
+        "uri": "spotify:artist:5SuRAj1A9FEHj5NxS86YAm"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3pNCgNatbtoJEkbElk3hwa"
+        },
+        "href": "https://api.spotify.com/v1/artists/3pNCgNatbtoJEkbElk3hwa",
+        "id": "3pNCgNatbtoJEkbElk3hwa",
+        "name": "Nupur Pant",
+        "type": "artist",
+        "uri": "spotify:artist:3pNCgNatbtoJEkbElk3hwa"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/3zAXHUL5YcYOA41rruvjy4",
+    "is_local": false,
+    "name": "Manchala",
+    "preview_url": "https://p.scdn.co/mp3-preview/4ebd0caf12bdaaff122709919c4a60b914c626f3?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+          },
+          "href": "https://api.spotify.com/v1/artists/2oSONSC9zQ4UonDKnLqksx",
+          "id": "2oSONSC9zQ4UonDKnLqksx",
+          "name": "Atif Aslam",
+          "type": "artist",
+          "uri": "spotify:artist:2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
+          },
+          "href": "https://api.spotify.com/v1/artists/26ks59eSno7UlPCdljHQoI",
+          "id": "26ks59eSno7UlPCdljHQoI",
+          "name": "Shirley Setia",
+          "type": "artist",
+          "uri": "spotify:artist:26ks59eSno7UlPCdljHQoI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+          },
+          "href": "https://api.spotify.com/v1/artists/1jPeDHvfU5Knw8VyOP6TZN",
+          "id": "1jPeDHvfU5Knw8VyOP6TZN",
+          "name": "Dj Chetas",
+          "type": "artist",
+          "uri": "spotify:artist:1jPeDHvfU5Knw8VyOP6TZN"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/1nIe4xtu5pwjRLgegOYdMm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27351355012b28a85b3945920c8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0251355012b28a85b3945920c8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485151355012b28a85b3945920c8",
+          "width": 64
+        }
+      ],
+      "name": "Jab Koi Baat - Recreated",
+      "release_date": "2018-02-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1nIe4xtu5pwjRLgegOYdMm"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        "href": "https://api.spotify.com/v1/artists/2oSONSC9zQ4UonDKnLqksx",
+        "id": "2oSONSC9zQ4UonDKnLqksx",
+        "name": "Atif Aslam",
+        "type": "artist",
+        "uri": "spotify:artist:2oSONSC9zQ4UonDKnLqksx"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
+        },
+        "href": "https://api.spotify.com/v1/artists/26ks59eSno7UlPCdljHQoI",
+        "id": "26ks59eSno7UlPCdljHQoI",
+        "name": "Shirley Setia",
+        "type": "artist",
+        "uri": "spotify:artist:26ks59eSno7UlPCdljHQoI"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        },
+        "href": "https://api.spotify.com/v1/artists/1jPeDHvfU5Knw8VyOP6TZN",
+        "id": "1jPeDHvfU5Knw8VyOP6TZN",
+        "name": "Dj Chetas",
+        "type": "artist",
+        "uri": "spotify:artist:1jPeDHvfU5Knw8VyOP6TZN"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/43GfQ1SC17rBWiHkOtdwK8",
+    "is_local": false,
+    "name": "Jab Koi Baat - Recreated",
+    "preview_url": "https://p.scdn.co/mp3-preview/c8c1c0e9696f397986d381ecf78de9494178e139?cid=811598a754134358878b30bc9c28decd"
+  },
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+          },
+          "href": "https://api.spotify.com/v1/artists/71hjb5G92mGoKRSAW3Cj00",
+          "id": "71hjb5G92mGoKRSAW3Cj00",
+          "name": "Anu Malik",
+          "type": "artist",
+          "uri": "spotify:artist:71hjb5G92mGoKRSAW3Cj00"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/31w6IUeDAItL4R2Enc2sG0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738505999314c197a269c4d9bc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028505999314c197a269c4d9bc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518505999314c197a269c4d9bc",
+          "width": 64
+        }
+      ],
+      "name": "Dum Laga Ke Haisha",
+      "release_date": "2015-02-09",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:31w6IUeDAItL4R2Enc2sG0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        "href": "https://api.spotify.com/v1/artists/71hjb5G92mGoKRSAW3Cj00",
+        "id": "71hjb5G92mGoKRSAW3Cj00",
+        "name": "Anu Malik",
+        "type": "artist",
+        "uri": "spotify:artist:71hjb5G92mGoKRSAW3Cj00"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
+        },
+        "href": "https://api.spotify.com/v1/artists/2o4R2rK7FetH40HTv0SUWl",
+        "id": "2o4R2rK7FetH40HTv0SUWl",
+        "name": "Monali Thakur",
+        "type": "artist",
+        "uri": "spotify:artist:2o4R2rK7FetH40HTv0SUWl"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT"
+        },
+        "href": "https://api.spotify.com/v1/artists/23tDn4nvBiCQroeeCwwCWT",
+        "id": "23tDn4nvBiCQroeeCwwCWT",
+        "name": "Varun Grover",
+        "type": "artist",
+        "uri": "spotify:artist:23tDn4nvBiCQroeeCwwCWT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7uubRr0u9Zxc1Y84hEn7Xf",
+    "is_local": false,
+    "name": "Moh Moh Ke Dhaage (Female)",
+    "preview_url": "https://p.scdn.co/mp3-preview/1d1401eec68493e56e612d3563d55357ad97ccda?cid=811598a754134358878b30bc9c28decd"
+  }
+]
