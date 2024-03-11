@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4032,
+    "Time Spent (seconds)": 4226,
     "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 766,
+    "Time Spent (seconds)": 781,
     "Number of People": 1,
     "Activity": "discourse.gohugo.io",
     "Category": "General Software Development",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 724,
+    "Time Spent (seconds)": 734,
     "Number of People": 1,
     "Activity": "ko-fi.com",
     "Category": "Uncategorized",
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 346,
+    "Time Spent (seconds)": 451,
     "Number of People": 1,
     "Activity": "xdeb.org",
     "Category": "Engineering & Technology",
@@ -49,7 +49,7 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 150,
+    "Time Spent (seconds)": 168,
     "Number of People": 1,
     "Activity": "opentech.fund",
     "Category": "Uncategorized",
@@ -57,7 +57,7 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 139,
+    "Time Spent (seconds)": 155,
     "Number of People": 1,
     "Activity": "dnsprivacy.org",
     "Category": "Uncategorized",
@@ -97,6 +97,14 @@
   },
   {
     "Rank": 13,
+    "Time Spent (seconds)": 85,
+    "Number of People": 1,
+    "Activity": "coredns.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 78,
     "Number of People": 1,
     "Activity": "learn.microsoft.com",
@@ -104,7 +112,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
     "Activity": "gist.github.com",
@@ -112,7 +120,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 15,
+    "Rank": 16,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
     "Activity": "deploy-preview-427--hugothemes.netlify.app",
@@ -120,16 +128,8 @@
     "Productivity": 0
   },
   {
-    "Rank": 16,
-    "Time Spent (seconds)": 39,
-    "Number of People": 1,
-    "Activity": "docs.gethyas.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
     "Rank": 17,
-    "Time Spent (seconds)": 34,
+    "Time Spent (seconds)": 40,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
@@ -137,6 +137,22 @@
   },
   {
     "Rank": 18,
+    "Time Spent (seconds)": 39,
+    "Number of People": 1,
+    "Activity": "docs.gethyas.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Activity": "xdeb.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "chat.openai.com",
@@ -144,7 +160,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 19,
+    "Rank": 21,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "newtab",
@@ -152,15 +168,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 20,
-    "Time Spent (seconds)": 13,
+    "Rank": 22,
+    "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "xdeb.net",
+    "Activity": "ask-mrdns.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 21,
+    "Rank": 23,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "dnscrypt.info",
@@ -168,7 +184,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 22,
+    "Rank": 24,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "jonblack.gg",
@@ -176,7 +192,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 23,
+    "Rank": 25,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "gohugo.io",
@@ -184,7 +200,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 24,
+    "Rank": 26,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "zoues.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 27,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "opensource.org",
@@ -192,7 +216,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 25,
+    "Rank": 28,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "tilde.club",
@@ -200,15 +224,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 26,
-    "Time Spent (seconds)": 5,
+    "Rank": 29,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "isabella-b.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
-    "Rank": 27,
+    "Rank": 30,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "ustack.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 31,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "deploy-preview-424--hugothemes.netlify.app",
@@ -216,15 +248,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 28,
-    "Time Spent (seconds)": 3,
+    "Rank": 32,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "isabella-b.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 29,
+    "Rank": 33,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "bios.plus",
@@ -232,10 +264,18 @@
     "Productivity": 0
   },
   {
-    "Rank": 30,
+    "Rank": 34,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "authelia.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "avatars.githubusercontent.com",
     "Category": "Uncategorized",
     "Productivity": 0
   }
