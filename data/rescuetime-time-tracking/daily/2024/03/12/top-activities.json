@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1100,
+    "Time Spent (seconds)": 1156,
     "Number of People": 1,
     "Activity": "upwork.com",
     "Category": "Operations",
@@ -17,6 +17,14 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 157,
+    "Number of People": 1,
+    "Activity": "blog.luisrego.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 116,
     "Number of People": 1,
     "Activity": "discourse.gohugo.io",
@@ -24,7 +32,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 4,
+    "Rank": 5,
     "Time Spent (seconds)": 59,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -32,28 +40,20 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 43,
+    "Rank": 6,
+    "Time Spent (seconds)": 22,
     "Number of People": 1,
-    "Activity": "blog.luisrego.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "app.slack.com",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "deploy-preview-428--hugothemes.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 18,
-    "Number of People": 1,
-    "Activity": "app.slack.com",
-    "Category": "Instant Message",
-    "Productivity": -1
   },
   {
     "Rank": 8,
