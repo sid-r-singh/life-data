@@ -1,0 +1,31 @@
+[
+  {
+    "genres": [
+      "filmi",
+      "indian instrumental",
+      "modern bollywood"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+    "id": "1wRPtKGflJrBx9BmLsSwlU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebcb6926f44f620555ba444fca",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174cb6926f44f620555ba444fca",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178cb6926f44f620555ba444fca",
+        "width": 160
+      }
+    ],
+    "name": "Pritam",
+    "type": "artist",
+    "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+  }
+]
