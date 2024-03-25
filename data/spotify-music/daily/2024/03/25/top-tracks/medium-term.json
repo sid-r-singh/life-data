@@ -1,0 +1,79 @@
+[
+  {
+    "album": {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+          },
+          "href": "https://api.spotify.com/v1/artists/71hjb5G92mGoKRSAW3Cj00",
+          "id": "71hjb5G92mGoKRSAW3Cj00",
+          "name": "Anu Malik",
+          "type": "artist",
+          "uri": "spotify:artist:71hjb5G92mGoKRSAW3Cj00"
+        }
+      ],
+      "href": "https://api.spotify.com/v1/albums/31w6IUeDAItL4R2Enc2sG0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738505999314c197a269c4d9bc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028505999314c197a269c4d9bc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518505999314c197a269c4d9bc",
+          "width": 64
+        }
+      ],
+      "name": "Dum Laga Ke Haisha",
+      "release_date": "2015-02-09",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:31w6IUeDAItL4R2Enc2sG0"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        "href": "https://api.spotify.com/v1/artists/71hjb5G92mGoKRSAW3Cj00",
+        "id": "71hjb5G92mGoKRSAW3Cj00",
+        "name": "Anu Malik",
+        "type": "artist",
+        "uri": "spotify:artist:71hjb5G92mGoKRSAW3Cj00"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
+        },
+        "href": "https://api.spotify.com/v1/artists/2o4R2rK7FetH40HTv0SUWl",
+        "id": "2o4R2rK7FetH40HTv0SUWl",
+        "name": "Monali Thakur",
+        "type": "artist",
+        "uri": "spotify:artist:2o4R2rK7FetH40HTv0SUWl"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT"
+        },
+        "href": "https://api.spotify.com/v1/artists/23tDn4nvBiCQroeeCwwCWT",
+        "id": "23tDn4nvBiCQroeeCwwCWT",
+        "name": "Varun Grover",
+        "type": "artist",
+        "uri": "spotify:artist:23tDn4nvBiCQroeeCwwCWT"
+      }
+    ],
+    "explicit": false,
+    "href": "https://api.spotify.com/v1/tracks/7uubRr0u9Zxc1Y84hEn7Xf",
+    "is_local": false,
+    "name": "Moh Moh Ke Dhaage (Female)",
+    "preview_url": "https://p.scdn.co/mp3-preview/1d1401eec68493e56e612d3563d55357ad97ccda?cid=811598a754134358878b30bc9c28decd"
+  }
+]
