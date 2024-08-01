@@ -1,6 +1,14 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 603,
+    "Number of People": 1,
+    "Activity": "cautious-funicular-g96jq7pr6wr2p7x6.github.dev",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 339,
     "Number of People": 1,
     "Activity": "upwork.com",
@@ -8,16 +16,8 @@
     "Productivity": 2
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 158,
-    "Number of People": 1,
-    "Activity": "cautious-funicular-g96jq7pr6wr2p7x6.github.dev",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
     "Rank": 3,
-    "Time Spent (seconds)": 115,
+    "Time Spent (seconds)": 171,
     "Number of People": 1,
     "Activity": "cautious-funicular-g96jq7pr6wr2p7x6-1313.app.github.dev",
     "Category": "Uncategorized",
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 33,
+    "Time Spent (seconds)": 60,
     "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
@@ -33,6 +33,22 @@
   },
   {
     "Rank": 5,
+    "Time Spent (seconds)": 51,
+    "Number of People": 1,
+    "Activity": "codingnconcepts.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
     "Activity": "chatgpt.com",
@@ -40,7 +56,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 8,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Activity": "discourse.gohugo.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "dev.to",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "newtab",
@@ -48,11 +80,19 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
+    "Rank": 11,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "weitzel.dev",
+    "Category": "Uncategorized",
     "Productivity": 0
   }
 ]
