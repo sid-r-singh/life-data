@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3253,
+    "Time Spent (seconds)": 3270,
     "Number of People": 1,
     "Activity": "upwork.com",
     "Category": "Operations",
@@ -17,6 +17,30 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 494,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 209,
+    "Number of People": 1,
+    "Activity": "frontend.design-system.service.gov.uk",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 126,
+    "Number of People": 1,
+    "Activity": "design-system.service.gov.uk",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
     "Time Spent (seconds)": 115,
     "Number of People": 1,
     "Activity": "duckduckgo.com",
@@ -24,15 +48,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 104,
-    "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 5,
+    "Rank": 7,
     "Time Spent (seconds)": 94,
     "Number of People": 1,
     "Activity": "72n1d4.n3cdn1.secureserver.net",
@@ -40,7 +56,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 8,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
     "Activity": "bharatweb3association.com",
@@ -48,7 +64,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 7,
+    "Rank": 9,
     "Time Spent (seconds)": 47,
     "Number of People": 1,
     "Activity": "web3.foundation",
@@ -56,7 +72,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 10,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Activity": "ukhsa-dashboard.data.gov.uk",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Activity": "sass-lang.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
     "Activity": "Google Chrome",
@@ -64,7 +96,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
+    "Rank": 13,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "vamsi-sunyata-hugo.netlify.app",
@@ -72,7 +104,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 14,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "cloudsprint-hugo.netlify.app",
@@ -80,7 +112,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 15,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "medium.com",
@@ -88,7 +120,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 12,
+    "Rank": 16,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "newtab",
@@ -96,7 +128,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
+    "Rank": 17,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "spec.polkadot.network",
@@ -104,7 +136,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 14,
+    "Rank": 18,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "quarto.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "web3.bamboohr.com",
@@ -112,7 +152,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 15,
+    "Rank": 20,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "mef-hugo.netlify.app",
@@ -120,7 +160,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 16,
+    "Rank": 21,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "education.web3.foundation",
@@ -128,7 +168,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 17,
+    "Rank": 22,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "bckic.in",
