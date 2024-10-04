@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 140,
+    "Number of People": 1,
+    "Activity": "chatgpt.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "auth0.openai.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "auth.openai.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Operations",
+    "Productivity": 2
+  }
+]
