@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 876,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 190,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Activity": "netfabric.ai",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "heatherbone.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "upwork-usw2-prod-agora-file-storage.s3.us-west-2.amazonaws.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  }
+]
