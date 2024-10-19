@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 194,
+    "Time Spent (seconds)": 204,
     "Number of People": 1,
     "Activity": "upwork.com",
     "Category": "Operations",
@@ -9,10 +9,26 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 3,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "127.0.0.1:5500",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "Google Chrome",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "gitlab.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   }
 ]

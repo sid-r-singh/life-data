@@ -1,13 +1,19 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 194,
+    "Time Spent (seconds)": 204,
     "Number of People": 1,
     "Category": "Business"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 3,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Category": "Software Development"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Category": "Utilities"
   }
