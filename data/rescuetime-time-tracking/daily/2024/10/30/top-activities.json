@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1927,
+    "Time Spent (seconds)": 1965,
     "Number of People": 1,
     "Activity": "upwork.com",
     "Category": "Operations",
@@ -9,6 +9,22 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 106,
+    "Number of People": 1,
+    "Activity": "duckduckgo.com",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 76,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 73,
     "Number of People": 1,
     "Activity": "chatgpt.com",
@@ -16,28 +32,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 3,
+    "Rank": 5,
     "Time Spent (seconds)": 49,
     "Number of People": 1,
     "Activity": "vamsi-sunyata-hugo.netlify.app",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 46,
-    "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
-    "Activity": "duckduckgo.com",
-    "Category": "General Utilities",
-    "Productivity": 1
   },
   {
     "Rank": 6,
@@ -53,6 +53,14 @@
     "Number of People": 1,
     "Activity": "spatial-dev.guru",
     "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "Google Chrome",
+    "Category": "Browsers",
     "Productivity": 0
   }
 ]
